@@ -6,7 +6,7 @@ subtitle = "UNIX shell cheat sheet"
 +++
 
 <center>
-![Its dangerous to go alone, take this](/images/terminal-quickstart.gif)
+<img alt="Its dangerous to go alone, take this! $ _" src="/images/terminal-quickstart.gif" />
 </center>
 
 ## How to read examples
