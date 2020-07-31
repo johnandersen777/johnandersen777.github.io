@@ -250,8 +250,8 @@ $ wget 'https://example.com/file.tar.gz'
 ```
 
 curl usually needs to be told to follow redirects using `-L` and then to have it
-save the file as the filename you'll need `-O` (which if you put it with the `-L
-you only need one `-`).
+save the file as the filename you'll need `-O` (which if you put it with the
+`-L` you only need one `-`).
 
 ```console
 $ curl -LO 'https://example.com/file.tar.gz'
