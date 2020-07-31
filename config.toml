@@ -10,7 +10,7 @@ paginate = 10
 canonifyURLs = false
 summaryLength = 40
 rssLimit = 100
-enableEmoji = true
+enableEmoji = false
 enableRobotsTXT = true
 pluralizelisttitles = false
 
@@ -95,7 +95,7 @@ table = true
 taskList = false
 typographer = false
 [markup.goldmark.renderer]
-unsafe = false
+unsafe = true
 [markup.goldmark.parser]
 attribute = false
 [markup.highlight]
