@@ -197,25 +197,31 @@ The `ls` command prints the contents of the directory we are currently in
 
 ```console
 $ ls
+file1  file2
 ```
 
 We can supply it with the name of a directory as an argument to have it list the
 contents of that directory
 
 ```console
-ls -lAF
+$ ls my-directory
+file1  file2
 ```
 
 If we give `-lAF` as an argument to `ls` it will show us all the hidden files as
 a long list.
 
 ```console
-ls -lAF
+$ ls -lAF
+total 0
+-rw-rw-r--. 1 username username 0 Jul 30 18:00 file1
+-rw-rw-r--. 1 username username 0 Jul 30 18:00 file2
 ```
 
 ### How do I move around?
 
-Pass the path
+Pass the path as the only argument to the `cd` command to change where you
+currently are, known as your *current working directory*.
 
 ```console
 $ cd somewhere
