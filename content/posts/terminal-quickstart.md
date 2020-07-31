@@ -5,7 +5,9 @@ title = "Terminal Quickstart"
 subtitle = "UNIX shell cheat sheet"
 +++
 
+<center>
 ![Its dangerous to go alone, take this](/images/terminal-quickstart.gif)
+</center>
 
 ## How to read examples
 
