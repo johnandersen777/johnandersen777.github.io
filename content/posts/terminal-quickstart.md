@@ -68,6 +68,55 @@ error information.
 
 ## String
 
+The term *string* means a sequence of characters. Strings are usually found
+or referred to within quotes. One can use the word string to talk about any
+sequence of characters. Where *character* likely means something that can be
+found in the [ASCII](https://man7.org/linux/man-pages/man7/ascii.7.html) table.
+
+```
+       Char          Char
+       ----------------------
+       SPACE         `
+       !             a
+       "             b
+       #             c
+       $             d
+       %             e
+       &             f
+       '             g
+       (             h
+       )             i
+       *             j
+       +             k
+       ,             l
+       -             m
+       .             n
+       /             o
+       0             p
+       1             q
+       2             r
+       3             s
+       4             t
+       5             u
+       6             v
+       7             w
+       8             x
+       9             y
+       :             z
+       ;             {
+       <             |
+       =             }
+       >             ~
+```
+
+For example you could call each of the following a string
+
+- "Hello World"
+
+- /home/username
+
+- UNIX
+
 ## Navigation and paths
 
 A directory is another word for a folder
@@ -81,14 +130,49 @@ etc.)
 Whenever we have a string that contains all the information we'd need to get
 from where we are to wherever something is, we call it a path.
 
-
-- `/` is used to denote 
-
 - `.` means the directory you're in
 
 - `..` means the directory above the directory you're in
 
-- `/path/to/somewhere`
+- `/` means the path *separator*
+
+The file system works like a tree. We call something a *full path* or an
+*absolute path* when it starts with `/`.
+
+The directory a full path starts with is called the *root*. It's name is "the
+root directory", because we can't give it a name, since it's denoted via the
+path separator. Whenever you see `/` as the only character in a path, or as the
+first character of a path, think to yourself, that's the root directory.
+
+Where `/` is not the first or only character, it's used to show separation
+between files and directories.
+
+Examples
+
+- `/`
+
+  - The root directory
+
+- `/a/b/c.txt`
+
+  - Start at the root directory. Then go directory `a`. Within directory `a`
+    there is a directory `b`. Go into directory `b`. Within directory `b` there
+    is a file named `c.txt`. This is the file the path is referencing
+
+- `./a.out`
+
+  - `.` means the current directory. The separator is seen after it. Then we see
+    `a.out` which is the file the path is referencing
+
+- `../updog`
+
+  - Look in the directory above the one we're currently in for a file named
+    `updog`
+
+- `../../updog`
+
+  - Look in the directory above the directory above the one we're currently in
+    for a file named `updog`
 
 ## Useful Commands
 
