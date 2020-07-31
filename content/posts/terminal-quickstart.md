@@ -1,13 +1,11 @@
 +++
 date = 2020-07-29T18:00:00Z
-lastmod = 2020-07-29T18:00:00Z
+lastmod = 2020-07-27T18:00:00Z
 title = "Terminal Quickstart"
 subtitle = "UNIX shell cheat sheet"
-feature = "image/terminal-quickstart.gif"
-caption = "It's dangerous to go alone, take this!"
 +++
 
-> This post is in progress
+![Its dangerous to go alone, take this](/images/images/terminal-quickstart.gif)
 
 ## How to read examples
 
@@ -209,24 +207,6 @@ Press
   - `:q` and then enter to quit
 
 You can learn how to use vim by going to https://vim-adventures.com/
-
-## Development
-
-make
-
-- Helps us organize the building of our projects
-
-- Uses Makefile
-
-- Running make in a directory where there is a make should build the program
-
-CC
-
-- Shell variable to set to specify an alternate C compiler
-
-CXX
-
-- Shell variable to set to specify an alternate C++ compiler
 
 ## Keyboard Shortcuts
 
