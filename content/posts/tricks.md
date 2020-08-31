@@ -5,6 +5,14 @@ title = "Time Saving Tricks and Hacks"
 subtitle = ""
 +++
 
+## Download file with Python from command line with progress
+
+```console
+$ python3 -c 'import sys, functools, urllib.request; print(urllib.request.urlretrieve(sys.argv[-1], reporthook=lambda n, c, t: print(f"{round(((n*c)/t) * 100, 2)}%", end="\r", file=sys.stderr))[0])' https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+```
+
+[![asciicast](https://asciinema.org/a/357044.svg)](https://asciinema.org/a/357044)
+
 ## Display only blocks of text with certain text in them
 
 Use grep to displays blocks of text. Only display blocks with certain text
