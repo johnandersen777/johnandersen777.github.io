@@ -182,6 +182,12 @@ operate on whatever VMCS we pointed to via the `VMPTRLD` instruction.
 `VMLAUNCH` or `VMRESUME`, `enter_guest_mode` is called, which means that
 `is_guest_mode` will now return `true`.
 
+### Terminology
+
+Root mode = L0 when not running a virtual machine
+
+Non-root mode = L0 when running a virtual machine L(n)
+
 ## Assembly
 
 What is `jmp 1f`?
