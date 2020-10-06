@@ -1,9 +1,72 @@
 +++
 date = 2020-07-24T06:00:00Z
-lastmod = 2020-07-24T06:00:00Z
-title = "Linux Kernel Tips And Tricks"
+lastmod = 2020-10-06T08:00:00Z
+title = "Linux Kernel Development Tips And Tricks"
 subtitle = "Working on the Linux kernel itself"
 +++
+
+# Quickstart
+
+We are going to download the Git repositories of QEMU and the Linux kernel. We
+are not going to cover what dependencies are required. You should read the
+reference links for each section to help you get the compilers and other build
+tools you will need.
+
+## Building the Kernel
+
+```
+git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+cd linux
+git checkout v5.8
+# Copy your system's config into the kernel source tree to use as your config
+# You can modify it too if you want but you can be pretty sure this will give
+# you a working kernel without having to edit it
+cp $(ls /boot/config-* | head -n 1) .config
+make olddefconfig
+# Build just the bzImage needed to boot the VM. If you want to build all the
+# modules too, just leave off the last argument (bzImage)
+make -j $(($(nproc)*4)) bzImage
+```
+
+> References
+>
+> - [Fedora Build Dependencies](https://docs.fedoraproject.org/en-US/quick-docs/kernel/build-custom-kernel/#_get_the_dependencies)
+> - [Ubuntu Build Dependencies](https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel#Build_Environment)
+
+## Building QEMU
+
+```
+git clone https://git.qemu.org/git/qemu.git
+cd qemu
+git checkout v5.1.0
+git submodule init
+git submodule update --recursive
+mkdir build
+cd build
+../configure
+make -j $(($(nproc)*4))
+```
+
+> References
+>
+> - https://wiki.qemu.org/Hosts/Linux
+> - https://www.qemu.org/download/#source
+
+## Running your VM
+
+Put the following script in a file called `run-vm.sh`. It will be the way you
+run your development Kernel in a virtual machine. You can modify it as you wish.
+
+<script src="https://gist.github.com/pdxjohnny/a0dc3a58b4651dc3761bee65a198a80d.js"></script>
+
+Here's how you download it, make it executable, and run it.
+
+```
+curl -o run-vm.sh -fSL https://gist.github.com/pdxjohnny/a0dc3a58b4651dc3761bee65a198a80d/raw/da2f456c9ecbb56bf84ee30c8c83a2762e86fb43/run-vm.sh && \
+echo "eb5c49fb0aff6b3293ad6f4bd8c7a9c32df97f40d3c8c4fe404b72c1e9c283b44e714be493ce88b5f22e5bb717b8f71d  run-vm.sh" | sha384sum -c - && \
+chmod 755 run-vm.sh
+./run-vm.sh
+```
 
 ## Debugging
 
