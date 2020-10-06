@@ -14,7 +14,7 @@ tools you will need.
 
 ## Building the Kernel
 
-```
+```bash
 git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 cd linux
 git checkout v5.8
@@ -35,7 +35,7 @@ make -j $(($(nproc)*4)) bzImage
 
 ## Building QEMU
 
-```
+```bash
 git clone https://git.qemu.org/git/qemu.git
 cd qemu
 git checkout v5.1.0
@@ -61,7 +61,7 @@ run your development Kernel in a virtual machine. You can modify it as you wish.
 
 Here's how you download it, make it executable, and run it.
 
-```
+```bash
 curl -o run-vm.sh -fSL https://gist.github.com/pdxjohnny/a0dc3a58b4651dc3761bee65a198a80d/raw/da2f456c9ecbb56bf84ee30c8c83a2762e86fb43/run-vm.sh && \
 echo "eb5c49fb0aff6b3293ad6f4bd8c7a9c32df97f40d3c8c4fe404b72c1e9c283b44e714be493ce88b5f22e5bb717b8f71d  run-vm.sh" | sha384sum -c - && \
 chmod 755 run-vm.sh
@@ -84,7 +84,7 @@ https://stackoverflow.com/questions/33676829/vim-configuration-for-linux-kernel-
 
 ## Build In Tree Modules
 
-```console
+```bash
 make -j $(($(nproc)*4)) M=arch/x86/kvm/ modules
 ```
 
