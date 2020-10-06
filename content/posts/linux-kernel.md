@@ -43,7 +43,7 @@ git submodule init
 git submodule update --recursive
 mkdir build
 cd build
-../configure
+../configure --target-list=x86_64-softmmu
 make -j $(($(nproc)*4))
 ```
 
