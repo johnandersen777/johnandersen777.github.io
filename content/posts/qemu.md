@@ -8,6 +8,8 @@ subtitle = "QEMU Tips and Tricks"
 QEMU is an indispensable tool for the virtual machine inclined. It's a command
 line utility for running virtual machines.
 
+Main documentation: https://www.qemu.org/docs/master/system/
+
 ## Example Flags
 
 Run a 64 bit Intel / AMD system
@@ -44,21 +46,77 @@ crw-rw-rw- 1 root kvm 10, 232 Jul 22 12:10 /dev/kvm
   -smp cpus=4
 ```
 
+More detailed
+
+```
+  -smp sockets=1,cpus=4,cores=2 -cpu host
+```
+
 ### Memory
 
 ```
   -m 8192M
 ```
 
+### Networking - NAT
+
+```
+  -netdev user,id=mynet0 \
+  -device virtio-net-pci,netdev=mynet0
+```
+
+You can also do what's known as "bridged" networking. It can be a bit of a mess
+though. It's covered in the main QEMU documenation at the top.
+
+> TODO Cover bridged networking
+
+### USB
+
+You may want to give a VM control over a USB device, such as a USB NIC.
+
+Creating a echi device and attaching the usb device to it is important!
+
+Use `lsusb -v` to find the idProduct (productid) and idVendor (vendorid)
+
+```
+  -usb \
+  -device usb-ehci,id=ehci \
+  -device usb-host,bus=ehci.0,vendorid=0x0424,productid=0xEC00
+```
+
+### Share small files
+
+```
+  -virtfs local,path=$PWD/share,mount_tag=host0,security_model=mapped-file,id=host0
+```
+
+### Fast Random Number Generator
+
+```
+  -device virtio-rng-pci
+```
+
 ### Port Forwarding
-
-
 
 ```
   -net \
-    nic,model=virtio \
-  -net \
     user,hostfwd=tcp::2222-:22,hostfwd=tcp::4444-:2222
+```
+
+### Guest Image
+
+For a raw `.img` or `.iso`
+
+```
+  -drive \
+    file="image.iso",if=virtio,aio=threads,format=raw
+```
+
+For a `.qcow2`
+
+```
+  -drive \
+    file="image.qcow2",if=virtio,aio=threads,format=qcow2
 ```
 
 ### Kernel
@@ -221,3 +279,12 @@ To initialize the CPU within the guest
 ### Precompiled UEFI Firmware
 
 https://cdn.download.clearlinux.org/image/OVMF.fd
+
+```
+UEFI_BIOS="-bios OVMF.fd"
+
+if [ -f OVMF_VARS.fd -a -f OVMF_CODE.fd ]; then
+    UEFI_BIOS=" -drive file=OVMF_CODE.fd,if=pflash,format=raw,unit=0,readonly=on "
+    UEFI_BIOS+=" -drive file=OVMF_VARS.fd,if=pflash,format=raw,unit=1 "
+fi
+```
