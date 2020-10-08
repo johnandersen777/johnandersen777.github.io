@@ -32,7 +32,7 @@ in for changes to take effect. Or run `bash --login`.
 
 ```console
 $ groupadd kvm
-$ usermod -aG $USER kvm
+$ sudo usermod -aG kvm $USER
 $ ll /dev/kvm
 crw-rw-rw- 1 root root 10, 232 Jul 22 12:10 /dev/kvm
 $ chown root:kvm /dev/kvm
