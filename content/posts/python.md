@@ -1,7 +1,11 @@
 ---
-title: "Python"
-date: 2020-10-12T14:58:57-07:00
+date = 2020-10-12T14:50:57-07:00
+lastmod = 2020-10-12T14:50:57-07:00
+title = "Python"
+subtitle = "Python programming development guide and gotchas"
 ---
+
+> This post is in progress
 
 # `async def` and `await`
 
