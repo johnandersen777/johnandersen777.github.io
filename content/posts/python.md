@@ -1,9 +1,9 @@
----
-date = 2020-10-12T14:50:57-07:00
-lastmod = 2020-10-12T14:50:57-07:00
++++
 title = "Python"
 subtitle = "Python programming development guide and gotchas"
----
+date = "2020-10-12T14:50:57-07:00"
+lastmod = "2020-10-12T14:50:57-07:00"
++++
 
 > This post is in progress
 
