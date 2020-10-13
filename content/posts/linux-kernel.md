@@ -68,9 +68,11 @@ chmod 755 run-vm.sh
 ./run-vm.sh
 ```
 
-## Debugging
+## Tools
 
-Core dumps and kgdb: https://elinux.org/images/f/f0/Bingham.pdf
+- [b4](https://pypi.org/project/b4/)
+
+  - Grab patches from mailing list
 
 ## Exploitation
 
@@ -194,8 +196,9 @@ Continuing.
 
 Breakpoint 1, machine_kexec (image=0xffff888006f96800) at arch/x86/kernel/machine_kexec_64.c:374
 (gdb)
-
 ```
+
+Core dumps and kgdb: https://elinux.org/images/f/f0/Bingham.pdf
 
 ## KVM
 
