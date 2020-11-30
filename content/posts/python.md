@@ -29,3 +29,7 @@ is another coroutine that was waiting for an event which completed during the
 running of the previous coroutine. If it finds a coroutine that was waiting for
 a now complete event, it runs that coroutine until it either completes, or until
 it is stuck waiting on another event.
+
+# `requirements.txt`
+
+https://www.python.org/dev/peps/pep-0508/
