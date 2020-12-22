@@ -74,7 +74,7 @@ though. It's covered in the main QEMU documenation at the top.
 
 You may want to give a VM control over a USB device, such as a USB NIC.
 
-Creating a echi device and attaching the usb device to it is important!
+Creating a ehci device and attaching the usb device to it is important!
 
 Use `lsusb -v` to find the idProduct (productid) and idVendor (vendorid)
 
