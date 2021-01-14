@@ -39,3 +39,12 @@ https://github.com/intel/dffml/blob/b88424a927f6279191285e2103a2b50b993b1921/ser
 New style class accepting wrapped setter (saveBackend())
 https://github.com/intel/dffml/blob/b88424a927f6279191285e2103a2b50b993b1921/service/webui/webui/src/SettingsBackend.js#L44-L60
 
+# 2021-01-13
+
+**TODO** Add notes about meetings and people skills stuff
+
+# 2021-01-14
+
+Split screen PC games!
+
+https://www.reddit.com/r/nucleuscoop/comments/fjdqid/list_of_new_supported_games_and_faq/
