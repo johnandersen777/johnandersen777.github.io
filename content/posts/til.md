@@ -48,3 +48,9 @@ https://github.com/intel/dffml/blob/b88424a927f6279191285e2103a2b50b993b1921/ser
 Split screen PC games!
 
 https://www.reddit.com/r/nucleuscoop/comments/fjdqid/list_of_new_supported_games_and_faq/
+
+# 2021-02-12
+
+Sealed boxes, anonymously encrypt something using a public key
+
+https://libsodium.gitbook.io/doc/public-key_cryptography/sealed_boxes
