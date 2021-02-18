@@ -54,3 +54,9 @@ https://www.reddit.com/r/nucleuscoop/comments/fjdqid/list_of_new_supported_games
 Sealed boxes, anonymously encrypt something using a public key
 
 https://libsodium.gitbook.io/doc/public-key_cryptography/sealed_boxes
+
+# 2021-02-17
+
+Regular experssion builder helper
+
+https://regex101.com/
