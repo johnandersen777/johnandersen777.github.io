@@ -66,3 +66,8 @@ https://regex101.com/
 Inspect memory of running process
 
 https://superuser.com/questions/231776/how-do-i-see-a-history-of-what-ive-post-ed-in-google-chrome/1119310#1119310
+
+Hedge Fund Legend Paul Tudor Jones
+"5:1 (risk /reward) Five to one means I’m risking one dollar to make five.  What five to one does is allow you to have a hit ratio of 20%.  I can actually be a complete imbecile. I can be wrong 80% of the time and I’m still not going to lose."
+
+https://mobile.twitter.com/realwillmeade/status/1365661871999713283
