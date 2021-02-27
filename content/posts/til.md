@@ -60,3 +60,9 @@ https://libsodium.gitbook.io/doc/public-key_cryptography/sealed_boxes
 Regular experssion builder helper
 
 https://regex101.com/
+
+# 2021-02-27
+
+Inspect memory of running process
+
+https://superuser.com/questions/231776/how-do-i-see-a-history-of-what-ive-post-ed-in-google-chrome/1119310#1119310
