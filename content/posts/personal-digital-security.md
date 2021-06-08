@@ -152,6 +152,10 @@ before interacting with them.
 
 ## Governments - Three Letter Agencies
 
+Using open source software is generally a good idea here. With Open Source, even if you dont know how to program, someone who does has looked at the code and you'd probably be able to find out through minimal searching if anyone has found any reason not to trust the open source project you're considering using. With closed source stuff, we usually only find out if it's doing something nefarious if a security researcher got bored in their free time and tried to hack a non-open source peice of software, which happens less often.
+
+Related to the choice of using open source applications: https://www.vice.com/amp/en/article/akgkwj/operation-trojan-shield-anom-fbi-secret-phone-network
+
 # Rational
 
 Let's go into detail on why the above guidance holds true broad spectrum.
