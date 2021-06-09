@@ -7,7 +7,55 @@ lastmod = "2020-10-12T14:50:57-07:00"
 
 > This post is in progress
 
-# `async def` and `await`
+## Development Environment
+
+First, update pip! `pip` is the way you'll install Python libraries and
+programs that already exist. You'll likely need to install some existing things
+using `pip` which you might `import` from your Python files for use in your
+project.
+
+We use the `--user` flag to tell pip to install just for our user. This
+eliminates the need for `sudo`.
+
+```console
+$ python3 -m pip install --user --upgrade pip
+Collecting pip
+  Downloading https://files.pythonhosted.org/packages/cd/82/04e9aaf603fdbaecb4323b9e723f13c92c245f6ab2902195c53987848c78/pip-21.1.2-py3-none-any.whl (1.5MB)
+    100% |████████████████████████████████| 1.6MB 862kB/s
+Installing collected packages: pip
+Successfully installed pip-21.1.2
+```
+
+Before you install any Python package, always update three packages. `pip`,
+`setuptools`, and `wheel`. These packages are used in the download and
+installation process of many packages. Installation of packages may fail due to
+them requiring features of these three packages only present in their latest
+versions. Which is why we always update them before installing other packages.
+
+```console
+$ python3 -m pip install --upgrade pip setuptools wheel
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in ./.local/lib/python3.6/site-packages (21.1.2)
+Requirement already satisfied: setuptools in /usr/lib/python3.6/site-packages (39.2.0)
+Collecting setuptools
+  Downloading setuptools-57.0.0-py3-none-any.whl (821 kB)
+     |████████████████████████████████| 821 kB 381 kB/s
+Collecting wheel
+  Downloading wheel-0.36.2-py2.py3-none-any.whl (35 kB)
+Installing collected packages: wheel, setuptools
+Successfully installed setuptools-57.0.0 wheel-0.36.2
+```
+
+## Installing packages
+
+With a recent version of pip installed, Python will install to your `--user`
+location even if you forget to specify.
+
+```console
+$ python3 -m pip install --upgrade dffml
+```
+
+## `async def` and `await`
 
 `await` is a keyword which means "give me the return value *when it's ready*".
 The caller is understands the return value may not be ready right away. The
