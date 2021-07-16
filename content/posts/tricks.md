@@ -5,6 +5,14 @@ title = "Time Saving Tricks and Hacks"
 subtitle = ""
 +++
 
+## dos2unix in Python
+
+Remove carrage returns from CRLF (carrage return, line feed: `\r\n`).
+
+```consoele
+$ python -c 'import pathlib, sys; p = pathlib.Path(sys.argv[-1]); p.write_bytes(p.read_bytes().replace(b"\r", b""))' file.txt
+```
+
 ## Download file with Python from command line with progress
 
 ```console
