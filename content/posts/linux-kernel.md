@@ -9,6 +9,8 @@ subtitle = "Working on the Linux kernel itself"
 
 - Kernel Recipes 2014 - The Linux Kernel, how fast it is developed and how we stay sane doing it
   - https://www.youtube.com/watch?v=DmDmXDtaz-U
+- LPC2019 - Reflections on kernel quality, development process and testing
+  - https://www.youtube.com/watch?v=iAfrrNdl2f4
 
 # Quickstart
 
