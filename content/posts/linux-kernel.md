@@ -5,6 +5,11 @@ title = "Linux Kernel Development Tips And Tricks"
 subtitle = "Working on the Linux kernel itself"
 +++
 
+# Videos
+
+- Kernel Recipes 2014 - The Linux Kernel, how fast it is developed and how we stay sane doing it
+  - https://www.youtube.com/watch?v=DmDmXDtaz-U
+
 # Quickstart
 
 We are going to download the Git repositories of QEMU and the Linux kernel. We
