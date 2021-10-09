@@ -43,3 +43,17 @@ Remove all newlines from end of file
 ```console
 $ for file in $(echo examples/notebooks/*.ipynb); do vim -b '+set noeol' '+wq' $file; done
 ```
+
+## Open a list of files in tmux panes
+
+```console
+$ for file in $(git ls-files); do tmux split-window -h "vim ${file}"; tmux next-layout; done
+```
+
+[![asciicast](https://asciinema.org/a/441107.svg)](https://asciinema.org/a/441107)
+
+## Close all but the active tmux pane
+
+```console
+$  for pane in $(tmux list-pane | grep -v active | sed -e 's/:.*//g'); do export pane=$(tmux list-pane | grep -v active | sed -e 's/:.*//g' | head -n 1); tmux kill-pane -t $pane ; done
+```
