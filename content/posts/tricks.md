@@ -47,7 +47,7 @@ $ for file in $(echo examples/notebooks/*.ipynb); do vim -b '+set noeol' '+wq' $
 ## Open a list of files in tmux panes
 
 ```console
-$ for file in $(git ls-files); do tmux split-window -h "vim ${file}"; tmux next-layout; done
+$ for file in $(git ls-files | grep -E '.*\.cpp|.*\.h|.*\.ino'); do tmux split-window -h "vim ${file}"; tmux next-layout; done
 ```
 
 [![asciicast](https://asciinema.org/a/441107.svg)](https://asciinema.org/a/441107)
