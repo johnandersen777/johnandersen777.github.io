@@ -35,3 +35,11 @@ $ git grep -A 25 -E 'dffml train|dffml accuracy|dffml predict' | python -c 'impo
 ```console
 $ (echo -e 'HTTP/1.0 200 OK\n' && cat myfile.txt) | nc -lp 8080
 ```
+
+## Do a vim commands on files in an automated way
+
+Remove all newlines from end of file
+
+```console
+$ for file in $(echo examples/notebooks/*.ipynb); do vim -b '+set noeol' '+wq' $file; done
+```
