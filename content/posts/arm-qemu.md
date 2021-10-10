@@ -221,3 +221,4 @@ class TestSerial(RunQEMU, unittest.TestCase):
     def test_connect(self):
         os.environ["SERIAL_PORT"] = self.serial_port
         subprocess.check_call([sys.executable, "main.py"])
+```
