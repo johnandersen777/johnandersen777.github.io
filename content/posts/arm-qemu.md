@@ -89,3 +89,13 @@ it in the `.gdbinit` file and `Makefile`.
 
 Comment on the gist with the problem so we can figure it out and everyone else
 can see the solution.
+
+## Arduino
+
+```console
+curl -sfL https://github.com/arduino/arduino-cli/releases/download/0.19.2/arduino-cli_0.19.2_Linux_64bit.tar.gz | tar xvz
+./arduino-cli config init --overwrite
+./arduino-cli config set network.proxy $https_proxy
+./arduino-cli core update-index --log-level debug -v
+./arduino-cli compile --fqbn arduino:avr:leonardo .
+```
