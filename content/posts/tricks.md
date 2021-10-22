@@ -57,3 +57,13 @@ $ for file in $(git ls-files | grep -E '.*\.cpp|.*\.h|.*\.ino'); do tmux split-w
 ```console
 $  for pane in $(tmux list-pane | grep -v active | sed -e 's/:.*//g'); do export pane=$(tmux list-pane | grep -v active | sed -e 's/:.*//g' | head -n 1); tmux kill-pane -t $pane ; done
 ```
+
+## Scrape page for links
+
+```console
+$ curl -sfL "https://pypi.org/simple/dffml/" | python -u -c 'import sys, json, bs4; print(json.dumps({link.get_text(): link.get("href") for link in bs4.BeautifulSoup(sys.stdin.read(), "html.parser").find_all("a")}))' | python -m json.tool
+{
+    "dffml-0.4.0.post0-py3-none-any.whl": "https://files.pythonhosted.org/packages/37/d5/6dc945d453cbdeb15db4249fe09e07bdd2e750a6f256fd893c81ced7bbbb/dffml-0.4.0.post0-py3-none-any.whl#sha256=031dd3a4ca57d46f568f7dd2711a223a26bc343f5f2ac36e1af881ead19e05b6",
+    "dffml-0.4.0.post0.tar.gz": "https://files.pythonhosted.org/packages/b0/42/a151555fe3b45926fa041813f8513d883180bdb9e8def64d2d5260609743/dffml-0.4.0.post0.tar.gz#sha256=f6f898c504450e3514dd5791b31bcba21ad9edfc3e896ac5da9cbe3181af5d2b"
+}
+```
