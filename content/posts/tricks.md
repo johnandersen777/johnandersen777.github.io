@@ -9,8 +9,14 @@ subtitle = ""
 
 Remove carrage returns from CRLF (carrage return, line feed: `\r\n`).
 
-```consoele
+```console
 $ python -c 'import pathlib, sys; p = pathlib.Path(sys.argv[-1]); p.write_bytes(p.read_bytes().replace(b"\r", b""))' file.txt
+```
+
+## Get list of available versions
+
+```console
+$ python -m pip install dffml==
 ```
 
 ## Download file with Python from command line with progress
