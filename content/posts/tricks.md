@@ -85,3 +85,11 @@ $ (printf 'alice@example.com ' && cat ~/.ssh/mykeyname.pub) | tee allowed_signer
 $ cat CHANGELOG.md | podman run -v $HOME/.ssh/:/root/.ssh:ro -v $PWD:/usr/src/workdir -w /usr/src/workdir --rm -i --entrypoint ssh-keygen lscr.io/linuxserver/openssh-server -Y verify -f allowed_signers -I alice@example.com -n file -s CHANGELOG.md.sig
 Good "file" signature for alice@example.com with RSA key SHA256:RQsUY/opy5KWg+pesXcjI9I3I1z8udgkFAlOjDrv8cw
 ```
+
+## git stash show patch
+
+Shows just applied patch
+
+```console
+$ git stash show -p
+```
