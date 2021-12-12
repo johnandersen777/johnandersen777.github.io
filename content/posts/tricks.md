@@ -93,3 +93,12 @@ Shows just applied patch
 ```console
 $ git stash show -p
 ```
+
+
+## wsl start sshd
+
+From powershell:
+
+```console
+$ wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /usr/sbin/sshd -D
+```
