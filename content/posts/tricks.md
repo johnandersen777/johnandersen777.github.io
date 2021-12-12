@@ -107,3 +107,4 @@ $ Start-Job -ScriptBlock{wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /us
 
 ```console
 $ while IFS= read -r line; do gh secret set -R github.com/intel/dffml "$(echo $line | sed -e 's/ .*//g')" --body "$(echo $line | sed -e 's/.* //g')"; done < ../secrets
+```
