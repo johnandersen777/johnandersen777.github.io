@@ -105,6 +105,12 @@ $ Start-Job -ScriptBlock{wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /us
 
 ## GitHub CLI set secrets
 
+**../secrets**
+
+```
+SECRET_NAME secret value
+```
+
 ```console
-$ while IFS= read -r line; do gh secret set -R github.com/intel/dffml "$(echo $line | sed -e 's/ .*//g')" --body "$(echo $line | sed -e 's/.* //g')"; done < ../secrets
+$ while IFS= read -r line; do gh secret set -R github.com/intel/dffml "$(echo $line | sed -e 's/ .*//')" --body "$(echo $line | sed -e 's/.* //')"; done < ../secrets
 ```
