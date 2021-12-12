@@ -112,5 +112,5 @@ SECRET_NAME secret value
 ```
 
 ```console
-$ while IFS= read -r line; do gh secret set -R github.com/intel/dffml "$(echo $line | sed -e 's/ .*//')" --body "$(echo $line | sed -e 's/.* //')"; done < ../secrets
+$ while IFS= read -r line; do gh secret set -R github.com/intel/dffml "$(echo $line | sed -e 's/ .*//')" --body "$(echo $line | sed -e 's/[^ ]* //')"; done < ../secrets
 ```
