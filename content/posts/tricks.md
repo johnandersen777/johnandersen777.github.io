@@ -100,5 +100,5 @@ $ git stash show -p
 From powershell:
 
 ```console
-$ wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /usr/sbin/sshd -D
+$ Start-Job -ScriptBlock{wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /usr/sbin/sshd -D}
 ```
