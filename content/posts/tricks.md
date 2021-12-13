@@ -119,5 +119,5 @@ $ while IFS= read -r line; do gh secret set -R github.com/intel/dffml "$(echo $l
 
 ```console
 $ curl 'https://sourcegraph.com/search/stream?q=context%3Aglobal%20repo%3A%5Egithub%5C.com%2Forg-name%2F.*%20log4j%20&v=V2&t=literal&dl=0&dk=html&dc=1&display=1500' | tee /tmp/org-name
-$ python -c 'import sys, json, itertools; print("\n".join(list(set(filter(bool, itertools.chain(*map(lambda data: list(map(lambda content: content.get("repository", ""), data)) if isinstance(data, list) else [], filter(bool, map(json.loads, map(lambda line: "{}" if not line.startswith("data: ") else line.split(maxsplit=1)[-1], sys.stdin))))))))))' < tee /tmp/org-name
+$ python -c 'import sys, json, itertools; print("\n".join(list(set(filter(bool, itertools.chain(*map(lambda data: list(map(lambda content: content.get("repository", ""), data)) if isinstance(data, list) else [], filter(bool, map(json.loads, map(lambda line: "{}" if not line.startswith("data: ") else line.split(maxsplit=1)[-1], sys.stdin))))))))))' < /tmp/org-name
 ```
