@@ -125,5 +125,5 @@ $ python -c 'import sys, json, itertools; print("\n".join(list(set(filter(bool, 
 ## Commit one file at a time
 
 ```console
-git add $(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | head -n 1) && git commit -sm "$(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | sed -e 's/dffml_source_mongodb\///g' -e 's/examples\/shouldi\///g' -e 's/\//: /g' -e 's/_/ /g' -e 's/\.py//g' | head -n 1): Format with black"
+$ git add $(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | head -n 1) && git commit -sm "$(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | sed -e 's/dffml_source_mongodb\///g' -e 's/examples\/shouldi\///g' -e 's/\//: /g' -e 's/_/ /g' -e 's/\.py//g' | head -n 1): Format with black"
 ```
