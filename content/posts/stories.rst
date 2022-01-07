@@ -4,3 +4,5 @@ title = "Seminal articles / papers"
 +++
 
 https://aphyr.com/posts/341-hexing-the-technical-interview
+
+http://www.catb.org/jargon/html/story-of-mel.html
