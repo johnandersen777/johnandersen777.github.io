@@ -71,3 +71,7 @@ Hedge Fund Legend Paul Tudor Jones
 "5:1 (risk /reward) Five to one means I’m risking one dollar to make five.  What five to one does is allow you to have a hit ratio of 20%.  I can actually be a complete imbecile. I can be wrong 80% of the time and I’m still not going to lose."
 
 https://mobile.twitter.com/realwillmeade/status/1365661871999713283
+
+# 2022-01-09
+
+Port knocking
