@@ -14,3 +14,9 @@ git filter-branch --msg-filter 'sed "s/Refs: #xxxxx/Refs: #22917/g"' master..my_
 ```
 
 > https://stackoverflow.com/questions/14332551/whats-the-fastest-way-to-edit-hundreds-of-git-commit-messages
+
+## Configure git to rebase on pull instead of merge
+
+```console
+git config --global pull.rebase true
+```
