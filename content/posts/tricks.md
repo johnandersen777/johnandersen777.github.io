@@ -127,3 +127,44 @@ $ python -c 'import sys, json, itertools; print("\n".join(list(set(filter(bool, 
 ```console
 $ git add $(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | head -n 1) && git commit -sm "$(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | sed -e 's/dffml_source_mongodb\///g' -e 's/examples\/shouldi\///g' -e 's/\//: /g' -e 's/_/ /g' -e 's/\.py//g' | head -n 1): Format with black"
 ```
+
+## Run command on line in vim
+
+Source: https://stackoverflow.com/questions/26809543/how-to-use-an-external-command-in-vim-to-modify-the-selection
+
+```
+How to use an external command in Vim to modify the selection
+
+Something I've found useful in other editors is the ability to:
+
+take the selected text
+run an external command and pass the selection to its stdin
+take the external commands stdout and replace the current selection with it.
+This way you can write useful text tools which operate on the selection using any language that can do basic io.
+
+How can this be done with vim?
+
+(Directly in the command line, or via a key binding?)
+
+---
+
+:'<,'>!command
+
+'<,'> represents the (linewise) visual selection and is automatically inserted when you hit : and have something selected.
+
+Example:
+
+If you select a line containing:
+
+print("Hello!")
+
+and run the Vim command:
+
+:'<,'>!python
+
+the text will be replaced with Hello!.
+
+If you want to set this to a key-binding (F5 to evaluate for example)
+
+vnoremap <F5> :!python<cr>
+```
