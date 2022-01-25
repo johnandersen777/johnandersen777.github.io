@@ -75,3 +75,17 @@ https://mobile.twitter.com/realwillmeade/status/1365661871999713283
 # 2022-01-09
 
 Port knocking
+
+## 2022-01-24
+
+UEFI shell commands
+
+`Shell> map` - show FS
+
+`Shell> cls` - clear screan
+
+`Shell> fs1:`
+
+`FS1:\> dir`
+
+`iPXE> sanboot http://example.com/myimg.iso`
