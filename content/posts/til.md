@@ -89,3 +89,7 @@ UEFI shell commands
 `FS1:\> dir`
 
 `iPXE> sanboot http://example.com/myimg.iso`
+
+# 2022-01-30
+
+https://archive.nanog.org/sites/default/files/2_Steenbergen_Tutorial_New_And_v2.pdf
