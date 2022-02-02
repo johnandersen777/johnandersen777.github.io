@@ -48,11 +48,24 @@ Successfully installed setuptools-57.0.0 wheel-0.36.2
 
 ## Installing packages
 
+You should create a new "virtual environment" each time you have a new
+python project. Typically for every directory with a `requirements.txt` in it,
+you would also have a `.venv` directory in it with the virtual environment
+which you installed the packages into.
+
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
+
+## Installing packages globally
+
+If you want packages to be available for use without activating a virtual
+environment, you can install them to your user site-packages.
+
 With a recent version of pip installed, Python will install to your `--user`
-location even if you forget to specify.
+location even if you forget to specify. Or you can pass `--user` to be
+explict about it.
 
 ```console
-$ python3 -m pip install --upgrade dffml
+$ python3 -m pip install --user --upgrade dffml
 ```
 
 ## `async def` and `await`
