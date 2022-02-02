@@ -174,3 +174,10 @@ vnoremap <F5> :!python<cr>
 ```console
 $ gh issue view https://github.com/intel/dffml/issues/1279 --json comments | jq -r '.comments[].body' | tr -d '\r' | sed -e 's/[[:space:]]*$//' -e 's/^#/\n\n#/g' | tee ~/comments
 ```
+
+## Print the date in a YYYY-MM-DD-HH-SS format
+
+```console
+$ date "+%Y-%m-%d-%H-%M"
+2022-02-02-06-34
+```
