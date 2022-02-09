@@ -93,3 +93,7 @@ UEFI shell commands
 # 2022-01-30
 
 https://archive.nanog.org/sites/default/files/2_Steenbergen_Tutorial_New_And_v2.pdf
+
+# 2022-02-09
+
+https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
