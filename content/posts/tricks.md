@@ -187,5 +187,29 @@ $ date "+%Y-%m-%d-%H-%M"
 Source: https://reproducible-builds.org/docs/archives/
 
 ```console
-$ tar -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime feed.face | sshpass -p "$(python -m keyring get user password)" python -c 'import sys, hashlib; artifacts_contents = sys.stdin.buffer.read(); print(hashlib.sha256(artifacts_contents).hexdigest())'
+$ tar -C /some/dir/with/stuff -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime myfile.within.some.dir.with.stuff.exe | sshpass -p "$(python -m keyring get intel password)" python -c '
+import io
+import os
+import sys
+import tarfile
+import hashlib
+import pathlib
+import unittest
+import tempfile
+
+artifacts_contents = sys.stdin.buffer.read()
+
+unittest.TestCase().assertEqual(
+    hashlib.sha256(artifacts_contents).hexdigest(),
+    "2bd972e3c980ee7dd376ca2c5988e2234d325d505f2124146abad226f1d163bb",
+    "Artifact archive hash mismatch",
+)
+
+with tempfile.TemporaryDirectory() as tempdir:
+    os.chdir(tempdir)
+    with tarfile.open(fileobj=io.BytesIO(artifacts_contents), mode="r") as fileobj:
+        fileobj.extractall()
+        for path in pathlib.Path().rglob("*"):
+            print(path.resolve())
+'
 ```
