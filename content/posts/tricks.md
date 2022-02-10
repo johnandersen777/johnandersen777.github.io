@@ -181,3 +181,9 @@ $ gh issue view https://github.com/intel/dffml/issues/1279 --json comments | jq 
 $ date "+%Y-%m-%d-%H-%M"
 2022-02-02-06-34
 ```
+
+## Reproducable archive via ssh
+
+```console
+$ tar -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime feed.face | sshpass -p "$(python -m keyring get user password)" python -c 'import sys, hashlib; artifacts_contents = sys.stdin.buffer.read(); print(hashlib.sha256(artifacts_contents).hexdigest())'
+```
