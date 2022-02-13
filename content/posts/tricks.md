@@ -213,3 +213,15 @@ with tempfile.TemporaryDirectory() as tempdir:
             print(path.resolve())
 '
 ```
+
+## Converting datetimes from one timezone to another in Python
+
+Example has local timezone as `-08:00` (PST).
+
+```python
+>>> from datetime import datetime, timedelta, tzinfo
+>>> (datetime.fromisoformat('2022-02-13T04:30') + timedelta(hours=28)).isoformat() + "-08:00"
+'2022-02-14T08:30:00-08:00'
+>>> (datetime.fromisoformat('2022-02-13T04:30') + timedelta(hours=28) + timedelta(hours=8) + timedelta(hours=5, minutes=30)).isoformat() + "+05:30"
+'2022-02-14T22:00:00+05:30'
+```
