@@ -91,6 +91,76 @@ running of the previous coroutine. If it finds a coroutine that was waiting for
 a now complete event, it runs that coroutine until it either completes, or until
 it is stuck waiting on another event.
 
+## Drop to debugger on exception
+
+**a.py**
+
+```python
+def func(a):
+    if "a" in a:
+        return True
+    return False
+
+def main():
+    func(3)
+
+if __name__ == "__main__":
+    main()
+```
+
+If you pass `-i` you dump to a *fresh* intepreter session
+
+```console
+$ python -i a.py
+Traceback (most recent call last):
+  File "a.py", line 10, in <module>
+    main()
+  File "a.py", line 7, in main
+    func(3)
+  File "a.py", line 2, in func
+    if "a" in a:
+TypeError: argument of type 'int' is not iterable
+>>> a
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'a' is not defined
+```
+
+If you run with pdb you get an interpreter session within
+the same context.
+
+- https://docs.python.org/3/library/pdb.html
+- https://docs.pytest.org/en/7.0.x/how-to/failures.html#using-python-library-pdb-with-pytest
+
+```console
+$ python -m pdb a.py
+> /tmp/tmp.aHjcycHqeF/a.py(1)<module>()
+-> def func(a):
+(Pdb) c
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/pdb.py", line 1699, in main
+    pdb._runscript(mainpyfile)
+  File "/usr/lib/python3.7/pdb.py", line 1568, in _runscript
+    self.run(statement)
+  File "/usr/lib/python3.7/bdb.py", line 578, in run
+    exec(cmd, globals, locals)
+  File "<string>", line 1, in <module>
+  File "/tmp/tmp.aHjcycHqeF/a.py", line 1, in <module>
+    def func(a):
+  File "/tmp/tmp.aHjcycHqeF/a.py", line 7, in main
+    func(3)
+  File "/tmp/tmp.aHjcycHqeF/a.py", line 2, in func
+    if "a" in a:
+TypeError: argument of type 'int' is not iterable
+Uncaught exception. Entering post mortem debugging
+Running 'cont' or 'step' will restart the program
+> /tmp/tmp.aHjcycHqeF/a.py(2)func()
+-> if "a" in a:
+(Pdb) a
+a = 3
+(Pdb)
+```
+
 # `requirements.txt`
 
 https://www.python.org/dev/peps/pep-0508/
