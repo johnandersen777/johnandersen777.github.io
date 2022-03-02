@@ -1,0 +1,82 @@
++++
+date = 2022-03-02T11:45:00Z
+lastmod = 2022-03-02T11:45:00Z
+title = "DID Discussion"
+subtitle = "Notes on Angie's Twitter space on Decentralized Identies and Personal Datastore"
++++# 2022-03-02 DID Discussion
+
+- https://twitter.com/techgirl1908/status/1498402992260890628
+- Personal datastore standard
+  - Will enhance ability to store application data using user keypairs to record metadata on chain and decrypt using private key
+- Microsoft is integrating DID support to Active Directory
+- Privacy preserving angle is only useful once you have conveyance
+  - People will hand over stuff t
+  - Need things to work in browser with no plugins, directly to get mass adoption
+- Google has moved to a system called Macarons
+  - Each service has it's own signing authority
+  - This scales better
+- System that is like OAuth but with fewer steps
+  - Having it all work locally and then automatically work across services without prenegotiated tokens is ideal
+  - https://ucan.xyz/
+- Change management and inclusivity
+  - What if people don't have smart phones or electricity?
+    - What if you have certain data encrypted on terminals
+      - Very difficult problem, Microsoft was not able to solve it
+    - In Kim's mind this is the biggest risk
+      - Can't assume mobile phone, bandwidth
+      - Systems are not designed with reliance in mind, we need to provide the layer of resiliency
+      - Want to think about distributed systems as a layer that can be used to bootstrap trust
+      - Need to ensure people can use the systems we are designing
+- Where are the self issued routing tables?
+ - How come we don't have hundreds of demos?
+   - Why are we waiting for all the specs to be approved?
+     - We are not, we are building in parallel
+     - We want feedback
+     - Standards help us with interoperability tests
+     - How do you know that everyone is interpreting the standards in the same way
+   - What are the biggest blockers preventing demos?
+     - Microsoft was going after educational credentials and workplace credentials
+     - Microsoft was not so focused on authentication
+       - There was no strategy around DID
+     - Personal Datastore standard is what unlocks the floodgates
+       - When you pair these with DID you get the foundations of distributed compute
+         - https://twitter.com/csuwildcat/status/1379804281381953537
+         - First you need Identity
+         - Then you need Storage
+         - Then you can have Distrusted Compute
+       - If I have DIDs and datastores, then I have created a distributed network
+       - You have essentially created the Signal Network
+         - Can I have an ID and permission to store data
+         - https://techcommunity.microsoft.com/t5/azure-active-directory-identity/identity-hubs-as-personal-datastores/ba-p/389577
+- ION has been out for a year as 1.0
+- Today, can I used DID for auth?
+  - OIDC for SSI approaches
+    - Three specs
+      - Issuing ID in wallet, claims can be issued to
+        - Functions as DID
+        - Can participate in different wallet central protocols around authentication
+- Get involved
+  - Join WC3 credentials community
+  - Join Decentralized Identify Foundation
+    - Membership required for orgs of over 1000 people
+- Use cases
+  - DIDs enable change of ownership
+    - Lifecycle concerns are answered
+    - When you need to prove anything about yourself, it's portable, you know who's getting your data
+    - Claim can be anything
+      - Captures some skill about a person, or maybe some attribute
+      - Can be issued by a peer
+        - That's verifiable
+        - Up to consumer of that information what they want to do with it
+        - Remove gatekeeping
+          - You have to have claim X from A, we'll maybe I'll accept Y + Z from B instead
+  - Every time you author work then you should link it to your DID
+  - Helps with API flexibility / interoperability between applications
+- Identity Hubs and DIF
+  - TBDecks
+- Verity Decntrialized Identity
+- Verifiable Crednetials
+  - Allow people to move their data with you
+- Brooklyn Zelenka
+  - End user can decide what gets read or written
+  - Allow for serivces, background jobs, to do lots of things
