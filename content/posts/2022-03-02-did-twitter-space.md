@@ -82,5 +82,5 @@ subtitle = "Notes on Angie's Twitter space on Decentralized Identies and Persona
   - End user can decide what gets read or written
   - Allow for serivces, background jobs, to do lots of things
   - Working on ucan spec
-    - Ned mentioned it would be good to have CWTs involved
+    - Ned Smith mentioned it would be good to have CWTs involved
     - Discussion around CWT/DICE and other transport/format support in ucan here: https://github.com/ucan-wg/spec/discussions/18
