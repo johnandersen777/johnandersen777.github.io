@@ -12,7 +12,8 @@ subtitle = "Notes on Angie's Twitter space on Decentralized Identies and Persona
 - Privacy preserving angle is only useful once you have conveyance
   - People will hand over stuff t
   - Need things to work in browser with no plugins, directly to get mass adoption
-- Google has moved to a system called Macarons
+- Google has moved to a system called Macaroons
+  - https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41892.pdf
   - Each service has it's own signing authority
   - This scales better
 - System that is like OAuth but with fewer steps
@@ -79,6 +80,7 @@ subtitle = "Notes on Angie's Twitter space on Decentralized Identies and Persona
 - Verifiable Crednetials
   - Allow people to move their data with you
 - Brooklyn Zelenka
+  - https://whitepaper.fission.codes/
   - End user can decide what gets read or written
   - Allow for serivces, background jobs, to do lots of things
   - Working on ucan spec
