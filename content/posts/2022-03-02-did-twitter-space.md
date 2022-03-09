@@ -81,6 +81,7 @@ subtitle = "Notes on Angie's Twitter space on Decentralized Identies and Persona
   - Allow people to move their data with you
 - Brooklyn Zelenka
   - https://whitepaper.fission.codes/
+    - https://github.com/digitalbazaar/did-method-key/
   - End user can decide what gets read or written
   - Allow for serivces, background jobs, to do lots of things
   - Working on ucan spec
