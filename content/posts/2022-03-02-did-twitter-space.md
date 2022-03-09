@@ -6,6 +6,7 @@ subtitle = "Notes on Angie's Twitter space on Decentralized Identies and Persona
 +++# 2022-03-02 DID Discussion
 
 - https://twitter.com/techgirl1908/status/1498402992260890628
+- https://www.w3.org/TR/did-core/
 - Personal datastore standard
   - Will enhance ability to store application data using user keypairs to record metadata on chain and decrypt using private key
 - Microsoft is integrating DID support to Active Directory
