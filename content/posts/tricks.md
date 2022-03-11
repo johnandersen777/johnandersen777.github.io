@@ -225,3 +225,23 @@ Example has local timezone as `-08:00` (PST).
 >>> (datetime.fromisoformat('2022-02-13T04:30') + timedelta(hours=28) + timedelta(hours=8) + timedelta(hours=5, minutes=30)).isoformat() + "+05:30"
 '2022-02-14T22:00:00+05:30'
 ```
+
+## XZ compressed asciinema recording
+
+Record
+
+```console
+$ python -m asciinema rec --idle-time-limit 0.5 --title "$(date +%4Y-%m-%d-%H-%M)" --command tmux >(xz --stdout - > "$HOME/Downloads/asciinema-rec-$(date +%4Y-%m-%d-%H-%M).json.xz")
+```
+
+Check size
+
+```console
+du -h ~/Downloads/ascii*
+```
+
+Playback
+
+```console
+xz --stdout -d - < ~/Downloads/asci* | python -m asciinema play -s 20 -
+```
