@@ -120,21 +120,37 @@ machine for development.
 I should just put this in a container and then extract the layer over the
 homedir via curl + tar.
 
-- Install GitHub CLI
-  - https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 
 ```bash
+# Install GitHub CLI
+# https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
 sudo apt update
 sudo apt install -y gh
+
+# Log into GitHub
 gh auth login
 
+# Clone dotfiles
 git clone https://github.com/pdxjohnny/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
+
+# Modify dotfiles for host
+grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/}; echo $invalid | sed -e 's/ /|/g') < ~/.tmux.conf | (temp_conf=$(mktemp); cat > $temp_conf && truncate  --no-create -s 0 ~/.tmux.conf && tee -a  ~/.tmux.conf < $temp_conf)
+
+# Save modifications
 ```
 
 ### TODO
 
-- dataflows for tool install per-distro
+- dataflows
+
+  - tool install per-distro
+
+  - login tasks (`~./bashrc` run something with `&` to background)
+
+    - Check if everything in homedir is either tracked in git or explictly ignored
+
+      - notify-send or equivilent, easy bash pipe allowed triage
