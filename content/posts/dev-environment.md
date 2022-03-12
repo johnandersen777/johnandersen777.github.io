@@ -122,6 +122,9 @@ homedir via curl + tar.
 
 
 ```bash
+NAME_FIRST_LAST="John Andersen"
+EMAIL=johnandersenpdx@gmail.com
+
 # Install GitHub CLI
 # https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
@@ -132,15 +135,29 @@ sudo apt install -y gh
 # Log into GitHub
 gh auth login
 
+# Configure git
+git config user.name $NAME_FIRST_LAST
+git config user.email $EMAIL
+
 # Clone dotfiles
 git clone https://github.com/pdxjohnny/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
+dotfiles_branch=$(hostname)-$(date "+%4Y-%m-%d-%H-%M")
+git checkout -b $dotfiles_branch
+git push --set-upstream origin $dotfiles_branch
 
 # Modify dotfiles for host
-grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/}; echo $invalid | sed -e 's/ /|/g') < ~/.tmux.conf | (temp_conf=$(mktemp); cat > $temp_conf && truncate  --no-create -s 0 ~/.tmux.conf && tee -a  ~/.tmux.conf < $temp_conf)
-
+grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/}
+echo $invalid | sed -e 's/ /|/g') < ~/.tmux.conf \
+  | (temp_conf=$(mktemp); cat > $temp_conf \
+     && truncate  --no-create -s 0 ~/.tmux.conf \
+     && tee -a  ~/.tmux.conf < $temp_conf)
+sed -i "s/Dot Files/Dot Files: $dotfiles_branch/g" README.md
 # Save modifications
+cd ~/.dotfiles
+git commit -sam "Initial auto-tailor for $(hostname)"
+git push
 ```
 
 ### TODO
