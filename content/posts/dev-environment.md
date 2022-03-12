@@ -56,6 +56,22 @@ prefixed with a `.` are *hidden*.
 
 Here are mine: http://github.com/pdxjohnny/dotfiles
 
+## Linux distros
+
+These days I stick mostly to the big three desktop distros, debian, ubuntu, and
+fedora. I used to run Solus on my personal, it's out of commision at the moment
+and I am waiting until Serpent OS releases `.iso` images to bring it back up
+again.
+
+I started using Fedora when I was doing the CR0/4 KVM work. Kristen and Rick told
+me that Fedora gaurentees that you'll be able to run the
+[upstream kernel](./linux-kernel/#terminology). Unless you want to mess with
+building `.deb` files on ubuntu so that you have all their configs and patches,
+which sounds not fun to me, it's probably best to stick to a well supported distro
+that you can just do a clean build of the linux tree and run the kernel on. But
+I've been busy trying to get CI ironed out for that project so I haven't gotten
+back to running on fedora in a while.
+
 ## Reasoning
 
 I forced myself to get used to a primarily terminal based development
@@ -95,3 +111,30 @@ this is you only ever have two windows open. Which means whenever you hit
 Alt-Tab you never have to guess where your going to end up! This is going to
 save you insane amounts of time in the long run. Ditch the clutter. Hakuna
 Matata.
+
+## New dev box bring up
+
+This is me attempting to collect all the things I do when I set up a new
+machine for development.
+
+I should just put this in a container and then extract the layer over the
+homedir via curl + tar.
+
+- Install GitHub CLI
+  - https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+
+```bash
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+sudo apt update
+sudo apt install -y gh
+gh auth login
+
+git clone https://github.com/pdxjohnny/dotfiles ~/.dotfiles
+cd ~/.dotfiles
+./install.sh
+```
+
+### TODO
+
+- dataflows for tool install per-distro
