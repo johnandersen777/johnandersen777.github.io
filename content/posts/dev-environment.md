@@ -151,7 +151,7 @@ git push --set-upstream origin $dotfiles_branch
 # Open tmux and copy based the errors into invalid
 # cat > /tmp/invalid <<'EOF'
 # EOF
-# grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/}; echo $invalid | sed -e 's/ /|/g' < ~/.tmux.conf) \
+# grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/ }; echo $invalid | sed -e 's/ /|/g' < ~/.tmux.conf) \
 #   | (temp_conf=$(mktemp); cat > $temp_conf \
 #      && truncate  --no-create -s 0 ~/.tmux.conf \
 #      && tee -a  ~/.tmux.conf < $temp_conf)
