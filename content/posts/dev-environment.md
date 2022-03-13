@@ -148,11 +148,13 @@ git checkout -b $dotfiles_branch
 git push --set-upstream origin $dotfiles_branch
 
 # Modify dotfiles for host
-grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/}
-echo $invalid | sed -e 's/ /|/g') < ~/.tmux.conf \
-  | (temp_conf=$(mktemp); cat > $temp_conf \
-     && truncate  --no-create -s 0 ~/.tmux.conf \
-     && tee -a  ~/.tmux.conf < $temp_conf)
+# Open tmux and copy based the errors into invalid
+# cat > /tmp/invalid <<'EOF'
+# EOF
+# grep -vE $(invalid=$(< /tmp/invalid); invalid=${invalid/$'\n'/}; echo $invalid | sed -e 's/ /|/g' < ~/.tmux.conf) \
+#   | (temp_conf=$(mktemp); cat > $temp_conf \
+#      && truncate  --no-create -s 0 ~/.tmux.conf \
+#      && tee -a  ~/.tmux.conf < $temp_conf)
 sed -i "s/Dot Files/Dot Files: $dotfiles_branch/g" README.md
 # Save modifications
 cd ~/.dotfiles
