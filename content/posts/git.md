@@ -78,3 +78,13 @@ def main(args):
 if __name__ == "__main__":
     main(sys.argv)
 ```
+
+## Branching
+
+We support multiple branches so as to provide stability to our users.
+If they go write some code based off our last release, and then we
+release, and no longer support the last version, they will have to
+turn around right after they implemented and update all their code to
+use our new APIs. If we support at least two versions, then it gives
+people time to do other things than spend all their time updating to
+the lastest version of our libraries API!
