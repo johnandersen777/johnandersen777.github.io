@@ -245,3 +245,7 @@ Playback
 ```console
 xz --stdout -d - < ~/Downloads/asci* | python -m asciinema play -s 20 -
 ```
+
+### OBS Studio
+
+https://snoober.home.blog/
