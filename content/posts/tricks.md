@@ -246,6 +246,12 @@ Playback
 xz --stdout -d - < ~/Downloads/asci* | python -m asciinema play -s 20 -
 ```
 
-### OBS Studio
+## OBS Studio
 
 https://snoober.home.blog/
+
+## wsl ssh
+
+```console
+$ wsl -u root -- mkdir -pv /run/sshd; wsl -u root -- /usr/sbin/sshd -D -o ListenAddress=0.0.0.0
+```
