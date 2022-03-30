@@ -6,6 +6,13 @@ title = "Git"
 subtitle = "Git usage tips and tricks"
 +++
 
+## Cherry pick last N commits off a branch
+
+Picks the last two commits in the order they appear in history on master
+
+```console
+$ git cherry-pick master~2..master
+```
 
 ## Rebase bulk rename commit messages
 
