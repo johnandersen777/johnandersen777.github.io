@@ -262,3 +262,9 @@ $ wsl -u root -- mkdir -pv /run/sshd; wsl -u root -- /usr/sbin/sshd -D -o Listen
 $ python -c 'import sys, datetime; print(datetime.datetime.strptime(sys.argv[-1], "%d %b %Y %H:%M:%S %z"))' '11 Jan 2022 00:44:19 +0800'
 2022-01-11 00:44:19+08:00
 ```
+
+## date command
+
+```console
+$ date "+%4Y-%m-%d-%H-%M"
+```
