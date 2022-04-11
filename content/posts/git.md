@@ -95,3 +95,16 @@ turn around right after they implemented and update all their code to
 use our new APIs. If we support at least two versions, then it gives
 people time to do other things than spend all their time updating to
 the lastest version of our libraries API!
+
+
+## GitHub
+
+GitHub Related tips and tricks
+
+### Create Pull Request and merge when status checks complete
+
+Merges as soon as CI checks pass
+
+```console
+$ gh pr create && gh pr merge --auto --rebase --delete-branch
+```
