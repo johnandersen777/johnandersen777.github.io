@@ -5,6 +5,10 @@ title = "Linux Kernel Development Tips And Tricks"
 subtitle = "Working on the Linux kernel itself"
 +++
 
+# Resources
+
+- https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
 # Videos
 
 - Kernel Recipes 2014 - The Linux Kernel, how fast it is developed and how we stay sane doing it
