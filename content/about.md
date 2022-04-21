@@ -30,7 +30,7 @@ text, etc.). This universal blueprint is an abstraction layer between
 descriptions of architecture within different domain specific representations.
 
 This universal blueprint (system context) is an integral parts of creating
-a shared language for meaning and intent betweek humans and an Artifical
+a shared language for meaning and intent between humans and an Artifical
 General Intelegence. The goal is to provide an architecture and implemenation
 for independent entities which act in acordence with guiding strategic
 plans/blueprints. This architecture must be safe and secure by default,
