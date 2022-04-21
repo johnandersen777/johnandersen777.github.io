@@ -19,6 +19,36 @@ for anything or learned anything from.
 All code examples on this site / repo are released into the public domain / the
 terms of the unlicense.
 
+I've got sort of a research project I'm trying to actively implement through
+involvement in efforts such as InnerSource, CI/CD, and Supply Chain Security.
+It's the pursuit of code that will write and maintain itself based off of a
+standard description of architecture, a universal blueprint. The universal
+blueprint is universal because it's intutive enough that anyone can begin using
+it quickly after the correct way of communicating to that individual is
+established via some communication method (spoken lanaguage, visual of some kind,
+text, etc.). This universal blueprint is an abstraction layer between
+descriptions of architecture within different domain specific representations.
+
+This universal blueprint (system context) is an integral parts of creating
+a shared language for meaning and intent betweek humans and an Artifical
+General Intelegence. The goal is to provide an architecture and implemenation
+for independent entities which act in acordence with guiding strategic
+plans/blueprints. This architecture must be safe and secure by default,
+scalable, and easily extenstible.
+
+- InnerSource is where we learn how to write good code
+
+- CI/CD is where we learn how to acctually run and deploy code
+
+- Supply Chain Security is how we learn how to create a compute network sutiable for various edge deployment senarios
+
+The end goal is to create a software architect, Alice. She will consult
+on existing projects to provide analysis of their architectures and
+properties such as maintainability, provide guideance for developer
+workstream prioritization to achive strategic buisness goals, and
+write and maintian codebases herself, accepting contributions from
+external contributors.
+
 ```
 This is free and unencumbered software released into the public domain.
 Anyone is free to copy, modify, publish, use, compile, sell, or
