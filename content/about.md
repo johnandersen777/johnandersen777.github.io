@@ -49,6 +49,8 @@ workstream prioritization to achive strategic buisness goals, and
 write and maintian codebases herself, accepting contributions from
 external contributors.
 
+[Blog series: Alice's Adventures in Wonderland](https://github.com/intel/dffml/discussions/1369#discussioncomment-2603280)
+
 ```
 This is free and unencumbered software released into the public domain.
 Anyone is free to copy, modify, publish, use, compile, sell, or
