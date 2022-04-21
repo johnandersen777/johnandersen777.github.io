@@ -38,7 +38,7 @@ scalable, and easily extenstible.
 
 - InnerSource is where we learn how to write good code
 
-- CI/CD is where we learn how to acctually run and deploy code
+- CI/CD is where we learn how to run and deploy code
 
 - Supply Chain Security is how we learn how to create a compute network sutiable for various edge deployment senarios
 
