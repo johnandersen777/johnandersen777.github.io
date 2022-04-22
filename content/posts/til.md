@@ -107,3 +107,5 @@ https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
 Source: https://man7.org/linux/man-pages/man5/utmp.5.html
 
 bpf to trace created threads: https://unix.stackexchange.com/a/606831
+
+Mutli-cluster k8s with kcp: https://asciinema.org/a/471709
