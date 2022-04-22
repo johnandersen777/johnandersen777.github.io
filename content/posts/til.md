@@ -97,3 +97,13 @@ https://archive.nanog.org/sites/default/files/2_Steenbergen_Tutorial_New_And_v2.
 # 2022-02-09
 
 https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
+
+# 2022-04-21
+
+> The utmp file allows one to discover information about who is
+> currently using the system.  There may be more users currently
+> using the system, because not all programs use utmp logging.
+
+Source: https://man7.org/linux/man-pages/man5/utmp.5.html
+
+bpf to trace created threads: https://unix.stackexchange.com/a/606831
