@@ -108,4 +108,6 @@ Source: https://man7.org/linux/man-pages/man5/utmp.5.html
 
 bpf to trace created threads: https://unix.stackexchange.com/a/606831
 
+https://www.kitploit.com/2022/04/ecapture-capture-ssltls-text-content.html?fbclid=IwAR1lvgfA532iqtjUMcbYt_pfNzy3BsUVLPDz4dnZCas6x_JFrZCWDlIrYGc&m=1
+
 Mutli-cluster k8s with kcp: https://asciinema.org/a/471709
