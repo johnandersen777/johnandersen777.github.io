@@ -187,7 +187,7 @@ $ date "+%Y-%m-%d-%H-%M"
 Source: https://reproducible-builds.org/docs/archives/
 
 ```console
-$ tar -C /some/dir/with/stuff -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime myfile.within.some.dir.with.stuff.exe | sshpass -p "$(python -m keyring get intel password)" ssh -o StrictHostKeyChecking=no "$USER@129.168.1.123" python -c '
+$ tar -C /some/dir/with/stuff -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime myfile.within.some.dir.with.stuff.exe | sshpass -p "$(python -m keyring get $USER password)" ssh -o StrictHostKeyChecking=no "$USER@129.168.1.123" python -c '
 import io
 import os
 import sys
