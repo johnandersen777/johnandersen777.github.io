@@ -268,3 +268,17 @@ $ python -c 'import sys, datetime; print(datetime.datetime.strptime(sys.argv[-1]
 ```console
 $ date "+%4Y-%m-%d-%H-%M"
 ```
+
+## File transfer with progress
+
+Machine sending file.
+
+```console
+$ nc -Nlp 9999 < filename
+```
+
+Machine receiveing file.
+
+```console
+$ dd status=progress bs=1M if=<(cat < /dev/tcp/example.com/9999) of=/mnt/c/Users/$USER/Downloads/filename
+```
