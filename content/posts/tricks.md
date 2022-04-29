@@ -292,7 +292,7 @@ $ nodemon -e yml --exec "clear; export branch=feedface; git branch -D $branch; g
 ## Download and install an autotools project with a vendored `autoreconf -i`
 
 ```console
-$ cd $(mktemp -d) && curl -sfL 'https://www.kernel.org/pub/software/scm/git/git-2.36.0.tar.gz' | tar xz && cd git* && ./configure && make -j $(($(nproc)*4)) && ./git version
+$ export tempdir=$(mktemp -d); (cd $tempdir && curl -sfL 'https://www.kernel.org/pub/software/scm/git/git-2.36.0.tar.gz' | tar xz && cd git* && ./configure --prefix=$tempdir && make -j $(($(nproc)*4)) && ./git version && echo $tempdir | tee /tmp/git_pwd && sudo chmod a+rx -R $tempdir) && sudo chmod a+r /tmp/git_pwd
 ```
 
 ## Near local github actions debug
