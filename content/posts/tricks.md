@@ -319,6 +319,12 @@ $ file $(find $tempdir -name git)
 
 ## UNIX anyone can execute and read anything in these dirs
 
-```
+```console
 $ chmod -R a+rx $dir
+```
+
+## Debugging actions self-hosted runners
+
+```console
+$ gh run rerun --failed $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}') && sleep 1 && gh run watch --exit-status -i 1 $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}') || gh run view --log $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
 ```
