@@ -294,3 +294,12 @@ $ nodemon -e yml --exec "clear; export branch=feedface; git branch -D $branch; g
 ```console
 $ cd $(mktemp -d) && curl -sfL 'https://www.kernel.org/pub/software/scm/git/git-2.36.0.tar.gz' | tar xz && cd git* && ./configure && make -j $(($(nproc)*4)) && ./git version
 ```
+
+## Near local github actions debug
+
+```console
+$ gh run rerun --failed $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
+$ gh run watch --exit-status -i 1 $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
+$ gh run view $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
+$ gh run view --log $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
+```
