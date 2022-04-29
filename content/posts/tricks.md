@@ -288,3 +288,9 @@ $ dd status=progress bs=1M if=<(cat < /dev/tcp/example.com/9999) of=/mnt/c/Users
 ```console
 $ nodemon -e yml --exec "clear; export branch=feedface; git branch -D $branch; git checkout upstream/main-test -b $branch; python -c 'print(\"A\" + (\"R\" * (2**8)))' > ahoy-there-matey-its-me-file; git add . && git commit -sam "${branch}" && git push -d origin "${branch}"; git push -fu origin $(git status | head -n 1 | awk '{print $NF}') && gh pr create --base main-test --title "$branch" -F /dev/null"
 ```
+
+## Download and install an autotools project with a vendored `autoreconf -i`
+
+```console
+$ cd $(mktemp -d) && curl -sfL 'https://www.kernel.org/pub/software/scm/git/git-2.36.0.tar.gz' | tar xz && cd git* && ./configure && make -j $(($(nproc)*4)) && ./git version
+```
