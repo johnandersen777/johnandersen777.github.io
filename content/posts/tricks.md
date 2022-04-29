@@ -303,3 +303,16 @@ $ gh run watch --exit-status -i 1 $(gh run list | head -n 2 | tail -n 1 | awk '{
 $ gh run view $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
 $ gh run view --log $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
 ```
+
+## Find the binaries
+
+**TODO** CVE Bin Tool approach
+
+```console
+$ file $(find $tempdir -name git)
+/tmp/tmp.2Wd0hLb8oN/bin/git:                                      ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c1357c209d816a9738b0af78d017a6c2bfba71e7, with debug_info, not stripped
+/tmp/tmp.2Wd0hLb8oN/git-2.36.0/bin-wrappers/git:                  POSIX shell script, ASCII text executable
+/tmp/tmp.2Wd0hLb8oN/git-2.36.0/git:                               ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c1357c209d816a9738b0af78d017a6c2bfba71e7, with debug_info, not stripped
+/tmp/tmp.2Wd0hLb8oN/git-2.36.0/contrib/mw-to-git/bin-wrapper/git: POSIX shell script, ASCII text executable
+/tmp/tmp.2Wd0hLb8oN/libexec/git-core/git:                         ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c1357c209d816a9738b0af78d017a6c2bfba71e7, with debug_info, not stripped
+```
