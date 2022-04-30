@@ -295,6 +295,14 @@ $ nodemon -e yml --exec "clear; export branch=feedface; git branch -D $branch; g
 $ export tempdir=$(mktemp -d); (cd $tempdir && curl -sfL 'https://www.kernel.org/pub/software/scm/git/git-2.36.0.tar.gz' | tar xz && cd git* && ./configure --prefix=$tempdir && make -j $(($(nproc)*4)) && ./git version && echo $tempdir | tee /tmp/git_pwd && sudo chmod a+rx -R $tempdir) && sudo chmod a+r /tmp/git_pwd
 ```
 
+A non autoconf project using https://www.gnu.org/prep/standards/html_node/Directory-Variables.html#Directory-Variables for
+`prefix      ?= /usr/local`
+
+```console
+$ export tempdir=$(mktemp -d); (cd $tempdir && curl -sfL https://github.com/stefanhaustein/TerminalImageViewer/archive/refs/tags/v1.1.1.tar.gz | tar xz && cd Terminal*/src/main/cpp && make -j $(($(nproc)*4)) && make install prefix=$tempdir)
+install -D tiv /tmp/tmp.ONSIPt2W5E/bin/tiv
+```
+
 ## Near local github actions debug
 
 ```console
