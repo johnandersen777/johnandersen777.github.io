@@ -112,6 +112,36 @@ Alt-Tab you never have to guess where your going to end up! This is going to
 save you insane amounts of time in the long run. Ditch the clutter. Hakuna
 Matata.
 
+
+## Notes
+
+TAKE NOTES. NOTES ARE A SUPERPOWER. WHAT IS NOT WRITTEN DOWN IS LOST.
+WHAT IS NOT ORGANIZED IS LOST. THOSE WHO WANDER ARE LOST WITHOUT NOTES!
+
+### Format
+
+> https://github.com/intel/dffml/discussions/1369#discussioncomment-2675744
+
+```
+# YYYY-MM-DD Title or Meeting Name
+
+- NTT
+  - Ensure each of these are brought up
+- Topic 1
+  - Notes go here organized by topic
+- TODO
+  - Generic future actions
+- Next Steps
+  - ARs
+    - Name will ...
+  - Generic near term future actions
+```
+
+#### Shorthand
+
+NTT - Need To Talk about these things in the meeting, checklist of things
+that must be addressed or brought up
+
 ## New dev box bring up
 
 This is me attempting to collect all the things I do when I set up a new
