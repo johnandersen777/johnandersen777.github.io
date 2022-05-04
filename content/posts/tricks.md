@@ -172,7 +172,7 @@ vnoremap <F5> :!python<cr>
 ## Dump GitHub comments to markdown file
 
 ```console
-$ gh issue view https://github.com/intel/dffml/issues/1279 --json comments | jq -r '.comments[].body' | tr -d '\r' | sed -e 's/[[:space:]]*$//' -e 's/^#/\n\n#/g' | tee ~/comments
+$ gh issue view https://github.com/intel/dffml/issues/1279 --json comments | jq -r '.comments[].body' | tr -d '\r' | sed -e 's/[[:space:]]*$//' -e 's/^#/\n\n#/g' | tee ~/comments.$(date "+%4Y-%m-%d-%H-%M").md
 ```
 
 ## Print the date in a YYYY-MM-DD-HH-SS format
