@@ -336,3 +336,7 @@ $ chmod -R a+rx $dir
 ```console
 $ gh run rerun --failed $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}') && sleep 1 && gh run watch --exit-status -i 1 $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}') || gh run view --log $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
 ```
+
+## Used the menu button on the keyboard for the first time ever today
+
+https://support.google.com/chrome/answer/10483214?hl=en
