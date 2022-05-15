@@ -42,6 +42,14 @@ $ git grep -A 25 -E 'dffml train|dffml accuracy|dffml predict' | python -c 'impo
 $ (echo -e 'HTTP/1.0 200 OK\n' && cat myfile.txt) | nc -lp 8080
 ```
 
+Redisplay on reload.
+
+- `-N` to netcat mean close socket on EOF from STDIN
+
+```console
+$ nodemon -e md --exec "clear; while test 1; do (echo -e 'HTTP/1.0 200 OK\n' && cat open-architecture.md) | nc -Nlp 8000; sleep 0.5; done; test 1"
+```
+
 ## Do a vim commands on files in an automated way
 
 Remove all newlines from end of file
