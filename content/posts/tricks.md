@@ -354,5 +354,5 @@ https://support.google.com/chrome/answer/10483214?hl=en
 Can be used to hand edit xxd as well if you wanted to
 
 ```console
-$ cp ~/.local/admin.json old-admin.json && python -m json.tool old-admin.json > admin.json || cp old-admin.json admin.json && cp admin.json staged.json && vim staged.json && python -m json.tool < staged.json > admin.json && cp admin.json ~/.local/admin.json
+$ cp old-admin.json old-old-admin.json; cp ~/.local/admin.json old-admin.json && python -m json.tool old-admin.json > admin.json || cp old-admin.json admin.json && cp admin.json staged.json && vim staged.json && python -m json.tool < staged.json > admin.json && cp admin.json ~/.local/admin.json
 ```
