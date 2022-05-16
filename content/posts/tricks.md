@@ -39,7 +39,7 @@ $ git grep -A 25 -E 'dffml train|dffml accuracy|dffml predict' | python -c 'impo
 ## Display a file as plain text in a browser
 
 ```console
-$ (echo -e 'HTTP/1.0 200 OK\n' && cat myfile.txt) | nc -lp 8080
+$ (echo -e 'HTTP/1.0 200 OK\n' && cat myfile.txt) | nc -Nlp 8080
 ```
 
 Redisplay on reload.
