@@ -348,3 +348,11 @@ $ gh run rerun --failed $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF
 ## Used the menu button on the keyboard for the first time ever today
 
 https://support.google.com/chrome/answer/10483214?hl=en
+
+## Edit a file only if autoformating passes
+
+Can be used to hand edit xxd as well if you wanted to
+
+```console
+$ cp ~/.local/admin.json old-admin.json && python -m json.tool old-admin.json > admin.json || cp old-admin.json admin.json && cp admin.json staged.json && vim staged.json && python -m json.tool < staged.json > admin.json && cp admin.json ~/.local/admin.json
+```
