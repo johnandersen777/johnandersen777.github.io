@@ -15,6 +15,8 @@ subtitle = "Working on the Linux kernel itself"
   - https://www.youtube.com/watch?v=DmDmXDtaz-U
 - LPC2019 - Reflections on kernel quality, development process and testing
   - https://www.youtube.com/watch?v=iAfrrNdl2f4
+- virtio
+  - https://blogs.oracle.com/linux/post/introduction-to-virtio?fbclid=IwAR1WfsXyojAYty--F6XyaeQ-Jz7idCG2QXhvhA12x09fQYh2JUpsBv2f2Lo
 
 # Quickstart
 
