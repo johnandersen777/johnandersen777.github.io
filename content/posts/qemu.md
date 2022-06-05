@@ -135,7 +135,7 @@ The `root*` options here correspond to the
 
 ```
   -append \
-    "console=ttyS0 rootfstype=9p root=/dev/root ro rootflags=trans=virtio,version=9p2000.u init=/usr/lib/systemd/systemd"
+    "console=ttyS0 rootfstype=9p root=fsdev-root ro rootflags=trans=virtio,version=9p2000.u init=/usr/lib/systemd/systemd"
 ```
 
 ### Disable GUI
