@@ -236,10 +236,12 @@ Example has local timezone as `-08:00` (PST).
 
 ## XZ compressed asciinema recording
 
+Dotfiles: https://github.com/pdxjohnny/dotfiles/blob/cae7a366d7766bb1a82c478f0aedc6a829630677/.asciinema_source
+
 Record
 
 ```console
-$ python -m asciinema rec --idle-time-limit 0.5 --title "$(date +%4Y-%m-%d-%H-%M)" --command tmux >(xz --stdout - > "$HOME/Downloads/asciinema-rec-$(date +%4Y-%m-%d-%H-%M).json.xz")
+$ python -m asciinema rec --idle-time-limit 0.5 --title "$(date +%4Y-%m-%d-%H-%M)" --command "sh -c 'tmux a || tmux'" >(xz --stdout - > "$HOME/Downloads/asciinema-rec-$(date +%4Y-%m-%d-%H-%M).json.xz")
 ```
 
 Check size
