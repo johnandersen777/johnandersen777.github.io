@@ -111,3 +111,12 @@ bpf to trace created threads: https://unix.stackexchange.com/a/606831
 https://www.kitploit.com/2022/04/ecapture-capture-ssltls-text-content.html?fbclid=IwAR1lvgfA532iqtjUMcbYt_pfNzy3BsUVLPDz4dnZCas6x_JFrZCWDlIrYGc&m=1
 
 Mutli-cluster k8s with kcp: https://asciinema.org/a/471709
+
+## 2022-06-07
+
+Bash history
+
+- https://www.gnu.org/software/bash/manual/bash.html#History-Interaction
+- https://askubuntu.com/questions/67283/is-it-possible-to-make-writing-to-bash-history-immediate
+- https://www.gnu.org/software/bash/manual/bash.html#index-histchars
+- https://docs.python.org/3/library/time.html#time.strftime
