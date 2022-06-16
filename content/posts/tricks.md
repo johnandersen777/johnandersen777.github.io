@@ -111,6 +111,23 @@ From powershell:
 $ Start-Job -ScriptBlock{wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /usr/sbin/sshd -D}
 ```
 
+## WSL Forward Port
+
+```powershell
+PS C:\WINDOWS\system32> netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=2222 connectaddress=((wsl -u root -- sh -c "ip a | grep inet\ | grep -v 127.0.0").Split()[5].Split("/")[0]) connectport=22
+
+PS C:\WINDOWS\system32> netsh advfirewall firewall add rule name="Open Port 2222 for WSL2" dir=in action=allow protocol=TCP localport=2222
+Ok.
+
+PS C:\WINDOWS\system32> netsh interface portproxy show v4tov4
+
+Listen on ipv4:             Connect to ipv4:
+
+Address         Port        Address         Port
+--------------- ----------  --------------- ----------
+0.0.0.0         2222        172.23.21.232   22
+```
+
 ## GitHub CLI set secrets
 
 **../secrets**
