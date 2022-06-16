@@ -113,6 +113,8 @@ $ Start-Job -ScriptBlock{wsl -u root -e mkdir -pv /run/sshd ; wsl -u root -e /us
 
 ## WSL Forward Port
 
+Run the following from an Administrator PowerShell session
+
 ```powershell
 PS C:\WINDOWS\system32> netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=2222 connectaddress=((wsl -u root -- sh -c "ip a | grep inet\ | grep -v 127.0.0").Split()[5].Split("/")[0]) connectport=22
 
