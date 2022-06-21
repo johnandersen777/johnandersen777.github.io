@@ -120,3 +120,7 @@ Bash history
 - https://askubuntu.com/questions/67283/is-it-possible-to-make-writing-to-bash-history-immediate
 - https://www.gnu.org/software/bash/manual/bash.html#index-histchars
 - https://docs.python.org/3/library/time.html#time.strftime
+
+## 2022-06-21
+
+- https://til.simonwillison.net/sqlite/one-line-csv-operations
