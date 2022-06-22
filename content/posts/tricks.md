@@ -386,3 +386,15 @@ import os
 directory = "/tmp"
 os.system(f"bash -c 'cd {directory}; pwd; exec bash'")
 ```
+
+## Capture output of shell stderr and out to file by datestamp
+
+Combine with bash history to create Alice herstory as fully connected view.
+
+```console
+$ nodemon -e py --exec 'clear; alice please contribute -log debug -repos https://github.com/pdxjohnny/testa -- recommended community standards 2>&1 | tee .output/$(date +%4Y-%m-%d-%H-%M).txt; test 1'
+```
+
+```console
+$ grep -n -C 5 -i contribute_readme_md $(find .output/ | sort | tail -n 1)
+```
