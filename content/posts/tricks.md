@@ -402,3 +402,9 @@ $ nodemon -e py --exec 'clear; alice please contribute -log debug -repos https:/
 ```console
 $ grep -n -C 5 -i contribute_readme_md $(find .output/ | sort | tail -n 1)
 ```
+
+## Python reverse lines in file
+
+```console
+$ python -c 'import sys; print("".join(list(filter(bool, sys.stdin))[::-1]))' < commits.txt | tee commits-ordered.txt
+```
