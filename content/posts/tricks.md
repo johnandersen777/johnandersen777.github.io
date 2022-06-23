@@ -160,6 +160,10 @@ $ git add $(git status --porcelain=2 | grep -v \? | awk '{print $NF}' | head -n 
 Source: https://stackoverflow.com/questions/26809543/how-to-use-an-external-command-in-vim-to-modify-the-selection
 
 ```
+'<,'> !python3 -c 'import sys, datetime; print("\n".join([line_datetime[0].strip() for line_datetime in sorted([(line, datetime.datetime.strptime(line.split()[-1], "\%Y-\%m-\%dT\%H:\%M:\%SZ")) for line in sys.stdin], key=lambda line_datetime: line_datetime[1])]))'
+```
+
+```
 How to use an external command in Vim to modify the selection
 
 Something I've found useful in other editors is the ability to:
