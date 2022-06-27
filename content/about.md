@@ -16,8 +16,7 @@ updating them around 2015 I think, but they have a lot of good information about
 computers and web development. I used to bookmark every single page that I used
 for anything or learned anything from.
 
-All code examples on this site / repo are released into the public domain / the
-terms of the unlicense.
+I would like to become a Principle Engineer ;)
 
 I've got sort of a research project I'm trying to actively implement through
 involvement in efforts such as InnerSource, CI/CD, and Supply Chain Security.
@@ -49,7 +48,12 @@ workstream prioritization to achive strategic buisness goals, and
 write and maintian codebases herself, accepting contributions from
 external contributors.
 
-[Blog series: Alice's Adventures in Wonderland](https://github.com/intel/dffml/discussions/1369#discussioncomment-2603280)
+[Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice)
+
+---
+
+All code examples on this site / repo are released into the public domain / the
+terms of the unlicense.
 
 ```
 This is free and unencumbered software released into the public domain.
