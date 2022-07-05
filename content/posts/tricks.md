@@ -345,6 +345,10 @@ $ gh run view $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
 $ gh run view --log $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}')
 ```
 
+```console
+gh run view --log-failed $(gh run list --workflow feedface.yml | head -n 1| awk '{print $(NF-2)}')
+```
+
 ## Find the binaries
 
 **TODO** CVE Bin Tool approach
