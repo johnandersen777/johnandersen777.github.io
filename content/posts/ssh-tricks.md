@@ -25,3 +25,12 @@ ssh -nNT -L '*:9000:127.0.0.1:8080' user@example.com
 
 > The `'` here are important! Or else your shell will replace `*` with every
 > file in your current directory
+
+# Use ssh key for auth always accept server key
+
+Don't put anything you care about on this machine! You know
+what you're logging into.
+
+```
+ssh -i ~/.ssh/nahdig -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o PasswordAuthentication=no root@143.198.133.87
+```
