@@ -124,3 +124,7 @@ Bash history
 ## 2022-06-21
 
 - https://til.simonwillison.net/sqlite/one-line-csv-operations
+
+## 2022-07-13
+
+- https://cfcd-prep.cloudfoundry.org/pushing/envars/
