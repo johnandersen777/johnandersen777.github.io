@@ -418,3 +418,9 @@ $ python -c 'import sys; print("".join(list(filter(bool, sys.stdin))[::-1]))' < 
 ```console
 $ git cherry-pick branchname~2..branchname
 ```
+
+## Print git log with links to commits on github
+
+```console
+$ export remote="$(git remote get-url $(git remote))" && git log --pretty=oneline -n 2 | sed -e "s#^#${remote}/commit/#"
+```
