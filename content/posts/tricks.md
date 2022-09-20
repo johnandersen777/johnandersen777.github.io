@@ -424,3 +424,5 @@ $ git cherry-pick branchname~2..branchname
 ```console
 $ export remote="$(git remote get-url $(git remote))" && git log --pretty=oneline -n 2 | sed -e "s#^#${remote}/commit/#"
 ```
+
+## You can drag files (videos even) right into a markdown document to uploda them to github
