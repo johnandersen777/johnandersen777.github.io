@@ -491,3 +491,9 @@ Defaulting to user installation because normal site-packages is not writeable
 Requirement already satisfied: torch==1.12.1 in ./.local/lib/python3.9/site-packages (1.12.1)
 Requirement already satisfied: typing-extensions in ./.local/lib/python3.9/site-packages (from torch==1.12.1) (4.3.0)
 ```
+
+## Read markdown in terminal
+
+```console
+curl -sfL https://github.com/openai/whisper/raw/main/README.md | python -m rich.markdown /dev/stdin | less -r
+```
