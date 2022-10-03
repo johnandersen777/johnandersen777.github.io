@@ -497,3 +497,9 @@ Requirement already satisfied: typing-extensions in ./.local/lib/python3.9/site-
 ```console
 curl -sfL https://github.com/openai/whisper/raw/main/README.md | python -m rich.markdown /dev/stdin | less -r
 ```
+
+## Windows disable taskbar icon blinking
+
+Source: https://answers.microsoft.com/en-us/msteams/forum/all/how-to-stop-teams-from-blinking-in-taskbars-when/decc661a-7c4a-4f7e-a729-afdee2f14824
+
+> Rudy (can't fail): Please edit the value of ForegroundFlashCount from the HKEY_CURRENT_USER\Control Panel\Desktop registry to the value of 1, then the icon will flash once. Which can reduce the number of icon flashing. Note: Setting to 0 will make the icon continuously flash. If you still need to stop Teams' icon flash, for this Windows OS related question, we will move this thread back to the original category. Meanwhile, if you don't want to use Teams client, actually, you can let it run in background via selecting the "Open application in background" options in Settings > General.
