@@ -132,6 +132,10 @@ Address         Port        Address         Port
 
 ## GitHub CLI set secrets
 
+```console
+$ grep oauth_token: < ~/.config/gh/hosts.yml | sed -e 's/.*oauth_token: //g' | gh secret set MY_TOKEN
+```
+
 **../secrets**
 
 ```
