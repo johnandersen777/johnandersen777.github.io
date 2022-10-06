@@ -268,7 +268,7 @@ Dotfiles: https://github.com/pdxjohnny/dotfiles/blob/cae7a366d7766bb1a82c478f0ae
 Record
 
 ```console
-$ python -m asciinema rec --idle-time-limit 0.5 --title "$(date +%4Y-%m-%d-%H-%M)" --command "sh -c 'tmux a || tmux'" >(xz --stdout - > "$HOME/Downloads/asciinema-rec-$(date +%4Y-%m-%d-%H-%M).json.xz")
+$ export REC_HOSTNAME=$(hostname); python3.9 -m asciinema rec --idle-time-limit 0.5 --title "$(date -Iseconds): ${REC_HOSTNAME}" --command "sh -c 'tmux a || tmux'" >(xz --stdout - > "$HOME/asciinema/${REC_HOSTNAME}-rec-$(date -Iseconds).json.xz")
 ```
 
 Check size
