@@ -514,3 +514,11 @@ Source: https://answers.microsoft.com/en-us/msteams/forum/all/how-to-stop-teams-
 $ date -Iseconds
 2022-10-05T22:30:42-07:00
 ```
+
+## Reboot to BIOS
+
+Source: https://twitter.com/ADurrante/status/1578052630043140101?s=20&t=Ypq4nyTINjL_gPctxvvN1A
+
+```console
+$ shutdown /r /fw /f /t 0
+```
