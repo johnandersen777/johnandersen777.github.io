@@ -265,10 +265,10 @@ Example has local timezone as `-08:00` (PST).
 
 Dotfiles: https://github.com/pdxjohnny/dotfiles/blob/cae7a366d7766bb1a82c478f0aedc6a829630677/.asciinema_source
 
-Record
+Record (for remote: `ssh -t hostname`)
 
 ```console
-$ export REC_HOSTNAME=$(hostname); python3.9 -m asciinema rec --idle-time-limit 0.5 --title "$(date -Iseconds): ${REC_HOSTNAME}" --command "sh -c 'tmux a || tmux'" >(xz --stdout - > "$HOME/asciinema/${REC_HOSTNAME}-rec-$(date -Iseconds).json.xz")
+$ export REC_TITLE=""; export REC_HOSTNAME="$(hostname)"; python3.9 -m asciinema rec --idle-time-limit 0.5 --title "$(date -Iseconds): ${REC_HOSTNAME} ${REC_TITLE}" --command "sh -c 'tmux a || tmux'" >(xz --stdout - > "$HOME/asciinema/${REC_HOSTNAME}-rec-$(date -Iseconds).json.xz")
 ```
 
 Check size
