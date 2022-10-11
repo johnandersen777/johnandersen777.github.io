@@ -213,6 +213,12 @@ cat > schema/image/container/build/README.md<<'EOF'
 EOF
 ```
 
+Use `tee` to replace output with existing and save sections of a file to smaller files
+
+````
+:'<,'> !tee output.txt
+```
+
 ## Dump GitHub comments to markdown file
 
 ```console
