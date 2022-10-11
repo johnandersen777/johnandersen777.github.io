@@ -204,6 +204,15 @@ If you want to set this to a key-binding (F5 to evaluate for example)
 vnoremap <F5> :!python<cr>
 ```
 
+- Example vim session insert, put this text, then press Escape key and type: `:'<,'> !bash`
+
+```
+mkdir -p schema/image/container/build/
+cat > schema/image/container/build/README.md<<'EOF'
+# Container Image Build Manifest
+EOF
+```
+
 ## Dump GitHub comments to markdown file
 
 ```console
