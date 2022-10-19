@@ -544,3 +544,9 @@ Source: https://twitter.com/ADurrante/status/1578052630043140101?s=20&t=Ypq4nyTI
 ```console
 $ shutdown /r /fw /f /t 0
 ```
+
+## Git push to current branch
+
+```console
+$ git push -u origin $(git branch | grep -E '^\*' | sed -e 's/\* //')
+```
