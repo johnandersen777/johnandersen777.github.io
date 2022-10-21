@@ -550,3 +550,9 @@ $ shutdown /r /fw /f /t 0
 ```console
 $ git push -u origin $(git branch | grep -E '^\*' | sed -e 's/\* //')
 ```
+
+## `ssh` port forward remote port to enable connection via local port
+
+```console
+$ ssh -nNT -L 8000::8000 target
+```
