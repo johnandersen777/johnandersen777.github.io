@@ -8,10 +8,11 @@ permalink = "/about/"
 Here is my [gpg public key][pub-key]
 `C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
 
-I finished my Twitter, not much else to say on there at this point
+I finished my [Twitter][twitter], not much else to say on there at this point
 I think it pretty much paints the picture.
 
 I'm on on [Mastodon](https://mastodon.social/@pdxjohnny) now.
+Hopefully we move to something DID based soon.
 
 I'm on [keybase][keybase].
 
