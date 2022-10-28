@@ -8,8 +8,11 @@ permalink = "/about/"
 Here is my [gpg public key][pub-key]
 `C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
 
-I'm on [keybase][keybase] and my fingerprint is also in my [twitter][twitter]
-bio
+I finished my Twitter :P
+
+I'm on on [Mastodon][https://mastodon.social/@pdxjohnny now.
+
+I'm on [keybase][keybase].
 
 Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
 updating them around 2015 I think, but they have a lot of good information about
