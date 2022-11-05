@@ -226,6 +226,12 @@ curl -sfL https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server
 :'<,'> !bash
 ```
 
+Find replace multiple things at the same time
+
+```
+:'<,'> !sed -e 's/support/readme/g' -e 's/Support/Readme/g' -e 's/SUPPORT/README/g'
+```
+
 ## Dump GitHub comments to markdown file
 
 ```console
