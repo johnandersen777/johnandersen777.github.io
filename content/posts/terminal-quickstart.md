@@ -9,6 +9,12 @@ subtitle = "UNIX shell cheat sheet"
 <img alt="Its dangerous to go alone, take this! $ _" src="/images/terminal-quickstart.gif" />
 </center>
 
+## References
+
+Haven't looked at the content of these but they might help.
+
+- https://www.youtube.com/watch?v=UuJuq5wubaU&list=PL78ppT-_wOmvlYSfyiLvkrsZTdQJ7A24L
+
 ## How to read examples
 
 You're about to see a lot of examples similar to this one
