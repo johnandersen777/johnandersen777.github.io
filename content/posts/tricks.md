@@ -562,3 +562,11 @@ $ git push -u origin $(git branch | grep -E '^\*' | sed -e 's/\* //')
 ```console
 $ ssh -nNT -L 8000::8000 target
 ```
+
+## JSON to YAML with Python CLI
+
+Source: https://github.com/intel/dffml/blob/8847989eb4cc9f6aa484285ba9c11ff920113ed3/docs/arch/0008-Manifest.md
+
+```console
+$ python -c "import sys, pathlib, json, yaml; print(yaml.dump(json.load(sys.stdin)))" < manifest.json
+```
