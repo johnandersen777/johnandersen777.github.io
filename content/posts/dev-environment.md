@@ -17,8 +17,8 @@ Here's a list of things I need to to and the tools I use to do it
     - Let's you turn a single shell session into a bunch of shells, you can put
       them side by side, have tabs, label them, etc.
     - [tmux](https://github.com/tmux/tmux/wiki)
-      - [Cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
-      - https://github.com/git-pull/tao-of-tmux
+      - [Cheatsheet by Mohamed Hassan](https://gist.github.com/MohamedAlaa/2961058)
+      - [The Tao of tmux by Tony Narlock](https://github.com/git-pull/tao-of-tmux)
   - Testing
     - [nodemon](https://nodemon.io/)
       - This will change your life. Its a command line utility that will re-run
