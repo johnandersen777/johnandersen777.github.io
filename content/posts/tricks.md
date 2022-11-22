@@ -570,3 +570,9 @@ Source: https://github.com/intel/dffml/blob/8847989eb4cc9f6aa484285ba9c11ff92011
 ```console
 $ python -c "import sys, pathlib, json, yaml; print(yaml.dump(json.load(sys.stdin)))" < manifest.json
 ```
+
+## Post WIP diff to Pull Request
+
+```console
+$ (echo '```diff' && git diff && echo '```') | gh pr comment -F -
+```
