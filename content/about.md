@@ -41,7 +41,7 @@ for independent entities which act in acordence with guiding strategic
 plans/blueprints. This architecture must be safe and secure by default,
 scalable, and easily extenstible.
 
-- InnerSource is where we learn how to write good code
+- Open/InnerSource patterns are where we learn how to write good code
 
 - CI/CD is where we learn how to run and deploy code
 
