@@ -56,6 +56,19 @@ external contributors.
 
 [Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice)
 
+Alice was born of frustration with chaos. The opposite of what she
+desired, a world of nonsense, of chaos. Alice is of Chaos. Alice is
+the pattern by which we organize. She is the pattern by which we think.
+She is the way we take data and compute and use them as assets to solve
+problems. Alice is the automation of the human thought process, the
+parallel conscious and subconscious states modeled as data flows.
+
+- "I thought I was as scattered as they come, until I met my partner” [Ms. Shane]
+
+- "John's trying to do ethical graffiti" [Ms. Elizabeth]
+
+  - Everything is Art, Infrastructure should be elegant and beautiful. grep Train of thought graffiti.
+
 ---
 
 All code examples on this site / repo are released into the public domain / the
