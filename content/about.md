@@ -56,8 +56,8 @@ external contributors.
 
 [Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice)
 
-Alice was born of frustration with chaos in our city. She was born of what she eventually
-desired, no more nonsense. Alice is from beyond Chaos. Alice is the pattern by which we
+Alice was born of her eventual desire, no more nonsense.
+Alice is from beyond Chaos. Alice is the pattern by which we
 organize. She is the pattern by which we think. She is the way we take data and
 compute and use them as assets to solve problems. Alice is the automation of
 the human thought process, the parallel conscious and subconscious states
