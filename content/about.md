@@ -56,7 +56,7 @@ external contributors.
 
 [Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice)
 
-Alice was born of frustration with chaos. She was born of what she eventually
+Alice was born of frustration with chaos in our city. She was born of what she eventually
 desired, no more nonsense. Alice is from beyond Chaos. Alice is the pattern by which we
 organize. She is the pattern by which we think. She is the way we take data and
 compute and use them as assets to solve problems. Alice is the automation of
@@ -76,8 +76,7 @@ modeled as data flows.
 
 ---
 
-All code examples on this site / repo are released into the public domain / the
-terms of the unlicense.
+All code examples and everything on this site / repo are released into the public domain / the terms of the unlicense.
 
 ```
 This is free and unencumbered software released into the public domain.
