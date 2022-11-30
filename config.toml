@@ -30,7 +30,7 @@ email = "johnandersenpdx@gmail.com"
 
 [params.social]
 github = "https://github.com/pdxjohnny"
-twitter = "https://twitter.com/pdxjohnny"
+twitter = "https://mastodon.social/@pdxjohnny"
 linkedin = "https://www.linkedin.com/in/john-andersen-7a72b555/"
 footer = ["twitter", "github", "linkedin"]
 
