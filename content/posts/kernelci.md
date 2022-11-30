@@ -3,8 +3,6 @@ date = 2021-04-02T15:00:00Z
 lastmod = 2021-04-02T15:00:00Z
 author = "default"
 title = "Kernelci"
-subtitle = "Suggested 25 words / 125 chars. Used in metadata, and content summaries."
-feature = "image/page-default.webp"
 +++
 
 
