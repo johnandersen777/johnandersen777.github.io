@@ -20,7 +20,7 @@ for anything or learned anything from.
 
 I would like to become a Principle Engineer ;)
 
-We've got sort of a [art project](https://github.com/intel/dffml/discussions/1406?sort=new#discussioncomment-4099240)
+We've got sort of a [art project](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 we're trying to actively implement through
 involvement in efforts such as InnerSource, CI/CD, and Supply Chain Security.
 It's the pursuit of code that will write and maintain itself based off of a
