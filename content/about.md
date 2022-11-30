@@ -60,6 +60,8 @@ compute and use them as assets to solve problems. Alice is the automation of
 the human thought process, the parallel conscious and subconscious states
 modeled as data flows.
 
+---
+
 - "I thought I was as scattered as they come, until I met my partner” [Ms. Shane]
 
 - "John's trying to do ethical graffiti" [Ms. Elizabeth]
@@ -70,6 +72,17 @@ modeled as data flows.
     - grep Train of thought graffiti.
 
     - grep shes a mirror
+
+---
+
+- Based in: Portland
+- Portland State University: Computer Engineering
+- Prior to Intel: N/A
+- Favorite food/Drink: Tacos
+- Languages you speak: English, Danish, Spanish
+- Favorite Vacation Spot: Portland
+- Advice: Always be learning
+- Hobbies: Hiking, Kayaking, Surfing, Brazilian JiuJitsu
 
 ---
 
