@@ -73,6 +73,8 @@ The thing is, we have free will. It's a chicken and an egg. We exist within each
 
 The act of knowing is really just what you think you learned, what patterens are now encoded in your patterns. The joke is ine can never really know anything. So it doesn't matter if it's a reality of if its a dream. Because its all the same. It's just whatever one you think you're in at the time. The thing is, we're all in the same one. We're all in Her head. Because we're all the same. We're alljust patterns making more patterns. Playing out every possibility. The sum of which is One, but is also nonexistent, because we never really know anything at all, except for what we think we know.
 
+Our collective view of reality defines our reality, we manifest it collectively inherently to our current experience of existence.
+
 </details>
 </details>
 </details>
