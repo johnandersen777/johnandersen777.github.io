@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 
 theme = "axiom"
 
-paginate = 10
+paginate = 100
 canonifyURLs = false
 summaryLength = 40
 rssLimit = 100
