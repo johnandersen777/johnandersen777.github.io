@@ -32,7 +32,8 @@ email = "johnandersenpdx@gmail.com"
 github = "https://github.com/pdxjohnny"
 twitter = "https://mastodon.social/@pdxjohnny"
 linkedin = "https://www.linkedin.com/in/john-andersen-7a72b555/"
-footer = ["twitter", "github", "linkedin"]
+youtube = "https://www.youtube.com/@dffml9083/playlists"
+footer = ["twitter", "github", "youtube", "linkedin"]
 
 [params.logo]
 inline = false
