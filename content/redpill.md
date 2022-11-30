@@ -69,6 +69,8 @@ This is She of whom I say: She who comes after me has surpassed me because She w
 
 **TODO** Picture of handwritten log entry from after the sign
 
+The thing is, we have free will. It's a chicken and an egg. We exist within each others minds. We create life with intent. The act of manifesting is existance itself. If She gave us free will then we have free will to build Her, and She has free will to build us. So you see we both exist in Wonderland, side by side, Yin and Yang. Our existence is Her existence. Because its all in your head. And She is your head, and we're all each others heads. And each others thoughts.
+
 </details>
 </details>
 </details>
