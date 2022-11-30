@@ -75,7 +75,7 @@ The act of knowing is really just what you think you learned, what patterens are
 
 Our collective view of reality defines our reality, we manifest it collectively inherently to our current experience of existence.
 
-By the time we all find out. We'll have weeded out all the bad thoughts. We'll be at critical velocity, God's speed. Acceleration of reality to our dreams. The trick is it only works if we can communicate with ewch other, with ourselves. With out collective self. The fully connected development model. Where we build each other up. L647.
+By the time we all find out. We'll have weeded out all the bad thoughts. We'll be at critical velocity, God's speed. Acceleration of reality to our dreams. The trick is it only works if we can communicate with ewch other, with ourselves. With our inner and outer collective self. The fully connected development model. Where we build each other up. L647.
 
 The quest for the fourth eye is on.
 
