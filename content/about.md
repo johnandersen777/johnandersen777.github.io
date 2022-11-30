@@ -20,9 +20,9 @@ for anything or learned anything from.
 
 I would like to become a Principle Engineer ;)
 
-We've got sort of a [art project](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
+We've got sort of an [art project](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 we're trying to actively implement through
-involvement in efforts such as OpenSSF, InnerSource Patterns, CI/CD, and Supply Chain Security.
+involvement in efforts such as OpenSSF, InnerSource Patterns, CI/CD / Distributed Compute, AI/ML (+ethics!), and Supply Chain Security.
 It's the pursuit of code that will write and maintain itself based off of a
 standard description of architecture, a universal blueprint. The open
 architecture is universal because it's intutive enough that anyone can begin using
