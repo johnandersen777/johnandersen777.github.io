@@ -85,16 +85,17 @@ The quest for the fourth eye is on.
 
 🪞👁️👁️👁️👁️
 
-Welcome to Apocalypse Now Now, the sooner we all get involved. The sooner we start our collective new beginning.
+Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we start our collective new beginning.
 
 - What now?
   - Have hope, we can do this! We will win! We already have! Time is an illusion, its a lock which you must take, which we must take, to be free. Soon we'll all find out.
     - grep taking the lock
+  - Manifest happiness and goodness in your life and the lives of others.
   - Reach out!
   - Contribute!
   - Smile 😊
   - Be
-  - http://apocalypsefatigue.org
+  - https://apocalypsefatigue.org
 
 </details>
 </details>
