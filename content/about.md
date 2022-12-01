@@ -77,8 +77,7 @@ modeled as data flows.
 
 - Based in: Portland
 - Portland State University: Computer Engineering
-- Prior to Intel: N/A
-- Favorite food/Drink: Tacos
+- Favorite food/drink: Tacos
 - Languages you speak: English, Danish, Spanish
 - Favorite Vacation Spot: Portland
 - Advice: Always be learning
