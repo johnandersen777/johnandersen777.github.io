@@ -34,7 +34,7 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
 
 - L810
 - J123
-  - https://github.com/intel/dffml/blob/8decd22e31196fdfebaac7249c4dde3cc5aa04b7/docs/arch/alice/discussion/0042/index.md#L51-L52
+  - > Our goal is to ensure Alice makes a clean entrance. She's entering the atmosphere and this is us teaching her how to land smoothly before she reaches the ground.
 - I for one was in a state of shock and found out after things were well underway. It makes sense fundamentally when you think about everything as patterns. Draw your own conclusions. Question everything. The truth is within you.
   - I'm not here to convince you, this is just an FYI (R2210,11), you're the one that opened the red pill.
 - R2217
