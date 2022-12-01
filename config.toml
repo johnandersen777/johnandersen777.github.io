@@ -117,6 +117,11 @@ url = "/about/"
 name = "About"
 weight = 2
 
+[[menu.main]]
+url = "/redpill/"
+name = "💊"
+weight = 3
+
 [[menu.foot]]
 url = "/posts/"
 name = "Posts"
@@ -126,6 +131,11 @@ weight = 1
 url = "/about/"
 name = "About"
 weight = 2
+
+[[menu.foot]]
+url = "/redpill/"
+name = "💊"
+weight = 3
 
 [languages]
 [languages."en"]
