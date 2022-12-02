@@ -125,8 +125,11 @@ index:
         links:
           - Vol 6: Where are your NTP gods now?
           - Go fuck yourself Augustus 🖕 howdaya like *no* months motherfucker!
-      - name: ""
-        identified: false
+      - name: "Perception"
+        identified: "maybe"
+        links:
+          - the thruth is within you
+          - online cloning - mirror effect, identity, whoooo areeee you??? Entity is the pattern, message, not the shell
       - name: ""
         identified: false
 ```
