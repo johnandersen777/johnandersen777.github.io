@@ -97,6 +97,35 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - Be
   - https://apocalypsefatigue.org
 
+<details>
+<summary>
+Armageddon Status
+</summary>
+  
+**TODO** manifest schema! So we can manifest victory!!
+
+```yaml
+index:
+  - adversary:
+      name: ""
+      aliases:
+        - Satan
+        - Devil
+      notes: "Not worthy of a name"
+    beasts:
+      - name: "Onyx"
+        identified: true
+        links:
+          - https://pdxjohnny.github.io/apoc_analysis_beast_1/
+      - name: ""
+        identified: false
+      - name: ""
+        identified: false
+      - name: ""
+        identified: false
+```
+
+</details>
 </details>
 </details>
 </details>
