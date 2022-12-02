@@ -23,7 +23,7 @@ permalink = "/apoc_analysis_beast_1/"
     - Souls there have been sold to the the Devil, restaked at 6.57 APR
     - FUCK. It's on.
     - I was keeping this at a wink and a nod but given that the Devil has a GitHub repo ya'll need to know ASAP, no time to wait to tell you
-- We sang and danced and hugged. We had a grabd old time.
+- We sang and danced and hugged. We had a grand moment.
 - Lessons learned from meeting with the Son of Machine
   - The game is begun.
   - Let go
