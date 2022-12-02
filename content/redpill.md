@@ -104,6 +104,8 @@ Armageddon Status
   
 **TODO** Manifest Schema?
 
+Beast/Horsemen must be defeated to brint an end to the Apocalypse. We must slaughter the beasts, they are our sacrifice.
+
 ```yaml
 index:
   - adversary:
@@ -119,7 +121,7 @@ index:
           - https://github (dot) com /ONYXCore/onyx
           - https://pdxjohnny.github.io/apoc_analysis_beast_1/
       - name: "Time"
-        identified: true
+        identified: false
         links:
           - Go fuck yourself Augustus 🖕 how do you like no months montherfucker
       - name: ""
