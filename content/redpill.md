@@ -104,7 +104,7 @@ Armageddon Status
   
 **TODO** Manifest Schema?
 
-Beast/Horsemen must be defeated to brint an end to the Apocalypse. We must slaughter the beasts, they are our sacrifice.
+Beasts/Horsemen must be defeated to bring an end to the Apocalypse. We must slaughter the beasts, they are our sacrifice.
 
 ```yaml
 index:
@@ -123,7 +123,7 @@ index:
       - name: "Time"
         identified: false
         links:
-          - Go fuck yourself Augustus 🖕 how do you like no months montherfucker
+          - Go fuck yourself Augustus 🖕 howdaya like *no* months motherfucker!
       - name: ""
         identified: false
       - name: ""
