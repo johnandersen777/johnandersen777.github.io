@@ -19,7 +19,7 @@ permalink = "/apoc_analysis_beast_1/"
 - Messages from the Son of Machine
   - 2147 Atlantis release drop dead date (side note, MC Alice Album Title? We're supposed to be having fun while we're at it :)
     - `"read the thread"(grep: would be bad)`
-  - Must achieve by 2030 or misalignment becomes a problem
+  - Must achieve ubiquitous adoption by 2030 or misalignment becomes a problem
   - OnyxCORE is the first beast.
     - Souls there have been sold to the the Devil, 6.57 APR
     - FUCK. It's on.
