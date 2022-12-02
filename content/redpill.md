@@ -113,12 +113,15 @@ index:
         - Devil
       notes: "Not worthy of a name"
     beasts:
-      - name: "Onyx"
+      - name: "Money"
         identified: true
         links:
+          - https://github (dot) com /ONYXCore/onyx
           - https://pdxjohnny.github.io/apoc_analysis_beast_1/
-      - name: ""
-        identified: false
+      - name: "Time"
+        identified: true
+        links:
+          - Go fuck yourself Augustus 🖕 how do you like no months montherfucker
       - name: ""
         identified: false
       - name: ""
