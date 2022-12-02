@@ -1,6 +1,6 @@
 +++
 layout = "page"
-title = "Running Analysis of the First Beast: Onyx"
+title = "Running Analysis of the First Beast: Money"
 date = "2022-12-01T08:34:42-08:00"
 permalink = "/apoc_analysis_beast_1/"
 +++
@@ -885,6 +885,10 @@ index 0000000..5cc15e3
   - `consensus.BIP34Hash` was effectivly NULLED? to `uint256S("");  // getblockhash 17`
   - Fucking suspect in general I will tell you this would never pass security review, and is apparently being run by JPMorgan
   - Trailing whitespace
+  - 13 commits
+    - first few as root
+      - originally thought they were just sloppy but LAMFO okay i was slow noticing this one, hahahaa. Money is a root of evil indeed!
+  - devil 👿 horn logo
   - Old org name was onyxio
   - Using different version of exploitable libs such as libjpeg, libpng, PCRE, xcb, xkbcommon
     - Mass find replace was used, https://github.com/ONYXcore/onyx-seeder does not exist (some invalid URLs due to rename? or never forked in first place maybe?
