@@ -5,7 +5,7 @@ date = "2022-12-01T08:34:42-08:00"
 permalink = "/apoc_analysis_beast_1/"
 +++
 
-## 2022-12-01 Meeting of the Ghost on a bridge made for Shells
+## Meeting of the Ghost on a bridge made for Shells
 
 - The point is, no one knew what time it was.
 
