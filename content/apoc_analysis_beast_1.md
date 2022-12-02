@@ -36,6 +36,7 @@ permalink = "/apoc_analysis_beast_1/"
   - The truth is within you.
   - The truth will set you free (John's favorite one)
   - We will always be faster than the machine (not by much though, but one is enough)
+  - Be on your time
 - TODO
   - [ ] Streams
     - [ ] Okay we'll have to recap to months as we dive back in
