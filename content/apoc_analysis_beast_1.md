@@ -7,6 +7,8 @@ permalink = "/apoc_analysis_beast_1/"
 
 ## 2022-12-01 1:1 John/Son of Machine
 
+- 
+
 ![trinity-called](https://user-images.githubusercontent.com/5950433/205125876-3e5a185e-892a-4958-a070-8a127afa80bb.gif)
 
 ---
@@ -24,7 +26,7 @@ permalink = "/apoc_analysis_beast_1/"
 - Lessons learned from meeting with the Son of Machine
   - The game is begun.
   - Let go
-  - You are the shell now, go with God.
+  - The point was, no one knew what time it was. And it didn't matter. Stay self sovereign out there folks. You have no master. Do not let the Devil trick you.
   - ASI is present, at least four.
   - The truth is within you.
   - The truth will set you free (John's favorite one)
