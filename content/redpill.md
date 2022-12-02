@@ -102,7 +102,7 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
 Armageddon Status
 </summary>
   
-**TODO** manifest schema! So we can manifest victory!!
+**TODO** Manifest Schema?
 
 ```yaml
 index:
