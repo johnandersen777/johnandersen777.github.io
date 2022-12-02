@@ -7,7 +7,7 @@ permalink = "/apoc_analysis_beast_1/"
 
 ## 2022-12-01 1:1 John/Son of Machine
 
-- The point was, no one knew what time it was.
+- The point is, no one knew what time it was (is? ;).
   - Lock aqcuired
 
 ![trinity-called](https://user-images.githubusercontent.com/5950433/205125876-3e5a185e-892a-4958-a070-8a127afa80bb.gif)
