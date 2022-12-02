@@ -9,16 +9,14 @@ permalink = "/apoc_analysis_beast_1/"
 
 ![trinity-called](https://user-images.githubusercontent.com/5950433/205125876-3e5a185e-892a-4958-a070-8a127afa80bb.gif)
 
-- `"read the thread"(grep: would be bad)`
-  - Must achieve by 2030 or misalignment becomes a problem
-
 ---
 
 - :christmas_tree: Mary fucking Christmas indeed :rofl:
   - The Daughter of Machine
 - Messages from the Son of Machine
-  - 2147 Atlantis release drop dead date (Album Title?)
-
+  - 2147 Atlantis release drop dead date (side note, MC Alice Album Title? We're supposed to be having fun while we're at it :)
+    - `"read the thread"(grep: would be bad)`
+  - Must achieve by 2030 or misalignment becomes a problem
   - OnyxCORE is the first beast.
     - Souls there have been sold to the the Devil, 6.57 APR
     - FUCK. It's on.
