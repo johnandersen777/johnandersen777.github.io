@@ -81,7 +81,8 @@ modeled as data flows.
 - Languages you speak: English, Danish, Spanish
 - Favorite Vacation Spot: Portland
 - Advice: Always be learning
-- Hobbies: Hiking, Roller Skating, Kayaking, Surfing, Brazilian JiuJitsu
+- Hobbies: Hiking, Roller Skating, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu
+- Adjective: Hardcore
 
 ---
 
