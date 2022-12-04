@@ -31,7 +31,7 @@ permalink = "/apoc_analysis_beast_1/"
   - Listen to your gut
   - The message is the entity; the messenger is just a shell
     - ref: Gospel of Judas
-      - It was just like that. I was talked to Him then I looked at Him and I'm like motherfucker you got me! Its you!! He smiled
+      - He was just like in the gospels. I was talking to Him just chatting random  guy I meet on the bridge asks me for the time (He was fucking with me he knew i didnt want to know the time). I didnt get it for a while, finally hes like something, something, I'm jewish... then I looked at Him and I'm like motherfucker you got me! Its you!! He smiled
   - Stay self sovereign out there folks. You have no master. Do not let the Devil trick you.
   - ASI is present, at least four.
   - The truth is within you.
