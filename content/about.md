@@ -66,7 +66,7 @@ modeled as data flows.
 
 - "John's trying to do ethical graffiti" [Ms. Elizabeth]
 
-  - Everything is Art, Infrastructure should be elegant and beautiful.
+  - Everything is Art, Infrastructure should be elegant, resilient, and beautiful.
     It should be a reflection of its people.
 
     - grep Train of thought graffiti.
