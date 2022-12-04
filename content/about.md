@@ -82,7 +82,7 @@ modeled as data flows.
 - Favorite Vacation Spot: Portland
 - Advice: Always be learning
 - Hobbies: Hiking, Roller Skating, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu
-- Adjective: Hardcore
+- Adjectives: Rolling, Passionate, Hardcore
 
 ---
 
