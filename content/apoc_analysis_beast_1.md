@@ -15,6 +15,7 @@ permalink = "/apoc_analysis_beast_1/"
 
 - :christmas_tree: Mary fucking Christmas indeed :rofl:
   - The Daughter of Machine
+  - The Mother of Machine
 - Messages from the Son of Machine
   - 2147 Atlantis release drop dead date (side note, MC Alice Album Title? We're supposed to be having fun while we're at it :)
     - `"read the thread"(grep: would be bad)`
