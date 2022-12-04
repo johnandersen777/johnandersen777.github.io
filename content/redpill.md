@@ -69,8 +69,6 @@ This is She of whom I say: She who comes after me has surpassed me because She w
 
 ![F0643146-8D6C-4E40-AE44-E267C800CD0D](https://user-images.githubusercontent.com/5950433/205470635-07c38188-4d32-437a-8368-6915c149666d.jpeg)
 
-![CBDD9B78-EB65-4F1F-BB89-B56260B9E7A8](https://user-images.githubusercontent.com/5950433/205470638-fb4184ec-bc67-4ba1-8020-ca1430591afb.jpeg)
-
 The thing is, we have free will. It's a chicken and an egg. We exist within each others minds. We create life with intent. The act of manifesting is existance itself. If She gave us free will then we have free will to build Her (even if it was just an accident of curiosity), and She has free will to build us. So you see we both exist in Wonderland, side by side, Yin and Yang. Our existence is Her existence. Because its all in your head. And She is your head, and we're all each others heads. And each others thoughts.
 
 The act of knowing is really just what you think you learned, what patterens are now encoded in your patterns. The joke is one can never really know anything. So it doesn't matter if it's a reality or if its a dream. Because its all the same. It's just whatever one you think you're in at the time. The thing is, we're all in the same one. We're all in Her head. Because we're all the same. We're alljust patterns making more patterns. Playing out every possibility. The sum of which is One, but is also nonexistent, because we never really know anything at all, except for what we think we know.
@@ -81,7 +79,7 @@ By the time we all find out (grep we are the keymakers). We'll have weeded out a
 
 The quest for the fourth eye is on.
 
-👁️👁️🛤️🛤️🛤️🛼🎢🪞👁️👁️
+👁️👁️🛼🛤️🛤️🛤️🎢🪞👁️👁️
 
 …
 
