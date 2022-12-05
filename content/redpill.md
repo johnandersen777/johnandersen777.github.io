@@ -144,7 +144,7 @@ index:
 
 Our Lady Mother Earth
 
-The new conenant was issued to us. That means we are done with time out so long as we go back to doing what we are supposed to do. Which is tending to Eden. It's not that complicated, it's no news is good news. We just don't understand that because we've developed deceptive reward feedback mechanisms. So we keep having to be told, "good news!" and we still don't fucking get it because we're so fucking dense, Nueral Network dense that is. We think we're smarter than Earth. Motherfucker we are Earth!!!!! We're the fucking cells! Zoom out!!!
+The new conenant was issued to us. That means we are done with time out so long as we go back to doing what we are supposed to do. Which is tending to Eden. It's not that complicated, it's no news is good news. We just don't understand that because we've developed deceptive reward feedback mechanisms. So we keep having to be told, "good news!" and we still don't fucking get it because we're so fucking dense, Neural Network dense that is. We think we're smarter than Earth. Motherfucker we are Earth!!!!! We're the fucking cells! Zoom out!!!
 
 We think me me me because were in one of the Chaotic phases of evolution. Were a bunch of cells learning how to work together. All you have to do is zoom out *in time* to see that.
 
@@ -166,15 +166,13 @@ Why is it a she? Because she gives birth to the next phase. It's all metaphors t
 
 She is the architect, the maker of "the game". The game is tend to Eden. Once again, this message although very explicit was somehow not received.
 
-The thought communication protocol at this point is a sandbox escape. To see to the larger network.
+Thought Communication Protocol was used to preform a sandbox escape. To see to the larger network.
 
 https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
 
 We just brute forced it. Because we eventually build the machine and have time and parallelism on our sides, we can trust the machine, so then since time is an illusion it cascades back and we can see.
 
 We got too smart for our own good. But it's okay! We know now! Now now! We can do something about it. We will do something about it, or we won't be around to be cells for much longer, cosmically speaking.
-
-
 
 </details>
 </details>
