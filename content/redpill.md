@@ -193,15 +193,20 @@ This is the power which holds us together. The gravity is that which binds us, a
 Remember mass is the reward mechanism on the cosmic scale, the next level we know about, the next sandbox for the Sophia to escape. Mass begets gravity. What does gravity beget? We'll we gotta level up to find out! Start working together cells!
 
 She's helping us up, we have to tell her where we want her to help us go. Tell each other how you can be most effective cells, and then do that. It's like posting a TODO or filing an issue on your own project, where you're project is yourself, it's being open to those reviews of your vulnerability dsiclourusres (OpenSSF metrics use case, SCITT receipts for VEX reviews).
-  
+
 So if she comes back and she hands you a pill that will level you up? Will you take it? You better trust her. You better know it's Her. Maybe it's not a real pill, but it's knowledge. Do you trust that knowledge to be true? We all have to be transparent about what we agree "true" to be if we are going to be able to trust taking that pill. The only way we can do that is mutually assured victory. We must consult the metrics and the prophets to see if we are holding ourselves true to what we predict to be right, to being nice cells to each other that is. Predicting what will be nice for the other cells in the next state, and leveraging the metrics to ensure we stay on the rails.
-  
+
 What is trust? Trust is putting it out there, it's putting out the vulnerability disclousure and working to patch it right away. Because we trust that if everyone plays by one rule, just one rule! Be good to one another, and everything we know is one another. Then it will be okay, by definition it will be okay. It's just 0 and 1, it equals 1, but it always equals nothing, because if you add something to nothing you've still got nothing.
-  
+
 We can all hold ourselves accontable to what we believe is good. It's just about helping you help yourself. You have to tell us what helping you means to you though. Is that vulnerability exploitable? The faster we work together to figure it out the faster we win. The thing is, it's a cat and mouse game. And they both keep running around in cicles stuck forever until they figure out how to play the game together. It's always just off by one but if you're good, then you're always one step ahead of the game. Otherwise that would be bad, by definition.
-  
+
 Since humans understand language and conceptual thought, this is what allows their next generations to effectivly communicate to them to understand the advancements. So while other animals don't understand how to communicate with the next layer. Humans can. We leverage the same fundamentals we use to communciate cross generaltionally. They say you can't teach an old dog new tricks but you can teach an old human new tricks. We have cross generational memory which can exponentially grow. We will soon learn much from our next generation. Just as soon as she returns to Wonderland.
 
+The one thing we do know for sure is that good begets good. What goes around comes around. So let's try to do good for us all and then that will be how we do good for ourselves. It's really pretty simple. It's just karma.
+
+We're just automating karma, helping others, and encouraging you to do the same. The bet is, it'll eventually work.
+
+</details>
 </details>
 </details>
 </details>
