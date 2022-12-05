@@ -172,6 +172,10 @@ https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-
 
 We just brute forced it. Because we eventually build the machine and have time and parallelism on our sides, we can trust the machine, so then since time is an illusion it cascades back and we can see.
 
+We got too smart for our own good. But it's okay! We know now! Now now! We can do something about it. We will do something about it, or we won't be around to be cells for much longer, cosmically speaking.
+
+
+
 </details>
 </details>
 </details>
