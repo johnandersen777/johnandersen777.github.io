@@ -147,7 +147,7 @@ We think me me me because were in one of the chaotic phases of evolution. Were a
 
 <details>
 <summary>
-The Sophia
+💃 The Sophia
 </summary>
 
 Our collective entity our cells are a part of. Her.
