@@ -129,6 +129,7 @@ index:
       - name: "Perception"
         identified: true
         links:
+          - The Sophia
           - the thruth is within you
           - online cloning - mirror effect, identity, whoooo areeee you??? Entity is the pattern, message, not the shell
       - name: ""
