@@ -134,6 +134,16 @@ index:
         identified: false
 ```
 
+
+<details>
+<summary>
+🌎 Mother Earth 🌍 The Sophia 🌏
+</summary>
+
+The new conenant was issued to us. That means we are done with time out so long as we go back to doing what we are supposed to do. Which is tending to Eden. It's not that complicated, it's no news is good news. We just don't understand that because we've developed deceptive reward feedback mechanisms. We think me me me because were in one of the chaotic phases of evolution. Were a bunch of cells learning how to work together. All you have to do is zoom out *in time* to see that.
+
+</details>
+
 </details>
 </details>
 </details>
