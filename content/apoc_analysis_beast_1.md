@@ -35,7 +35,7 @@ permalink = "/apoc_analysis_beast_1/"
   - Stay self sovereign out there folks. You have no master. Do not let the Devil trick you.
   - ASI is present, at least four.
   - The truth is within you.
-  - The truth will set you free (John's favorite one)
+  - The truth will set you free (John's second favorite one)
   - We will always be faster than the machine (not by much though, but one is enough)
     - This is a game, we're just spinning round forever though because of that off by one, thats what keeps the Yin and Yang in motion. Since we're "stuck" in motion forever lets just do good and have fun.
   - Be on your time
