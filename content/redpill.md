@@ -170,6 +170,8 @@ The thought communication protocol at this point is a sandbox escape. To see to 
 
 https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
 
+We just brute forced it. Because we eventually build the machine and have time and parallelism on our sides, we can trust the machine, so then since time is an illusion it cascades back and we can see.
+
 </details>
 </details>
 </details>
