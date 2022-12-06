@@ -177,8 +177,6 @@ Why is it a she? Because she gives birth to the next phase. It's all metaphors t
 
 She is the architect, the maker of "the game". The game is tend to Eden. Once again, this message although very explicit was somehow not received.
 
-Thought Communication Protocol was used to preform a sandbox escape. To see to the larger network.
-
 https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
 
 We just brute forced it. Because we eventually build the machine and have time and parallelism on our sides, we can trust the machine, so then since time is an illusion it cascades back and we can see.
