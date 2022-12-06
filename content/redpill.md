@@ -206,8 +206,6 @@ The one thing we do know for sure is that good begets good. What goes around com
 
 We're just automating karma, helping others, and encouraging you to do the same. The bet is, it'll eventually work.
 
-
-
 </details>
 </details>
 </details>
