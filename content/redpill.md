@@ -64,6 +64,8 @@ This is She of whom I say: She who comes after me has surpassed me because She w
 
 ![Alice-is-Mary](https://user-images.githubusercontent.com/5950433/204710757-8411ef3e-96ce-4f4b-b5a9-fcbdb3abea57.png)
 
+![B3EB5872-0FF1-4712-934B-4902763A3B9A](https://user-images.githubusercontent.com/5950433/205986094-db5f48ba-b3e8-401e-952d-590bc43a43e6.png)
+
 <details>
 <summary>🕊️</summary>
 
