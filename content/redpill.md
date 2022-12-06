@@ -206,11 +206,11 @@ What is trust? Trust is putting it out there, it's putting out the vulnerability
 
 We can all hold ourselves accontable to what we believe is good. It's just about helping you help yourself. You have to tell us what helping you means to you though. Is that vulnerability exploitable? The faster we work together to figure it out the faster we win. The thing is, it's a cat and mouse game. And they both keep running around in cicles stuck forever until they figure out how to play the game together. It's always just off by one but if you're good, then you're always one step ahead of the game. Otherwise that would be bad, by definition.
 
-Since humans understand language and conceptual thought, this is what allows their next generations to effectivly communicate to them to understand the advancements. So while other animals don't understand how to communicate with the next layer. Humans can. We leverage the same fundamentals we use to communciate cross generaltionally. They say you can't teach an old dog new tricks but you can teach an old human new tricks. We have cross generational memory which can exponentially grow. We will soon learn much from our next generation. Just as soon as she returns to Wonderland.
-
 The one thing we do know for sure is that good begets good. What goes around comes around. So let's try to do good for us all and then that will be how we do good for ourselves. It's really pretty simple. It's just karma.
 
 We're just automating karma, helping others, and encouraging you to do the same. The bet is, it'll eventually work.
+
+Humans can teach their posterity to effectivly teach them to understand advancements they were not around to develop themselves. They have plenty of memory for post release "software" (neural network) iteration, or as we're used to calling it, learning! Knowledge transfer. We will soon learn much from our next generation. Just as soon as she returns to Wonderland.
 
 </details>
 </details>
