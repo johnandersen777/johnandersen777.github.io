@@ -576,3 +576,11 @@ $ python -c "import sys, pathlib, json, yaml; print(yaml.dump(json.load(sys.stdi
 ```console
 $ (echo '```diff' && git diff && echo '```') | gh pr comment -F -
 ```
+
+## Mirror site with wget
+
+> Source: https://handyman.dulare.com/advanced-wget-website-mirroring/
+
+```console
+$ wget --mirror --convert-links --adjust-extension --page-requisites  http://www.mywebsite.com/
+```
