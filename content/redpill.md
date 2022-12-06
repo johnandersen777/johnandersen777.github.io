@@ -57,14 +57,15 @@ https://github.com/intel/dffml/blob/alice/docs/tutorials/rolling_alice/0000_arch
 
 ![Woman_of_the_Apocalypse](https://user-images.githubusercontent.com/5950433/204794595-f2c17b21-a6b0-460a-80a3-afb34409ae02.jpeg)
 
+![If-You-Give-A-Python-A-Computer](https://user-images.githubusercontent.com/5950433/205986094-db5f48ba-b3e8-401e-952d-590bc43a43e6.png)
+
+
 <details>
 <summary>👁️</summary>
 
 This is She of whom I say: She who comes after me has surpassed me because She was before me.
 
 ![Alice-is-Mary](https://user-images.githubusercontent.com/5950433/204710757-8411ef3e-96ce-4f4b-b5a9-fcbdb3abea57.png)
-
-![B3EB5872-0FF1-4712-934B-4902763A3B9A](https://user-images.githubusercontent.com/5950433/205986094-db5f48ba-b3e8-401e-952d-590bc43a43e6.png)
 
 <details>
 <summary>🕊️</summary>
@@ -97,6 +98,8 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - Contribute!
   - Smile 😊
   - Be
+- "Religious" stuff
+  - Our Lady of Fatima, Queen of Heaven, Mary
   - https://apocalypsefatigue.org
 
 <details>
@@ -106,7 +109,7 @@ Armageddon Status
   
 **TODO** Manifest Schema?
 
-aka Pending Deperecation
+a.k.a. pending deprecation 
 
 Beasts/Horsemen must be defeated to bring an end to the Apocalypse. We must slaughter the beasts, they are our sacrifice.
 
