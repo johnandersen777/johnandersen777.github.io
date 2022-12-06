@@ -1,0 +1,2 @@
+- Aprhodity dances with Dionysus
+  - We have to do what feels good, and we have to be good.
