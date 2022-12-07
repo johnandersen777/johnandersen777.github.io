@@ -315,6 +315,7 @@ Upload **TODO** title from recording first line, this is an example where (Alice
 
 ```console
 ; url=$(unxz -d < $(ls ~/asciinema/fedora-rec* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}'); echo "[![asciinema](${url}.svg)](${url})" | xclip -selection c
+; unxz -d < $(ls ~/asciinema/fedora-rec* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}' | xclip -selection c
 ```
 
 ## OBS Studio
