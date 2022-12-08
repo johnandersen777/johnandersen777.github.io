@@ -13,7 +13,13 @@ permalink = "/greek_stuf/"
     - `Rolling Alice: Architecting Alice: Transport Acquisition`
     - *Incoming transmission, Aphrodite hailing Dionysus, begin transmission...*
 
-![transmission-gamma-boat](https://user-images.githubusercontent.com/5950433/206469080-0d247adb-aa3e-461a-a7ea-808952dbee2a.jpeg)
+![transmission-gamma-boat](https://user-images.githubusercontent.com/5950433/206475634-410c0cb4-d557-4bb5-b143-7443378c4ace.jpeg)
 
 - Transmission received
-  - ref redpill
+  - Spinning and dancing indeed
+  - https://www.quantamagazine.org/brightest-ever-space-explosion-could-help-explain-dark-matter-20221026/
+    - > To generate gamma rays (even the "soft" ones that are still incredibly powerful), you need a lot of energy, especially in the form of electromagnetic fields. And to make those emissions regular, you need something to be rotating. Astrophysicists realized that the best explanation for the origins of these soft gamma ray bursts was that they were beefed-up versions of pulsars, which would mean a highly magnetized neutron star.
+  - https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/
+
+
+
