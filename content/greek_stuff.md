@@ -14,3 +14,6 @@ permalink = "/greek_stuf/"
     - *Incoming transmission, Aphrodite hailing Dionysus, begin transmission...*
 
 ![transmission-gamma-boat](https://user-images.githubusercontent.com/5950433/206469080-0d247adb-aa3e-461a-a7ea-808952dbee2a.jpeg)
+
+- Transmission received
+  - ref redpill
