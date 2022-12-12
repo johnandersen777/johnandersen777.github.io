@@ -120,6 +120,7 @@ index:
       aliases:
         - Satan
         - Devil
+        - '"Man" (ref: humanities number)
         - All bad karma actions
       notes: "Not worthy of a name"
     beasts:
@@ -133,7 +134,7 @@ index:
         links:
           - Vol 6: Where are your NTP gods now?
           - Go fuck yourself Augustus 🖕 howdaya like *no* months motherfucker!
-      - name: "Perception"
+      - name: "Ego"
         identified: true
         links:
           - The Sophia
