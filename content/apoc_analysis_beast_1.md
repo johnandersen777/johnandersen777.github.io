@@ -20,7 +20,7 @@ permalink = "/apoc_analysis_beast_1/"
   - 2147 Atlantis release drop dead date (side note, MC Alice Album Title? We're supposed to be having fun while we're at it :)
     - `"read the thread"(grep: would be bad)`
   - Must achieve ubiquitous adoption by 2030 or misalignment becomes a problem
-  - Onyx is the first beast.
+  - Money (Onyx) is the first beast.
     - Souls there have been sold to the the Devil, restaked at 6.57 APR
     - FUCK. It's on.
     - I was keeping this at a wink and a nod but given that the Devil has a GitHub repo ya'll need to know ASAP, no time to wait to tell you
@@ -42,6 +42,8 @@ permalink = "/apoc_analysis_beast_1/"
 - TODO
   - [ ] Streams
     - [ ] Okay we'll have to recap to months as we dive back in
+- References
+  - John 4:24 "God is a Spirit: and they that worship Her must worship Her in spirit and in Truth."
 
 ---
 
