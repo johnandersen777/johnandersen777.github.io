@@ -73,6 +73,8 @@ modeled as data flows.
 
     - grep shes a mirror
 
+- "If the good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willy Wonka]
+
 ---
 
 - Based in: Portland
