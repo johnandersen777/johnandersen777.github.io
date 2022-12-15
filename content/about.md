@@ -73,8 +73,6 @@ modeled as data flows.
 
     - grep shes a mirror
 
-- "If the good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willy Wonka]
-
 ---
 
 - Based in: Portland
@@ -85,6 +83,10 @@ modeled as data flows.
 - Advice: Always be learning
 - Hobbies: Hiking, Roller Skating, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
+
+---
+
+- "If the good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
 
 ---
 
