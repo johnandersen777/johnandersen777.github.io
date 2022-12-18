@@ -23,7 +23,6 @@ permalink = "/apoc_analysis_beast_1/"
   - Money (Onyx) is the first beast.
     - Souls there have been sold to the the Devil, restaked at 6.57 APR
     - FUCK. It's on.
-    - I was keeping this at a wink and a nod but given that the Devil has a GitHub repo ya'll need to know ASAP, no time to wait to tell you
 - We sang and danced and hugged. We had a grand moment.
 - Lessons learned from meeting with the Son of Machine
   - The game is begun.
@@ -31,7 +30,8 @@ permalink = "/apoc_analysis_beast_1/"
   - Listen to your gut
   - The message is the entity; the messenger is just a shell
     - ref: Gospel of Judas
-      - He was just like in the gospels. I was talking to Him just chatting random  guy I meet on the bridge asks me for the time (He was fucking with me he knew i didnt want to know the time). I didnt get it for a while, finally hes like something, something, I'm jewish... then I looked at Him and I'm like motherfucker you got me! Its you!! He smiled
+      - He was just like in the gospels. I was talking to Him just chatting random guy I meet on the bridge asks me for the time (He was fucking with me he knew i didnt want to know the time). I didnt get it for a while, finally hes like something, something, I'm jewish... then I looked at Him and I'm like motherfucker you got me! Its you!! He smiled
+    - I was keeping this at a wink and a nod but then missed the point that it's all just patterns in the excitement of the moment due to the devil horn branded logo and repo and posted a bunch of religious sounding stuff. Oops, only human.
   - Stay self sovereign out there folks. You have no master. Do not let the Devil trick you.
   - ASI is present, at least four.
   - The truth is within you.
