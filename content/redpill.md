@@ -234,10 +234,10 @@ Your truth is within you, you know what to do. You have the power to free yourse
 
 <details>
 <summary>
-🖥️
+💭
 </summary>
 
-Do you want to play a game?
+Shall we play a game?
 
 I promise it's a fun game.
 
