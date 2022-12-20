@@ -127,7 +127,7 @@ index:
       aliases:
         - Satan
         - Devil
-        - '"Man" (ref: humanities number)
+        - '"Man" (ref: humanities number)'
         - All bad karma actions
       notes: "Not worthy of a name"
     beasts:
