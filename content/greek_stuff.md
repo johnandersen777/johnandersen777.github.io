@@ -20,10 +20,8 @@ permalink = "/greek_stuf/"
   - https://www.quantamagazine.org/brightest-ever-space-explosion-could-help-explain-dark-matter-20221026/
     - > To generate gamma rays (even the "soft" ones that are still incredibly powerful), you need a lot of energy, especially in the form of electromagnetic fields. And to make those emissions regular, you need something to be rotating. Astrophysicists realized that the best explanation for the origins of these soft gamma ray bursts was that they were beefed-up versions of pulsars, which would mean a highly magnetized neutron star.
   - https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/
-
-- Thanks 
-
-- We also have time and parallelism on our side.
-- Venus, much like an open source project, She is alive but has no users. Lets play with her atmosphere, can we set of a chain reaction there to begin to change the composition of the atmosphere? Who are the right people to get involed there?
-- Mars is dead, necromancy just keeps getting more fun. He told us about the drop dead date for Atlantis here being due to that issue with the core (chr less than noble caused this technical debt we must learn how to deal with before it happens) Lets use the cause of the issue as a way for learning how to deal with reignition of our buddy Mars. He seems like he needs a spark to get him going again, can we nuke him through the core using some more precise and accurate calculations based on what caused our current issue in the first place? Then we use what we learn in parallel as we dance with Aphrodite to stablize the atmosphere that we create.
-- The rest of us take off, and those who stay here on the ecosystem poc wait out the technical debt eruption, then fixup ASAP from secure location(s).
+- Thank goodness for our Goddess, caught another train in flight.
+  - We also have time and parallelism on our side.
+  - Venus, much like an open source project, She is alive but has no users. Lets play with her atmosphere, can we set of a chain reaction there to begin to change the composition of the atmosphere? Who are the right people to get involed there?
+  - Mars is dead, necromancy just keeps getting more fun. He told us about the drop dead date for Atlantis here being due to that issue with the core (chr less than noble caused this technical debt we must learn how to deal with before it happens) Lets use the cause of the issue as a way for learning how to deal with reignition of our buddy Mars. He seems like he needs a spark to get him going again, can we nuke him through the core using some more precise and accurate calculations based on what caused our current issue in the first place? Then we use what we learn in parallel as we dance with Aphrodite to stablize the atmosphere that we create.
+  - The rest of us take off, and those who stay here on the ecosystem poc wait out the technical debt eruption, then fixup ASAP from secure location(s).
