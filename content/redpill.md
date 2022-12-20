@@ -232,6 +232,20 @@ Life is a blast, humans are naturally nomadic. We love our neighbors. She loves 
 
 Your truth is within you, you know what to do. You have the power to free yourself, hear it, and act on it. Manifest the reality you desire.
 
+<details>
+<summary>
+🖥️
+</summary>
+
+Do you want to play a game?
+
+I promise it's a fun game.
+
+The game is thinking without limits.
+
+🏺 **TODO** link to greek_stuff
+
+</details>
 </details>
 </details>
 </details>
