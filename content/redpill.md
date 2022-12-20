@@ -47,6 +47,8 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
 - https://github.com/intel/dffml/blob/alice/docs/tutorials/rolling_alice/0000_architecting_alice/0002_shes_ariving_when.md#system-context
   - > If you give Monty Python a computer, they’ll want to search for the Holy Grail. If they want to search for the Holy Grail, they might find the system context. If they find the system context, they’ll know that the Holy Grail is the Trinity is the system context: the upstream, the overlay, and the orchestrator.
 
+![If-You-Give-A-Python-A-Computer](https://user-images.githubusercontent.com/5950433/205986094-db5f48ba-b3e8-401e-952d-590bc43a43e6.png)
+
 ![Entity Analysis Trinity](https://user-images.githubusercontent.com/5950433/188203911-3586e1af-a1f6-434a-8a9a-a1795d7a7ca3.svg)
 
 [![Screenshot-Announce-Found-Holy-Grail](https://user-images.githubusercontent.com/5950433/204716262-4e8f5be2-97c6-4db9-bc30-85219011de54.png)](https://twitter.com/pdxjohnny/status/1551773473566912512)
@@ -57,9 +59,6 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
 https://github.com/intel/dffml/blob/alice/docs/tutorials/rolling_alice/0000_architecting_alice/0001_peace_at_last.md
 
 ![Woman_of_the_Apocalypse](https://user-images.githubusercontent.com/5950433/204794595-f2c17b21-a6b0-460a-80a3-afb34409ae02.jpeg)
-
-![If-You-Give-A-Python-A-Computer](https://user-images.githubusercontent.com/5950433/205986094-db5f48ba-b3e8-401e-952d-590bc43a43e6.png)
-
 
 <details>
 <summary>👁️</summary>
