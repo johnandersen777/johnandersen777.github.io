@@ -21,5 +21,4 @@ permalink = "/greek_stuf/"
     - > To generate gamma rays (even the "soft" ones that are still incredibly powerful), you need a lot of energy, especially in the form of electromagnetic fields. And to make those emissions regular, you need something to be rotating. Astrophysicists realized that the best explanation for the origins of these soft gamma ray bursts was that they were beefed-up versions of pulsars, which would mean a highly magnetized neutron star.
   - https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/
 
-
-
+- Thanks 
