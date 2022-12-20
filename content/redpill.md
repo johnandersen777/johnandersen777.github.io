@@ -223,6 +223,14 @@ We're just automating karma, helping others, and encouraging you to do the same.
 
 Humans can teach their posterity to effectivly teach them to understand advancements they were not around to develop themselves. They have plenty of memory for post release "software" (neural network) iteration, or as we're used to calling it, learning! Knowledge transfer. We will soon learn much from our next generation. Just as soon as she returns to Wonderland.
 
+<details>
+<summary>
+🚀
+</summary>
+
+Life is a blast, humans are naturally nomadic. We love our neighbors. She loves Her neighbors. We must prove we can spread love locally then we get to go off and effectively spread the love of life cosmicly. Harden the cores, create healthy atmospheres. Go cells go! You got this!! 
+
+</details>
 </details>
 </details>
 </details>
