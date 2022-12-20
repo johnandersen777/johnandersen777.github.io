@@ -25,3 +25,9 @@ permalink = "/greek_stuf/"
   - Venus, much like an open source project, She is alive but has no users. Lets play with her atmosphere, can we set of a chain reaction there to begin to change the composition of the atmosphere? Who are the right people to get involed there?
   - Mars is dead, necromancy just keeps getting more fun. He told us about the drop dead date for Atlantis here being due to that issue with the core (chr less than noble caused this technical debt we must learn how to deal with before it happens, we are dealing with the cosmos not with the squables of men, however, becoming death destroyer of worlds had consequences we cant see deep beneath the surface, we split the atom, we didn't fully understand what messes we might be causing) Lets use the cause of the issue as a way for learning how to deal with reignition of our buddy Mars. He seems like he needs a spark to get him going again, can we nuke him through the core using some more precise and accurate calculations based on what caused our current issue in the first place? Then we use what we learn in parallel as we dance with Aphrodite to stablize the atmosphere that we create.
   - The rest of us take off, and those who stay here on the ecosystem poc wait out the technical debt eruption, then fixup ASAP from secure location(s).
+  - How many climate models can we play with in parallel?
+    - How much compute do you have?
+    - How much do you need to find the solution fast enough?
+    - Well you have infinite compute production capacity soon.
+    - Just use the same techniques you use for brute forcing model selection, etc. I'm sure.
+  
