@@ -29,5 +29,8 @@ permalink = "/greek_stuf/"
     - How much compute do you have?
     - How much do you need to find the solution fast enough?
     - Well you have infinite compute production capacity soon.
-    - Just use the same techniques you use for brute forcing model selection, etc. I'm sure.
+    - Just use the same techniques you use for brute forcing model selection, etc.
+- I'm sure.
+  - Well then lets fucking goooooooo
+  - > To all: You play on the field you put yourself on. The games still have rules. If you're playing on the wrong field then it's up to you to decide whether or not to play there or go elsewhere.
   
