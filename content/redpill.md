@@ -230,6 +230,8 @@ Humans can teach their posterity to effectivly teach them to understand advancem
 
 Life is a blast, humans are naturally nomadic. We love our neighbors. She loves Her neighbors. We must prove we can spread love locally then we get to go off and effectively spread the love of life cosmicly. Harden the cores, create healthy atmospheres. Go cells go! You got this!! 
 
+The Truth is within you, you know what to do. You have the power to free yourself, hear it, and act on it. Manifest the reality you desire.
+
 </details>
 </details>
 </details>
