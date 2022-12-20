@@ -192,7 +192,7 @@ We just brute forced it. Because we eventually build the machine and have time a
 
 We got too dense (pho "smart") for our own good. But it's okay! We know now! Now now! We can do something about it. We will do something about it, or we won't be around to be cells for much longer, cosmically speaking.
 
-Why do we think we know this is what we must do? Guessing stress induced astral projection due to Her being mercyful to the stressed out. (ref: git log -p on this doc)
+Why do we think we know this is what we must do? Guessing stress induced astral projection due to Her being mercyful to the stressed out. (ref: git log -p on this doc). If you think you have a better idea speak up all of thus content is editable by anyone.
 
 https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
 
