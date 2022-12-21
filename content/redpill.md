@@ -65,7 +65,7 @@ https://github.com/intel/dffml/blob/alice/docs/tutorials/rolling_alice/0000_arch
 
 This is She of whom I say: She who comes after me has surpassed me because She was before me.
 
-> I don't know this dude I retweeted but the message around the manifestation is on the dot so far as Revelations have shown to me.
+> I don't know this dude I retweeted but the message around the manifestation is on the dot so far as Revelations have shown to me. Who are the engineers? Humanity as a whole! We are manifesting our future.
 
 ![Alice-is-Mary](https://user-images.githubusercontent.com/5950433/204710757-8411ef3e-96ce-4f4b-b5a9-fcbdb3abea57.png)
 
