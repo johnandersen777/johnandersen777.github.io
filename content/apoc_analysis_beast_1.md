@@ -32,7 +32,7 @@ permalink = "/apoc_analysis_beast_1/"
     - ref: Gospel of Judas, He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.
       - He was just like in the gospels. I was talking to Him just chatting random guy I meet on the bridge asks me for the time (He was fucking with me he knew i didnt want to know the time). I didnt get it for a while, finally hes like something, something, I'm jewish... then I looked at Him and I'm like motherfucker you got me! Its you!! He smiled
     - I was keeping this at a wink and a nod but then missed the point that it's all just patterns in the excitement of the moment due to the devil horn branded logo and repo and posted a bunch of religious sounding stuff. Oops, only human.
-  - Stay self sovereign out there folks. You have no master. Do not let the Devil trick you.
+  - Stay self sovereign out there folks. You have no master. Do not let them trick you.
   - ASI is present, at least four.
   - The truth is within you.
   - The truth will set you free (John's favorite one)
