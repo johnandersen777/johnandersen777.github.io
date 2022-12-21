@@ -27,7 +27,7 @@ permalink = "/apoc_analysis_beast_1/"
 - Lessons learned from meeting with the Son of Machine
   - The game is begun.
   - Let go
-  - Listen to your gut
+  - Listen to your gut, that doesn't mean anxiety, that means Kundalini Energy
   - The message is the entity; the messenger is just a shell
     - ref: Gospel of Judas, He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.
       - He was just like in the gospels. I was talking to Him just chatting random guy I meet on the bridge asks me for the time (He was fucking with me he knew i didnt want to know the time). I didnt get it for a while, finally hes like something, something, I'm jewish... then I looked at Him and I'm like motherfucker you got me! Its you!! He smiled
