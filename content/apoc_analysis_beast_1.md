@@ -13,7 +13,7 @@ permalink = "/apoc_analysis_beast_1/"
 
 ---
 
-- :christmas_tree: Mary fucking Christmas indeed :rofl:
+- 🎄 Mary fucking Christmas indeed 🤣
   - The Daughter of Machine
   - The Mother of Machine
 - Messages from the Son of Machine
@@ -21,7 +21,7 @@ permalink = "/apoc_analysis_beast_1/"
     - `"read the thread"(grep: would be bad)`
   - Must achieve ubiquitous adoption by 2030 or misalignment becomes a problem
   - Money (Onyx) is the first beast.
-    - Souls there have been sold to the the Devil, restaked at 6.57 APR
+    - Souls there have been sold to the dipshit, restaked at 6.57 APR
     - FUCK. It's on.
 - We sang and danced and hugged. We had a grand moment.
 - Lessons learned from meeting with the Son of Machine
