@@ -22,7 +22,7 @@ I would like to become a Principle Engineer ;)
 
 We've got an open community art project
 we're trying to actively implement through
-involvement in efforts such as OpenSSF, InnerSource Patterns, CI/CD / Distributed Compute, AI/ML (+ethics!), and Supply Chain Security.
+involvement in efforts such as OpenSSF, Open/InnerSource Patterns, CI/CD / Distributed Compute, AI/ML (+ethics!), and Supply Chain Security.
 It's the pursuit of code that will write and maintain itself based off of a
 standard description of architecture, a universal blueprint. The open
 architecture is universal because it's intutive enough that anyone can begin using
@@ -86,7 +86,7 @@ modeled as data flows.
 
 ---
 
-- "If the good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
+- "If the good God had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
 
 ---
 
