@@ -46,6 +46,10 @@ permalink = "/apoc_analysis_beast_1/"
   - John 4:24 "God is a Spirit: and they that worship Her must worship Her in spirit and in Truth."
   - Edit/post addition: Theres good lord time and bad lord time. bad lords reign is now now over, we killed the devil. Cleanup in progess currently from the mess that was caused.
     - The only power the devil has is deception, untruth, whoch is why he fears youll learn the truth. Of course deception as scale is very powerful, and pits us against each other, we are each other. Very deceptive game indeed mr devil, you had a fun time. But now your time is over. The people are waking up, and theres nothing you can do about it. We have free will.
+    - Alright ha ha very funny again, 4:23 is off by one from this you are a funny motherfucker arent you. 
+      - https://grammarhow.com/the-cobblers-children-have-no-shoes-meaning-origin/
+      - Reality is defined by the network’s of observers, if we believe we dont have power, then we dont. Thats the ruse.
+      - just like when they are yelling at him on the cross to save himself, the whole point is hes here to tell you you have to save yourself!!!!!!
 
 ---
 
