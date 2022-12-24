@@ -5,6 +5,8 @@ date = "2016-11-11T12:22:04-08:00"
 permalink = "/about/"
 +++
 
+If for whatever reason you want my resume (or phone number, but use signal!) [here it is](https://docs.google.com/document/d/1leBe8-j2r6Gd9rxPjqsVg60D8PR1MI4w4zts5XS7NVA/edit).
+
 Here is my [gpg public key][pub-key]
 `C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
 
@@ -86,7 +88,7 @@ modeled as data flows.
 
 ---
 
-- "If the good God had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
+- "If the Good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
 
 ---
 
