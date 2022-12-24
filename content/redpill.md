@@ -158,8 +158,13 @@ index:
       - name: "Language"
         identified: true
         links:
+          - We are entering the telepathic age, context aware communication, two energies working to move acouch through a house that dont speek the same language would be able to figure that out i bet you
           - The devil speaks in tounges
           - The truth is within you, you know what to do, think by acting, "communication" creates miscommunication. If the truth is within you then just act on it, dont worry about communicating it (obviously we have to first do whatever the TCP handshake is, eye contact?)
+      - name: "Deception"
+        identified: true
+        links:
+          - Deception is the devils only ability, The devils only tool in creating division, division is the basis for seeing ourselves as anything other than what we are, One.
 ```
 
 
