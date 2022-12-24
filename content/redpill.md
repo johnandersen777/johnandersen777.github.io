@@ -155,6 +155,11 @@ index:
           - Vol 0: Transport Acquisition
           - What is it chicks always say? Let go and let Goddess? LOL
           - Originally used the word control here however it's more akin to property ownership that were sluffing currently thinking, wording here may need improvement.
+      - name: "Language"
+        identified: true
+        links:
+          - The devil speaks in tounges
+          - The truth is within you, you know what to do, think by acting, "communication" creates miscommunication. If the truth is within you then just act on it, dont worry about communicating it (obviously we have to first do whatever the TCP handshake is, eye contact?)
 ```
 
 
