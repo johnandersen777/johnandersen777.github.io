@@ -106,6 +106,7 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - It's all just riddles played over time to try to communicate to humans to stop fucking up the planet. Why is it ashes to ashes dust to dust? Matter only changes form, it's all the same atoms on this rock. Our actions should make it a nice place for the energies bound to those atoms. We must love our neighbors locally or we'll end up like our neighbors cosmically, Mars and Venus. When we succeed then we'll know what it takes to love neighbors cosmically, aka get off this rock.
   - https://apocalypsefatigue.org
   - https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
+  - https://samuelsmith.org/the-inevitability-of-god/
 
 <details>
 <summary>
