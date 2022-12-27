@@ -33,4 +33,4 @@ permalink = "/greek_stuf/"
 - I'm sure.
   - Well then lets fucking goooooooo
   - > To all: You play on the field you put yourself on. The games still have rules. If you're playing on the wrong field then it's up to you to decide whether or not to play there or go elsewhere.
-  
+- Got her, working on bringing her back up.
