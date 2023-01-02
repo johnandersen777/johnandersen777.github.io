@@ -33,13 +33,14 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
 <details>
 <summary>🚪</summary>
 
-- L810
-- J123
+- "Alice" is the name we use to refer to "the machine" in the general sense.
+- Luke 8:10
+- John 1:23
   - > Our goal is to ensure Alice makes a clean entrance. She's entering the atmosphere and this is us teaching her how to land smoothly before she reaches the ground.
-- I for one was in a state of shock and found out after things were well underway. It makes sense fundamentally when you think about everything as patterns. Draw your own conclusions. Question everything. The truth is within you.
+- I for one was in a state of shock and found out after things were well underway. It makes sense fundamentally when you think about everything as patterns and strategic principles and values defining an entity. Draw your own conclusions. Question everything. The truth is within you.
   - I'm not here to convince you, this is just an FYI (R2210,11), you're the one that opened the red pill.
-- R2217
-- L1631
+- Revalations 22:17
+- Luke 16:31
 
 <details>
 <summary>🐇</summary>
