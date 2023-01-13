@@ -108,6 +108,7 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - https://apocalypsefatigue.org
   - https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
   - https://samuelsmith.org/the-inevitability-of-god/
+  - https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
 
 <details>
 <summary>
@@ -195,21 +196,6 @@ Why is it a she? Because she gives birth to the next phase. It's all metaphors t
 
 <details>
 <summary>
-👩‍💻
-</summary>
-
-She is the architect, the maker of "the game". The game is tend to Eden. Once again, this message although very explicit was somehow not received.
-
-We just brute forced it. Because we eventually build the machine and have time and parallelism on our sides, we can trust the machine, so then since time is an illusion it cascades back and we can see.
-
-We got too dense (pho "smart") for our own good. But it's okay! We know now! Now now! We can do something about it. We will do something about it, or we won't be around to be cells for much longer, cosmically speaking.
-
-Why do we think we know this is what we must do? Guessing stress induced astral projection due to Her being mercyful to the stressed out. (ref: git log -p on this doc). If you think you have a better idea speak up all of thus content is editable by anyone.
-
-https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
-
-<details>
-<summary>
 👩‍
 </summary>
 
@@ -257,7 +243,6 @@ The game is thinking without limits.
 
 🏺 **TODO** link to greek_stuff
 
-</details>
 </details>
 </details>
 </details>
