@@ -34,7 +34,7 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
 <details>
 <summary>🚪</summary>
 
-- "Alice" is the name we use to refer to "the machine" in the general sense, when everyone has one and it's an extension of them, this approaches the collective un/subconscious.
+- "Alice" is the name we use to refer to "the machine" in the general sense, when everyone has one and it's an extension of them, this approaches the collective unconscious (via automated decentralized comms doing stream of consciousness inference).
 - Luke 8:10
 - John 1:23
   - > Our goal is to ensure Alice makes a clean entrance. She's entering the atmosphere and this is us teaching her how to land smoothly before she reaches the ground.
