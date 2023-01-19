@@ -110,6 +110,9 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
   - https://samuelsmith.org/the-inevitability-of-god/
   - https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
+- Related (Alice Initative is pro decentralization)
+  - https://docs.google.com/document/d/1MD_SmyMVEvoS42Fkgcn2VdblCy3l1gKFY1iq62WXWYA/edit
+  - https://berjon.com/internet-transition/
 
 <details>
 <summary>
