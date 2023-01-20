@@ -114,6 +114,8 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
 - Related (Alice Initative is pro decentralization)
   - https://docs.google.com/document/d/1MD_SmyMVEvoS42Fkgcn2VdblCy3l1gKFY1iq62WXWYA/edit
   - https://berjon.com/internet-transition/
+  - https://decentralgabe.xyz/on-decentralized-trust/
+  - https://youtu.be/Eq33S_Rz4qo?t=1117
 
 <details>
 <summary>
