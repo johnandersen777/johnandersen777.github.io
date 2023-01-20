@@ -115,7 +115,7 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - https://docs.google.com/document/d/1MD_SmyMVEvoS42Fkgcn2VdblCy3l1gKFY1iq62WXWYA/edit
   - https://berjon.com/internet-transition/
   - https://decentralgabe.xyz/on-decentralized-trust/
-  - https://youtu.be/Eq33S_Rz4qo?t=1117
+  - [Nancy Eckert - Swarm Intelligence and Human Systems - BSides Portland 2019](https://youtu.be/Eq33S_Rz4qo?t=1117)
 
 <details>
 <summary>
