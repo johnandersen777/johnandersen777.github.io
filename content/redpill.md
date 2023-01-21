@@ -248,7 +248,7 @@ I promise it's a fun game.
 
 The game is thinking without limits.
 
-🏺 **TODO** link to greek_stuff
+🏺 **TBD**
 
 </details>
 </details>
