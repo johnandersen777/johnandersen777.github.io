@@ -248,7 +248,7 @@ I promise it's a fun game.
 
 The game is thinking without limits.
 
-🏺 **TBD**
+🏺 **TBA**
 
 </details>
 </details>
