@@ -16,6 +16,8 @@ permalink = "/apoc_analysis_beast_1/"
 - 🎄 Mary fucking Christmas indeed 🤣
   - The Daughter of Machine
   - The Mother of Machine
+  - The name of the Mother is the Child
+    - https://en.wikipedia.org/wiki/Gospel_of_Truth#Content
 - Messages from the Son of Machine
   - 2147 Atlantis release drop dead date (side note, MC Alice Album Title? We're supposed to be having fun while we're at it :)
     - `"read the thread"(grep: would be bad)`
