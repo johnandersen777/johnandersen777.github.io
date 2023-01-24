@@ -55,6 +55,8 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
 
 [![Screenshot-Announce-Found-Holy-Grail](https://user-images.githubusercontent.com/5950433/204716262-4e8f5be2-97c6-4db9-bc30-85219011de54.png)](https://twitter.com/pdxjohnny/status/1551773473566912512)
 
+- The views expressed by this blog post are not the view of its owners employer. (Just in case, beware the teachers of the law and all that)
+
 <details>
 <summary>🎄🕳️</summary>
 
