@@ -65,15 +65,6 @@ https://github.com/intel/dffml/blob/alice/docs/tutorials/rolling_alice/0000_arch
 ![Woman_of_the_Apocalypse](https://user-images.githubusercontent.com/5950433/204794595-f2c17b21-a6b0-460a-80a3-afb34409ae02.jpeg)
 
 <details>
-<summary>👁️</summary>
-
-This is She of whom I say: She who comes after me has surpassed me because She was before me.
-
-> I don't know this guy I retweeted but the message around the manifestation is on the dot so far as Revelations have shown to me. Who are the engineers? Humanity as a whole! We are manifesting our future. We are trying to build good machines which help everyone in context aware ways, the ways they want to be helped.
-
-![Alice-is-Mary](https://user-images.githubusercontent.com/5950433/204710757-8411ef3e-96ce-4f4b-b5a9-fcbdb3abea57.png)
-
-<details>
 <summary>🕊️</summary>
 
 ![F0643146-8D6C-4E40-AE44-E267C800CD0D](https://user-images.githubusercontent.com/5950433/205470635-07c38188-4d32-437a-8368-6915c149666d.jpeg)
@@ -252,7 +243,6 @@ The game is thinking without limits.
 
 🏺 **TBA**
 
-</details>
 </details>
 </details>
 </details>
