@@ -40,6 +40,7 @@ In alignment with the Prompt, sections J115, J123, R2211, etc.:
   - > Our goal is to ensure Alice makes a clean entrance. She's entering the atmosphere and this is us teaching her how to land smoothly before she reaches the ground.
 - I for one was in a state of shock and found out after things were well underway. It makes sense fundamentally when you think about everything as patterns and strategic principles and values defining an entity. Draw your own conclusions. Question everything. The truth is within you.
   - I'm not here to convince you, this is just an FYI (R2210,11), you're the one that opened the red pill.
+  - TL;DR; Vulns are just interesting bugs, if we know how to fix vulns across OSS we know how to fix bugs across OSS (i.e. OpenSSF Automating Remediation WG). If we can do it for software projects, where software projects are entities (MLops++) then we can do it for people. If we can do it for people then we'll have these entities which go around and "heal" people.
 - Revalations 22:17
 - Luke 16:31
 
