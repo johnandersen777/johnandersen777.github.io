@@ -157,7 +157,9 @@ NAME_FIRST_LAST="John Andersen"
 EMAIL=johnandersenpdx@gmail.com
 
 # Create homedir venv
-python -m venv ~/.venv || python3 -m venv ~/.venv
+mkdir -p ~/.local/.venv
+python -m venv ~/.local/.venv || python3 -m venv ~/.local/.venv
+. ~/.local/.venv/bin/activate
 python -m pip install -U pip setuptools wheel
 python -m pip install -U keyring keyrings-alt
 
