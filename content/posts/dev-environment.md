@@ -156,6 +156,11 @@ homedir via curl + tar.
 NAME_FIRST_LAST="John Andersen"
 EMAIL=johnandersenpdx@gmail.com
 
+# Create homedir venv
+python -m venv ~/.venv || python3 -m venv ~/.venv
+python -m pip install -U pip setuptools wheel
+python -m pip install -U keyring keyrings-alt
+
 # Install GitHub CLI
 # https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
