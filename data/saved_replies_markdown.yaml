@@ -3,7 +3,7 @@ references:
 - https://github.com/intel/dffml/discussions/1406?sort=new
 index:
 - name: chaos-for-the-chaos-god
-  content: ![chaos-for-the-chaos-god](https://user-images.githubusercontent.com/5950433/220794351-4611804a-ac72-47aa-8954-cdb3c10d6a5b.jpg)`
+  content: "![chaos-for-the-chaos-god](https://user-images.githubusercontent.com/5950433/220794351-4611804a-ac72-47aa-8954-cdb3c10d6a5b.jpg)"
   description: |
     chaos: diversity of authorship applied to clustering model run on all thoughts
     (dataflows) where each dataflow maps to line changed and the cluster classification
@@ -21,16 +21,16 @@ index:
   content: 🛤️🛤️🛤️🛤️🛤️🛤️🛤️
   description: We accelerate a train of thought (/acc/)
 - name: oci-all-the-things
-  content: ![oci-all-the-things](https://user-images.githubusercontent.com/5950433/222979759-0dd374b2-ee5f-4cbc-92d1-5cb8de078ee8.png)
+  content: "![oci-all-the-things](https://user-images.githubusercontent.com/5950433/222979759-0dd374b2-ee5f-4cbc-92d1-5cb8de078ee8.png)"
   description: We use manifests or containers
 - name: knowledge-graphs-for-the-knowledge-god
-  content: ![knowledge-graphs-for-the-knowledge-god](https://user-images.githubusercontent.com/5950433/222981558-0b50593a-c83f-4c6c-9aff-1b553403eac7.png)
+  content: "![knowledge-graphs-for-the-knowledge-god](https://user-images.githubusercontent.com/5950433/222981558-0b50593a-c83f-4c6c-9aff-1b553403eac7.png)"
   description: We find more ways to on-ramp data to the hypergraph
 - name: live-demo-for-the-live-demo-god
-  content: ![live-demo-for-the-live-demo-god](https://user-images.githubusercontent.com/5950433/226699339-45b82b38-a7fc-4f2f-a858-e52ee5a6983d.png)
+  content: "![live-demo-for-the-live-demo-god](https://user-images.githubusercontent.com/5950433/226699339-45b82b38-a7fc-4f2f-a858-e52ee5a6983d.png)"
   description: We do a live demo
 - name: such-alignment
-  content: ![such-alignment](https://user-images.githubusercontent.com/5950433/226707682-cfa8dbff-0908-4a34-8540-de729c62512f.png)
+  content: "![such-alignment](https://user-images.githubusercontent.com/5950433/226707682-cfa8dbff-0908-4a34-8540-de729c62512f.png)"
   description: We see alignment happening
 - name: meh-face
   content: `¯\_(ツ)_/¯`
