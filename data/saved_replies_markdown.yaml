@@ -23,9 +23,9 @@ index:
 - name: oci-all-the-things
   content: ![oci-all-the-things](https://user-images.githubusercontent.com/5950433/222979759-0dd374b2-ee5f-4cbc-92d1-5cb8de078ee8.png)
   description: We use manifests or containers
-- name: We find more ways to on-ramp data to the hypergraph
+- name: knowledge-graphs-for-the-knowledge-god
   content: ![knowledge-graphs-for-the-knowledge-god](https://user-images.githubusercontent.com/5950433/222981558-0b50593a-c83f-4c6c-9aff-1b553403eac7.png)
-  description: 
+  description: We find more ways to on-ramp data to the hypergraph
 - name: live-demo-for-the-live-demo-god
   content: ![live-demo-for-the-live-demo-god](https://user-images.githubusercontent.com/5950433/226699339-45b82b38-a7fc-4f2f-a858-e52ee5a6983d.png)
   description: We do a live demo
