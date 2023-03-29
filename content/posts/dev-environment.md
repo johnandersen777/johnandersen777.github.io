@@ -204,7 +204,7 @@ git commit -sam "Initial auto-tailor for $(hostname)"
 git push
 
 # Install extras
-pip install -U https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.zip#egg=youtube-dl
+pip install --force-reinstall -U https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.tar.gz#egg=youtube_dl
 ```
 
 ### TODO
