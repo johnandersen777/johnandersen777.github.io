@@ -174,13 +174,17 @@ sudo apt install -y gh
 gh auth login
 
 # Configure git
-git config user.name $NAME_FIRST_LAST
-git config user.email $EMAIL
+git config --global user.name $NAME_FIRST_LAST
+git config --global user.email $EMAIL
+git config --global pull.rebase true
 
 # Clone dotfiles
 git clone https://github.com/pdxjohnny/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
+echo -e 'if [ -f ~/.pdxjohnnyrc ]; then\n. ~/.pdxjohnnyrc\nfi' | tee "${HOME}/.bashrc"
+history -a
+exec bash
 dotfiles_branch=$(hostname)-$(date "+%4Y-%m-%d-%H-%M")
 git checkout -b $dotfiles_branch
 git push --set-upstream origin $dotfiles_branch
