@@ -202,6 +202,9 @@ sed -i "s/Dot Files/Dot Files: $dotfiles_branch/g" README.md
 cd ~/.dotfiles
 git commit -sam "Initial auto-tailor for $(hostname)"
 git push
+
+# Install extras
+pip install -U https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.zip#egg=youtube-dl
 ```
 
 ### TODO
