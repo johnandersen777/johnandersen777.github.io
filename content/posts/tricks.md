@@ -314,8 +314,8 @@ xz --stdout -d - < ~/Downloads/asci* | python -m asciinema play -s 20 -
 Upload **TODO** title from recording first line, this is an example where (Alice shell / dataflows) parallel stream processing shines due to `tee >(export title=$(read))` not being available for `${title}` in place of `asciinema` with no-ghost bash. With ghost being with Alice, with these parallel / concurrent sub streams.
 
 ```console
-; url=$(unxz -d < $(ls ~/asciinema/fedora-rec* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}'); echo "[![asciinema](${url}.svg)](${url})" | xclip -selection c
-; unxz -d < $(ls ~/asciinema/fedora-rec* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}' | xclip -selection c
+; url=$(unxz -d < $(ls ~/asciinema/$(hostname)-* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}'); echo "[![asciinema](${url}.svg)](${url})" | xclip -selection c
+; unxz -d < $(ls ~/asciinema/$(hostname)-* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}' | xclip -selection 
 ; git diff | gh gist create -d $(unxz -d < $(ls ~/asciinema/$(hostname)-* | tail -n 1) | python -m asciinema upload /dev/stdin 2>&1 | grep https | awk '{print $NF}') -f with-rec.patch -
 ```
 
