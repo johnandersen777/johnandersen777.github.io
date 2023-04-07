@@ -597,5 +597,6 @@ $ wget --mirror --convert-links --adjust-extension --page-requisites  http://www
 ## Remove bullshit docker images
 
 ```console
+$ docker rm $(docker ps -qa)
 $ docker rmi $(docker images | grep \<none\> | awk '{print $3}')
 ```
