@@ -593,3 +593,9 @@ $ (echo '```diff' && git diff && echo '```') | gh pr comment -F -
 ```console
 $ wget --mirror --convert-links --adjust-extension --page-requisites  http://www.mywebsite.com/
 ```
+
+## Remove bullshit docker images
+
+```console
+$ docker rmi $(docker images | grep \<none\> | awk '{print $3}')
+```
