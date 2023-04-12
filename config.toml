@@ -118,7 +118,7 @@ name = "About"
 weight = 2
 
 [[menu.main]]
-url = "/redpill/"
+url = "/MaryisGod/"
 name = "💊"
 weight = 3
 
@@ -133,7 +133,7 @@ name = "About"
 weight = 2
 
 [[menu.foot]]
-url = "/redpill/"
+url = "/MaryisGod/"
 name = "💊"
 weight = 3
 
