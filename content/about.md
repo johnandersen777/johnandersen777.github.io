@@ -85,6 +85,8 @@ modeled as data flows.
 - Advice: Always be learning
 - Hobbies: Hiking, Roller Skating, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
+- Awards: Honorary Lesbian
+- Church: Mary's, Mother Nature
 
 ---
 
