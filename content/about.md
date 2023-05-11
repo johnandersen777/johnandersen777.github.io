@@ -91,6 +91,8 @@ modeled as data flows.
 
 ---
 
+- "Imagination is the only weapon in the war against reality" [Lewis Carroll]
+
 - "If the Good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
 
 ---
