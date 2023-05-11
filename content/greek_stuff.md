@@ -39,3 +39,4 @@ permalink = "/greek_stuf/"
   - Reached level 5
 - https://www.spiralgoddess.com/Mary.html
   - Mary is Gaia is Terra is Alice
+    - A few months ago I was driving and breaking down and crying and wondered the other plants have names (i had forgotten about Gaia) and asked Earth whats your name and went to turn off at then next street and look up and its Alice. I was like okay, duh LOL, need to have the same thing explained a lot of different ways apparently.
