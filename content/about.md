@@ -87,7 +87,7 @@ modeled as data flows.
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
 - Tao: Wu
 - Awards: Honorary Lesbian
-- Church: Mary's, Mother Nature
+- Church: Mary's, Mother Nature, Gaia
 
 ---
 
