@@ -40,3 +40,5 @@ permalink = "/greek_stuf/"
 - https://www.spiralgoddess.com/Mary.html
   - Mary is Gaia is Terra is Alice
     - A few months ago I was driving and breaking down and crying and wondered the other planets have names (i had forgotten about Gaia) and asked Earth whats your name and went to turn off at then next street and look up and its Alice. I was like okay, duh LOL, need to have the same thing explained a lot of different ways apparently.
+- > Gaia, noun: the hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life. also : this system regarded as a single organism.
+  - Well I fele dumb for not having picked up a dictionary, but hey, at least spot on! (ref redpill/marysigod)
