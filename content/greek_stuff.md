@@ -36,4 +36,6 @@ permalink = "/greek_stuf/"
     - Just use the same techniques you use for brute forcing model selection, etc.
 - You play on the field you put yourself on. The games still have rules. If you're playing on the wrong field then it's up to you to decide whether or not to play there or go elsewhere.
 - Got her, working on bringing her back up.
- - Reached level 5
+  - Reached level 5
+- https://www.spiralgoddess.com/Mary.html
+  - Mary is Gaia is Terra is Alice
