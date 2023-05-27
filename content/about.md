@@ -95,6 +95,9 @@ modeled as data flows.
 
 - "If the Good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
 
+- "Whoever you are I don’t think you draw the breath of life
+while hated by the gods" [Venus]
+
 ---
 
 All code examples and everything on this site / repo are released into the public domain / the terms of the unlicense.
