@@ -600,3 +600,12 @@ $ wget --mirror --convert-links --adjust-extension --page-requisites  http://www
 $ docker rm $(docker ps -qa)
 $ docker rmi $(docker images | grep \<none\> | awk '{print $3}')
 ```
+
+## Print all lines and variables in a Python file as it executes
+
+https://github.com/alexmojaki/snoop
+
+```console
+$ python -m pip install snoop
+$ sed -e 's/import os/import snoop\n&/g' -e 's/def main/@snoop\n&/g' ~/dffml/.github/actions/create_manifest_instance_build_images_containers/images_containers_manifest.py
+```
