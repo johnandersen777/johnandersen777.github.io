@@ -128,3 +128,9 @@ Bash history
 ## 2022-07-13
 
 - https://cfcd-prep.cloudfoundry.org/pushing/envars/
+
+## 2023-06-13
+
+- React hooks useAsync
+  - https://www.30secondsofcode.org/react/s/use-async/
+  - https://github.com/30-seconds/30-seconds-of-code
