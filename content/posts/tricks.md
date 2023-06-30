@@ -609,3 +609,14 @@ https://github.com/alexmojaki/snoop
 $ python -m pip install snoop
 $ sed -e 's/import os/import snoop\n&/g' -e 's/def main/@snoop\n&/g' ~/dffml/.github/actions/create_manifest_instance_build_images_containers/images_containers_manifest.py
 ```
+
+## Remap fields with jq
+
+```console
+$ echo '{"mykey": {"a": 42}}' | jq 'to_entries[] | {(.key): {"alice": (.value."a")}}' | jq -s 'add'
+{
+  "mykey": {
+    "alice": 42
+  }
+}
+```
