@@ -620,3 +620,11 @@ $ echo '{"mykey": {"a": 42}}' | jq 'to_entries[] | {(.key): {"alice": (.value."a
   }
 }
 ```
+
+## SSH through socks proxy with netcat
+
+- https://superuser.com/questions/454210/how-can-i-use-ssh-with-a-socks-5-proxy
+
+```console
+$ ssh -R 80:localhost:8080 -o ProxyCommand="nc -X 5 -x 127.0.0.1:6000 %h %p" nokey@localhost.run
+```
