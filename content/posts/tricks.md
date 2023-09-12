@@ -628,3 +628,7 @@ $ echo '{"mykey": {"a": 42}}' | jq 'to_entries[] | {(.key): {"alice": (.value."a
 ```console
 $ ssh -R 80:localhost:8080 -o ProxyCommand="nc -X 5 -x 127.0.0.1:6000 %h %p" nokey@localhost.run
 ```
+
+```console
+$ ssh -nT -R 80:localhost:8080 nokey@localhost.run 2>/dev/null | grep --line-buffered 'tunneled with tls' | awk '{print $NF}' | tee public-url.txt &
+```
