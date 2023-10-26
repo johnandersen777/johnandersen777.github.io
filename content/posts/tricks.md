@@ -566,10 +566,25 @@ $ shutdown /r /fw /f /t 0
 $ git push -u origin $(git branch | grep -E '^\*' | sed -e 's/\* //')
 ```
 
-## `ssh` port forward remote port to enable connection via local port
+## `ssh` port forward remote port to enable connection via local port to port on remote server
 
 ```console
 $ ssh -nNT -L 8000::8000 target
+```
+
+## `ssh` port forward local port to enable connection to port on remote server to access local port
+
+```console
+$ ssh -nNT -R 127.0.0.1:6000:0.0.0.0:6000 target
+```
+
+Ensure `GatewayPorts` is `yes` server side
+
+**/etc/ssh/sshd_config**
+
+```
+AllowTcpForwarding yes
+GatewayPorts yes
 ```
 
 ## JSON to YAML with Python CLI
