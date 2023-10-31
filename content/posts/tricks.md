@@ -39,7 +39,13 @@ $ git grep -A 25 -E 'dffml train|dffml accuracy|dffml predict' | python -c 'impo
 ## Display a file as plain text in a browser
 
 ```console
-$ (echo -e 'HTTP/1.0 200 OK\n' && cat myfile.txt) | nc -Nlp 8080
+$ (echo -e 'HTTP/1.0 200 OK\n' && cat myfile.txt) | nc -Nlp 8000
+```
+
+If you have `socat` that's better, as chrome sometimes requests the favicon then netcat closes the listening socket. `socat` will serve multiple connections.
+
+```console
+$ (echo -e 'HTTP 1.0\n200 OK\n' && cat myfile.txt | tee /dev/stderr | socat - TCP-LISTEN:8000,fork,reuseaddr
 ```
 
 Redisplay on reload.
