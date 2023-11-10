@@ -698,7 +698,7 @@ doctl compute ssh-key import $(hostname) --public-key-file "${HOME}/.ssh/id_rsa.
 doctl compute droplet delete --force $(doctl compute droplet get --no-header --format ID "${COMPUTE_NAME}")
 
 export COMPUTE_IPV4=$(doctl compute droplet list --no-header --format PublicIPv4 "${COMPUTE_NAME}")
-$ ssh -t -i "${HOME}/.ssh/id_rsa.pub" -o StrictHostKeyChecking=no "root@${COMPUTE_IPV4}" "tmux a"
+ssh -t -i "${HOME}/.ssh/id_rsa.pub" -o StrictHostKeyChecking=no "root@${COMPUTE_IPV4}" "tmux a"
 ```
 
 [![asciicast](https://asciinema.org/a/620287.svg)](https://asciinema.org/a/620287)
