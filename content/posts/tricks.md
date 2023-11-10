@@ -683,3 +683,13 @@ $ python -uc 'import sys, http.server; http.server.BaseHTTPRequestHandler.do_POS
 $body = Get-Content -Path data.json -Encoding UTF8 -Raw
 Invoke-WebRequest -Uri http://localhost:8080/ -Method POST -Body $body
 ```
+
+## Digital Ocean
+
+I ❤️ DigitalOcean 🐳
+
+### Create a Docker Droplet
+
+```bash
+export COMPUTE_NAME=scitt-alice && doctl compute droplet create --image "$(doctl compute image list-application --no-header --format Slug | grep docker | tail -n 1)" --size $(doctl compute size list --no-header --format Slug | head -n 2 | tail -n 1) --region sfo3 --droplet-agent=true --tag-name scitt "${COMPUTE_NAME}" && time bash -xeuo pipefail -c 'STATUS=new; while [[ "x${STATUS}" = "xnew" ]]; do STATUS=$(doctl compute droplet get --no-header --format Status ${COMPUTE_NAME}); done'
+```
