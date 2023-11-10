@@ -256,7 +256,7 @@ $ date "+%Y-%m-%d-%H-%M"
 Source: https://reproducible-builds.org/docs/archives/
 
 ```console
-$ tar -C /some/dir/with/stuff -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime myfile.within.some.dir.with.stuff.exe | sshpass -p "$(python -m keyring get $USER password)" ssh -o StrictHostKeyChecking=no "$USER@129.168.1.123" python -c '
+$ tar -C /some/dir/with/stuff -c --sort=name --mtime="2015-10-21 00:00Z" --owner=0 --group=0 --numeric-owner --pax-option=exthdr.name=%d/PaxHeaders/%f,delete=atime,delete=ctime myfile.within.some.dir.with.stuff.exe | sshpass -p "$(python -m keyring get $USER password)" ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null "$USER@129.168.1.123" python -c '
 import io
 import os
 import sys
@@ -691,7 +691,6 @@ I ❤️ DigitalOcean 🐳
 ### Create a Docker Droplet
 
 ```bash
-export COMPUTE_DOMAIN=chaidg.com && export COMPUTE_SUBDOMAIN=scitt.eve export COMPUTE_NAME=scitt-eve
-doctl compute droplet delete --force $(doctl compute droplet get --no-header --format ID "${COMPUTE_NAME}")
-(set -xeu && doctl compute droplet create --image "$(doctl compute image list-application --no-header --format Slug | grep docker | tail -n 1)" --size $(doctl compute size list --no-header --format Slug | head -n 2 | tail -n 1) --region sfo3 --droplet-agent=true --tag-name scitt "${COMPUTE_NAME}" && time bash -xeuo pipefail -c 'STATUS=new; while [[ "x${STATUS}" = "xnew" ]]; do STATUS=$(doctl compute droplet get --no-header --format Status ${COMPUTE_NAME}); done' && export COMPUTE_IPV4=$(doctl compute droplet list --no-header --format PublicIPv4 "${COMPUTE_NAME}") && doctl compute domain records create --record-name "${COMPUTE_SUBDOMAIN}" --record-ttl 3600 --record-type A --record-data "${COMPUTE_IPV4}" "${COMPUTE_DOMAIN}")
+export COMPUTE_DOMAIN=chadig.com && export COMPUTE_SUBDOMAIN=scitt.eve export COMPUTE_NAME=scitt-eve
+doctl compute ssh-key import $(hostname) --public-key-file "${HOME}/.ssh/id_rsa.pub"; (set -xeu && doctl compute droplet create --ssh-keys "$(ssh-keygen -l -E md5 -f ~/.ssh/id_rsa.pub | awk '{print $2}' | sed -e 's/MD5://1')" --image "$(doctl compute image list-distribution --no-header --format Slug | grep fedora | tail -n 1)" --size $(doctl compute size list --no-header --format Slug | tail -n 2 | head -n 1) --region sfo3 --droplet-agent=true --tag-name scitt "${COMPUTE_NAME}" && time bash -xeuo pipefail -c 'STATUS=new; while [[ "x${STATUS}" = "xnew" ]]; do STATUS=$(doctl compute droplet get --no-header --format Status ${COMPUTE_NAME}); done' && export COMPUTE_IPV4=$(doctl compute droplet list --no-header --format PublicIPv4 "${COMPUTE_NAME}") && doctl compute domain records create --record-name "${COMPUTE_SUBDOMAIN}" --record-ttl 3600 --record-type A --record-data "${COMPUTE_IPV4}" "${COMPUTE_DOMAIN}" && ssh -o StrictHostKeyChecking=no "root@${COMPUTE_IPV4}" "set -x && dnf -y install python3 python3-venv python3-pip && python -m http.server 80" "${COMPUTE_NAME}")
 ```
