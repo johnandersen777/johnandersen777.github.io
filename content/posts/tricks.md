@@ -691,5 +691,7 @@ I ❤️ DigitalOcean 🐳
 ### Create a Docker Droplet
 
 ```bash
-export COMPUTE_NAME=scitt-alice && doctl compute droplet create --image "$(doctl compute image list-application --no-header --format Slug | grep docker | tail -n 1)" --size $(doctl compute size list --no-header --format Slug | head -n 2 | tail -n 1) --region sfo3 --droplet-agent=true --tag-name scitt "${COMPUTE_NAME}" && time bash -xeuo pipefail -c 'STATUS=new; while [[ "x${STATUS}" = "xnew" ]]; do STATUS=$(doctl compute droplet get --no-header --format Status ${COMPUTE_NAME}); done'
+export COMPUTE_DOMAIN=chaidg.com && export COMPUTE_SUBDOMAIN=scitt.eve export COMPUTE_NAME=scitt-eve
+doctl compute droplet delete --force $(doctl compute droplet get --no-header --format ID "${COMPUTE_NAME}")
+(set -xeu && doctl compute droplet create --image "$(doctl compute image list-application --no-header --format Slug | grep docker | tail -n 1)" --size $(doctl compute size list --no-header --format Slug | head -n 2 | tail -n 1) --region sfo3 --droplet-agent=true --tag-name scitt "${COMPUTE_NAME}" && time bash -xeuo pipefail -c 'STATUS=new; while [[ "x${STATUS}" = "xnew" ]]; do STATUS=$(doctl compute droplet get --no-header --format Status ${COMPUTE_NAME}); done' && export COMPUTE_IPV4=$(doctl compute droplet list --no-header --format PublicIPv4 "${COMPUTE_NAME}") && doctl compute domain records create --record-name "${COMPUTE_SUBDOMAIN}" --record-ttl 3600 --record-type A --record-data "${COMPUTE_IPV4}" "${COMPUTE_DOMAIN}")
 ```
