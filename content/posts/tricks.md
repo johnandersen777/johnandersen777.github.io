@@ -690,6 +690,8 @@ Invoke-WebRequest -Uri http://localhost:8080/ -Method POST -Body $body
 
 I ❤️ DigitalOcean 🐳
 
+- https://github.com/tmux/tmux/wiki/Advanced-Use#piping-pane-changes
+
 ### Create a Docker Droplet
 
 ```bash
