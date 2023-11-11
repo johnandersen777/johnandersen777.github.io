@@ -66,6 +66,8 @@ $ for file in $(echo examples/notebooks/*.ipynb); do vim -b '+set noeol' '+wq' $
 
 ## Open a list of files in tmux panes
 
+- https://github.com/tmux/tmux/wiki/Advanced-Use
+
 ```console
 $ for file in $(git ls-files | grep -E '.*\.cpp|.*\.h|.*\.ino'); do tmux split-window -h "vim ${file}"; tmux next-layout; done
 ```
