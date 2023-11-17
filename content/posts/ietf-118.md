@@ -875,3 +875,4 @@ ssh-keygen -q -f /dev/stdout -t ecdsa -b 384 -N '' <<<y | python -c 'import sys;
 - TODO
   - [ ] Investigate binding keys to a FIDO style key (things like YubiKeys)
   - [ ] Do we have the opportunity to reduce dependence at large on OAuth fulcio style flows? Pretty sure you don't even need fulcio if you have your ssh key
+  - [x] https://scitt.unstable.chadig.com
