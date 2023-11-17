@@ -34,6 +34,7 @@ subtitle = "IETF 118 Notes"
     - https://github.com/aj-stein-nist/oscal-content
   - John
   - Henk Birkholz
+  - Brent
   - Kaliya Young
 - Snacks
 - OIDC issuer as issuer of notary
