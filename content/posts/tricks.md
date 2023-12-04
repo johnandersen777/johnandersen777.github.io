@@ -705,4 +705,12 @@ export COMPUTE_IPV4=$(doctl compute droplet list --no-header --format PublicIPv4
 ssh -t -i "${HOME}/.ssh/id_rsa.pub" -o StrictHostKeyChecking=no "root@${COMPUTE_IPV4}" "tmux a"
 ```
 
+## tar
+
+### Extract single file or set of files
+
+```console
+$ tar -xzv --to-stdout --wildcards --no-anchored 'path/from/root/*.ext'
+```
+
 [![asciicast](https://asciinema.org/a/620287.svg)](https://asciinema.org/a/620287)
