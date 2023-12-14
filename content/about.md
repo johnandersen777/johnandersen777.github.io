@@ -10,8 +10,11 @@ If for whatever reason you want my resume [here it is](https://docs.google.com/d
 Here is my [gpg public key][pub-key]
 `C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
 
-I'm on on [Mastodon](https://mastodon.social/@pdxjohnny) now.
-Hopefully we move to something DID based soon.
+I used to be on [Mastodon](https://mastodon.social/@pdxjohnny).
+
+I used to be on [Twitter](https://twitter.com/pdxjohnny).
+
+I'll probably self-host an ActivityPub Actor soon which will be [chaaaaadiiiig.com](https://define.chadig.com)
 
 I'm on [keybase][keybase].
 
