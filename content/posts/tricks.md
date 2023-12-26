@@ -635,6 +635,9 @@ $ sed -e 's/import os/import snoop\n&/g' -e 's/def main/@snoop\n&/g' ~/dffml/.gi
 
 ## Remap fields with jq
 
+- https://github.com/fadado/JBOL/blob/master/doc/JQ-Distilled.md
+- https://github.com/fadado/JBOL
+
 ```console
 $ echo '{"mykey": {"a": 42}}' | jq 'to_entries[] | {(.key): {"alice": (.value."a")}}' | jq -s 'add'
 {
