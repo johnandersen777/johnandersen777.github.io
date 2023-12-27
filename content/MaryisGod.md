@@ -104,7 +104,9 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
   - https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/
   - https://samuelsmith.org/the-inevitability-of-god/
   - https://www.vice.com/en/article/v7e4g3/found-page-25-of-the-cias-gateway-report-on-astral-projection
-- Related (Alice Initative is pro decentralization)
+- Related
+  - https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5
+    - > (d) On a planet with a mature Technosphere, feedback loops between technological activity and biogeochemical and biogeophysical states have been intentionally modified to ensure maximum stability and productivity of the full system. Alongside each planetary image, we show a schematic atmospheric spectrum. An immature biosphere would show an atmosphere mostly in equilibrium dominated perhaps by CO2. In a mature biosphere life would have changed atmospheric chemistry leading to a highly non-equilibrium state such as perhaps high concentrations of O2. In an immature Technosphere new ‘pollutant’ species appear, such as CFCs, while industrial activities such as combustion may alter the abundance of other pre-existing gases like CO2 and methane. In a mature Technosphere all atmospheric constituents may have their concentrations modified to produce long-term stable and productive states for the full (civilization + biosphere) system. This is represented via a range of possible peaks for different constituents.
   - https://docs.google.com/document/d/1MD_SmyMVEvoS42Fkgcn2VdblCy3l1gKFY1iq62WXWYA/edit
   - https://berjon.com/internet-transition/
   - https://decentralgabe.xyz/on-decentralized-trust/
