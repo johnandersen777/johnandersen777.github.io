@@ -653,6 +653,12 @@ $ echo '{"mykey": {"a": 42}}' | jq 'to_entries[] | {(.key): {"alice": (.value."a
 }
 ```
 
+### Blocklist with jq
+
+```console
+$ cat inputs.txt | jq --argjson blocklist "$(cat blocklist.txt | jq -cnR '[inputs | select(length>0) | sub("\\*.*";"") | sub("@.*";"")]')" -nR '[inputs | select( . as $in | $blocklist | index($in) | not)]'
+```
+
 ## SSH through socks proxy with netcat
 
 - https://superuser.com/questions/454210/how-can-i-use-ssh-with-a-socks-5-proxy
