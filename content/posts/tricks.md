@@ -671,7 +671,7 @@ $ ssh -R 80:localhost:8080 -o ProxyCommand="nc -X 5 -x 127.0.0.1:6000 %h %p" nok
 $ ssh -nT -R 80:localhost:8080 nokey@localhost.run 2>/dev/null | grep --line-buffered 'tunneled with tls' | python -c 'import sys; print(sys.stdin.readline().split()[-1])' | tee public-url.txt &
 ```
 
-## PowerShell to Python
+## Curl and PowerShell to Python
 
 ```python
 import sys, http.server
@@ -694,6 +694,10 @@ http.server.HTTPServer(
 
 ```console
 $ python -uc 'import sys, http.server; http.server.BaseHTTPRequestHandler.do_POST = (lambda self: list([self.send_response(200), self.send_header("Content-type", "text/plain"), self.send_header("Content-length", 3), self.end_headers(), self.wfile.write(b"OK\n"), sys.stdout.buffer.write(self.rfile.read()), sys.exit(0)])); http.server.HTTPServer(("0.0.0.0", 8080), http.server.BaseHTTPRequestHandler).serve_forever()' | python -um json.tool | tee data.json
+```
+
+```bash
+curl -X POST -d @file.ext http://localhost:8080/
 ```
 
 ```powershell
