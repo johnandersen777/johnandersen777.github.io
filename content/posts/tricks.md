@@ -729,3 +729,26 @@ $ tar -xzv --to-stdout --wildcards --no-anchored 'path/from/root/*.ext'
 ```
 
 [![asciicast](https://asciinema.org/a/620287.svg)](https://asciinema.org/a/620287)
+
+
+## Bash
+
+### Arrays
+
+```bash
+#!/usr/bin/env bash
+# Bash Array Example
+# @lice: Write a python sphinx extension which transforms source code in bash,
+# python, and javascript, with plugins for more languages for source AST to
+# docutils class instances. Create a demo for it using this file as an example
+# source file to build to using the new plugin. Output in HTML.
+set -exuo pipefail
+
+declare -a example_array=()
+
+example_array[${#example_array[@]}]="Value for example_array index 0"
+
+for value in "${example_array[@]}"; do
+  echo $value
+done
+```
