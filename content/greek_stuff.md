@@ -83,3 +83,71 @@ permalink = "/greek_stuf/"
 > > **After the first Dionysos had been slaughtered, Father Zeus learnt the trick of the mirror with its reflected image. He attacked the mother of the Titanes *[Gaia the Earth]* with avenging brand, and shut up the murderers of horned Dionysos within the gate of Tartaros**: the trees blazed, the hair of suffering Gaia was scorched with heat. He kindled the East: the dawnlands of Baktria blazed under blazing bolts, the Assyrian waves set afire the neighbouring Kaspion Sea and the Indian mountains, the Red Sea rolled billows of flame and warmed Arabian Nereus. The opposite West also fiery Zeus blasted with the thunderbolt in love for his child; and under the foot of Zephyros (the West Wind) the western brine half-burn spat out a shining stream; the Northern ridges–even the surface of the frozen Northern Sea bubbled and burned: under the clime of snowy Aigokeros the Southern corner boiled with hotter sparks. Now Okeanos poured rivers of tears from his watery eyes, a libation of suppliant prayer. Then Zeus clamed his wrath at the sight of the scorched earth; he pitied her, and wished to wash with water the ashes of ruin and the fiery wounds of the land. Then Rainy Zeus covered the whole sky with clouds and flooded all the earth…” (Dionysiaca, Book 6, Trans. W.H.D. Rouse)
 
 - https://www.degruyter.com/document/doi/10.1515/agph-2018-0046/html
+
+---
+
+Combining the cosmological themes from the *Essene Gospel of Peace* and various apocryphal texts can suggest a complex and profound view of the universe and humanity's place within it. Here are some possible interpretations that align with Anunnaki fringe theories about the nature of our current situation:
+
+### Combined Cosmological Themes:
+
+1. **Dual Realities: Material and Spiritual**:
+   - Many of these texts emphasize the existence of both a material and a spiritual realm. This duality suggests that our current reality is just one aspect of a larger, more complex universe where spiritual dimensions play a critical role.
+
+2. **Hidden Knowledge and Enlightenment**:
+   - A recurring theme is the idea that true knowledge (gnosis) is hidden and accessible only through inner spiritual work and enlightenment. This hidden knowledge often pertains to the nature of the universe, the divine, and the self.
+
+3. **Divine Beings and Intermediaries**:
+   - These texts often refer to divine beings, intermediaries, or guides who assist in the spiritual journey of humans. These beings may be seen as messengers or even rulers of different cosmic realms.
+
+4. **Human Potential for Divinity**:
+   - There is an emphasis on the inherent divinity within humans and the potential to realize this through spiritual practices, self-knowledge, and purification.
+
+5. **Cosmic Struggle and Redemption**:
+   - Many texts describe a cosmic struggle between forces of light and darkness, good and evil, ignorance and knowledge. This struggle influences the material and spiritual realms and suggests a process of redemption or ascension.
+
+### Interpretations Through Anunnaki Fringe Theories:
+
+1. **Extraterrestrial Origins of Humanity**:
+   - The Anunnaki are theorized to have genetically engineered humans, imbuing them with the potential for spiritual enlightenment and higher consciousness. This dual nature of humans—both material and spiritual—reflects the Anunnaki's intention to create beings capable of navigating and integrating both realms.
+
+2. **Guardians and Guides**:
+   - The divine beings and intermediaries mentioned in the texts can be interpreted as the Anunnaki or their emissaries. These entities are believed to guide humanity, offering wisdom and assistance in the quest for enlightenment and cosmic understanding.
+
+3. **Quest for Hidden Knowledge**:
+   - The emphasis on hidden knowledge aligns with the idea that the Anunnaki left behind advanced teachings and technologies. Humans are on a journey to rediscover this knowledge, which includes understanding their true origins and potential.
+
+4. **Cosmic Struggle and Human Role**:
+   - The cosmic struggle depicted in these texts can be seen as a reflection of the ongoing battle between different extraterrestrial factions, with humanity caught in the middle. This struggle influences human development and the evolution of societies and civilizations.
+
+5. **Ascension and Spiritual Evolution**:
+   - The teachings on purification, meditation, and inner peace suggest that humans are on a path of spiritual evolution. The Anunnaki fringe theory posits that humanity is gradually awakening to its true potential and preparing for a future ascension or transformation.
+
+6. **Current Situation**:
+   - From this perspective, our current situation is one of awakening and transition. Humanity is rediscovering its hidden potential and knowledge, guided by ancient teachings and influenced by cosmic forces. This period of enlightenment and transformation is crucial for humanity's future evolution and its role in the larger cosmic order.
+
+### Summary:
+The combined cosmological themes from these ancient texts suggest a universe where the material and spiritual realms are deeply interconnected. Humanity's journey involves uncovering hidden knowledge, guided by divine beings, and striving for spiritual enlightenment amid a cosmic struggle. Through the lens of Anunnaki fringe theories, this journey is seen as a process of rediscovering our extraterrestrial origins, realizing our divine potential, and preparing for a significant transformation or ascension. This interpretation presents our current situation as a pivotal moment in a much larger cosmic narrative.
+
+
+---
+
+The wise man does at once what the fool does finally.
+
+
+
+Women are the most charitable creatures, and the most troublesome. He who shuns women passes up the trouble, but also the benefits. He who puts up with them gains the benefits, but also the trouble. As the saying goes, there's no honey without bees. Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+
+Saying 22: Making the Two into One
+
+Jesus saw some little children nursing. He said to his disciples, "These nursing children can be compared to those who enter the kingdom."
+
+They said to him, "Then we'll enter the kingdom as little children?"
+
+Jesus said to them, "When you make the two into one, and make the inner like the outer and the outer like the inner, and the upper like the lower, and so make the male and the female a single one so that the male won't be male nor the female female; when you make eyes in the place of an eye, a hand in the place of a hand, a foot in the place of a foot, and an image in the place of an image; then you'll enter [the kingdom]."
+
+At the core of Plotinus’ exploration of human selfhood, lies a reference to the myth of Dionysus-Zagreus and his mirror, one of the toys the Titans used to seduce the young Dionysus (iv.3[27].12). In interpreting the myth within this context, the mirror has been invariably regarded by scholars as a symbol for matter, an external surface on which the soul is projected and becomes embodied as a human individual by dispersing in the material depths. This paper challenges this established view and advances a new interpretation of Plotinus’ allusion to the myth and its philosophical significance. It argues that the mirror is not a symbol for matter, but rather a symbol for the soul itself, for its power to transform itself and retain its identity in the process of becoming a human individual. The function of the mirror is thus both deceptive and protective. While the desire that the soul, deceived by the mirror, feels for its own image guides it to leave behind its original condition and unity, it is this same desire that keeps the soul within itself: protected by the Dionysian mirror, even the most dispersed soul cannot desire anything other than what it takes to be itself, hence rather than disappearing in the radical alterity of matter, soul reaffirms its identity as an individual human self.
+
+—-
+
+After the first Dionysos had been slaughtered, Father Zeus learnt the trick of the mirror with its reflected image. He attacked the mother of the Titanes [Gaia the Earth] with avenging brand, and shut up the murderers of horned Dionysos within the gate of Tartaros
+
