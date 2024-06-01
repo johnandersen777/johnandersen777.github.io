@@ -151,3 +151,7 @@ At the core of Plotinus’ exploration of human selfhood, lies a reference to th
 
 After the first Dionysos had been slaughtered, Father Zeus learnt the trick of the mirror with its reflected image. He attacked the mother of the Titanes [Gaia the Earth] with avenging brand, and shut up the murderers of horned Dionysos within the gate of Tartaros
 
+---
+
+- Tell your gods I'm coming
+  - XCOM
