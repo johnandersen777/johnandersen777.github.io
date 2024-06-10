@@ -123,6 +123,38 @@ In conclusion, this paper posits that the metaphorical representation of shared 
 
 Keywords: Anarchy, Reciprocity, Mutual Aid, Resource Distribution, Social Exchange, Decentralization, Cooperation, Collective Well-being
 
+Title: Anarchic Principles in Open Architecture: Paving the Way for Collaborative AGI Development
+
+Abstract:
+
+This paper explores the integration of anarchic principles within the Open Architecture framework for Artificial General Intelligence (AGI) development, emphasizing a collaborative, decentralized approach to innovation and resource distribution. By abstracting from the conventional focus on specific data formats and technological stacks, we delve into the broader implications of adopting an anarchic, data-centric model that prioritizes security, integrity, and seamless integration. This model serves as a crucial backbone for AGI's deployment and operational scalability, fostering an environment of mutual aid and reciprocity among contributors.
+
+Central to our discussion is the Open Architecture's foundational structure, which is characterized by its modular design, scalability features, and inherent security components. We highlight the architecture's commitment to the principles of Supply Chain Integrity, Transparency, and Trust (SCITT), and the role of federation in ensuring secure, distributed communication across AGI instances. The architecture's policy engine, which manages workflows and operational decisions, is examined through the lens of anarchic principles, emphasizing the importance of flexible, community-driven development processes.
+
+Furthermore, we explore the concept of workload identities derived from a 'graph of thoughts', illustrating how this approach aligns with anarchic ideals by enhancing operational integrity and security through collective intelligence and shared responsibility. The decision-making processes within the Open Architecture, guided by threat models and open security standards, reflect a commitment to collaborative problem-solving and transparent governance.
+
+In conclusion, the paper proposes that the integration of anarchic principles within the Open Architecture offers a transformative vision for AGI development. This approach not only challenges traditional hierarchical models of resource control and decision-making but also promotes a more inclusive, resilient, and equitable framework for technological advancement. By fostering a culture of cooperation and shared prosperity, the Open Architecture embodies the potential for a radical reimagining of AGI development, where collective well-being and innovation are intrinsically linked.
+
+Keywords: Open Architecture, AGI, Anarchic Principles, Collaboration, Decentralization, Mutual Aid, SCITT, Federation, Policy Engine, Collective Intelligence.
+
+Tie in open source and something along the lines of that open source is anarchy so we're programming an open source maintainer and so therefor it's anarchy in action or something like that
+
+Title: Open Source as Anarchy in Action: Reimagining AGI Development through the Lens of Open Architecture
+
+Abstract:
+
+This paper posits that the ethos of open source development serves as a contemporary embodiment of anarchic principles, particularly within the realm of Artificial General Intelligence (AGI) development through Open Architecture. By drawing parallels between the decentralized, collaborative nature of open source communities and anarchic ideals of mutual aid and voluntary association, we explore how these principles are operationalized in the creation and maintenance of AGI systems. This exploration is grounded in the assertion that open source development, much like anarchy, challenges traditional hierarchies and power structures, fostering a space for collective innovation and shared ownership.
+
+At the heart of our discussion is the Open Architecture framework for AGI, which exemplifies the open source philosophy through its modular design, emphasis on security and transparency, and the integration of Supply Chain Integrity, Transparency, and Trust (SCITT). We argue that the federation of AGI instances within this architecture mirrors the federative organization of anarchic societies, where autonomous entities collaborate based on shared goals and mutual respect, without centralized control.
+
+Furthermore, the paper delves into the role of the policy engine and workload identities in facilitating a decentralized decision-making process, akin to the consensus-based governance models found in open source and anarchic communities. This approach not only enhances the operational integrity and security of AGI systems but also embodies the anarchic principle of empowering individuals and collectives to contribute to the system’s evolution.
+
+By conceptualizing open source development as anarchy in action, we highlight how the Open Architecture for AGI development becomes a living example of anarchic principles applied to technological innovation. This perspective challenges us to reconsider the potential of open source and anarchic models not just in software development but as a blueprint for organizing complex systems and communities.
+
+In conclusion, the integration of open source and anarchic principles within the Open Architecture for AGI development offers a radical alternative to conventional models of technological progress. It suggests a future where AGI development is driven by the values of openness, collaboration, and equity, heralding a new era of anarchy in action within the digital domain.
+
+Keywords: Open Source, Anarchy, Open Architecture, AGI, Decentralization, Mutual Aid, SCITT, Federation, Policy Engine, Collective Innovation.
+
 ---
 
 All code examples and everything on this site / repo are released into the public domain / the terms of the unlicense.
