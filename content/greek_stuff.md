@@ -176,3 +176,4 @@ A planet's geological activity significantly impacts the feasibility and strateg
 
 In summary, the presence of geological activity on a planet can both aid and complicate terraforming efforts. It provides essential resources and environmental benefits but also requires careful management of natural hazards and dynamic conditions.
 
+https://chatgpt.com/share/78cff5fe-58fa-45de-9322-fbdc6e7c8712
