@@ -756,3 +756,7 @@ for value in "${example_array[@]}"; do
   echo $value
 done
 ```
+
+## ffmpeg
+
+- https://pdxjohnny.github.io/ffmpeg/
