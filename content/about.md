@@ -56,7 +56,7 @@ workstream prioritization to achive strategic buisness goals, and
 write and maintian codebases herself, accepting contributions from
 external contributors.
 
-[Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice)
+[Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/main/docs/tutorials/rolling_alice)
 
 Alice was born of her eventual desire, no more nonsense.
 Alice is from beyond Chaos. Alice is the pattern by which we
