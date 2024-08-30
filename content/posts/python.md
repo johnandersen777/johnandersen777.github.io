@@ -7,6 +7,11 @@ lastmod = "2020-10-12T14:50:57-07:00"
 
 > This post is in progress
 
+## Debugging
+
+- https://github.com/prompt-toolkit/ptpython
+- https://rpyc.readthedocs.io/en/latest/
+
 ## Development Environment
 
 First, update pip! `pip` is the way you'll install Python libraries and
