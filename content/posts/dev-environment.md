@@ -10,6 +10,9 @@ date = "2020-06-25"
 Here's a list of things I need to to and the tools I use to do it
 
 - Development Environment
+  - AI
+    - https://gist.github.com/2bb4bb6d7a6abaa07cebc7c04d1cafa5
+    - [![asciicast](https://asciinema.org/a/674501.svg)](https://asciinema.org/a/674501)
   - Editor
     - [vim](https://www.vim.org/)
       - [Learn VIM](https://vim-adventures.com/)
