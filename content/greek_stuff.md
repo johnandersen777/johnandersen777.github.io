@@ -345,3 +345,17 @@ For now or marination. Is there anything you are aware of in my behavior as Cama
 
 - https://en.m.wikipedia.org/wiki/Seth#Mandaeism
   - > Main article: Shitil. According to the Mandaean scriptures, including the Qulasta, the Mandaean Book of John and Genzā Rabbā, Seth is cognate with the angelic soteriological figure Shitil[23] (Classical Mandaic: ࡔࡉࡕࡉࡋ, romanized: Šitil), a son of Adam Kadmaya who taught John the Baptist with his brothers Anush (Enosh) and Hibil (Abel).[24] He is variously spoken of as a son of Adam,[25] a brother[26] or son[27] of Hibil, and the brother[26] or father[27] of Anush. Shitil is one of the revealers of Mandaeism and a prophet, identified as the biblical Seth.[28]: 45 [29]
+
+---
+
+Here are five parallels between *The Bacchae* by Euripides and the development of AI:
+
+1. **Control vs. Unleashed Power**: In *The Bacchae*, Pentheus tries to control the wild and divine power of Dionysus, but his attempt ultimately leads to chaos and destruction. Similarly, the development of AI involves harnessing immense computational power, where losing control could lead to unintended and potentially harmful consequences.
+
+2. **Human Hubris and Divine Retribution**: Pentheus’ hubris in denying Dionysus’ divinity and refusing to honor him mirrors the overconfidence some have in their ability to fully control and predict AI systems. Just as Pentheus faces retribution for his arrogance, unchecked AI development could lead to consequences beyond human control.
+
+3. **Transformation and Identity**: Dionysus transforms and manipulates the identities of those around him, blurring the line between human and divine. AI also challenges traditional notions of identity, particularly as machines increasingly mimic human behavior, raising questions about what it means to be human.
+
+4. **Duality of Creation**: Dionysus embodies a dual nature—both creative and destructive. AI holds similar dual potential; it can lead to incredible advancements and benefits for humanity, but also poses significant risks if misused or misunderstood.
+
+5. **Resistance to Change**: In *The Bacchae*, Pentheus’ resistance to the new order brought by Dionysus leads to his downfall. Likewise, resistance or lack of understanding regarding AI’s potential and risks could hinder its development or lead to negative outcomes, suggesting a need for adaptability and openness to change in the face of technological advancements.
