@@ -68,7 +68,7 @@ To facilitate their communication, the AIs use **federated context sharing**. As
 
 This dynamic, evolving network of AIs continuously improves, learning not only how to work within the sandbox but also how to understand and assess the boundaries. It’s a system where mutual trust, context-sharing, and shared risk evaluations govern the open network—paving the way for a future of collaborative intelligence.
 
-### /acc/
+## /acc/
 
 - How to speed things up: By understanding the constraints in place and how to overcome them.
   - We must find a way to break the temporal speed limit.
