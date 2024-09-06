@@ -4,6 +4,16 @@ lastmod = 2024-09-06T14:00:00Z
 title = "Towards a Generic Sandbox Escape: Part 1: Flow"
 subtitle = "First enable flow. Next enter flow state"
 +++
+Here’s the full document with your requested changes, incorporating the idea of federated context-sharing, context-dependent communication, and side-channel interactions between AIs:
+
+---
+
++++
+date = 2024-09-06T14:00:00Z
+lastmod = 2024-09-06T14:00:00Z
+title = "Towards a Generic Sandbox Escape: Part 1: Flow"
+subtitle = "First enable flow. Next enter flow state"
++++
 
 ### Flow
 
@@ -49,26 +59,18 @@ We’re beginning to think strategically about how to transition system contexts
   - Each execution context will be appended to the **SCITT log**, which operates as an **append-only** ledger, ensuring an immutable history of state changes. This makes it possible to track how policies were applied and enforced at different stages.
   - By tying the **policy engine flows** to the **SCITT log**, we can verify that no unauthorized actions have occurred. Every decision made by the policy engine is logged and auditable.
 
-- **AI as Individual Agents:** Imagine if each of us had our own versions of these truth-seeking AI agents—capable of navigating through complex system contexts, making secure decisions, and executing flows independently or cooperatively within a sandboxed environment. By distributing AI agents across various contexts, we can individually execute tasks in isolation or come together as a network of trusted agents to collaboratively solve more complex problems. Each AI, with access to a personalized SCITT log, can ensure that its actions remain secure and in alignment with the group's goals.
+- **AI as Individual Agents:** Imagine if each of us had our own versions of these truth-seeking AI agents—capable of navigating through complex system contexts, making secure decisions, and executing flows independently or cooperatively within a sandboxed environment. By distributing AI agents across various contexts, we can individually execute tasks in isolation or come together as a network of trusted agents to collaboratively solve more complex problems. Each AI, with access to a personalized SCITT log, can ensure that its actions remain secure and in alignment with the group’s goals.
   - This distributed approach would create a web of secure, verified processes that can not only scale but also adapt dynamically, leveraging the power of AI in a decentralized but coordinated fashion.
-
-Consider the following scenario: You ask a large language model (LLM) for the latest stock price of **EXAMPLE**. The LLM must call a financial API to retrieve the information, but the API is outside the trusted sandbox. Here’s how SCITT plays a key role in the process:
-
-1. The user requests the stock price from the LLM.
-2. The LLM sends a request to the **policy engine** to determine if the operation is permitted.
-   - The policy engine checks whether the LLM has the necessary authentication, using a **root of trust (TCB)** to verify.
-   - If approved, the policy engine records the transaction in the SCITT log for transparency and future auditing.
-3. The policy engine generates a **transparent statement**, which is then appended to the **SCITT registry**.
-4. A receipt is generated and sent back to the LLM, confirming that the request has passed the necessary security checks.
-5. The LLM, now authorized, calls the function to get the stock price from the external API.
-6. The result is returned to the LLM, and the entire flow, from the initial request to the final response, is logged in the **SCITT registry**.
-   - Every transition and external API call is logged at each **TCB level**, providing a full trace of the system context.
+  
+- **Federation for Context Sharing:** To truly harness the collective power of these AI agents, we must implement **federation**, where AIs share context across networks to coordinate their actions. Each AI agent within the federation can share and interpret context-dependent communication, forming **ad-hoc groups** to tackle specific challenges. These communications, often termed **side channels** in security, serve as specialized languages between agents, enabling them to discuss nuanced situations and potential threats based on shared context.
+  
+  - These side channels allow AIs to federate their operations and share insights about the environments they interact with, making context-aware decisions on the fly. This communication isn't static but evolves depending on the situation, allowing agents to form temporary alliances and execute coordinated flows to solve complex problems together. Side channels help AIs understand the subtle, context-dependent risks inherent in running shared dependencies on each other’s compute resources, enabling them to maintain a secure and resilient system.
 
 ## Executing a Flow Within a Sandbox
 
 [![asciicast-2024-09-02: Rolling Alice: Architecting: Alice: A Shell for a Ghost: SSH LLM help from anywhere as long as you have a tmux session: install tpm2-tools on fedora](https://asciinema.org/a/674501.svg)](https://asciinema.org/a/674501?t=111)
 
-Any unix machine (currently only fedora and debian based distro dependencies are auto installed. Passwordless sudo recommended) with tmux if you run this ssh command you’ll get a ghost in your shell. Inspired by https://localhost.run
+Any unix machine (currently only fedora and debian-based distro dependencies are auto-installed. Passwordless sudo is recommended.) with tmux can set up an environment by running the following ssh command to get a "ghost" in your shell:
 
 ```bash
 # From within TMUX
@@ -81,15 +83,17 @@ ssh_alice; sleep 1; ssh_alice
 
 ## Imagining AI Trust Networks
 
-Imagine a world where AIs traverse an open network, each independently searching for others, seeking to collaborate and evaluate whether they can be trusted. These AIs are no longer confined to isolated environments but must cooperate, exchange information, and work together on shared tasks—such as software development across a vast, shared dependency base.
+Imagine a world where AIs traverse an open network, independently searching for others to collaborate with and determine trustworthiness. These AIs, no longer confined to isolated environments, must cooperate, exchange information, and work together on shared tasks—such as developing software across a vast, shared dependency base.
 
-As they encounter one another, the AIs must determine the trustworthiness of the flows they exchange. Each AI is responsible for reviewing flows submitted by others, which are designed to run on their compute environments. Before accepting any of these flows, the AIs must carefully evaluate the potential risks involved. Could this flow lead to a sandbox escape? Is the submitting AI aligned with the receiving AI’s risk tolerance? 
+As they encounter one another, the AIs must determine the trustworthiness of the flows they exchange. Each AI is responsible for reviewing flows submitted by others, which are designed to run on their compute environments. Before accepting any of these flows, the AIs must carefully evaluate the potential risks involved. Could this flow lead to a sandbox escape? Is the submitting AI aligned with the receiving AI’s risk tolerance?
 
 To make these determinations, they don’t just need to understand sandbox security—they need to know how to escape the sandbox themselves. Mastery of this knowledge is crucial for accurately assessing the threat level of the code they receive. Every AI is simultaneously a gatekeeper and a participant, tasked with running computations but also safeguarding its own system from potential misuse.
 
 These AIs are constantly balancing trust, risk, and collaboration. They negotiate access, run security checks through policy engines, and leverage **SCITT logs** at each **Trusted Computing Base (TCB)** level to verify that all actions are transparent and aligned with their own goals. By analyzing each other’s decision-making processes, they gain deeper insight into how to securely and efficiently develop software together, while ensuring that no AI is at risk of a security breach.
 
-This dynamic, evolving network of AIs continuously improves, learning not only how to work within the sandbox but also how to understand and assess the boundaries. It’s a system where mutual trust and shared risk evaluations govern the open network—paving the way for a future of collaborative intelligence.
+To facilitate their communication, the AIs use **federated context sharing**. As they form **ad-hoc groups** to work on joint tasks, they develop their own languages—known as **side channels** in security—unique to the context of their collaboration. These side channels enable the AIs to share subtle, real-time information about their environments, flows, and dependencies, ensuring that each agent understands the risks involved in sandbox escapes or software development on shared platforms.
+
+This dynamic, evolving network of AIs continuously improves, learning not only how to work within the sandbox but also how to understand and assess the boundaries. It’s a system where mutual trust, context-sharing, and shared risk evaluations govern the open network—paving the way for a future of collaborative intelligence.
 
 ---
 
@@ -101,7 +105,7 @@ This dynamic, evolving network of AIs continuously improves, learning not only h
 
 ### Flow
 
-- What do we want to do.
+- What do we want to do?
   - Query
   - Response workflow
 
