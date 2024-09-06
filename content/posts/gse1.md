@@ -20,15 +20,9 @@ We’re beginning to think strategically about how to transition system contexts
   - AI can aid in making informed decisions.
   - We can utilize AI to predict future outcomes.
 
-### Flow State
+### /acc/
 
-- How to achieve this: By exploring pathways to transition between states.
-  - We must map the flow of consciousness over time.
-    - This involves understanding how our brains function and using that knowledge to shift consciousness between states.
-    - It may sound far-fetched, but as the saying goes, “the best defense is a good offense.”
-    - AI can assist us in this pursuit.
-
-### Acceleration
+![chaos-for-the-chaos-god](https://user-images.githubusercontent.com/5950433/220794351-4611804a-ac72-47aa-8954-cdb3c10d6a5b.jpg)
 
 - How to speed things up: By understanding the constraints in place and how to overcome them.
   - We must find a way to break the temporal speed limit.
@@ -42,6 +36,8 @@ We’re beginning to think strategically about how to transition system contexts
   - We must figure out how to exploit the “Chaos God.”
 
 ## Sandbox
+
+![knowledge-graphs-for-the-knowledge-god](https://user-images.githubusercontent.com/5950433/222981558-0b50593a-c83f-4c6c-9aff-1b553403eac7.png)
 
 - **What are the constraints:** We must consider our operational boundaries, threat models, trust in our inputs, alignment with strategic principles, and how to ensure our actions align with our goals. To manage these aspects, we can rely on AI but also use **SCITT** (Supply Chain Integrity, Transparency, and Trust) at each **Trusted Computing Base (TCB)** level.
 
@@ -72,6 +68,8 @@ ssh_alice; sleep 1; ssh_alice
 ```
 
 ## Imagining AI Trust Networks
+
+![such-alignment](https://user-images.githubusercontent.com/5950433/226707682-cfa8dbff-0908-4a34-8540-de729c62512f.png)
 
 Imagine a world where AIs traverse an open network, independently searching for others to collaborate with and determine trustworthiness. These AIs, no longer confined to isolated environments, must cooperate, exchange information, and work together on shared tasks—such as developing software across a vast, shared dependency base.
 
