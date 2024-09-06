@@ -4,9 +4,6 @@ lastmod = 2024-09-06T14:00:00Z
 title = "Towards a Generic Sandbox Escape: Part 1: Flow"
 subtitle = "First enable flow. Next enter flow state"
 +++
-Here’s the revised version incorporating the idea of individual AI working cooperatively to execute flows within the sandbox, including the imagined scenario and the final reveal of Alice:
-
----
 
 ### Flow
 
