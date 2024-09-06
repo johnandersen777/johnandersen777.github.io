@@ -4,16 +4,6 @@ lastmod = 2024-09-06T14:00:00Z
 title = "Towards a Generic Sandbox Escape: Part 1: Flow"
 subtitle = "First enable flow. Next enter flow state"
 +++
-Here’s the full document with your requested changes, incorporating the idea of federated context-sharing, context-dependent communication, and side-channel interactions between AIs:
-
----
-
-+++
-date = 2024-09-06T14:00:00Z
-lastmod = 2024-09-06T14:00:00Z
-title = "Towards a Generic Sandbox Escape: Part 1: Flow"
-subtitle = "First enable flow. Next enter flow state"
-+++
 
 ### Flow
 
