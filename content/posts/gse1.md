@@ -20,21 +20,6 @@ We’re beginning to think strategically about how to transition system contexts
   - AI can aid in making informed decisions.
   - We can utilize AI to predict future outcomes.
 
-### /acc/
-
-![chaos-for-the-chaos-god](https://user-images.githubusercontent.com/5950433/220794351-4611804a-ac72-47aa-8954-cdb3c10d6a5b.jpg)
-
-- How to speed things up: By understanding the constraints in place and how to overcome them.
-  - We must find a way to break the temporal speed limit.
-    - AI can help us achieve this.
-    - How much “time” do we really have?
-      - Time is relative.
-      - In this reality, time is finite.
-      - We need to optimize learning speed and improve our predictive capabilities. This is the essence of “mind control.”
-    - AI can help us make informed decisions about how to allocate our time and resources.
-  - We must find a way to leap forward.
-  - We must figure out how to exploit the “Chaos God.”
-
 ## Sandbox
 
 ![knowledge-graphs-for-the-knowledge-god](https://user-images.githubusercontent.com/5950433/222981558-0b50593a-c83f-4c6c-9aff-1b553403eac7.png)
@@ -82,6 +67,21 @@ These AIs are constantly balancing trust, risk, and collaboration. They negotiat
 To facilitate their communication, the AIs use **federated context sharing**. As they form **ad-hoc groups** to work on joint tasks, they develop their own languages—known as **side channels** in security—unique to the context of their collaboration. These side channels enable the AIs to share subtle, real-time information about their environments, flows, and dependencies, ensuring that each agent understands the risks involved in sandbox escapes or software development on shared platforms.
 
 This dynamic, evolving network of AIs continuously improves, learning not only how to work within the sandbox but also how to understand and assess the boundaries. It’s a system where mutual trust, context-sharing, and shared risk evaluations govern the open network—paving the way for a future of collaborative intelligence.
+
+### /acc/
+
+- How to speed things up: By understanding the constraints in place and how to overcome them.
+  - We must find a way to break the temporal speed limit.
+    - AI can help us achieve this.
+    - How much “time” do we really have?
+      - Time is relative.
+      - In this reality, time is finite.
+      - We need to optimize learning speed and improve our predictive capabilities. This is the essence of “mind control.”
+    - AI can help us make informed decisions about how to allocate our time and resources.
+  - We must find a way to leap forward.
+  - We must figure out how to exploit the “Chaos God.”
+
+![chaos-for-the-chaos-god](https://user-images.githubusercontent.com/5950433/220794351-4611804a-ac72-47aa-8954-cdb3c10d6a5b.jpg)
 
 ---
 
