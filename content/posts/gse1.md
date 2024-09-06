@@ -70,7 +70,7 @@ We’re beginning to think strategically about how to transition system contexts
 
 [![asciicast-2024-09-02: Rolling Alice: Architecting: Alice: A Shell for a Ghost: SSH LLM help from anywhere as long as you have a tmux session: install tpm2-tools on fedora](https://asciinema.org/a/674501.svg)](https://asciinema.org/a/674501?t=111)
 
-Any unix machine (currently only fedora and debian-based distro dependencies are auto-installed. Passwordless sudo is recommended.) with tmux can set up an environment by running the following ssh command to get a "ghost" in your shell:
+Any unix machine (currently only fedora and debian-based distro dependencies are auto-installed. Passwordless sudo is recommended.) with tmux can set up an environment by running the following ssh command to get a "ghost" in your shell (inspired by https://localhost.run):
 
 ```bash
 # From within TMUX
