@@ -1,5 +1,7 @@
 +++ date = 2024-09-07T14:00:00Z lastmod = 2024-09-07T14:00:00Z title = "Towards a Generic Sandbox Escape: Part 2: Flow State" subtitle = "From Cattle Back to Pets" +++
 
+![will-you-federate-supply-chain-statements-with-me-neighbor](https://github.com/user-attachments/assets/f9bbe45d-5fef-4c22-9517-4cd312c3669c)
+
 From Cattle Back to Pets
 In the early days of cloud-native infrastructure, the analogy of cattle vs. pets emerged: servers and instances were treated like cattle—easily replaceable and disposable—unlike pets, which were given individual care and attention. The rise of container orchestration tools like Kubernetes further solidified this notion, treating system instances as ephemeral resources that could be terminated and replaced without concern for their unique characteristics.
 
