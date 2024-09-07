@@ -5,6 +5,12 @@ title = "Towards a Generic Methodology for Sandbox Escape: Part 1: Flow"
 subtitle = "First enable flow. Next enter flow state"
 +++
 
+## Series
+
+- [Flow](https://pdxjohnny.github.io/gse1/)
+- [Flow State](https://pdxjohnny.github.io/gse2/)
+- Acceleration
+
 ## Context
 
 - [DFFML: docs: tutorials: Rolling Alice](https://github.com/intel/dffml/tree/main/docs/tutorials/rolling_alice)
