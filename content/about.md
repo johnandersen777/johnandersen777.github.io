@@ -67,7 +67,7 @@ modeled as data flows.
 
 ---
 
-- "I thought I was as scattered as they come, until I met my partner” [Ms. Shane]
+- "I thought I was as scattered as they come, until I met [John]” [Ms. Shane]
 
 - "John's trying to do ethical graffiti" [Ms. Elizabeth]
 
