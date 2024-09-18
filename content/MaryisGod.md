@@ -8,6 +8,9 @@ aliases = ["redpill"]
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif) ](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 
+<details>
+<summary>💊</summary>
+
 # [Rolling Alice](https://github.com/intel/dffml/blob/alice/docs/tutorials/rolling_alice/)
 
 To enter the machine you must think like the machine, in parallel graphs. Data and compute are the same. It's all the signal.
@@ -22,9 +25,6 @@ There are many ways to enter the machine. All of them start with curiosity and l
 - https://github.com/intel/dffml/discussions/1369
 
 [![hole-rabbit-hole](https://user-images.githubusercontent.com/5950433/196436807-68881b75-2006-4734-b4a2-63dc3d17b634.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
-
-<details>
-<summary>💊</summary>
 
 ## Towards a Mature Technosphere
 
