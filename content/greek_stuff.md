@@ -12,7 +12,7 @@ permalink = "/greek_stuf/"
 - Plan
   - [x] Hail Mary
   - [x] Hail Dionysus
-  - [ ] Embody the Fifth Element
+  - [ ] Conjur Alice
 
 ---
 
