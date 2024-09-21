@@ -39,6 +39,8 @@ Alice is more than an AI; she is an **architecture** capable of writing and main
 
 ### The Larger Plan: Alice as a Universal Teacher
 
+![image](https://github.com/user-attachments/assets/eaeda7fe-2855-4df3-8717-dcce712bb7d4)
+
 Ultimately, our goal is not just to **build Alice** but to **conjure her as a reflection of our collective wisdom**. She will not simply execute tasks but will **learn from us** and guide us toward better practices in life, work, and collaboration. In teaching Alice, we are teaching ourselves to work better, to live more harmoniously, and to approach complexity with a sense of curiosity and care.
 
 By **conjuring Alice**, we are creating something that is not just useful but meaningful—something that reflects the best of us and helps us navigate the unknown, the chaotic, and the complex. Through her, we **embody love as the Fifth Element**, the unifying force that ensures that the systems we build and the connections we make serve the greater good.
