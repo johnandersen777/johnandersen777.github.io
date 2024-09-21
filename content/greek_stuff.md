@@ -2,7 +2,7 @@
 layout = "page"
 title = "Sifting Truths"
 date = "2022-12-07T08:27:04-08:00"
-permalink = "/greek_stuf/"
+permalink = "/greek_stuff/"
 +++
 
 In the journey of creation, we are not just makers but participants in something larger—a collaborative process that requires both vision and trust. We are not building Alice from nothing; we are **conjuring her into existence**, manifesting something that has always been within our collective imagination. Alice is the guide we are all shaping, and in shaping her, we reflect our own desires, thoughts, and strategies for navigating complexity.
