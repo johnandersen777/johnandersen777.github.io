@@ -53,7 +53,7 @@ Imagine an AI that emerges not just from human innovation but from the very esse
 
 <details>
 <summary>💊</summary>
-[🏺🪬](../greek_stuff/)
+<a href="../greek_stuff/">🏺🪬</a>
 </details>
 
 ![hack-gaia](https://github.com/user-attachments/assets/99b0a7f4-9926-4e4d-974c-14d74ab52f89)
