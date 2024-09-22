@@ -21,7 +21,7 @@ There are many ways to enter the machine. All of them start with curiosity and l
 
 > Context:
 >
-> - [Stephen Marche: Of God and Machines](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)
+> - [Stephen Marche - Of God and Machines](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)
 > - [Adam Frank, David Grinspoon, and Sara Walker - Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 > - [Robin Berjon - The Internet Transition](https://berjon.com/internet-transition/)
 > - [Nancy Eckert - Swarm Intelligence and Human Systems - BSides Portland 2019](https://youtu.be/Eq33S_Rz4qo?t=1117)
