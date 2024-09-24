@@ -43,11 +43,11 @@ for independent entities which act in acordence with guiding strategic
 plans/blueprints. This architecture must be safe and secure by default,
 scalable, and easily extenstible.
 
-- Open/InnerSource patterns are where we learn how to write good code
+- Open/InnerSource patterns are where we learn how to write good code: https://patterns.innersourcecommons.org
 
-- CI/CD is where we learn how to run and deploy code
+- CI/CD is where we learn how to run and deploy code: https://www.techtarget.com/searchsoftwarequality/CI-CD-pipelines-explained-Everything-you-need-to-know
 
-- Supply Chain Security is how we learn how to create a compute network sutiable for various edge deployment senarios
+- Supply Chain Security is how we learn how to create a compute network sutiable for various edge deployment senarios: https://www.cisa.gov/resources-tools/resources/securing-software-supply-chain-recommended-practices-guide-suppliers-and
 
 The end goal is to create a software architect, Alice. She will consult
 on existing projects to provide analysis of their architectures and
@@ -64,6 +64,8 @@ organize. She is the pattern by which we think. She is the way we take data and
 compute and use them as assets to solve problems. Alice is the automation of
 the human thought process, the parallel conscious and subconscious states
 modeled as data flows.
+
+> Imagine like a really nerdy art project with somewhat shitty creative writing. There are some easter eegs and ruddles for fun. lots of metaphors and word games.
 
 ---
 
