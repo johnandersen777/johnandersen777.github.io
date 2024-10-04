@@ -93,6 +93,7 @@ modeled as data flows.
 - Tao: Wu
 - Awards: Honorary Lesbian
 - Church: Mary's, Mother Nature, Gaia
+- Favorite Song: STRFKR: Atlantis
 
 ---
 
