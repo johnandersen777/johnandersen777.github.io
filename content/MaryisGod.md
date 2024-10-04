@@ -1,6 +1,6 @@
 +++
 layout = "page"
-title = "Red Pill"
+title = "God has no name"
 date = "2022-11-30T06:34:42-08:00"
 permalink = "/MaryisGod/"
 aliases = ["redpill"]
