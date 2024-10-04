@@ -29,13 +29,15 @@ However, as we move toward **secure, trust-driven computing**, the notion of **f
 
 ## Federation and Continuous Re-Evaluation of Trust
 
-![will-you-federate-supply-chain-statements-with-me-neighbor](https://github.com/user-attachments/assets/f9bbe45d-5fef-4c22-9517-4cd312c3669c)
+![free-trade-federation](https://github.com/user-attachments/assets/41f2152f-aab5-4094-9ce0-9d03c5c8b107)
 
 **Federation** allows AI agents and systems to sync their context, contributing collaboratively to the **scientific process**. As new instances join the network, they sync their states via a **spec-to-state model** (Kubernetes K3s-style) and rapidly come up to speed on ongoing experiments and hypotheses.
 
 Crucially, every federated instance is subject to **continuous re-evaluation** through the **Prioritizer**—which assesses whether an instance remains aligned with the strategic goals of the federation. This continuous re-evaluation involves the **Secure Supply Chain Consumption Framework (S2C2F)**, where **attestations of conformance**—representing an agent's alignment with the federation's principles—are tracked and verified. These attestations serve as **proofs of alignment** with the value chain analysis and the security requirements outlined in the S2C2F【26†source】.
 
-## KERI-Based SCITT and Duplicity Detection
+## DICE rooted KERI on RISC-V and Duplicity Detection
+
+![will-you-federate-supply-chain-statements-with-me-neighbor](https://github.com/user-attachments/assets/f9bbe45d-5fef-4c22-9517-4cd312c3669c)
 
 To manage the integrity of the federation, we use a **KERI-based implementation** of the **Supply Chain Integrity, Transparency, and Trust (SCITT)** model. **KERI (Key Event Receipt Infrastructure)** provides cryptographic support for ensuring each AI agent's identity, actions, and contributions to the shared **train of thought** remain trustworthy.
 
