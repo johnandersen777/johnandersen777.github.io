@@ -9,7 +9,7 @@ subtitle = "First enable flow. Next enter flow state"
 
 - [Flow](https://pdxjohnny.github.io/gse1/)
 - [Flow State](https://pdxjohnny.github.io/gse2/)
-- Acceleration
+- [Acceleration](https://pdxjohnny.github.io/gse3/)
 
 ## Context
 
