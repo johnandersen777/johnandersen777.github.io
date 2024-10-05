@@ -88,7 +88,7 @@ modeled as data flows.
 - Languages you speak: English, Danish, Spanish
 - Favorite Vacation Spot: Portland
 - Advice: Always be learning
-- Hobbies: Hiking, Roller Skating, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu
+- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
 - Tao: Wu
 - Awards: Honorary Lesbian
