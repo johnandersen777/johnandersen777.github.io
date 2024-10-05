@@ -37,7 +37,7 @@ footer = ["twitter", "github", "youtube", "linkedin"]
 
 [params.logo]
 inline = false
-path = "images/avatar@2x.jpeg"
+path = "images/avatar.png"
 
 [params.services]
 analyticsId = "UA-160259978-2"
