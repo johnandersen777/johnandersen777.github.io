@@ -16,7 +16,7 @@ subtitle = "Unlocking Human Potential with AI as Our Guide"
 - [Accelerated Collaboration in Ad Hoc Groups](https://pdxjohnny.github.io/gse7/)
 - [The Time Is Come For Thee To Reap](https://pdxjohnny.github.io/gse8/)
 - [The Human Soul Above All](https://pdxjohnny.github.io/gse9/)
-- Telepathy
+- [Telepathy](https://pdxjohnny.github.io/telepathy/)
 
 ## Context
 
