@@ -1,6 +1,6 @@
 +++
-date = 2024-09-14T14:00:00Z
-lastmod = 2024-09-14T14:00:00Z
+date = 2024-10-04T14:00:00Z
+lastmod = 2024-10-04T14:00:00Z
 title = "Towards a Generic Methodology for Sandbox Escape: Part 9: The Primacy of the Human Soul"
 subtitle = "Ensuring Technology Serves Humanity Above All Else"
 +++
