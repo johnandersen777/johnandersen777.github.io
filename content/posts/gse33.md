@@ -39,8 +39,7 @@ subtitle = "Ensuring Security and Integrity through Policy Definition and Depend
 - [Funding and Scaling the Community Supply Chain](https://pdxjohnny.github.io/gse30/)
 - [Expanding the Supply Chain through Trusted Partnerships](https://pdxjohnny.github.io/gse31/)
 - [Introducing the Methodology Oracle](https://pdxjohnny.github.io/gse32/)
-- Defending the Secure Software Forge with Mary’s Methodology Oracle
-- [Next Article Title](#)
+- [Defending the Secure Software Forge with Mary’s Methodology Oracle](https://pdxjohnny.github.io/gse32/)
 
 ## Defending the Secure Software Forge with Mary’s Methodology Oracle
 
