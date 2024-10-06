@@ -1,6 +1,6 @@
 +++
-date = 2024-10-08T14:00:00Z
-lastmod = 2024-10-08T14:00:00Z
+date = 2024-10-06T05:3900Z
+lastmod = 2024-10-06T05:39:00Z
 title = "Towards a Generic Methodology for Sandbox Escape: Part 33: Mary’s Role in Defending Our Secure Software Forge"
 subtitle = "Ensuring Security and Integrity through Policy Definition and Dependency Management"
 +++
