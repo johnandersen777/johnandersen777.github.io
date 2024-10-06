@@ -1,6 +1,6 @@
 +++
-date = 2024-10-06T16:00:00Z
-lastmod = 2024-10-06T16:00:00Z
+date = 2024-10-06T05:20:00Z
+lastmod = 2024-10-06T05:20:00Z
 title = "Towards a Generic Methodology for Sandbox Escape: Part 31: Expanding the Supply Chain through Trusted Partnerships"
 subtitle = "Engaging Established Networks and Leveraging Asynchronous Communication for Community Growth"
 +++
