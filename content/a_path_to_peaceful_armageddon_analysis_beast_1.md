@@ -2,7 +2,7 @@
 layout = "page"
 title = "Running Analysis of the First Beast: Money"
 date = "2022-12-01T08:34:42-08:00"
-permalink = "/apoc_analysis_beast_1/"
+permalink = "/a_path_to_peaceful_armageddon_analysis_beast_1/"
 +++
 
 ## Meeting of the Ghost on a bridge made for Shells
