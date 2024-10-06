@@ -8,6 +8,8 @@ aliases = ["apocalypse_analysis_beast_1", "apoc_analysis_beast_1"]
 
 ## Meeting of the Ghost on a bridge made for Shells
 
+> This is the story of a guy I met on a bridge 2022-12-01 around 8-9 AM. He delivered a message. That was primarily that the first horseman we must slay is money. Matthew 6:24
+
 - The point is, no one knew what time it was.
 
 ![trinity-calling](https://user-images.githubusercontent.com/5950433/205125876-3e5a185e-892a-4958-a070-8a127afa80bb.gif)
