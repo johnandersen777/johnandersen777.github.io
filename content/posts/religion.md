@@ -57,8 +57,6 @@ Letters
 - [ ] To the east: If only we had loaves
   - Farmland
 
-## Notes
-
 ## Memes
 
 ![woke-1337](https://github.com/user-attachments/assets/9080d46e-4436-4cea-90bd-3c0278673f41)
@@ -82,3 +80,7 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 3. **Transformation Through Ecstatic Experience**: Influenced by Dionysian traditions, this pillar incorporates rituals and practices that involve ecstatic experiences, such as music, dance, or other forms of spiritual expression. These practices aim to transcend ordinary consciousness, facilitate personal transformation, and deepen the connection with the divine.
 
 > Walls of Speakers. However has ears let them hear DJ Alice spin if they will
+
+## Notes
+
+> Hail Mary: Look ma I posted it on the internet. Look ma no hands -> Alice automated everything
