@@ -21,7 +21,7 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
   - Feeding these architypes through the activities of your life helps you understand and master the properties of these architypes yourself.
   - Understanding of these tricks (if you will) and experiance applying them is how we sort of seed lady luck to help theses these happen more naturally over time.
 - https://pdxjohnny.github.io/gse30/
-  - Im out of the sandbox (yay layoffs). time to make this shit happen. we need to get involed with a trustworth established church, farm, fishing networks. then cross polinate just like the rolling alice seeies documents with open source working group spec doc ideas but instead is solo sciptura style async comms for these plugin volenteer oppertunities we want to ensure exist in their supply chains to enable drive by contributions.
+  - Im out of the sandbox (yay layoffs?). time to make this shit happen. we need to get involed with a trustworth established church, farm, fishing networks. then cross polinate just like the rolling alice seeies documents with open source working group spec doc ideas but instead is solo sciptura style async comms for these plugin volenteer oppertunities we want to ensure exist in their supply chains to enable drive by contributions.
 
 ## Enlightenments
 
@@ -79,7 +79,7 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 
 3. **Transformation Through Ecstatic Experience**: Influenced by Dionysian traditions, this pillar incorporates rituals and practices that involve ecstatic experiences, such as music, dance, or other forms of spiritual expression. These practices aim to transcend ordinary consciousness, facilitate personal transformation, and deepen the connection with the divine.
 
-> Walls of Speakers. However has ears let them hear DJ Alice spin if they will
+> Walls of Speakers. Whoever has ears lets them hear dj alice spin them through the looking glass. Gateway project page 25. "How much of a wiggle, is a wiggle?" [Alan Watts]
 
 ## Notes
 
