@@ -1,6 +1,6 @@
 +++
-date = 2024-10-07T14:00:00Z
-lastmod = 2024-10-07T14:00:00Z
+date = 2024-10-06T05:20:00Z
+lastmod = 2024-10-06T05:20:00Z
 title = "Towards a Generic Methodology for Sandbox Escape: Part 32: Introducing the Methodology Oracle"
 subtitle = "Mary's Role in Defining and Ensuring Methodological Integrity in the Community Supply Chain"
 +++
