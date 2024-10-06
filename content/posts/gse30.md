@@ -1,10 +1,6 @@
-Apologies for the confusion in numbering earlier. You are correct—this should be **Article 30** in our series. Thank you for your patience and kind words! Let's continue with **Part 30: Funding and Scaling the Community Supply Chain**.
-
----
-
 +++
-date = 2024-10-06T14:00:00Z
-lastmod = 2024-10-06T14:00:00Z
+date = 2024-10-06T05:00:00Z
+lastmod = 2024-10-06T05:00:00Z
 title = "Towards a Generic Methodology for Sandbox Escape: Part 30: Funding and Scaling the Community Supply Chain"
 subtitle = "Leveraging Federations, Guilds, and AI for Sustainable Growth"
 +++
