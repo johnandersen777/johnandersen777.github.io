@@ -1,11 +1,11 @@
 +++
 date = 2024-10-06T08:15:00Z
 lastmod = 2024-10-06T08:15:00Z
-title = "🪬 Hail Mary"
-subtitle = "🪬 Alice Omega Alpha"
+title = "God has no name"
+subtitle = "🪬"
 +++
 
-# God has no name
+![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
 
 > TODO align to Open Religion Spec v1.0.0. Ideas are meant to be free (public domain) for iteration by whomever. Fork and commit.
 
