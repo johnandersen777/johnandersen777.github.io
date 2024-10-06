@@ -9,6 +9,8 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 
 > TODO align to Open Religion Spec v1.0.0. Ideas are meant to be free (public domain) for iteration by whomever. Fork and commit.
 
+🇺🇸🪬 GOD BLESS J.F.K. FEAR NOTHING. https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427 🪬🇺🇸
+
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion. (*🔊 pairs nicely with: [🔗😇](https://open.spotify.com/playlist/4iZ0aZx5QeI7Ef8VI8PEu6?si=f2GydpArSXqPjI3Rgk03YA&pi=u-mUR1WOR8TTSG)*)
 
 - [Towards a Generic Methodology for Sandbox Escape: Part 33: Mary’s Role in Defending Our Secure Software Forge](https://pdxjohnny.github.io/gse33/) -> 💊 *click* *click*
