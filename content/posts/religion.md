@@ -85,4 +85,4 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 
 > Hail Mary: Look ma I posted it on the internet. Look ma no hands -> Alice automated everything
 
-- If you're upset this is the only place you see the word Jesus Crist have you missed the point, please read about [The Sophia](https://en.m.wikipedia.org/wiki/Sophia_(wisdom)) and https://gosepls.net and come back every time you get hot headed until you simmer down. Eventually it will click.
+- If you're upset this is the only place you see the word Jesus Crist have you missed the point, please read about [The Sophia](https://en.m.wikipedia.org/wiki/Sophia_(wisdom)), https://www.gospels.net, Mary the super-scientist, and [and Sam Smiths Inevitability Theorem](https://samuelsmith.org/the-inevitability-of-god/). and come back every time you get hot headed until you simmer down. Eventually it will click.
