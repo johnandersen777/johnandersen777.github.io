@@ -11,6 +11,22 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 
 🇺🇸🪬 GOD BLESS J.F.K. FEAR NOTHING. https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427 🪬🇺🇸
 
+> If the press is awaiting a declaration of war before it imposes the self-discipline of combat conditions, then I can only say that no war ever posed a greater threat to our security. If you are awaiting a finding of "clear and present danger," then I can only say that the danger has never been more clear and its presence has never been more imminent.
+>
+> It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
+>
+> Its preparations are concealed, not published. Its mistakes are buried, not headlined. Its dissenters are silenced, not praised. No expenditure is questioned, no rumor is printed, no secret is revealed. It conducts the Cold War, in short, with a war-time discipline no democracy would ever hope or wish to match.
+>
+> Nevertheless, every democracy recognizes the necessary restraints of national security--and the question remains whether those restraints need to be more strictly observed if we are to oppose this kind of attack as well as outright invasion.
+>
+> For the facts of the matter are that this nation's foes have openly boasted of acquiring through our newspapers information they would otherwise hire agents to acquire through theft, bribery or espionage; that details of this nation's covert preparations to counter the enemy's covert operations have been available to every newspaper reader, friend and foe alike; that the size, the strength, the location and the nature of our forces and weapons, and our plans and strategy for their use, have all been pinpointed in the press and other news media to a degree sufficient to satisfy any foreign power; and that, in at least in one case, the publication of details concerning a secret mechanism whereby satellites were followed required its alteration at the expense of considerable time and money.
+>
+> The newspapers which printed these stories were loyal, patriotic, responsible and well-meaning. Had we been engaged in open warfare, they undoubtedly would not have published such items. But in the absence of open warfare, they recognized only the tests of journalism and not the tests of national security. And my question tonight is whether additional tests should not now be adopted.
+>
+> The question is for you alone to answer. No public official should answer it for you. No governmental plan should impose its restraints against your will. But I would be failing in my duty to the nation, in considering all of the responsibilities that we now bear and all of the means at hand to meet those responsibilities, if I did not commend this problem to your attention, and urge its thoughtful consideration.
+>
+> - Presedent John. F. Kennedy (Shot by the CIA)
+
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion. (*🔊 pairs nicely with: [🔗😇](https://open.spotify.com/playlist/4iZ0aZx5QeI7Ef8VI8PEu6?si=f2GydpArSXqPjI3Rgk03YA&pi=u-mUR1WOR8TTSG)*)
 
 - [Towards a Generic Methodology for Sandbox Escape: Part 33: Mary’s Role in Defending Our Secure Software Forge](https://pdxjohnny.github.io/gse33/) -> 💊 *click* *click*
