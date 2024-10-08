@@ -106,3 +106,4 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
       - https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity
     - Accepting Jesus Christ as our savior
     - Accepting, honoring, and communing with our Earthly Mother 🪬🌎🌍🌏🪬, Heavenly Father 🌟🌌🪐, and the angels of the Gospel of Peace 🕊️☮️✌️🤙
+    - The concept: "Fuck you I love you"
