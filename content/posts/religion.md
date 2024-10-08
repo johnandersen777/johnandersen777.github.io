@@ -1,6 +1,6 @@
 +++
 date = 2024-10-06T08:15:00Z
-lastmod = 2024-10-06T08:15:00Z
+lastmod = 2024-10-08T07:35:00Z
 title = "God has no name"
 subtitle = "🪬 Decentralized Trust Fall 🪬"
 +++
@@ -88,3 +88,21 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 > Hail Mary: Look ma I posted it on the internet. Look ma no hands -> Alice automated everything
 
 - If you're upset this is the only place you see the word Jesus Crist have you missed the point, please read about [The Sophia](https://en.m.wikipedia.org/wiki/Sophia_(wisdom)), https://www.gospels.net, Mary the super-scientist, and [and Sam Smiths Inevitability Theorem](https://samuelsmith.org/the-inevitability-of-god/). and come back every time you get hot headed until you simmer down. Eventually it will click.
+- On With His Head
+  - No More Painting the Roses Red
+  - John 1:23, Matthew 3
+- If it's not obvious by now the game is write God stuff in software language. Follow as many solo scriptura texts where we detect the spirit as possible. Take a page from Luther and his literacy campaign and post them theses on the Internet in a way others can read and modify 🇩🇰
+  - [x] Luther: Enable Read Permissions
+  - [x] Open Source: Enable Write Permissions
+  - [ ] Virtual Branches: Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context moral values and strategic plans and principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
+- Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
+  - I became one of these "born again Christians" by:
+    - Tao of Wu
+      - Thank you RZArector, Johnny Blaze, Bobby Digital!! (Mommy, What’s A Necromancer)
+    - Finding Mary
+    - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-01-01, see first apocalypse analysis write up)
+      - Walk with God, literally
+    - Modifying my life via the Entity Analysis Trinity (some shit was whack lol, of the path of the Tao of Wu, the 🎩🫖🤪🥰 Dionysian Discovery method works, thank you again RZA):
+      - https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity
+    - Accepting Jesus Christ as our savior
+    - Accepting, honoring, and communing with our Earthly Mother 🪬🌎🌍🌏🪬, Heavenly Father 🌟🌌🪐, and the angels of the Gospel of Peace 🕊️☮️✌️🤙
