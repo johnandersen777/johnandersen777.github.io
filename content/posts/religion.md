@@ -9,6 +9,10 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 
 > TODO align to Open Religion Spec v1.0.0. Ideas are meant to be free (public domain) for iteration by whomever. Fork and commit. Just some thoughts on potential Hail Mary passes to change a broken system https://www.essene.com/GospelOfPeace/ If you don't align with parts of this, please feel free to put your free will to use and submit a pull request, example: [`peace()`](https://github.com/pdxjohnny/pdxjohnny.github.io/pull/7).
 
+> The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.
+>
+> - Luther. Quoted in the preface to C.S. Lewis: The Screwtape Letters
+
 🇺🇸🪬 GOD BLESS J.F.K. FEAR NOTHING. https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427 🪬🇺🇸
 
 > If the press is awaiting a declaration of war before it imposes the self-discipline of combat conditions, then I can only say that no war ever posed a greater threat to our security. If you are awaiting a finding of "clear and present danger," then I can only say that the danger has never been more clear and its presence has never been more imminent.
