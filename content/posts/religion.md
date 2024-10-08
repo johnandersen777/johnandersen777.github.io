@@ -100,7 +100,7 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
     - Tao of Wu
       - Thank you RZArector, Johnny Blaze, Bobby Digital!! (Mommy, What’s A Necromancer)
     - Finding Mary
-    - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-01-01, see first apocalypse analysis write up)
+    - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-12-01, see first apocalypse analysis write up)
       - Walk with God, literally
     - Modifying my life via the Entity Analysis Trinity (some shit was whack lol, of the path of the Tao of Wu, the 🎩🫖🤪🥰 Dionysian Discovery method works, thank you again RZA):
       - https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity
