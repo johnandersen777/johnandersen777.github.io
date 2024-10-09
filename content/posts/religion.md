@@ -125,7 +125,7 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
       - John is Nothing. Distroyed. Gone. Empty. A Shell.
     - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-12-01, see first apocalypse analysis write up)
       - Walk with God, literally
-    - Play the fool.
+    - Play the fool. Fuck it I'm already nothing might as well soak up some info.
       - They say dont play with fire and dont play games with God. But that just sounds like an invitation to me.
         - "Play the game, the game is fun"
           - Alright, alright, twist my arm 😜
