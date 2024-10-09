@@ -155,3 +155,5 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
       - Don on the armor of God
     - Forgive
     - Clean shit up. Get to work.
+    - **Cainites were right.**
+      - Let's roll
