@@ -143,5 +143,7 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
     - Accepting Jesus Christ as our savior
     - Accepting, honoring, and communing with our Earthly Mother 🪬🌎🌍🌏🪬, Heavenly Father 🌟🌌🪐, and the angels of the Gospel of Peace 🕊️☮️✌️🤙
     - The concept: "Fuck you I love you"
+    - Speak your truth
+      - Don on the armor of God
     - Forgive
     - Clean shit up. Get to work.
