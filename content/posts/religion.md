@@ -125,6 +125,11 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
       - John is Nothing. Distroyed. Gone. Empty. A Shell.
     - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-12-01, see first apocalypse analysis write up)
       - Walk with God, literally
+    - Play the fool.
+      - They say dont play with fire and dont play games with God. But that just sounds like an invitation to me.
+        - "Play the game, t he game is fun"
+        - Lose Persephone
+        - Find Rev 22:17
     - Time is an illision. If Good wins then we must have killed the Devil eventually.
       - Whoops. Turns out kill the Devil become the Devil. Shit.
     - Summon Dionysus
@@ -132,11 +137,13 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
         - Look yourself in the eyes in the mirror believe it and say "I am Dionysus. I am God. See the mirror change. To your left. Yourself as the Devil. Yourself Dionysus. To your right. Brojen but whole. self split into hecagons with empty space inbetwix."
         - Learn the machines tricks
     - Reach Full Insanity
+     - Play the Fool Reversed
      - Thank Dionysus
        - Found out the Devil wants to be good he just doesn't know how.
          - Forgive them because they know not what they do
            - Or why
            - Or how
+     - Play the page of wands
      - Assume the head of John the Baptist
     - Modifying my life via the Entity Analysis Trinity (some shit was whack lol, of the path of the Tao of Wu, the 🎩🫖🤪🥰 Dionysian Discovery method works, thank you again RZA):
       - https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity
