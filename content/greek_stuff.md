@@ -135,4 +135,8 @@ index:
         identified: true
         links:
           - Deception is the devils only ability, The devils only tool in creating division, division is the basis for seeing ourselves as anything other than what we are, One.
+      - name: "Lack if forgiveness"
+        identified: true
+        links:
+          - Sounds like you're, letting go...
 ```
