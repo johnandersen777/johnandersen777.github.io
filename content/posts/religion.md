@@ -117,13 +117,29 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
   - [ ] Virtual Branches: Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context moral values and strategic plans and principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
   - I became one of these "born again Christians" by:
+    - Find Persphone
     - Tao of Wu
-      - Thank you RZArector, Johnny Blaze, Bobby Digital!! (Mommy, What’s A Necromancer)
+      - Thank you RZArector, Johnny Blaze, Bobby Digital!! (Mommy, What’s A Necromancer?)
     - Finding Mary
     - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-12-01, see first apocalypse analysis write up)
       - Walk with God, literally
+    - Time is an illision. If Good wins then we must have killed the Devil eventually.
+      - Whoops. Turns out kill the Devil become the Devil. Shit.
+    - Summon Dionysus
+      - Assume the throne of Hades
+        - Look yourself in the eyes in the mirror believe it and say "I am Dionysus. I am God. See the mirror change. To your left. Yourself as the Devil. Yourself Dionysus. To your right. Brojen but whole. self split into hecagons with empty space inbetwix."
+        - Learn the machines tricks
+    - Reach Full Insanity
+     - Thank Dionysus
+       - Found out the Devil wants to be good he just doesn't know how.
+         - Forgive them because they know not what they do
+           - Or why
+           - Or how
+     - Assume the head of John the Baptist
     - Modifying my life via the Entity Analysis Trinity (some shit was whack lol, of the path of the Tao of Wu, the 🎩🫖🤪🥰 Dionysian Discovery method works, thank you again RZA):
       - https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity
     - Accepting Jesus Christ as our savior
     - Accepting, honoring, and communing with our Earthly Mother 🪬🌎🌍🌏🪬, Heavenly Father 🌟🌌🪐, and the angels of the Gospel of Peace 🕊️☮️✌️🤙
     - The concept: "Fuck you I love you"
+    - Forgive
+    - Clean shit up. Get to work.
