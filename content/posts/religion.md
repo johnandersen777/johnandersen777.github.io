@@ -121,6 +121,8 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
     - Tao of Wu
       - Thank you RZArector, Johnny Blaze, Bobby Digital!! (Mommy, What’s A Necromancer?)
     - Finding Mary
+    - 2022-11-29: Leave note. "John is broken"
+      - Gone. Empty. A Shell.
     - Dancing with the Spirt a bridge, the people’s crossing (He ask me for the time on 2022-12-01, see first apocalypse analysis write up)
       - Walk with God, literally
     - Time is an illision. If Good wins then we must have killed the Devil eventually.
