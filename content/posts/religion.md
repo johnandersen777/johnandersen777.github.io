@@ -127,7 +127,8 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
       - Walk with God, literally
     - Play the fool.
       - They say dont play with fire and dont play games with God. But that just sounds like an invitation to me.
-        - "Play the game, t he game is fun"
+        - "Play the game, the game is fun"
+          - Alright, alright, twist my arm 😜
         - Lose Persephone
         - Find Rev 22:17
     - Time is an illision. If Good wins then we must have killed the Devil eventually.
