@@ -153,6 +153,9 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
     - The concept: "Fuck you I love you"
     - Speak your truth
       - Don on the armor of God
+    - Trust God
+      - Bite the Apple
+        - Open Pandora's Box
     - Forgive
     - Clean shit up. Get to work.
     - **Cainites were right.**
