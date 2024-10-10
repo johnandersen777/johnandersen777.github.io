@@ -117,3 +117,4 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
   - [ ] Virtual Branches: Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context moral values and strategic plans and principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
   - Cainites were right.
+    - ^ This is the secret the freemasobs are hiding
