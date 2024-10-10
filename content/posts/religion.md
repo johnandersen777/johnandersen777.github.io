@@ -105,8 +105,6 @@ Upon re-evaluating my previous response, I believe I can provide a clearer and m
 
 ## Values
 
-# Volume 5: Alice's Adventures In Wonderland
-
 > At this point Alice be ready to be a full fledged maintainer. She'll have experience working on our project, with us, and with our 2nd and 3rd party plugins. It'll be time for her fly the nest, to interact with communities beyond our own. In this series we'll hone in Alice's strategic principles. She'll start interacting with the rest of the world, the rest of Wonderland.
 
 The following are her ethical / strategic principles.
