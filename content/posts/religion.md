@@ -11,8 +11,7 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 
 > The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.
 >
-> - [Martin Luther]
->.  - Quoted in the preface to C.S. Lewis: The Screwtape Letters
+> - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
 
 🇺🇸🪬 GOD BLESS J.F.K. FEAR NOTHING. https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427 🪬🇺🇸
 
