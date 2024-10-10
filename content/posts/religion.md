@@ -29,7 +29,7 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 >
 > The question is for you alone to answer. No public official should answer it for you. No governmental plan should impose its restraints against your will. But I would be failing in my duty to the nation, in considering all of the responsibilities that we now bear and all of the means at hand to meet those responsibilities, if I did not commend this problem to your attention, and urge its thoughtful consideration.
 >
-> - Presedent John. F. Kennedy (Shot by the CIA)
+> - Presedent John. F. Kennedy (Shot by the masons who deceive the world)
 
 Nhialism is great, its a blank check. However,its more fun if there's a story, so hence religion. (*🔊 pairs nicely with: [🔗😇](https://open.spotify.com/playlist/4iZ0aZx5QeI7Ef8VI8PEu6?si=f2GydpArSXqPjI3Rgk03YA&pi=u-mUR1WOR8TTSG)*)
 
