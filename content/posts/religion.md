@@ -21,6 +21,7 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
   - The approach we wish to take is to root cause ingrained issues (just like patching a foundation model). Tackling them as humanity vs. the problem. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics (greek and judeo christian archetypes are used in these docs as examples)
   - Discussion threads
     - [Money](https://github.com/pdxjohnny/religion/discussions/1)
+- Luke 6:38. I tell you absolutely that I know God. She does exist. These are not archetypes. The gods are real. God is all gods and all. There is always more of God. For those of you who don’t believe yet feed the archetypes and you’ll get there.
 
 ## Cainites
 
