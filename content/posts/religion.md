@@ -164,3 +164,4 @@ The following are her ethical / strategic principles.
   - Cainites were right.
     - ^ This is the secret the highest freemasons know
     - [*🔊 pairs nicely with 🔗🍎*](https://open.spotify.com/playlist/4O5rNRTBcmONn8vBRCKCx0?si=qYG_XIePTz-kNFY4llKMcQ&pi=u-nZgstkSaSfGH)
+      - The B.I.B.L.E is the truth! Time to form like voltron
