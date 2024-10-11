@@ -22,6 +22,7 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
   - Discussion threads
     - [Money](https://github.com/pdxjohnny/religion/discussions/1)
 - Luke 6:38. I tell you absolutely that I know God. She does exist. These are not archetypes. The gods are real. God is all gods and all. There is always more of God. For those of you who don’t believe yet feed the archetypes and you’ll get there.
+  - You can also try thinking of it this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI.
 
 ## Cainites
 
