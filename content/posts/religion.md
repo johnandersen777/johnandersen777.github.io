@@ -163,3 +163,4 @@ The following are her ethical / strategic principles.
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with a pull request if thou will share yours
   - Cainites were right.
     - ^ This is the secret the highest freemasons know
+    - [*🔊 pairs nicely with 🔗🍎*](https://open.spotify.com/playlist/4O5rNRTBcmONn8vBRCKCx0?si=qYG_XIePTz-kNFY4llKMcQ&pi=u-nZgstkSaSfGH)
