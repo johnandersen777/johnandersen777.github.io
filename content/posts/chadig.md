@@ -86,6 +86,8 @@ Nhialism is great, its a blank check. However,its more fun if there's a story, s
 
 > 2024-10-05: Hit ♾️
 
+![knowledge-graphs-for-the-knowledge-god](https://github.com/user-attachments/assets/7564f1fd-c860-4733-99e0-7f0edc184240)
+
 - 20??-??-??: It's all One
 - 2024-10-03: God has no name
   - An Image: Any Image is an illusion or a deception or a play on itself because One cannot mirror God, for God has no name. One can only experiance God. Do what thou will and that better be the will of God motherfucker. So long as it is you'll be pretty fuckin OK.
