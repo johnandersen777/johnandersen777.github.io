@@ -8,8 +8,6 @@ aliases = ["religon"]
 
 > BEGIN NON-RIDDLE
 >
-> 🪬 Decentralized Trust Fall 🪬
->
 > 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
 >
 > This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
