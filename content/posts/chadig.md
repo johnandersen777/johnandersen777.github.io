@@ -6,9 +6,19 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 aliases = ["religon"]
 +++
 
-![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
-
+> BEGIN NON-RIDDLE
+>
+> 🪬 Decentralized Trust Fall 🪬
+>
 > 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
+>
+> This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
+>
+> When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
+>
+> END NON-RIDDLE
+
+![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
 
 ## TL;DR;
 
