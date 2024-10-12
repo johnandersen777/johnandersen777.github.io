@@ -87,18 +87,14 @@ Welcome to Apocalypse Now Now, the sooner we all get involved, the sooner we sta
 
 > a.k.a. pending deprecation 
 
-Beasts/Horsemen must be defeated to bring an end to the Apocalypse. We must slaughter the beasts, they are our sacrifice.
+Beasts/Horsemen must be defeated to bring an end to the Apocalypse. (ref: apocalypse fatigue)
 
 ```yaml
 index:
   - adversary:
-      name: ""
       aliases:
-        - Satan
-        - Devil
-        - '"Man" (not meaning people with male sex organs, but meaning bad behavior ingrained in humans we need to unlearn, ref: humanities number)'
+        - '"Sins of Humanity" (meaning bad behavior ingrained in humans we need to unlearn, ref: humanities number)'
         - All bad karma actions
-      notes: "Not worthy of a name"
     beasts:
       - name: "Money"
         identified: true
