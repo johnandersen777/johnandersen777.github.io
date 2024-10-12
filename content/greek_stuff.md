@@ -100,7 +100,7 @@ index:
         identified: true
         links:
           - https://github (dot) com /ONYXCore/onyx
-          - https://pdxjohnny.github.io/apoc_analysis_beast_1/
+          - https://pdxjohnny.github.io/a_path_to_peaceful_armageddon_analysis_beast_1/
           - grep barter
       - name: "Time"
         identified: true
