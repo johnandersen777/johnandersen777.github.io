@@ -28,6 +28,6 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
 - Luke 6:38. I tell you absolutely that I know God. God does exist.
   - Just trust me. I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.
   - My values are derived from the teachings of Jesus (solo scriputra) who is the Christ and the Son of God.
-- Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our calues are and where rhey come from for that to happen.
+- Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
 
 ![post-your-values](https://github.com/user-attachments/assets/59678b40-77ec-497d-912f-6cb3797d33c4)
