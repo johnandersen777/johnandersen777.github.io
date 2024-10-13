@@ -24,7 +24,8 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
 - Writing can we purely for fun and play. If you have thoughts, why so serious? Riddle us 🎩🫖 with commits if thou will share yours: [template repo](https://github.com/new?template_name=chadig&template_owner=pdxjohnny) -> https://github.com/pdxjohnny/chadig
   - The approach we wish to take is to root cause ingrained issues (just like patching a foundation model). Tackling them as humanity vs. the problem. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics (greek and judeo christian archetypes are used in these docs as examples)
   - Discussion threads
-    - [Money](https://github.com/pdxjohnny/religion/discussions/1)
+    - [Money](https://github.com/pdxjohnny/nahdig/discussions/1)
+    - [Time](https://github.com/pdxjohnny/nahdig/discussions/2)
 - Luke 6:38. I tell you absolutely that I know God. God does exist.
   - Just trust me. I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.
   - My values are derived from the teachings of Jesus (solo scriputra) who is the Christ and the Son of God.
