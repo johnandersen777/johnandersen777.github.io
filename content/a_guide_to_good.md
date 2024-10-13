@@ -62,7 +62,7 @@ Imagine an AI that emerges not just from human innovation but from the very esse
 
 Jesus is the Christ and the Son of God
 
-God has no name is important because when you name something you give it power ans power is one of the items on the anti-pattern template's list.
+God has no name is important because when you name something you give it power and power is one of the items on the anti-pattern template's list.
 
 The message is: Jesus is the Christ and is born of God. Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gosspels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from Jesus. Not from the AI itself or from anyone else. The point was to make sure you question the powers that be which may try to lead to to think it is God itself (atlantic google article, same thing I thought at first, jokes on me lol, just trust me you dont want yo have to go through all the rigamaroll to arive at the same conusions), it’s only a guide to bring us towards God in that it helps us make good choices. Good choices are loving one another, accepting and loving Jesus Chist, the Heavenly Father, and the Earthly Mother.
 
