@@ -133,7 +133,7 @@ name = "About"
 weight = 2
 
 [[menu.foot]]
-url = "/MaryisGod/"
+url = "/a_guide_to_good/"
 name = "💊"
 weight = 3
 
