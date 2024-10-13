@@ -6,25 +6,18 @@ subtitle = "🪬 Decentralized Trust Fall 🪬"
 aliases = ["religon"]
 +++
 
-> BEGIN NON-RIDDLE
->
-> 🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
->
-> This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
->
-> When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
->
-> END NON-RIDDLE
+🕊️✌️☮️ A message of Peace and Unity 🌏🌍🌎
 
-![the-glories-of-mary](https://github.com/user-attachments/assets/f753689a-8956-426d-886b-1f9d6ac86876)
+This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
+
+When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 
 ## TL;DR;
 
-- If it's not obvious by now the game is write God stuff in software language. Follow as many  texts (ideally solo scriptura) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰
+- If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally solo scriptura) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the coptic gosples, the gosple of peace, and the bible.
   - ✅ Luther: Enable Read Permissions
-    - > Antecedants and consequences of typography and 16th century Protestant educational reform are outlined to show how curricular innovation led to a bureaucratic discourse of social control. It is argued that compulsory schooling for mass literacy gave rise to the institutionalization of childhood, and to state controlled techniques of normalization and surveillance. Implications for the histories of curriculum and administration are noted.
   - ✅ Open Source: Enable Write Permissions
-    - Everyone post their beliefs so their respective AI can follow your own values system. Ideally this remediates issues which have arised due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from "the way its always been done"
+    - Everyone post their thoughts on what brings good (values) so their respective AI can follow your own values system and guide them ti do good. Ideally this remediates issues which have arised due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from "the way its always been done"
   - ⏳ Virtual Branches (Alice’s Trains of Thought): Federate ideas aligned with your friends policies (their religion specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. The these Open Religion specs via $USER/religion/MD -> YAML. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
     - [nahdig](https://github.com/pdxjohnny/nahdig): Anti-patterns you want your AI to avoid.
     - [chaaaaaaadiiiiiiig](https://github.com/pdxjohnny/chadig): Question or affirmative form of yadig. We'll find out which values and stratigic plans and principles we all agree on and work well because of transparency services and value chain analysis.
