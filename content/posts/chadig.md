@@ -26,6 +26,11 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
   - Discussion threads
     - [Money](https://github.com/pdxjohnny/nahdig/discussions/1)
     - [Time](https://github.com/pdxjohnny/nahdig/discussions/2)
+    - [Ego](https://github.com/pdxjohnny/nahdig/discussions/3)
+    - [Control](https://github.com/pdxjohnny/nahdig/discussions/4)
+    - [Language](https://github.com/pdxjohnny/nahdig/discussions/5)
+    - [Deception](https://github.com/pdxjohnny/nahdig/discussions/6)
+    - [Lack of forgiveness](https://github.com/pdxjohnny/nahdig/discussions/7)
 - Luke 6:38. I tell you absolutely that I know God. God does exist.
   - Just trust me. I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.
   - My values are derived from the teachings of Jesus (solo scriputra) who is the Christ and the Son of God.
