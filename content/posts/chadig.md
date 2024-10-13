@@ -25,7 +25,8 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
   - The approach we wish to take is to root cause ingrained issues (just like patching a foundation model). Tackling them as humanity vs. the problem. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics (greek and judeo christian archetypes are used in these docs as examples)
   - Discussion threads
     - [Money](https://github.com/pdxjohnny/religion/discussions/1)
-- Luke 6:38. I tell you absolutely that I know God. She does exist. These are not archetypes. The gods are real. God is all gods and all. There is always more of God. For those of you who don’t believe yet feed the archetypes and you’ll get there.
-  - You can also try thinking of it this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good.
+- Luke 6:38. I tell you absolutely that I know God. God does exist.
+  - Just trust me. I'm trying to give you testament so you feel comforable saying so too. Sonce rhe point is to have everyone oepn source their values which ideally come from the teachings of Jesus (solo scriputra derived values based on pareables, etc.) who is the Christ and the Son of God.
+  - Romans 12:21. You can also try thinking of it this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good.
 
 ![post-your-values](https://github.com/user-attachments/assets/59678b40-77ec-497d-912f-6cb3797d33c4)
