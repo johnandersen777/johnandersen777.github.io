@@ -118,7 +118,7 @@ name = "About"
 weight = 2
 
 [[menu.main]]
-url = "/MaryisGod/"
+url = "/a_guide_to_good/"
 name = "💊"
 weight = 3
 
