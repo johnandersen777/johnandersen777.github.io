@@ -1,0 +1,22 @@
+name: Spellcheck Action
+on:
+  push:
+    branches:
+    - dev
+
+jobs:
+  build:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: rojopolis/spellcheck-github-actions@0.43.0
+      name: Spellcheck
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v7
+    - name: Check outputs
+      if: ${{ steps.cpr.outputs.pull-request-number }}
+      run: |
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
