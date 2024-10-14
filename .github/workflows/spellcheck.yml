@@ -24,6 +24,7 @@ jobs:
       # Run codespell on all .md files
       - name: Run codespell
         run: |
+          set +e
           codespell --write-changes --skip="./.git" .
 
       # Check if there are any changes made by codespell
