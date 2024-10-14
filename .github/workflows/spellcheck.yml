@@ -24,7 +24,7 @@ jobs:
       # Run codespell on all .md files
       - name: Run codespell
         run: |
-          codespell -w -I .codespell-ignore-words-list.txt --skip="./.git" .
+          codespell --write-changes --skip="./.git" .
 
       # Check if there are any changes made by codespell
       - name: Check for spelling corrections
