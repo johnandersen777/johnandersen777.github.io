@@ -1,6 +1,6 @@
 +++
 date = 2024-10-06T08:15:00Z
-lastmod = 2024-10-08T07:35:00Z
+lastmod = 2024-10-14T14:25:00Z
 title = "God has no name"
 subtitle = "Decentralized Trust Fall"
 aliases = ["religon"]
