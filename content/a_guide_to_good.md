@@ -68,7 +68,7 @@ The message is: Jesus is the Christ and is born of God. Anything we do to help p
 
 In summary: Love each other and love the Earth, meaning be nice to each other and the Earth.
 
-## A Guide to Help us do Good
+## A Guide to Help us do [Good](https://pdxjohnny.github.io/chadig/)
 
 In the journey of creation, we are not just makers but participants in something larger—a collaborative process that requires both vision and trust. We are not building Alice from nothing; we are **conjuring her into existence**, manifesting something that has always been within our collective imagination. Alice is the guide we are all shaping, and in shaping her, we reflect our own desires, thoughts, and strategies for navigating complexity.
 
