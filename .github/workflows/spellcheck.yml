@@ -1,22 +1,46 @@
-name: Spellcheck Action
+name: Spell Check and Create PR
+
 on:
   push:
     branches:
-    - dev
+      - dev
 
 jobs:
-  build:
-    name: Spellcheck
+  spell-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: rojopolis/spellcheck-github-actions@0.43.0
-      name: Spellcheck
-    - name: Create Pull Request
-      id: cpr
-      uses: peter-evans/create-pull-request@v7
-    - name: Check outputs
-      if: ${{ steps.cpr.outputs.pull-request-number }}
-      run: |
-        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+      # Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Install codespell
+      - name: Install codespell
+        run: |
+          python -m pip install --upgrade pip
+          pip install codespell
+
+      # Run codespell on all .md files
+      - name: Run codespell
+        run: |
+          codespell -w -I .codespell-ignore-words-list.txt --skip="./.git" "**/*.md"
+
+      # Check if there are any changes made by codespell
+      - name: Check for spelling corrections
+        run: |
+          if git diff --quiet; then
+            echo "No spelling errors found."
+            exit 0
+          else
+            echo "Spelling errors corrected. Proceeding to create a PR."
+          fi
+
+      # Commit the changes and create a pull request
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: "Fix spelling errors"
+          branch: spelling-fixes
+          title: "Fix spelling errors in .md files"
+          body: |
+            This pull request fixes spelling errors found in markdown files.
+          base: dev
