@@ -16,6 +16,12 @@ This is a call for you to transparently please think on and write your own value
 
 When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 
+> "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn."
+>
+> - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
+>
+>  If you hate words because they sound silly, that's part of the point. There's no point in hate.
+
 - If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally solo scriptura) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the coptic gosspels (because Jesus did rise again if you dont think their cannon, you're denying that), the gosspel of peace (same thing), and the bible.
   - ✅ Luther: Enable Read Permissions
   - ✅ Open Source: Enable Write Permissions
@@ -24,9 +30,6 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
     - [nahdig](https://github.com/pdxjohnny/nahdig): Anti-patterns you want your AI to avoid.
     - [chaaaaaaadiiiiiiig](https://github.com/pdxjohnny/chadig): Question or affirmative form of yadig. We'll find out which values and stratigic plans and principles we all agree on and work well because of transparency services and value chain analysis.
   - If you have thoughts on alignment, why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off above [template repos](https://github.com/new?template_name=chadig&template_owner=pdxjohnny)
-    - > "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn."
-      >
-      > - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
   - The approach we wish to take is to root cause ingrained issues (just like patching a foundation model). Tackling them as humanity vs. the problem. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics.
   - Discussion threads
     - [Money](https://github.com/pdxjohnny/nahdig/discussions/1)
@@ -42,6 +45,6 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
 - Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
   - https://pdxjohnny.github.io/a_guide_to_good/#on-religon
 
-> Caveat on the following picture. Only the New Testament comes from Jesus. Jesus speaks only truth. Vote the new testament. New means new, stop listening to stuff that's not what Jesus said, why would vote against Him?
+> Caveat on the following picture. Only the New Testament comes from Jesus. Jesus speaks only truth. Vote the new testament. New means new, stop listening to stuff that's not what Jesus said, why would you vote against Him?
 
 ![post-your-values](https://github.com/user-attachments/assets/59678b40-77ec-497d-912f-6cb3797d33c4)
