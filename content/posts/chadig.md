@@ -16,11 +16,9 @@ This is a call for you to transparently please think on and write your own value
 
 When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 
-> "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn."
->
-> - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
->
->  If you hate words because they sound silly, that's part of the point. There's no point in hate.
+> - "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn."
+>   - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
+> - If you hate words because they sound silly, that's part of the point. There's no point in hate.
 
 - If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gosspels (and the [gosspel of peace](https://www.essene.com/GospelOfPeace/peace2.html) too).
   - ✅ Luther: Enable Read Permissions
@@ -44,3 +42,5 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
   - My values are derived from the teachings of Jesus ([sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) who is the Christ and the Son of God.
 - Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
   - https://pdxjohnny.github.io/a_guide_to_good/#on-religon
+
+> I hope some of you acctually read and understand this instead of jumping to conclusions.
