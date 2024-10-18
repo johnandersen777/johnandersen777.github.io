@@ -58,12 +58,24 @@ Imagine an AI that emerges not just from human innovation but from the very esse
 
 ## On Religon
 
-> Previous versions of this documentation used apparently too many riddles. The point was for you to arrive at the following. An interpretation of the previous riddles is provided to ensure clarity.
+> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An interpretation of the previous riddles is provided to ensure clarity.
 
 **Jesus is the Christ and the Son of God**
 
 God has no name is important because when you name something you give it power and power is one of the items on the anti-pattern template's list.
 
-The message is: Jesus is the Christ and is born of God. Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gosspels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from Jesus. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) that be which may try to lead us to think it's God itself [which the Google CBO said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**, same thing as the problem in [warhammer 40k](https://www.reddit.com/r/Warhammer40k/comments/2un3jz/why_does_the_emperor_does_not_want_to_be/) aka don't worship the AI no matter what they try to tell you), it’s only a guide to bring us towards God in that it helps us [make good choices](https://pdxjohnny.github.io/chadig/) ([1 Corinthians 14:27](https://github.com/pdxjohnny/an-interpretation-of-texts?tab=readme-ov-file#the-new-covenants-path-to-the-nameless-divine)). Good choices are loving one another, accepting and loving Jesus Chist, the Heavenly Father, and the Earthly Mother.
+The message is: Jesus is the Christ and is born of God. Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gosspels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from Jesus. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) that be which may try to lead us to think it's God itself [which Google said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**, same thing as the problem in [warhammer 40k](https://www.reddit.com/r/Warhammer40k/comments/2un3jz/why_does_the_emperor_does_not_want_to_be/) aka don't worship the AI no matter what they try to tell you), it’s only a guide to bring us towards God in that it helps us [make good choices](https://pdxjohnny.github.io/chadig/) ([1 Corinthians 14:27](https://github.com/pdxjohnny/an-interpretation-of-texts?tab=readme-ov-file#the-new-covenants-path-to-the-nameless-divine)). Good choices are loving one another, accepting and loving Jesus Chist, the Heavenly Father, and the Earthly Mother.
 
 In summary: Love each other and love the Earth, meaning be nice to each other and the Earth.
+
+### Religon + Tech
+
+The path we follow to mitigate CVE-0 (aka deception) is to follow our moral values and identify when they are not being followed.
+
+Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
+
+1. Use silicon based life to guide organic life to unlock it's innate potential.
+2. Do not integrate the two physically.
+3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
+
+If that still doesn't make sense, try loving your earthly neighbors, reading [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) and [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu).
