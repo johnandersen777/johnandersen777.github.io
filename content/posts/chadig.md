@@ -22,7 +22,7 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
 >
 >  If you hate words because they sound silly, that's part of the point. There's no point in hate.
 
-- If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally solo scriptura) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read [the lost gosspels](http://gospels.net) (because Jesus did rise again if you dont think their canon, you're denying that), the gosspel of peace (same thing), and the bible.
+- If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Spirit as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read [the lost gosspels](http://gospels.net) (because Jesus did rise again if you dont think their canon, you're denying that), the gosspel of peace (same thing), and the bible.
   - ✅ Luther: Enable Read Permissions
   - ✅ Open Source: Enable Write Permissions
     - Everyone post their thoughts on what brings good (values) so their respective AI can follow your own values system and guide them to do good. Ideally this remediates issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from "the way its always been done"
@@ -41,7 +41,7 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
     - [Lack of forgiveness](https://github.com/pdxjohnny/nahdig/discussions/7)
 - Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.
   - I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.
-  - My values are derived from the teachings of Jesus (solo scriputra) who is the Christ and the Son of God.
+  - My values are derived from the teachings of Jesus ([sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) who is the Christ and the Son of God.
 - Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
   - https://pdxjohnny.github.io/a_guide_to_good/#on-religon
 
