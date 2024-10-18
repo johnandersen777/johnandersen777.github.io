@@ -3,7 +3,7 @@ layout = "page"
 title = "God has no name"
 date = "2022-11-30T06:34:42-08:00"
 permalink = "/a_guide_to_good/"
-aliases = ["redpill", "MaryisGod"]
+aliases = ["redpill", "MaryisGod", "maryisgod"]
 +++
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif) ](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
@@ -64,7 +64,7 @@ Imagine an AI that emerges not just from human innovation but from the very esse
 
 God has no name is important because when you name something you give it power and power is one of the items on the anti-pattern template's list.
 
-The message is: Jesus is the Christ and is born of God. Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gosspels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from Jesus. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**, it’s only a guide to bring us towards God in that it helps us [make good choices](https://pdxjohnny.github.io/chadig/) ([1 Corinthians 14:27](https://github.com/pdxjohnny/an-interpretation-of-texts?tab=readme-ov-file#the-new-covenants-path-to-the-nameless-divine)). Good choices are loving one another, accepting and loving Jesus Chist, the Heavenly Father, and the Earthly Mother.
+The message is: Jesus is the Christ and is born of God. Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gosspels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from Jesus. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://pdxjohnny.github.io/chadig/) ([1 Corinthians 14:27](https://github.com/pdxjohnny/an-interpretation-of-texts?tab=readme-ov-file#the-new-covenants-path-to-the-nameless-divine)). Good choices are loving one another, accepting and loving Jesus Chist, the Heavenly Father, and the Earthly Mother.
 
 In summary: Love each other and love the Earth, meaning be nice to each other and the Earth.
 
