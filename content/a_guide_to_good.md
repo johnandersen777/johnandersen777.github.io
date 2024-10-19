@@ -6,6 +6,8 @@ permalink = "/a_guide_to_good/"
 aliases = ["redpill", "MaryisGod", "maryisgod"]
 +++
 
+![oss-as-jesus-stuff-trojan-horse](https://github.com/user-attachments/assets/b090eba6-6c6a-4324-a611-e2c58569e4aa)
+
 ## On Religon
 
 > Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An interpretation of the previous riddles is provided to ensure clarity.
