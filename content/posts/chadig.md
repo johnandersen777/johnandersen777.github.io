@@ -6,6 +6,8 @@ subtitle = "Decentralized Trust Fall"
 aliases = ["religon"]
 +++
 
+![oss-as-jesus-stuff-trojan-horse](https://github.com/user-attachments/assets/b090eba6-6c6a-4324-a611-e2c58569e4aa)
+
 > 🕊️✌️☮️
 >
 > A message of Peace and Unity
