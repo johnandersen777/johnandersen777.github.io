@@ -364,6 +364,7 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 - https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8
   - https://www.youtube.com/watch?v=-sGPCMIQZLw
   - https://www.youtube.com/watch?v=qx1KmbiJq9A
+  - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
 - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
 - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
 - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
