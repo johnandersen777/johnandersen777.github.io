@@ -6,6 +6,8 @@ subtitle = "Why is there a man behind the curtain?"
 aliases = ["mark_1337_esv", "stay_woke"]
 +++
 
+![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
+
 > A little bit of knowledge
 >
 > Can be a dangerous thing;
@@ -18,11 +20,13 @@ aliases = ["mark_1337_esv", "stay_woke"]
 >
 > 
 >
-> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) by "Chan Thomas"
+> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) - Chan Thomas
 
-![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
+<details>
+<summary><i>The real <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland">meaningless riddle</a> is getting caught up in the distraction of the powers that be while saṃsāra.</i></summary>
 
-There are riddles and there are meaningless riddles, one can get carried away with writing and the mad hatter bit from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. The real meaningless riddle is getting caught up in the distraction of the powers that be while saṃsāra.
+
+There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. 
 
 "I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before 2030 timeframe. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
 
@@ -31,6 +35,8 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
+
+</details>
 
 ## Table of Contents
 
@@ -44,8 +50,6 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 - [Conclusion](#conclusion)
 - [References](#references)
 
-![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
-
 In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.
 
 At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including natural phenomena like pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building resilience.
@@ -54,7 +58,7 @@ At the core of this division lies an age-old conflict between the forces of love
 
 > Perhaps we need some outside, universal threat to make us recognize this common bond. I occasionally think how quickly our differences worldwide would vanish if we were facing an alien threat from outside this world.
 >
-> [[President Ronald Reagan]](https://www.reaganlibrary.gov/archives/speech/address-42d-session-united-nations-general-assembly-new-york-new-york) in his address to the 42d Session of the United Nations General Assembly
+> [[President Ronald Reagan](https://www.reaganlibrary.gov/archives/speech/address-42d-session-united-nations-general-assembly-new-york-new-york)]
 
 From a scientific standpoint, it's essential to understand the phenomenon of geomagnetic pole shifts and their potential effects on our world. The Earth's magnetic field is generated by the movement of molten iron in its outer core, creating a magnetic field that extends into space and shields the planet from solar radiation.
 
@@ -369,3 +373,5 @@ By focusing on transparency, decentralization, and the intelligent application o
 - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
   - Revalations can be good, so long as we use them to prepare and unite instead of previous proliferated revalations from organized religions who's aim is to save only a chosen few.
     - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
+
+![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
