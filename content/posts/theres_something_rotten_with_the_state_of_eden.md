@@ -22,7 +22,7 @@ aliases = ["mark_1337_esv", "stay_woke"]
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
 
-There are riddles and there are meaningless riddles, one can get carried away with writing and the mad hatter bit from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. The real meaningless riddle is getting caught up saṃsāra.
+There are riddles and there are meaningless riddles, one can get carried away with writing and the mad hatter bit from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. The real meaningless riddle is getting caught up in the distraction of the powers that be while saṃsāra.
 
 "I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before 2030 timeframe. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
 
