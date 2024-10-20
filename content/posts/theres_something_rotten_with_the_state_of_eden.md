@@ -18,7 +18,7 @@ aliases = ["mark_1337_esv", "stay_woke"]
 >
 > 
 >
-> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) by "Chan Thomas" - 
+> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) by "Chan Thomas"
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
 
