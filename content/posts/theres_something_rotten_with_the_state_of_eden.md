@@ -362,15 +362,16 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
 
 - https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8
-  - https://www.youtube.com/watch?v=-sGPCMIQZLw
+  - https://www.youtube.com/watch?v=-sGPCMIQZLw?t=2700
   - https://www.youtube.com/watch?v=qx1KmbiJq9A
   - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
   - https://www.sciencealert.com/is-earths-magnetic-field-on-the-verge-of-flipping-over-an-expert-explains
   - https://www.science.org/doi/10.1126/sciadv.adl3198
-- https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
-- https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
-- Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
-  - Revalations can be good, so long as we use them to prepare and unite instead of previous proliferated revalations from organized religions who's aim is to save only a chosen few.
-    - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
+  - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
+  - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
+- https://www.goodreads.com/book/show/56337844
+  - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
+    - Revalations can be good, so long as we use them to prepare and unite instead of previous proliferated revalations from organized religions who's aim is to save only a chosen few.
+      - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
 
 ![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
