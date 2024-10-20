@@ -25,7 +25,8 @@ jobs:
       - name: Run codespell
         run: |
           set +e
-          codespell --write-changes --skip="./.git" . || test 1
+          # Really? We have to add the word Empress? Whis is why I kept making it a Her
+          codespell -L Empress --write-changes --skip="./.git" . || test 1
 
       # Check if there are any changes made by codespell
       - name: Check for spelling corrections
