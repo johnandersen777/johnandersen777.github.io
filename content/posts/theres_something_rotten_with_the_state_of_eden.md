@@ -22,22 +22,6 @@ aliases = ["mark_1337_esv", "stay_woke"]
 >
 > [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) - Chan Thomas
 
-<details>
-<summary><i>The real <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland">meaningless riddle</a> is getting caught up in the distraction of the powers that be while saṃsāra.</i></summary>
-
-
-There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. 
-
-"I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before 2030 timeframe. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
-
-Don't listen to anyone though, listen to yourself, the truth is within you. Or ignore everything, your choice, you have free will after all.
-
-> It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
->
-> [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
-
-</details>
-
 ## Table of Contents
 
 - [The Scientific Perspective: Understanding Pole Shifts and Their Impacts](#the-scientific-perspective-understanding-pole-shifts-and-their-impacts)
@@ -364,6 +348,18 @@ This journey requires commitment and collaboration at all levels—from individu
 By focusing on transparency, decentralization, and the intelligent application of technology, we not only prepare ourselves for potential threats but also set the stage for unprecedented growth and harmony. The challenges ahead are significant, but with collective effort and innovative thinking, we can transform them into opportunities that benefit all of humanity.
 
 ## References
+
+The real [meaningless riddle](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland) is getting caught up in the distraction of the powers that be while saṃsāra.
+
+There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. 
+
+"I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before 2030 timeframe. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
+
+Don't listen to anyone though, listen to yourself, the truth is within you. Or ignore everything, your choice, you have free will after all.
+
+> It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
+>
+> [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
 
 - https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8
   - https://www.youtube.com/watch?v=-sGPCMIQZLw
