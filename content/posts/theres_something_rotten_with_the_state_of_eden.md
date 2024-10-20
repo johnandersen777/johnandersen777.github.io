@@ -333,5 +333,5 @@ By focusing on transparency, decentralization, and the intelligent application o
 - https://www.youtube.com/watch?v=qx1KmbiJq9A
 - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
 - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
-- Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d)
-  - Revalations can be good, so long as we use them to prepare and unite instead of previous proliferated revalations from organized religions who's aim is to save only a chosen few
+- Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963
+  - Revalations can be good, so long as we use them to prepare and unite instead of previous proliferated revalations from organized religions who's aim is to save only a chosen few.
