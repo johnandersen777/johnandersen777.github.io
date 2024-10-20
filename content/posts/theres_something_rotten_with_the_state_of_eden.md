@@ -6,11 +6,11 @@ subtitle = "Why is there a man behind the curtain in the first place?"
 aliases = ["mark_1337_esv", "stay_woke"]
 +++
 
-![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
-
 > A little bit of knowledge Can be a dangerous thing; Or it can be a vibrant seed Giving rise to verdant forests And awakening sleeping giants
 >
 > "Chan Thomas" - https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf)
+
+![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
 
 There are riddles and there are meaningless riddles, one can get carried away with writing and the mad hatter bit from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. The real meaningless riddle is getting caught up saṃsāra.
 
