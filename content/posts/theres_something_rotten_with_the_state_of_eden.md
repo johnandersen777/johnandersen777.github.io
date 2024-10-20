@@ -385,7 +385,7 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
     - Wu-Tang is for the children, listen, look up, speak up.
 - https://www.goodreads.com/book/show/56337844
   - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
-    - Revalations can be good, so long as we use them to prepare and unite instead of previous proliferated revalations from organized religions who's aim is to save only a chosen few.
+    - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only their chosen (very) few.
       - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
 
 ![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
