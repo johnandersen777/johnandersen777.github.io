@@ -6,7 +6,17 @@ subtitle = "Why is there a man behind the curtain in the first place?"
 aliases = ["mark_1337_esv", "stay_woke"]
 +++
 
-> A little bit of knowledge Can be a dangerous thing; Or it can be a vibrant seed Giving rise to verdant forests And awakening sleeping giants
+> A little bit of knowledge
+>
+> Can be a dangerous thing;
+>
+> Or it can be a vibrant seed
+>
+> Giving rise to verdant forests
+>
+> And awakening sleeping giants
+>
+> 
 >
 > "Chan Thomas" - https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf)
 
