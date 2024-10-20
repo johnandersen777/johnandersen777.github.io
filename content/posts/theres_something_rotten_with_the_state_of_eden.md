@@ -2,7 +2,7 @@
 date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
-subtitle = "Why is there a man behind the curtain in the first place?"
+subtitle = "Why is there a man behind the curtain?"
 aliases = ["mark_1337_esv", "stay_woke"]
 +++
 
