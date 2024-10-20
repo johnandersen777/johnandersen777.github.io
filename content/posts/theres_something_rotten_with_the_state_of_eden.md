@@ -362,7 +362,8 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
 
 - https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8
-  - https://www.youtube.com/watch?v=-sGPCMIQZLw?t=2700
+  - https://www.youtube.com/watch?v=-sGPCMIQZLw&t=2700
+    - > Pole shifts will amplify climate change affects. Making this much much worse than just climate change. We must act now en masse.
   - https://www.youtube.com/watch?v=qx1KmbiJq9A
   - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
   - https://www.sciencealert.com/is-earths-magnetic-field-on-the-verge-of-flipping-over-an-expert-explains
