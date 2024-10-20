@@ -370,6 +370,8 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
   - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
   - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
 - https://historycollection.com/16-hidden-symbolic-messages-in-the-wizard-of-oz-you-may-have-missed/
+  - > The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century
+    - Matthew 6:24
 - https://medium.com/sunnya97/alice-in-wonderland-political-allusions-91aff911fe06
   - > The major example of a story element which corroborates this premise is the King’s Court. While the idea of good and bad is understood by the small children, they are unable to grasp the more complicated political undertone of the section. The novel was published in 1865. The adults who were a reading the book at the time period, would have easily noticed the connections to the the February Revolutions happening in nearby France in which corrupted court systems were used by the king of France to crush out the rebellion. In France, the king would use his power to act as the judge himself, to make sure that his will was always carried out, an exact replica which is done in Alice in Wonderland by the king and queen.
     >
