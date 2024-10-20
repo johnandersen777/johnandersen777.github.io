@@ -1,7 +1,7 @@
 +++
 date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
-title = "There's Something Rotten with the state of Eden"
+title = "There's Something Rotten with the State of Eden"
 subtitle = "Or maybe it's all fine, depends who you talk to, and that's the point"
 aliases = ["mark_1337_esv", "stay_woke"]
 +++
