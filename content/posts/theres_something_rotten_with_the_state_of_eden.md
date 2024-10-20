@@ -369,6 +369,9 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
   - https://www.science.org/doi/10.1126/sciadv.adl3198
   - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
   - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
+- > the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy
+  - There are dumb conspiracy theories and then there are ones which [all the richest people might build bunkers for](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/), use your brain.
+  - https://en.wikipedia.org/wiki/Operation_CHAOS
 - https://historycollection.com/16-hidden-symbolic-messages-in-the-wizard-of-oz-you-may-have-missed/
   - > The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century
     - Matthew 6:24
