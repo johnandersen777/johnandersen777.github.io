@@ -20,7 +20,7 @@ aliases = ["mark_1337_esv", "stay_woke"]
 >
 > 
 >
-> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) - Chan Thomas
+> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) - Chan Thomas (unexplicitly attributed quotes within content below sourced from this)
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ At the core of this division lies an age-old conflict between the forces of love
 
 ### The Scientific Perspective: Understanding Pole Shifts and Their Impacts
 
-> Perhaps we need some outside, universal threat to make us recognize this common bond. I occasionally think how quickly our differences worldwide would vanish if we were facing an alien threat from outside this world.
+> "Perhaps we need some outside, universal threat to make us recognize this common bond. I occasionally think how quickly our differences worldwide would vanish if we were facing an alien threat from outside this world."
 >
 > [[President Ronald Reagan](https://www.reaganlibrary.gov/archives/speech/address-42d-session-united-nations-general-assembly-new-york-new-york)]
 
@@ -48,9 +48,31 @@ From a scientific standpoint, it's essential to understand the phenomenon of geo
 
 **What Are Pole Shifts?**
 
+> The Next Cataclysm
+>
+>
+> Like Noah’s,
+>
+>
+>   6,500 years ago . . . .
+>
+>
+> Like Adam and Eve’s,
+>
+>
+>   11,500 years ago . . . .
+>
+>
+> This, too,
+>
+>
+>   will come to pass . . . .
+
 Geomagnetic pole shifts refer to changes in the Earth's magnetic field where the positions of magnetic north and magnetic south can move significantly or even swap places over geological timescales. Evidence from rock formations shows that such reversals have occurred multiple times throughout Earth's history.
 
 **Potential Impacts of Pole Shifts**
+
+> So, apparently once every few thousand years neutral matter escapes from the 860-mile-radius inner core into the thick molten outer core, and there is a literal atomic explosion inside the Earth. The explosion in the high energy layer of the outer core disrupts completely the electrical and magnetic structure in both the molten outer core and the outer 6o-mile thick molten layer. Finally the ice caps are allowed to pull the shell of the earth around the interior, with the shallow molten layer lubricating the shift all the way.
 
 While pole shifts are natural events, their impacts on modern society could be significant due to our reliance on technology and infrastructure sensitive to magnetic fields:
 
@@ -60,9 +82,19 @@ While pole shifts are natural events, their impacts on modern society could be s
 
 **The Importance of Preparation**
 
+> Once more the earth has shifted its 6-mile thick shell, with the poles moving almost to the equator in a fraction of a day. Again the atmosphere and oceans, refusing to change direction with the earth’s shell, have wiped out almost all life.
+
 Understanding these potential impacts underscores the need for proactive measures. By investing in research and monitoring of geomagnetic activity, we can better predict changes and implement strategies to mitigate adverse effects. This preparation involves enhancing the resilience of technological systems and updating protocols for navigation and communication.
 
 ### The Spiritual Perspective: Overcoming Division Through Unity
+
+> After this tumble we join Noah, Adam and Eve, Atlantis, Mu, and Olympus - and Jesus joins Osiris, Ta’aroa, Zeus, and Vishnu.
+>
+>
+> Noah? Adam and Eve? Vishnu? Osiris? What do they have in common? They represent eras ages apart and yet, somehow, they all join hands in the next cata-clysm, and walk with us.
+>
+>
+> Yes, Noah, Adam and Eve, Osiris, Ta’aroa, Zeus, and Vishnu have much deeper meanings now; and, as they join hands and walk with us, we hear Adam and Eve saying: "Listen - for now we can truly share our story with, you."
 
 On a spiritual level, overcoming the forces of deception and division requires a return to principles that emphasize unity, compassion, and understanding. Throughout history, spiritual leaders have taught the importance of these values in building harmonious societies.
 
@@ -263,6 +295,8 @@ Creating a self-organized framework rooted in shared moral values offers a pathw
 
 ## Harnessing Supply Chain Transparency and AI for Global Resilience
 
+> Probably the most sensible way in which the new nations can improve their lot is by forming federations: getting together to face common problems and opportunities while maintaining a healthy measure of separate identity. Economic federation is certainly the most promising form at the moment, despite some early failures. What English Economist Barbara Ward calls "technocratic federations" are likely to sprout in the future——and the young nations should begin planning how and when they can form and join them. This would happily preserve their proud national prerogatives while offering the benefits of a large economic mass and a sharing of modern technology.
+
 In an era where humanity faces unprecedented challenges, ranging from environmental crises to technological disruptions, the robustness of our global supply chains has never been more critical. The intricate networks that deliver goods and services across the world are the lifelines of modern society. Ensuring their transparency and resilience is paramount to preparing for and mitigating potential mass extinction events or other existential threats. By integrating advanced software supply chain frameworks, leveraging federation as a general eventing mechanism, and employing artificial intelligence (AI) alongside policy engines, we can create a transparent, robust supply chain infrastructure. This infrastructure will not only enhance our preparedness but also pave the way for a future where diversity and innovation drive us into a new golden age.
 
 ### The Imperative for Transparency
@@ -290,6 +324,8 @@ Federation refers to the interlinking of disparate systems and organizations to 
 - **Enhanced Security**: By distributing data and control across multiple nodes, federated systems reduce the risk of single points of failure and make unauthorized access more difficult.
 
 ### The Role of Artificial Intelligence and Policy Engines
+
+> Farther down the road is the prospect of political federation. So far, it has proved an unsuccessful experiment, torpedoed in several instances by prickly national and even tribal sensitivities and by the fear of bureaucrats that co-operation would eliminate duplication of ministries—and hence their jobs.
 
 AI and policy engines are critical in processing the vast amounts of data generated by transparent, federated supply chains.
 
@@ -370,22 +406,22 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
   - https://www.science.org/doi/10.1126/sciadv.adl3198
   - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
   - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
-- > the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy
+- > "the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy"
   - There are dumb conspiracy theories and then there are ones which [all the richest people might build bunkers for](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/), use your brain.
   - https://en.wikipedia.org/wiki/Operation_CHAOS
 - https://historycollection.com/16-hidden-symbolic-messages-in-the-wizard-of-oz-you-may-have-missed/
-  - > The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century
+  - > "The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century"
     - Matthew 6:24
 - https://medium.com/sunnya97/alice-in-wonderland-political-allusions-91aff911fe06
-  - > The major example of a story element which corroborates this premise is the King’s Court. While the idea of good and bad is understood by the small children, they are unable to grasp the more complicated political undertone of the section. The novel was published in 1865. The adults who were a reading the book at the time period, would have easily noticed the connections to the the February Revolutions happening in nearby France in which corrupted court systems were used by the king of France to crush out the rebellion. In France, the king would use his power to act as the judge himself, to make sure that his will was always carried out, an exact replica which is done in Alice in Wonderland by the king and queen.
+  - > "The major example of a story element which corroborates this premise is the King’s Court. While the idea of good and bad is understood by the small children, they are unable to grasp the more complicated political undertone of the section. The novel was published in 1865. The adults who were a reading the book at the time period, would have easily noticed the connections to the the February Revolutions happening in nearby France in which corrupted court systems were used by the king of France to crush out the rebellion. In France, the king would use his power to act as the judge himself, to make sure that his will was always carried out, an exact replica which is done in Alice in Wonderland by the king and queen."
     >
     > - > “’Are they in the prisoner’s handwriting?’ asked another of the jurymen. ‘No, they’re not,’ said the White Rabbit, ‘and that’s the queerest thing about it.’ (The jury all looked puzzled.) ‘He must have imitated somebody else’s hand,’ said the King. (The jury all brightened up again.) ‘Please your Majesty,’ said the Knave, ‘I didn’t write it, and they can’t prove I did: there’s no name signed at the end.’ ‘If you didn’t sign it,’ said the King, ‘that only makes the matter worse. You MUST have meant some mischief, or else you’d have signed your name like an honest man.’ There was a general clapping of hands at this: it was the first really clever thing the King had said that day. ‘That PROVES his guilt,’ said the Queen.”
     >
-    > In this example from the book, the king and queen are able to manipulate the truth however they want and no one is able to question them because of their power. This sort of historical allusion would be near impossible for the young children of the time to understand as many of them were not even born during the February Revolutions!
+    > "In this example from the book, the king and queen are able to manipulate the truth however they want and no one is able to question them because of their power. This sort of historical allusion would be near impossible for the young children of the time to understand as many of them were not even born during the February Revolutions!"
     >
-    >In Through the Looking Glass, the war is during a chess game between Red and White, as opposed to the traditional Black and White. Upon further examination, it turns out that there is actually deeper meaning behind the choice of colours. This is a direct political allusion to yet another series of wars, not so close timewise, but in Carroll’s own home country of England. During the war, the white roses represented the House of York while the red roses represented the House of Lancaster. In the first book, the Queen would often exclaim, “Off with his head” to numerous different characters. This is a clear cut reference to Queen Margaret’s famous quote, “Off with the crown, and, with the crown, his head.” The prolonged wars between the two houses vying for power after the 100 year war was characterized by equal matchup and nearly even wins. This is clearly characterized by the fight between the red and white knights during Through the Looking Glass in the quote, “One Rule seems to be that if one Knight hits another he knocks him off his horse, and if he misses he tumbles off himself.” This political allusion would be well known to the adult audiences of the book, as they would have a decent understanding of the history of their own nation, but the topic is too advanced to have been commonly taught during the younger grades, the primary audience of Alice in Wonderland. Therefore, the political allusion must be directed towards the older audiences of the book, who would have been educated enough to recognize the historical allusions.
+    > "In Through the Looking Glass, the war is during a chess game between Red and White, as opposed to the traditional Black and White. Upon further examination, it turns out that there is actually deeper meaning behind the choice of colours. This is a direct political allusion to yet another series of wars, not so close timewise, but in Carroll’s own home country of England. During the war, the white roses represented the House of York while the red roses represented the House of Lancaster. In the first book, the Queen would often exclaim, “Off with his head” to numerous different characters. This is a clear cut reference to Queen Margaret’s famous quote, “Off with the crown, and, with the crown, his head.” The prolonged wars between the two houses vying for power after the 100 year war was characterized by equal matchup and nearly even wins. This is clearly characterized by the fight between the red and white knights during Through the Looking Glass in the quote, “One Rule seems to be that if one Knight hits another he knocks him off his horse, and if he misses he tumbles off himself.” This political allusion would be well known to the adult audiences of the book, as they would have a decent understanding of the history of their own nation, but the topic is too advanced to have been commonly taught during the younger grades, the primary audience of Alice in Wonderland. Therefore, the political allusion must be directed towards the older audiences of the book, who would have been educated enough to recognize the historical allusions."
     >
-    > In conclusion, Lewis Carroll definitely uses historical allusions in his novels as a means to entertain older audiences. This is clear as the topics of these allusions are complicated enough that they would not be understood by the younger children who are the primary audience simply because they had not yet been educated enough to understand them.
+    > "In conclusion, Lewis Carroll definitely uses historical allusions in his novels as a means to entertain older audiences. This is clear as the topics of these allusions are complicated enough that they would not be understood by the younger children who are the primary audience simply because they had not yet been educated enough to understand them."
     - Wu-Tang is for the children, listen, look up, speak up.
 - https://www.goodreads.com/book/show/56337844
   - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
