@@ -936,3 +936,6 @@ ChatGPT said:
 
 - Priesthood of All Believers: The New Testament teaches that all Christians are part of a "priesthood of believers," meaning each individual has direct access to God and is responsible for their own spiritual life. This fosters a self-governing community where members mutually support and hold each other accountable under God's authority.
 
+---
+
+Must achieve ubiquitous adoption by 2030 or misalignment becomes a problem - Please please please God (matthew 19:26) - https://pdxjohnny.github.io/theres_something_rotten_with_the_state_of_eden/
