@@ -939,3 +939,5 @@ ChatGPT said:
 ---
 
 Must achieve ubiquitous adoption by 2030 or misalignment becomes a problem - Please please please God (matthew 19:26) - https://pdxjohnny.github.io/theres_something_rotten_with_the_state_of_eden/
+
+Getting off this rock might be the only hope, shit, back to greek stuff: [1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d](https://github.com/pdxjohnny/pdxjohnny.github.io/commit/1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d)
