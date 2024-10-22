@@ -405,7 +405,8 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
 - [DOD DIRECTIVE 5240.01: Authorizing leathal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
 - [Freedom's Forge: How American Business Produced Victory in World War II](https://www.goodreads.com/book/show/13152691-freedom-s-forge)
-  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good.
+  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone inventory and invoicing to advance this front, that has a ripple effect due to the way SCITT works.
+  - [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council)
 - [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
   - https://www.youtube.com/watch?v=-sGPCMIQZLw&t=2700
     - > Pole shifts will amplify climate change affects. Making this much much worse than just climate change. We must act now en masse.
