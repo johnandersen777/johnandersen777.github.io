@@ -434,4 +434,8 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
     - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of Jesus's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
       - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
 
+## Two Sides of the Same Coin
+
+> Time to put away all differences. We have 8 billion people to save within 6 years. There is no such thing as slip on this release date. Full stop.
+
 ![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
