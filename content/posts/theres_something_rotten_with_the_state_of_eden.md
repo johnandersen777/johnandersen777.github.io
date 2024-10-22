@@ -24,6 +24,10 @@ aliases = ["mark_1337_esv", "stay_woke"]
 
 ## Table of Contents
 
+> "Only Thing We Have to Fear Is Fear Itself"
+>
+> [[Franklin D. Roosevelt](https://historymatters.gmu.edu/d/5057/)]
+
 - [The Scientific Perspective: Understanding Pole Shifts and Their Impacts](#the-scientific-perspective-understanding-pole-shifts-and-their-impacts)
 - [The Spiritual Perspective: Overcoming Division Through Unity](#the-spiritual-perspective-overcoming-division-through-unity)
 - [Building Decentralized Resilience](#building-decentralized-resilience)
@@ -397,15 +401,18 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 >
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
 
-- https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8
+- [Declassified CIA Book: The Adam and Eve Story - They were hiding this intentionally, which, is not a good sign on their part](https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8)
+- [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
+- [DOD DIRECTIVE 5240.01: Authorizing leathal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
+- [Freedom's Forge: How American Business Produced Victory in World War II](https://www.goodreads.com/book/show/13152691-freedom-s-forge)
+  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good.
+- [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
   - https://www.youtube.com/watch?v=-sGPCMIQZLw&t=2700
     - > Pole shifts will amplify climate change affects. Making this much much worse than just climate change. We must act now en masse.
   - https://www.youtube.com/watch?v=qx1KmbiJq9A
   - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
   - https://www.sciencealert.com/is-earths-magnetic-field-on-the-verge-of-flipping-over-an-expert-explains
   - https://www.science.org/doi/10.1126/sciadv.adl3198
-  - https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside
-  - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d
 - > "the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy"
   - There are dumb conspiracy theories and then there are ones which [all the richest people might build bunkers for](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/), use your brain.
   - https://en.wikipedia.org/wiki/Operation_CHAOS
@@ -423,8 +430,7 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
     >
     > "In conclusion, Lewis Carroll definitely uses historical allusions in his novels as a means to entertain older audiences. This is clear as the topics of these allusions are complicated enough that they would not be understood by the younger children who are the primary audience simply because they had not yet been educated enough to understand them."
     - Wu-Tang is for the children, listen, look up, speak up.
-- https://www.goodreads.com/book/show/56337844
-  - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & https://mastodon.social/@pdxjohnny/109554008204658963 (riddle warning, I was trying to be very obscure at this point and well, gotta say was doing a good job of that lol)
+- Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & [mastodon.social Alice Thread](https://mastodon.social/@pdxjohnny/109554008204658963) (riddle warning, security by obscurity was in effect at this point)
     - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of Jesus's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
       - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
 
