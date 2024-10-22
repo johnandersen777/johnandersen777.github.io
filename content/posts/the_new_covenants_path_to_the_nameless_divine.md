@@ -141,7 +141,7 @@ By considering Dionysus as the ruler of Hades, we see that he and Saklas both pr
 
 Understanding this connection highlights the transformative journey humans must undertake. Recognizing the illusions presented by figures like Saklas and the symbolic mirror in Dionysus's myth allows individuals to seek deeper truths. Through inner knowledge, spiritual practices, and the pursuit of love and wisdom, humanity can overcome these deceptions, reintegrate the fragmented divine essence, and return to unity with the true source.
 
-By tying these concepts together, we see that both Dionysus and Saklas represent forces that challenge humanity but also offer a path toward transformation and liberation. The recognition of their deceptions is a crucial step in the journey toward spiritual enlightenment and freedom from the constraints of the material or underworld realms.
+By tying these concepts together, we see that both Hades and Saklas represent forces that challenge humanity but also offer a path toward transformation and liberation. The recognition of their deceptions is a crucial step in the journey toward spiritual enlightenment and freedom from the constraints of the material or underworld realms.
 
 ---
 
