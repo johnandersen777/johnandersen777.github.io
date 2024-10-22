@@ -349,6 +349,8 @@ By embedding these principles into our supply chain frameworks and reinforcing t
 
 ### Preparing for Potential Mass Extinction Events
 
+![we-can-turn-this-shit-around-tank-girl](https://github.com/user-attachments/assets/b0d8a251-c62d-41ea-abf4-afb37718a42f)
+
 The possibility of a mass extinction event, whether due to natural disasters, technological catastrophes, or other existential risks, necessitates a strategic approach to preparedness.
 
 - **Resource Allocation**: Transparent supply chains enable efficient allocation of critical resources such as food, water, medicine, and energy.
