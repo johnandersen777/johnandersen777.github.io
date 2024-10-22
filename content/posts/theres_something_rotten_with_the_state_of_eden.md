@@ -438,6 +438,6 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 
 ## Two Sides of the Same Coin
 
-> Time to put away all differences. We have 8 billion people to save within 6 years. There is no such thing as slip on this release date. Full stop.
+Time to put away all differences.
 
 ![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
