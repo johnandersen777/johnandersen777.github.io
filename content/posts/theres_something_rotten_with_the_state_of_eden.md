@@ -96,7 +96,7 @@ Understanding these potential impacts underscores the need for proactive measure
 > After this tumble we join Noah, Adam and Eve, Atlantis, Mu, and Olympus - and Jesus joins Osiris, Ta’aroa, Zeus, and Vishnu.
 >
 >
-> Noah? Adam and Eve? Vishnu? Osiris? What do they have in common? They represent erass apart and yet, somehow, they all join hands in the next cata-clysm, and walk with us.
+> Noah? Adam and Eve? Vishnu? Osiris? What do they have in common? They represent erass apart and yet, somehow, they all join hands in the next cataclysm, and walk with us.
 >
 >
 > Yes, Noah, Adam and Eve, Osiris, Ta’aroa, Zeus, and Vishnu have much deeper meanings now; and, as they join hands and walk with us, we hear Adam and Eve saying: "Listen - for now we can truly share our story with, you."
