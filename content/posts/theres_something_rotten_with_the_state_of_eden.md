@@ -3,7 +3,7 @@ date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
 subtitle = "Why is there a man behind the curtain?"
-aliases = ["mark_1337", "stay_woke", "be_awake", "wake_ye", "redpill"]
+aliases = ["mark_1337", "be_awake", "wake_ye", "redpill"]
 +++
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
