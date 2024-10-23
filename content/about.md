@@ -86,14 +86,11 @@ modeled as data flows.
 
 ## Copy pasted from a slide deck
 
-- Portland State University: Computer Engineering
 - Favorite food/drink: Tacos
 - Languages you speak: English, Danish, Spanish
 - Advice: Always be learning
 - Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
-- Tao: Wu
-- Awards: Honorary Lesbian
 - Church: Jesus!
 - Favorite Prophet: Isaiah
 
@@ -101,7 +98,7 @@ modeled as data flows.
 
 - "Imagination is the only weapon in the war against reality" [Lewis Carroll]
 
-- "If the Good Lord had intended us to walk, (S)he wouldn’t have invented roller skates" [Willie Wonka]
+- "If the Good Lord had intended us to walk, he wouldn’t have invented roller skates" [Willie Wonka]
 
 - "Whoever you are I don’t think you draw the breath of life while hated by the gods" [Venus]
 
