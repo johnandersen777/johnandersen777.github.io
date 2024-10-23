@@ -6,7 +6,7 @@ subtitle = "Jesus the Christ our Lord and Son of God"
 aliases = ["love"]
 +++
 
-> IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://pdxjohnny.github.io/stay_woke/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://pdxjohnny.github.io/chadig/).
+> IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://pdxjohnny.github.io/wake_ye/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://pdxjohnny.github.io/chadig/).
 
 The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
 
