@@ -39,7 +39,7 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
     - [Lack of forgiveness](https://github.com/pdxjohnny/nahdig/discussions/7)
 - Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.
   - I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.
-  - My values are derived from the teachings of Jesus ([sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) who is the Christ and the Son of God.
+  - My values are derived from the teachings of Jesus ([sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) who is the Christ, the Son of God, and has come in the flesh.
 - Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
   - https://pdxjohnny.github.io/a_guide_to_good/
 
