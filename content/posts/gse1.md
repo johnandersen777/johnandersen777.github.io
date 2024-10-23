@@ -129,7 +129,7 @@ This dynamic, evolving network of AIs continuously improves, learning not only h
 - Contributing: https://github.com/intel/dffml/blob/main/CONTRIBUTING.md#contributing
 - Status Updates: https://youtube.com/playlist?list=PLtzAOVTpO2jZltVwl3dSEeQllKWZ0YU39&si=UeayyJP8wD-F1ITX
 - Progress Reports: https://gist.github.com/07b8c7b4a9e05579921aa3cc8aed4866
-- Source Code: https://gist.github.com/2bb4bb6d7a6abaa07cebc7c04d1cafa5#file-agi-py
+- Source Code: https://github.com/pdxjohnny/scitt-api-emulator/tree/demo-instance
 - Next steps:
   - Federate hypothesized trains of thought (proposed-workflow.yml)
     - IETF 118 SCITT Federation Demo: https://www.youtube.com/watch?v=zEGob4oqca4&list=PLtzAOVTpO2jYt71umwc-ze6OmwwCIMnLw&index=13&t=5350s
