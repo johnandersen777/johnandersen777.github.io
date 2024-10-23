@@ -12,7 +12,7 @@ Here is my [gpg public key][pub-key]
 
 I used to be on [Mastodon](https://mastodon.social/@pdxjohnny).
 
-I used to be on [Twitter](https://twitter.com/pdxjohnny).
+I'm on Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx), used to be [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
 
 I'll probably self-host an ActivityPub Actor soon which will be [chaaaaadiiiig.com](https://define.chadig.com)
 
