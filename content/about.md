@@ -13,6 +13,7 @@ Here is my [gpg public key][pub-key]
 - On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx)
   - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
   - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
+  - Have I mentioned I script my [dev-env](https://pdxjohnny.github.io/dev-environment/) setup because I swap machines often?
 
 I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
 
