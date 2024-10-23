@@ -67,6 +67,10 @@ modeled as data flows.
 
 ## What do people say about John
 
+- "People don't understand what you say"
+
+  - Just listen to Jesus, that's all I'm trying to say. He has the way with words.
+
 - "I thought I was as scattered as they come, until I met [John]"
 
   - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
@@ -92,7 +96,6 @@ modeled as data flows.
 - Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
 - Church: Jesus!
-- Favorite Prophet: Isaiah
 
 ## Favorite Quotes
 
