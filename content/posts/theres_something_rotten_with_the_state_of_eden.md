@@ -3,7 +3,7 @@ date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
 subtitle = "Why is there a man behind the curtain?"
-aliases = ["mark_1337_esv", "stay_woke", "be_awake", "redpill"]
+aliases = ["mark_1337", "stay_woke", "be_awake", "wake_ye", "redpill"]
 +++
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
@@ -36,6 +36,7 @@ aliases = ["mark_1337_esv", "stay_woke", "be_awake", "redpill"]
 - [Bridging Divides Through Self-Organized Morality: A Path to Collective Alignment](#bridging-divides-through-self-organized-morality-a-path-to-collective-alignment)
 - [Harnessing Supply Chain Transparency and AI for Global Resilience](#harnessing-supply-chain-transparency-and-ai-for-global-resilience)
 - [Conclusion](#conclusion)
+- [Do Not Be Deceived](#do-not-be-deceived)
 - [References](#references)
 
 In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.
@@ -389,17 +390,19 @@ This journey requires commitment and collaboration at all levels—from individu
 
 By focusing on transparency, decentralization, and the intelligent application of technology, we not only prepare ourselves for potential threats but also set the stage for unprecedented growth and harmony. The challenges ahead are significant, but with collective effort and innovative thinking, we can transform them into opportunities that benefit all of humanity.
 
-## References
+## Do Not Be Deceived
 
 There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [Seth]. The real [meaningless riddle](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland) is getting caught up in the distraction of the powers that be causing saṃsāra. Hope y'all know the difference. 
 
 "I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
 
-**Do not be deceived, wake ye! The truth is within you, [follow the Holy Spirit](/God/). Accept and follow Jesus and His message. Love one another.** (1 Corinthians 15:33, Mark 13:37, John 14:6).
+**Do not be deceived, wake ye! The truth is within you, [follow the Holy Spirit](/JesusisGod/). Accept and follow Jesus and His message. Love one another.** (1 Corinthians 15:33, Mark 13:37, John 14:6).
 
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
+
+## References
 
 - [Declassified CIA Book: The Adam and Eve Story](https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8)
   - The release of this had to be forced, which is **not good**.
