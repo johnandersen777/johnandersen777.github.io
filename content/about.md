@@ -7,7 +7,7 @@ permalink = "/about/"
 
 If for whatever reason you want my resume [here it is](https://docs.google.com/document/d/1leBe8-j2r6Gd9rxPjqsVg60D8PR1MI4w4zts5XS7NVA/edit).
 
-- On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx)
+- On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx) and BlueSky as [@pdxjohnny](https://bsky.app/profile/pdxjohnny.bsky.social)
   - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
   - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
   - Have I mentioned I script my [dev-env](https://pdxjohnny.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
