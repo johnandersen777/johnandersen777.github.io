@@ -395,7 +395,7 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 
 "I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
 
-Do not be deceived, **the truth is within you, [given by the Holy Spirit](/God/)** (1 Corinthians 15:33, John 14:6).
+**Do not be deceived, wake ye! The truth is within you, [follow the Holy Spirit](/God/). Accept and follow Jesus and His message. Love one another.** (1 Corinthians 15:33, Mark 13:37, John 14:6).
 
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
@@ -435,7 +435,3 @@ Do not be deceived, **the truth is within you, [given by the Holy Spirit](/God/)
 - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & [mastodon.social Alice Thread](https://mastodon.social/@pdxjohnny/109554008204658963) (riddle warning, security by obscurity was in effect at this point)
     - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of Jesus's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
       - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
-
-## Two Sides of the Same Coin
-
-To stay woke **you must first "be awake!" (Mark 13:37) Accept and follow Jesus's message. Love one another.** It is the only way forward.
