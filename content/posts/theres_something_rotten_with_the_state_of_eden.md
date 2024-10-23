@@ -391,24 +391,22 @@ By focusing on transparency, decentralization, and the intelligent application o
 
 ## References
 
-The real [meaningless riddle](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland) is getting caught up in the distraction of the powers that be while saṃsāra.
+There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [Seth]. The real [meaningless riddle](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland) is getting caught up in the distraction of the powers that be causing saṃsāra. Hope y'all know the difference. 
 
-There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://pdxjohnny.github.io/ietf-118/) [[Seth](https://en.wikipedia.org/wiki/Seth)]. Hope y'all know the difference. 
+"I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
 
-"I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before 2030 timeframe. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
-
-Don't listen to anyone though, listen to yourself, the truth is within you. Or ignore everything, your choice, you have free will after all.
+Don't listen to anyone though, listen to yourself, **the truth is within you, [given by the Holy Sprit](/God/)**.
 
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
 
 - [Declassified CIA Book: The Adam and Eve Story](https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8)
-  - They were hiding this intentionally until it's release was forced, which is not good. It's not to late until it is, have hope.
+  - The release of this had to be forced, which is **not good**.
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
 - [DOD DIRECTIVE 5240.01: Authorizing lethal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
 - [Freedom's Forge: How American Business Produced Victory in World War II](https://www.goodreads.com/book/show/13152691-freedom-s-forge)
-  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone inventory and invoicing to advance this front, that has a ripple effect due to the way SCITT works -> [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council).
+  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone production tracing, inventory, and invoicing to advance this front, that has a ripple effect due to the way SCITT works -> [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council).
 - [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
 - [PBS: The Earth’s magnetic north pole is shifting rapidly](https://www.pbs.org/newshour/science/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights)
   - https://www.youtube.com/watch?v=-sGPCMIQZLw&t=2700
