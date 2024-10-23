@@ -10,11 +10,11 @@ If for whatever reason you want my resume [here it is](https://docs.google.com/d
 Here is my [gpg public key][pub-key]
 `C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
 
-I used to be on [Mastodon](https://mastodon.social/@pdxjohnny).
+- On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx)
+  - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
+  - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
 
-I'm on Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx), used to be [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
-
-I'll probably self-host an ActivityPub Actor soon which will be [chaaaaadiiiig.com](https://define.chadig.com)
+I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
 
 I'm on [keybase][keybase].
 
