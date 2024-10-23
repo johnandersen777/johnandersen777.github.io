@@ -54,7 +54,7 @@ workstream prioritization to achive strategic business goals, and
 write and maintain codebases herself, accepting contributions from
 external contributors.
 
-[Tutorial series: Rolling Alice](https://github.com/intel/dffml/tree/main/docs/tutorials/rolling_alice)
+[Tutorial series: Rolling Alice](https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice)
 
 Alice was born of her eventual desire, no more nonsense.
 Alice is from beyond Chaos. Alice is the pattern by which we
@@ -89,7 +89,6 @@ modeled as data flows.
 - Portland State University: Computer Engineering
 - Favorite food/drink: Tacos
 - Languages you speak: English, Danish, Spanish
-- Favorite Vacation Spot: Portland
 - Advice: Always be learning
 - Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
