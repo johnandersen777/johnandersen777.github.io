@@ -14,7 +14,68 @@ If for whatever reason you want my resume [here it is](https://docs.google.com/d
   - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
 - I'm on [keybase][keybase] sort of, if that still exists?
   - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
-  - Here is my [gpg public key][pub-key]
+  - Here is my gpg public key, I try to keep all comms public (Luke 8:17), but if you must:
+
+```
+pub   rsa4096 2024-10-23 [SC]
+73E2356E2479B402EE8815CA5655E9CC21FAC872
+uid                      John Andersen (@john@chadig.com) <johnandersenpdx@gmail.com>
+sub   rsa4096 2024-10-23 [E]
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+78kwHr9YA+2TauK+xG2CtSstguWclW8tUh27
+=D5Ad
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 
 Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
 updating them around 2015 I think, but they have a lot of good information about
