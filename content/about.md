@@ -69,7 +69,7 @@ modeled as data flows.
 
 - "I thought I was as scattered as they come, until I met [John]"
 
-  - Big fan of how Tom Clancy ties together stories
+  - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
 
     - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
    
