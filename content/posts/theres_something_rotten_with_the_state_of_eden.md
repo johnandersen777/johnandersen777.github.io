@@ -438,6 +438,4 @@ Do not be deceived, **the truth is within you, [given by the Holy Spirit](/God/)
 
 ## Two Sides of the Same Coin
 
-Time to put away all differences and follow Jesus's message of loving one another. Or else, we all die. Seems like a pretty clear choice.
-
-![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
+To stay woke **you must first "be awake!" (Mark 13:37) Accept and follow Jesus's message. Love one another.** It is the only way forward.
