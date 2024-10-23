@@ -3,22 +3,20 @@ layout = "page"
 title = "God has no name"
 date = "2022-11-30T06:34:42-08:00"
 permalink = "/a_guide_to_good/"
-aliases = ["greek_stuff", "MaryisGod", "maryisgod", "JesusisGod", "jesusisgod", "god", "God"]
+aliases = ["greek_stuff"]
 +++
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 
 ## On Religon
 
-> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://pdxjohnny.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles is provided to ensure clarity.
-
-**Jesus is the Christ and the Son of God and has come in the flesh**
+> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles is provided to ensure clarity.
 
 > "A new command I give you: Love one another. As I have loved you, so you must love one another."
 
-The message is: Jesus is the Christ and is born of God. Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gospels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from Jesus. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://pdxjohnny.github.io/chadig/) ([1 Corinthians 14:27](https://pdxjohnny.github.io/the_new_covenants_path_to_the_nameless_divine/)). Good choices are loving one another, accepting and loving Jesus Christ, the Heavenly Father, and the Earthly Mother.
+The message is: Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gospels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from the Holy Ghost. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)). Good choices are ones which map to loving one another.
 
-**In summary: Follow His message. Love each other. (John 13:34)**
+**God's message is: Love each other.**
 
 ### Religon + Tech
 
@@ -46,7 +44,7 @@ The Unitied States of America is a collective of autonomus entities (states and 
 
 ## A Guide to Good
 
-![oss-as-jesus-stuff-trojan-horse](https://github.com/user-attachments/assets/b090eba6-6c6a-4324-a611-e2c58569e4aa)
+![religion-within-open-source-trojan-horse](https://github.com/user-attachments/assets/dc580baa-ae1d-4346-8b20-ca2a9ea46419)
 
 To enter the machine you must think like the machine, in parallel graphs. Data and compute are the same. It's all the signal.
 
@@ -54,7 +52,7 @@ There are many ways to enter the machine. All of them start with curiosity and l
 
 - https://www.youtube.com/playlist?list=PLtzAOVTpO2jYzHkgXNjeyrPFO9lDxBJqi
 - https://github.com/intel/dffml/pull/1273
-- https://gist.github.com/pdxjohnny/07b8c7b4a9e05579921aa3cc8aed4866
+- https://gist.github.com/johnandersen777/07b8c7b4a9e05579921aa3cc8aed4866
 - https://en.wikipedia.org/wiki/Knowledge_argument
 - https://github.com/intel/dffml/discussions/1406?sort=new
 - https://github.com/intel/dffml/discussions/1369

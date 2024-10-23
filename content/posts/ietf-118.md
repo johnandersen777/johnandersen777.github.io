@@ -15,7 +15,7 @@ subtitle = "IETF 118 Notes"
 # 2023-11-04 Engineering Logs
 
 
-## 2023-11-04 @pdxjohnny Engineering Logs
+## 2023-11-04 @johnandersen777 Engineering Logs
 
 [![asciicast](https://asciinema.org/a/619198.svg)](https://asciinema.org/a/619198)
 
@@ -104,7 +104,7 @@ subtitle = "IETF 118 Notes"
     - url(Brent), url(understands), url(CBOR)
     - Now this issue is that you can resolve the url to a different thing every time, this is a bug says Orie, feature says rest of W3C WG, TODO find this at context issue/pr thread from a while back
   - John: What if we combined with receipts?
-    - [2023-04-19 @pdxjohnny Engineering Logs](https://github.com/intel/dffml/blob/alice/docs/discussions/alice_engineering_comms/0243/reply_0000.md)
+    - [2023-04-19 @johnandersen777 Engineering Logs](https://github.com/intel/dffml/blob/alice/docs/discussions/alice_engineering_comms/0243/reply_0000.md)
   - Henk Birkholz gives example of VEX and different parties saying something is a vuln or not within different contexts, USGov says no, GreenPeace says yes.
     - RDFStart is equivalent to labeled property graph, let's you put nodes on the edges
   - RATs versifiers use this.
@@ -184,7 +184,7 @@ graph LR
 ## 2023-11-05 IETF 118 Hackathon Day 2
 
 - A.J. is having issues with OpenAPI spec
-  - [2023-03-23 @pdxjohnny Engineering Logs](https://github.com/intel/dffml/blob/alice/docs/discussions/alice_engineering_comms/0217/reply_0000.md)
+  - [2023-03-23 @johnandersen777 Engineering Logs](https://github.com/intel/dffml/blob/alice/docs/discussions/alice_engineering_comms/0217/reply_0000.md)
 
 ```console
 $ npx swagger-cli bundle docs/openapi/openapi.yml -o docs/openapi/openapi.json --dereference
@@ -264,7 +264,7 @@ $ npx swagger-cli bundle docs/openapi/openapi.yml -o docs/openapi/openapi.json -
     - General access control
     - Anti-spamming (it's append only, need to avoid filling with random stuff)
     - In this system you can't issue a statement to the TS without being some sort of authenticated or identifiable issuer
-      - **TODO(@pdxjohnny)** update OIDC thread with flushed out example and registration policy doc with jsonschema + CWT / JWT verification of issuer
+      - **TODO(@johnandersen777)** update OIDC thread with flushed out example and registration policy doc with jsonschema + CWT / JWT verification of issuer
   - SCITT enables entities/issuers to make claims about things
     - Built my software, tests passed, got approval for release, what's important is your software is the thing you're making claims about. We need it to be clear who's opinion is being recorded about what thing. Imagine subject: `issuer:myissuer:thing:mything` (example in GitHub Actions subject customization format)
   - Registration policy determines if statement is admissible
@@ -305,7 +305,7 @@ $ npx swagger-cli bundle docs/openapi/openapi.yml -o docs/openapi/openapi.json -
       - Unprotected header, placeholder for contents of collection of receipts
         - Same statement might be exposed by multiple receipts
         - Since IETF 117 we can now include multiple receipts for the same statement
-          - **TODO(@pdxjohnny)** Update federation stuff to talk about and handle this
+          - **TODO(@johnandersen777)** Update federation stuff to talk about and handle this
         - nil, detached signature, useful for things like large ML models
         - signature
     - TS COSESign1
@@ -488,7 +488,7 @@ $ npx swagger-cli bundle docs/openapi/openapi.yml -o docs/openapi/openapi.json -
 
 
 
-## 2023-11-07 @pdxjohnny Engineering Logs
+## 2023-11-07 @johnandersen777 Engineering Logs
 
 - https://github.com/intel/cve-bin-tool/blob/main/.github/dependabot.yml
 - https://github.com/scitt-community/scitt-examples/blob/cc337ba382ff126a1412d2658d1023162ed4ae81/python/script.sh
@@ -632,7 +632,7 @@ done < <(jq -n -r '[env.manifest | fromjson | .build_args | fromjson | .[] | (.[
   - Goal: Spin me #1401 repos based off YAML definition, hook them up to SCITT via webhook, give them some self hosted runners
 
 ```bash
-skopeo copy docker://localhost:5000/ssh_public_keys/pdxjohnny dir:/tmp/ssh_public_keys
+skopeo copy docker://localhost:5000/ssh_public_keys/johnandersen777 dir:/tmp/ssh_public_keys
 (
   for digest in $(cat /tmp/ssh_public_keys/manifest.json | jq -r '.layers[].digest'); do
     layer_tarball=${digest/sha256:/}
@@ -645,7 +645,7 @@ skopeo copy docker://localhost:5000/ssh_public_keys/pdxjohnny dir:/tmp/ssh_publi
   - [ ] Ensure `build_arg` quoting works as intended
   - [ ] For CWT issuer derive key from SSH private key and resolve via github ssh keys endpoint
     - https://docs.github.com/en/rest/users/ssh-signing-keys?apiVersion=2022-11-28
-    - https://github.com/pdxjohnny.keys
+    - https://github.com/johnandersen777.keys
     - https://github.com/settings/keys
 
 
@@ -692,7 +692,7 @@ skopeo copy docker://localhost:5000/ssh_public_keys/pdxjohnny dir:/tmp/ssh_publi
 ![image](https://github.com/intel/dffml/assets/5950433/0c3f2bb2-3bbc-45b3-b26d-fda7cf385cf9)
 
 
-## 2023-11-08 @pdxjohnny Engineering Logs
+## 2023-11-08 @johnandersen777 Engineering Logs
 
 - Application of software supply chain security practices to AI/ML models and data, recently demo'd some work at IETF 118 [SCITT](https://scitt.io/) WG meeting on federation of new (signed) statements (in AI/ML case these may be trust attestations for trust in model or data) added to Transparency Service's (TS) append only log: https://github.com/scitt-community/scitt-api-emulator/blob/72a75511d7840d4062741185ec6879b585ee8c07/docs/federation_activitypub.md#federation-via-activitypub
   - Future downstream work of this includes ingestion of federated TS statements who's subjects may result in re-training, re-deployment, allow/denylisting of models, data, embeddings.
@@ -720,7 +720,7 @@ skopeo copy docker://localhost:5000/ssh_public_keys/pdxjohnny dir:/tmp/ssh_publi
 - https://datatracker.ietf.org/meeting/118/session/tigress
 
 
-## 2023-11-10 @pdxjohnny Engineering Logs
+## 2023-11-10 @johnandersen777 Engineering Logs
 
 - Cristy: Don't make me thumbprint a machine for door access
   - Moral: Make sure we don't introduce any security or privacy issues at large along our quest for transparency
@@ -855,7 +855,7 @@ skopeo copy docker://localhost:5000/ssh_public_keys/pdxjohnny dir:/tmp/ssh_publi
 # 2023-11-11 Engineering Logs
 
 
-## 2023-11-11 @pdxjohnny Engineering Logs
+## 2023-11-11 @johnandersen777 Engineering Logs
 
 - Updated ADR 7: [A GitHub Public Key and TPM Based Supply Chain Security Mitigation Option](https://github.com/intel/dffml/blob/alice/docs/arch/0007-A-GitHub-Public-Bey-and-TPM-Based-Supply-Chain-Security-Mitigation-Option.rst#a-github-public-key-and-tpm-based-supply-chain-security-mitigation-option)
   - With Federated forges (long term target in WASM environment) we can leverage this ssh method ideally with an attested Transparency Service then we can get a receipt, issued with an ssh ECDSA-384 key.
@@ -868,7 +868,7 @@ cat ~/.ssh/ecdsa_384 | python -c 'import sys; from cryptography.hazmat.primitive
 ssh-keygen -q -f /dev/stdout -t ecdsa -b 384 -N '' <<<y | python -c 'import sys; from cryptography.hazmat.primitives import serialization; print(serialization.load_ssh_private_key(sys.stdin.buffer.read(), password=None).private_bytes(encoding=serialization.Encoding.PEM, format=serialization.PrivateFormat.PKCS8, encryption_algorithm=serialization.NoEncryption()).decode().rstrip())' | scitt-emulator client create-claim --issuer did:web:example.com --content-type application/json --payload '{"sun": "yellow"}' --out claim.cose --subject "ssh-test" --private-key-pem /dev/stdin
 ```
 
-- GitHub only exports SSH keys with Key type as "Authentication Key" at https://github.com/pdxjohnny.keys
+- GitHub only exports SSH keys with Key type as "Authentication Key" at https://github.com/johnandersen777.keys
 
 ![image](https://github.com/intel/dffml/assets/5950433/5c185259-d269-4346-b111-e19982e4c1d4)
 

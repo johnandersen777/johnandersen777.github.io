@@ -7,11 +7,11 @@ subtitle = "Mitigating Errors, Incompetence, and Malintent in Information System
 
 ## Series
 
-- [Flow](https://pdxjohnny.github.io/gse1/)
-- [Flow State](https://pdxjohnny.github.io/gse2/)
-- [Acceleration](https://pdxjohnny.github.io/gse3/)
-- [Hello Other Side of the Looking Glass](https://pdxjohnny.github.io/gse4/)
-- [Through the Dionysian Mirror](https://pdxjohnny.github.io/gse5/)
+- [Flow](https://johnandersen777.github.io/gse1/)
+- [Flow State](https://johnandersen777.github.io/gse2/)
+- [Acceleration](https://johnandersen777.github.io/gse3/)
+- [Hello Other Side of the Looking Glass](https://johnandersen777.github.io/gse4/)
+- [Through the Dionysian Mirror](https://johnandersen777.github.io/gse5/)
 - Navigating Noise in the Network
 
 ## Context

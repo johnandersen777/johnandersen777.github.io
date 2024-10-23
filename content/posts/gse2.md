@@ -7,9 +7,9 @@ subtitle = "From Cattle Back to Pets"
 
 ## Series
 
-- [Flow](https://pdxjohnny.github.io/gse1/)
-- [Flow State](https://pdxjohnny.github.io/gse2/)
-- [Acceleration](https://pdxjohnny.github.io/gse3/)
+- [Flow](https://johnandersen777.github.io/gse1/)
+- [Flow State](https://johnandersen777.github.io/gse2/)
+- [Acceleration](https://johnandersen777.github.io/gse3/)
 
 ## Context
 

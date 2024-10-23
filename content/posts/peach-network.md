@@ -41,7 +41,7 @@ Building will use sudo because it will `set_cap_raw` on convo-capture. If you
 don't want to set this then you have to run convo-capture as root.
 
 ```bash
-git clone https://gist.github.com/pdxjohnny/e2d1df77e81f07254da192fe1bc568a0 convo-capture
+git clone https://gist.github.com/johnandersen777/e2d1df77e81f07254da192fe1bc568a0 convo-capture
 cd !$
 ./build.sh
 ```
@@ -66,8 +66,8 @@ on your machine then everywhere you see example.com replace it with localhost
 and add `-i lo` to convo-capture for capturing on the loopback interface.
 
 ```bash
-[pdxjohnny@pdxjohnny convo-capture]$ ssh example.com
-[pdxjohnny@example.com ~]$ python3 -m http.server 4444
+[johnandersen777@johnandersen777 convo-capture]$ ssh example.com
+[johnandersen777@example.com ~]$ python3 -m http.server 4444
 ```
 
 Now that we have a HTTP server running lets start convo-capture.
@@ -75,7 +75,7 @@ Now that we have a HTTP server running lets start convo-capture.
 ```bash
 # For localhost add -i lo
 # convo-capture -p 4444 -ip localhost -i lo -v
-[pdxjohnny@pdxjohnny convo-capture]$ convo-capture -p 4444 -ip example.com -v
+[johnandersen777@johnandersen777 convo-capture]$ convo-capture -p 4444 -ip example.com -v
 Capturing TCP port 4444 for host example.com
 ```
 
@@ -92,7 +92,7 @@ that the output you observed in curl has been captured (expect for the < and >
 left of the headers, curl adds those).
 
 ```log
-[pdxjohnny@pdxjohnny convo-capture]$ convo-capture -p 4444 -ip example.com -v
+[johnandersen777@johnandersen777 convo-capture]$ convo-capture -p 4444 -ip example.com -v
 Capturing TCP port 4444 for host example.com
 GET /file HTTP/1.1
 Host: example.com:4444
@@ -115,7 +115,7 @@ remote host sent us. If you do an ls you will also see the files that were
 created by this capture.
 
 ```log
-[pdxjohnny@pdxjohnny convo-capture]$ ls -lAF
+[johnandersen777@johnandersen777 convo-capture]$ ls -lAF
 total 5752
 ... Aug 10 09:34 10.7.202.149->10.7.202.78-0
 ... Aug 10 09:34 10.7.202.78->10.7.202.149-0
@@ -130,13 +130,13 @@ total 5752
 cating the files will make convo-capture's usefulness apparent.
 
 ```log
-[pdxjohnny@pdxjohnny convo-capture]$ cat 10.7.202.149->10.7.202.78-0
+[johnandersen777@johnandersen777 convo-capture]$ cat 10.7.202.149->10.7.202.78-0
 GET /file HTTP/1.1
 Host: example.com:4444
 User-Agent: curl/7.47.0
 Accept: */*
 
-[pdxjohnny@pdxjohnny convo-capture]$ cat 10.7.202.78->10.7.202.149-0
+[johnandersen777@johnandersen777 convo-capture]$ cat 10.7.202.78->10.7.202.149-0
 HTTP/1.0 200 OK
 Server: SimpleHTTP/0.6 Python/3.4.2
 Date: Wed, 10 Aug 2016 16:38:42 GMT
@@ -286,7 +286,7 @@ cd /tmp/demo/
 mkdir gitfuzzy
 cd gitfuzzy
 cp /tmp/demo/capture/\:\:1\:9418-\>* ./
-git clone https://gist.github.com/pdxjohnny/e2d1df77e81f07254da192fe1bc568a0 t
+git clone https://gist.github.com/johnandersen777/e2d1df77e81f07254da192fe1bc568a0 t
 cp t/git.xml ./
 ```
 

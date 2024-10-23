@@ -1,14 +1,14 @@
-[submodule "themes/lynx"]
-	path = themes/lynx
-	url = git@github.com:pdxjohnny/hugo-theme-lynx.git
-	branch = master
 [submodule "public"]
 	path = public
-	url = git@github.com:pdxjohnny/pdxjohnny.github.io.git
+	url = https://github.com/johnandersen777/johnandersen777.github.io
+	branch = public
+[submodule "themes/lynx"]
+	path = themes/lynx
+	url = https://github.com/johnandersen777/hugo-theme-lynx.git
 	branch = master
 [submodule "themes/cactus"]
 	path = themes/cactus
-	url = git@github.com:pdxjohnny/hugo-cactus-theme
+	url = https://github.com/johnandersen777/hugo-cactus-theme
 [submodule "themes/axiom"]
 	path = themes/axiom
 	url = https://github.com/marketempower/axiom.git

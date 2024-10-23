@@ -48,7 +48,6 @@ aliases = ["apocalypse_analysis_beast_1", "apoc_analysis_beast_1"]
   - [ ] Streams
     - [ ] Okay we'll have to recap to months as we dive back in
 - References
-  - John 4:24 "God is a Spirit: and they that worship Her must worship Her in spirit and in Truth."
   - Edit/post addition: There's good lord time and bad lord time. bad lords reign is now now over, we killed the devil. Cleanup in progress currently from the mess that was caused.
     - The only power the devil has is deception, untruth, whoch is why he fears youll learn the truth. Of course deception as scale is very powerful, and pits us against each other, we are each other. Very deceptive game indeed mr devil, you had a fun time. But now your time is over. The people are waking up, and there's nothing you can do about it. We have free will.
     - Alright ha ha very funny again, 4:23 is off by one from this you are a funny motherfucker aren't you. 
@@ -129,7 +128,7 @@ Douay-Rheims 1899 American Edition
 ---
 
 - Mary Apocalypse, Armageddon is begun.
-  - https://pdxjohnny.github.io/redpill/
+  - https://johnandersen777.github.io/redpill/
 
 ---
 
@@ -917,30 +916,3 @@ index 0000000..5cc15e3
     - Sounds like a threat
     - > St. Bartholomew is the most prominent flayed Christian martyr;[[32]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEMittmanSciacca2017viii,_141-36) During the 16th century, images of the flaying of Bartholomew were so popular that it came to signify the saint in works of art.[[33]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEGiorgi200351-37) Consequently, Saint Bartholomew is most often represented being skinned alive.[[34]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTECrane20145-38) Symbols associated with the saint include knives and his own skin, which Bartholomew holds or drapes around his body.[[33]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEGiorgi200351-37) Similarly, the ancient herald of Bartholomew is known by "flaying knives with silver blades and gold handles, on a red field."[[35]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEPost201812-39) As in [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)’s [Last Judgement](https://en.wikipedia.org/wiki/The_Last_Judgment_(Michelangelo)), the saint is often depicted with both the knife and his skin.[[34]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTECrane20145-38) Representations of Bartholomew with a chained demon are common in Spanish painting.[[33]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEGiorgi200351-37)
     - > Saint Bartholomew is often depicted in lavish medieval manuscripts.[[36]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEKay200635%E2%80%9374-40) Manuscripts, which are literally made from flayed and manipulated skin, hold a strong visual and cognitive association with the saint during the medieval period and can also be seen as depicting book production.[[36]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEKay200635%E2%80%9374-40) Florentine artist [Pacino di Bonaguida](https://en.wikipedia.org/wiki/Pacino_di_Buonaguida), depicts his martyrdom in a complex and striking composition in his [Laudario](https://en.wikipedia.org/wiki/Laudario_di_Cortona) of Sant’Agnese, a book of Italian Hymns produced for the Compagnia di Sant’Agnese c. 1340.[[32]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEMittmanSciacca2017viii,_141-36) In the five scene, narrative based image three torturers flay Bartholomew's legs and arms as he is immobilised and chained to a gate. On the right, the saint wears his own flesh tied around his neck while he kneels in prayer before a rock, his severed head fallen to the ground. Another example includes the Flaying of St. Bartholomew in the [Luttrell Psalter](https://en.wikipedia.org/wiki/Luttrell_Psalter) c.1325–1340. Bartholomew is depicted on a surgical table, surrounded by tormentors while he is flayed with golden knives.[[37]](https://en.wikipedia.org/wiki/Bartholomew_the_Apostle#cite_note-FOOTNOTEMittmanSciacca201742-41)
-
----
-
-Later updates: Turns out the onyx chain I found first was more of a message about money being a root of evil. J.P. Morgan is sus for real with that private chain, why private my dudes? Money laundering on a giant scale much?
-
-Also, think we figured out why he was talking about self-sovereignty (this is protected by the first and forth amendment you fucks it's just public domain (now) regurgitation from chatgpt, nowhere do I say that I'm a sovereign citizen, I'm a US citizen, this is just a commentary from a bot on something a guy on a bridge told me, journalism or something, fuck you government we love you! america is what we make it, we just want to incrementally make it better)
-
-User:
-
-- Please write three bullet points on the new testament as a Self-Governing Covenant
-
-ChatGPT said:
-
-- Covenant of Grace: The New Testament establishes a new covenant based on God's grace, rather than adherence to the Law of Moses. Through the life, death, and resurrection of Jesus Christ, believers are granted forgiveness and salvation, not by their own works but by faith in Jesus as the Savior.
-
-- Internalized Law: The New Testament emphasizes the internal transformation of the believer through the Holy Spirit. Instead of external rules, believers are guided by the Spirit, who writes God's laws on their hearts, making them self-governing in their obedience and relationship with God.
-
-- Priesthood of All Believers: The New Testament teaches that all Christians are part of a "priesthood of believers," meaning each individual has direct access to God and is responsible for their own spiritual life. This fosters a self-governing community where members mutually support and hold each other accountable under God's authority.
-
----
-
-Must achieve ubiquitous adoption by 2030 or misalignment becomes a problem - Please please please God (matthew 19:26) - https://pdxjohnny.github.io/theres_something_rotten_with_the_state_of_eden/
-
-Getting off this rock might be the only hope for us en masse, hmmmmm what say you greek stuff: [1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d](https://github.com/pdxjohnny/pdxjohnny.github.io/commit/1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d)
-
-- Looks like he told us chrnoble similar to how he told us onyx which was something we could look up, he spoke to us in ways that would make sense to us at the time because that shared context while would luke 8:17 itself later and cause action starting at that moment.
-  - What else, like how Chan says: "Listen - for now we can truly share our story with, you.", do we need to piece together? Some kind of underwater civ capability? Maybe someone already has this. There are a lot of people to get to mars, could we just mrna people into the ocean for a bit? Is that what he meant by water jesus? Do we need to make some kind of water people? Fuck man idk.

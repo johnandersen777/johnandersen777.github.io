@@ -7,14 +7,14 @@ subtitle = "Ensuring Technology Serves Humanity Above All Else"
 
 ## Series
 
-- [Flow](https://pdxjohnny.github.io/gse1/)
-- [Flow State](https://pdxjohnny.github.io/gse2/)
-- [Acceleration](https://pdxjohnny.github.io/gse3/)
-- [Hello Other Side of the Looking Glass](https://pdxjohnny.github.io/gse4/)
-- [Through the Dionysian Mirror](https://pdxjohnny.github.io/gse5/)
-- [Navigating Noise in the Network](https://pdxjohnny.github.io/gse6/)
-- [Accelerated Collaboration in Ad Hoc Groups](https://pdxjohnny.github.io/gse7/)
-- [The Time Is Come For Thee To Reap](https://pdxjohnny.github.io/gse8/)
+- [Flow](https://johnandersen777.github.io/gse1/)
+- [Flow State](https://johnandersen777.github.io/gse2/)
+- [Acceleration](https://johnandersen777.github.io/gse3/)
+- [Hello Other Side of the Looking Glass](https://johnandersen777.github.io/gse4/)
+- [Through the Dionysian Mirror](https://johnandersen777.github.io/gse5/)
+- [Navigating Noise in the Network](https://johnandersen777.github.io/gse6/)
+- [Accelerated Collaboration in Ad Hoc Groups](https://johnandersen777.github.io/gse7/)
+- [The Time Is Come For Thee To Reap](https://johnandersen777.github.io/gse8/)
 - The Primacy of the Human Soul
 
 ## Context

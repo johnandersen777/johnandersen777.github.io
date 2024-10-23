@@ -5,14 +5,14 @@ title = "ARM workflow with qemu and arm-none-eabi"
 +++
 
 This is just the markdown portion of set of files which can be found here:
-https://gist.github.com/pdxjohnny/3de9a9bdd38cacf3ea394207762f1002
+https://gist.github.com/johnandersen777/3de9a9bdd38cacf3ea394207762f1002
 
 This should get you up and running writing ARM assembly without hardware.
 
 Clone this the repo for this tutorial.
 
 ```
-git clone https://gist.github.com/pdxjohnny/3de9a9bdd38cacf3ea394207762f1002 arm-qemu
+git clone https://gist.github.com/johnandersen777/3de9a9bdd38cacf3ea394207762f1002 arm-qemu
 ```
 
 ## Dependencies

@@ -12,7 +12,7 @@ on them, and connect them to a load balancer that provides TLS (LB coming
 in an update to this post later).
 
 The code for do.py can be found here:
-https://gist.github.com/pdxjohnny/f1f13d77dc7dd4403a6647baa3926042
+https://gist.github.com/johnandersen777/f1f13d77dc7dd4403a6647baa3926042
 
 The first time we'll see that there are no containers to kill or remove. And
 that the Python 3.8 container had to be pulled down before it could be run.
@@ -147,7 +147,7 @@ this time.
 ```console
 $ DIGITALOCEAN_ACCESS_TOKEN=20b7f300f7d84b752c11239c568c81b3bc010cb49026968f19d3a84deeaa6baa python do.py
 {'my-test-app-sfo2-s-1vcpu-1gb-1': <Droplet: 227830340 my-test-app-sfo2-s-1vcpu-1gb-1>, 'my-test-app-sfo2-s-1vcpu-1gb-0': <Droplet: 227830027 my-test-app-sfo2-s-1vcpu-1gb-0>}
-SSH Private Key (/home/pdxjohnny/.ssh/id_rsa) Password:
+SSH Private Key (/home/johnandersen777/.ssh/id_rsa) Password:
 [178.128.7.222] 54ae127c7abf
 [167.99.96.5]   3172daa1cf00
 [178.128.7.222] 54ae127c7abf

@@ -7,10 +7,10 @@ subtitle = "Reflecting on Self to Transcend Boundaries"
 
 ## Series
 
-- [Flow](https://pdxjohnny.github.io/gse1/)
-- [Flow State](https://pdxjohnny.github.io/gse2/)
-- [Acceleration](https://pdxjohnny.github.io/gse3/)
-- [Hello Other Side of the Looking Glass](https://pdxjohnny.github.io/gse4/)
+- [Flow](https://johnandersen777.github.io/gse1/)
+- [Flow State](https://johnandersen777.github.io/gse2/)
+- [Acceleration](https://johnandersen777.github.io/gse3/)
+- [Hello Other Side of the Looking Glass](https://johnandersen777.github.io/gse4/)
 - Through the Dionysian Mirror
 
 ## Context

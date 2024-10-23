@@ -32,7 +32,7 @@ not work with qemu-lite.
 
 ```
 # Download the one I built for you
-wget https://github.com/pdxjohnny/pdxjohnny.github.io/releases/download/CCARCH/qemu-lite-2.7.1-1-x86_64.pkg.tar.xz
+wget https://github.com/johnandersen777/johnandersen777.github.io/releases/download/CCARCH/qemu-lite-2.7.1-1-x86_64.pkg.tar.xz
 # Or build it yourself!
 git clone https://aur.archlinux.org/qemu-lite.git
 cd qemu-lite
@@ -50,7 +50,7 @@ VMs as if they were containers. Basically its where the magic happens.
 
 ```
 # Download the one I built for you
-wget https://github.com/pdxjohnny/pdxjohnny.github.io/releases/download/CCARCH/cc-oci-runtime-2.1.0-1-x86_64.pkg.tar.xz
+wget https://github.com/johnandersen777/johnandersen777.github.io/releases/download/CCARCH/cc-oci-runtime-2.1.0-1-x86_64.pkg.tar.xz
 # Or build it yourself!
 git clone https://aur.archlinux.org/cc-oci-runtime.git
 cd qemu-lite

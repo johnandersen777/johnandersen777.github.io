@@ -7,9 +7,9 @@ subtitle = "First enable flow. Next enter flow state"
 
 ## Series
 
-- [Flow](https://pdxjohnny.github.io/gse1/)
-- [Flow State](https://pdxjohnny.github.io/gse2/)
-- [Acceleration](https://pdxjohnny.github.io/gse3/)
+- [Flow](https://johnandersen777.github.io/gse1/)
+- [Flow State](https://johnandersen777.github.io/gse2/)
+- [Acceleration](https://johnandersen777.github.io/gse3/)
 
 ## Context
 
@@ -129,12 +129,12 @@ This dynamic, evolving network of AIs continuously improves, learning not only h
 - Contributing: https://github.com/intel/dffml/blob/main/CONTRIBUTING.md#contributing
 - Status Updates: https://youtube.com/playlist?list=PLtzAOVTpO2jZltVwl3dSEeQllKWZ0YU39&si=UeayyJP8wD-F1ITX
 - Progress Reports: https://gist.github.com/07b8c7b4a9e05579921aa3cc8aed4866
-- Source Code: https://github.com/pdxjohnny/scitt-api-emulator/tree/demo-instance
+- Source Code: https://github.com/johnandersen777/scitt-api-emulator/tree/demo-instance
 - Next steps:
   - Federate hypothesized trains of thought (proposed-workflow.yml)
     - IETF 118 SCITT Federation Demo: https://www.youtube.com/watch?v=zEGob4oqca4&list=PLtzAOVTpO2jYt71umwc-ze6OmwwCIMnLw&index=13&t=5350s
     - https://github.com/intel/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0005_stream_of_consciousness.md
   - Ad-hoc cves for issues and use federation to work on them in a decentralized way
     - https://cve-bin-tool.readthedocs.io/en/latest/PARSERS.html#advanced-example-ad-hoc-cves
-  - https://github.com/pdxjohnny/dotfiles/issues/1
+  - https://github.com/johnandersen777/dotfiles/issues/1
     - webhook events from forge, virtual branches

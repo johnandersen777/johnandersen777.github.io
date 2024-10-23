@@ -299,7 +299,7 @@ Example has local timezone as `-08:00` (PST).
 
 ## XZ compressed asciinema recording
 
-Dotfiles: https://github.com/pdxjohnny/dotfiles/blob/cae7a366d7766bb1a82c478f0aedc6a829630677/.asciinema_source
+Dotfiles: https://github.com/johnandersen777/dotfiles/blob/cae7a366d7766bb1a82c478f0aedc6a829630677/.asciinema_source
 
 Record (for remote: `ssh -t hostname`)
 
@@ -449,7 +449,7 @@ os.system(f"bash -c 'cd {directory}; pwd; exec bash'")
 Combine with bash history to create Alice herstory as fully connected view.
 
 ```console
-$ nodemon -e py --exec 'clear; alice please contribute -log debug -repos https://github.com/pdxjohnny/testa -- recommended community standards 2>&1 | tee .output/$(date +%4Y-%m-%d-%H-%M).txt; test 1'
+$ nodemon -e py --exec 'clear; alice please contribute -log debug -repos https://github.com/johnandersen777/testa -- recommended community standards 2>&1 | tee .output/$(date +%4Y-%m-%d-%H-%M).txt; test 1'
 ```
 
 ```console
@@ -760,4 +760,4 @@ done
 
 ## ffmpeg
 
-- https://pdxjohnny.github.io/ffmpeg/
+- https://johnandersen777.github.io/ffmpeg/

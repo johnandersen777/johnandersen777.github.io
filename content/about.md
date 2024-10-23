@@ -7,10 +7,11 @@ permalink = "/about/"
 
 If for whatever reason you want my resume [here it is](https://docs.google.com/document/d/1leBe8-j2r6Gd9rxPjqsVg60D8PR1MI4w4zts5XS7NVA/edit).
 
-- On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx) and BlueSky as [@pdxjohnny](https://bsky.app/profile/pdxjohnny.bsky.social)
+- On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx)
   - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
   - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
-  - Have I mentioned I script my [dev-env](https://pdxjohnny.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
+  - Previously on BlueSky as [@pdxjohnny](https://bsky.app/profile/pdxjohnny.bsky.social), don't use that though.
+  - Have I mentioned I script my [dev-env](https://johnandersen777.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
   - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
 - I'm on [keybase][keybase] sort of, if that still exists?
   - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
@@ -69,7 +70,7 @@ modeled as data flows.
 
 - "People don't understand what you say"
 
-  - Just listen to Jesus, that's all I'm trying to say. He has the way with words.
+  - Just listen to God's guidance. That's all I'm trying to say.
 
 - "I thought I was as scattered as they come, until I met [John]"
 
@@ -95,7 +96,6 @@ modeled as data flows.
 - Advice: Always be learning
 - Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
-- Church: Jesus!
 
 ## Favorite Quotes
 
@@ -166,60 +166,63 @@ Keywords: Open Source, Anarchy, Open Architecture, AGI, Decentralization, Mutual
 
 ```
 pub   rsa4096 2024-10-23 [SC]
-73E2356E2479B402EE8815CA5655E9CC21FAC872
-uid                      John Andersen (@john@chadig.com) <johnandersenpdx@gmail.com>
+      FD6DC6E941D5AB1D1F746798D98E8F4DB6F8110A
+uid           [ultimate] John Andersen (@john@chadig.com) <johnandersen777@protonmail.com>
 sub   rsa4096 2024-10-23 [E]
+```
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-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
-78kwHr9YA+2TauK+xG2CtSstguWclW8tUh27
-=D5Ad
+
+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
+=LML8
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 

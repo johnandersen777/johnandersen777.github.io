@@ -70,12 +70,12 @@ make -j $(($(nproc)*4))
 Put the following script in a file called `run-vm.sh`. It will be the way you
 run your development Kernel in a virtual machine. You can modify it as you wish.
 
-<script src="https://gist.github.com/pdxjohnny/a0dc3a58b4651dc3761bee65a198a80d.js"></script>
+<script src="https://gist.github.com/johnandersen777/a0dc3a58b4651dc3761bee65a198a80d.js"></script>
 
 Here's how you download it, make it executable, and run it.
 
 ```bash
-curl -o run-vm.sh -fSL https://gist.github.com/pdxjohnny/a0dc3a58b4651dc3761bee65a198a80d/raw/da2f456c9ecbb56bf84ee30c8c83a2762e86fb43/run-vm.sh && \
+curl -o run-vm.sh -fSL https://gist.github.com/johnandersen777/a0dc3a58b4651dc3761bee65a198a80d/raw/da2f456c9ecbb56bf84ee30c8c83a2762e86fb43/run-vm.sh && \
 echo "eb5c49fb0aff6b3293ad6f4bd8c7a9c32df97f40d3c8c4fe404b72c1e9c283b44e714be493ce88b5f22e5bb717b8f71d  run-vm.sh" | sha384sum -c - && \
 chmod 755 run-vm.sh
 ./run-vm.sh

@@ -58,7 +58,7 @@ Dotfiles is a term for configuration files. The name comes from their usually
 being prefixed with a `.`. This is because on UNIX operating systems, files
 prefixed with a `.` are *hidden*.
 
-Here are mine: http://github.com/pdxjohnny/dotfiles
+Here are mine: http://github.com/johnandersen777/dotfiles
 
 ## Linux distros
 
@@ -157,7 +157,7 @@ homedir via curl + tar.
 
 ```bash
 NAME_FIRST_LAST="John Andersen"
-EMAIL=johnandersenpdx@gmail.com
+EMAIL=johnandersen777@protonmail.com
 
 # Create homedir venv
 mkdir -p ~/.local/.venv
@@ -182,10 +182,10 @@ git config --global user.email $EMAIL
 git config --global pull.rebase true
 
 # Clone dotfiles
-git clone https://github.com/pdxjohnny/dotfiles ~/.dotfiles
+git clone https://github.com/johnandersen777/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
-echo -e 'if [ -f ~/.pdxjohnnyrc ]; then\n. ~/.pdxjohnnyrc\nfi' | tee "${HOME}/.bashrc"
+echo -e 'if [ -f ~/.johnandersen777rc ]; then\n. ~/.johnandersen777rc\nfi' | tee "${HOME}/.bashrc"
 history -a
 exec bash
 dotfiles_branch=$(hostname)-$(date "+%4Y-%m-%d-%H-%M")

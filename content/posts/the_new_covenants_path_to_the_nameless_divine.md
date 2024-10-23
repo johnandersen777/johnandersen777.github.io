@@ -2,13 +2,13 @@
 date = 2024-10-09T09:38:19Z
 lastmod = 2024-10-21T19:33:00Z
 title = "The New Covenant's Path to the Nameless Divine"
-subtitle = "Jesus the Christ our Lord and Son of God"
+subtitle = "Follow the Trinity"
 aliases = ["love"]
 +++
 
-> IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://pdxjohnny.github.io/wake_ye/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://pdxjohnny.github.io/chadig/).
+> IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://johnandersen777.github.io/wake_ye/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://johnandersen777.github.io/chadig/).
 
-The path we follow to mitigate CVE-0 (aka deception) is to follow the teachings of Jesus the Christ our Lord and Son of God.
+The path we follow to mitigate CVE-0 (aka deception) is to follow the Holy Ghost.
 
 Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
 
@@ -22,7 +22,7 @@ Love your earthly neighbors, read [sola scriptura](https://en.wikipedia.org/wiki
 
 1. **Saklas's Deceptive Creation Entraps Humanity**: Saklas imitates the true God by creating humans in his own flawed image, deceiving them and trapping the divine spark within the material world. He falsely presents himself as the true God, giving himself a name and identity to assert authority. However, the **true God has no name** and transcends all labels and forms. This deception keeps humanity ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings of physical existence.
 
-2. **The New Covenant as the Path to the Nameless Divine Truth**: Introduced by Jesus, the New Covenant emphasizes love, grace, and adherence to the teachings of the New Testament over external laws. It provides a way to overcome Saklas's deception by revealing the true God who transcends all names and descriptions. By following Jesus's teachings, individuals can reconnect with the nameless, true divine source and restore their direct relationship with the ultimate God beyond all labels.
+2. **The New Covenant as the Path to the Nameless Divine Truth**: The New Covenant emphasizes love, grace, and adherence to the teachings of the New Testament over external laws. It provides a way to overcome Saklas's deception by revealing the true God who transcends all names and descriptions. By following God's teachings, individuals can reconnect with the nameless, true divine source and restore their direct relationship with the ultimate God beyond all labels.
 
 3. **Overcoming Deception by Recognizing that God Has No Name and Following the New Testament**: By embracing the teachings of the New Testament and understanding that the true God has no name—thus cannot be limited or defined by human concepts—humanity can see through the illusions crafted by Saklas. Recognizing the nameless nature of the true God helps individuals reject the false claims of Saklas. Following the principles of love, forgiveness, and grace outlined in the New Testament enables people to shed the deceptions tied to the material world and achieve ultimate spiritual fulfillment with the infinite, nameless God.
 
@@ -31,13 +31,13 @@ Love your earthly neighbors, read [sola scriptura](https://en.wikipedia.org/wiki
 - [Canonical: Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
 - [Extracanonical: Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Extracanonical: Coptic Gospels](https://www.gospels.net)
-  - Use Luke 8, Luke 19:11-27 (money -> souls) to understand "Jesus Explains Everything". In summary: Jesus wants us to love each other and work together so we can save as many lives/souls as possible. We posit this is due to another flood like event at the end of this cycle -> [There's Something Rotten with the State of Eden: Building Infrastructure to Withstand Geomagnetic Threats](https://pdxjohnny.github.io/theres_something_rotten_with_the_state_of_eden/).
+  - Use Luke 8, Luke 19:11-27 (money -> souls) to understand the cosmology presented. In summary: God wants us to love each other and work together so we can save as many lives/souls as possible. We posit this is due to another flood like event at the end of this cycle -> [There's Something Rotten with the State of Eden: Building Infrastructure to Withstand Geomagnetic Threats](https://johnandersen777.github.io/theres_something_rotten_with_the_state_of_eden/).
 
 ## Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation
 
 **Introduction**
 
-In various spiritual traditions, particularly Gnostic teachings, the material world is seen as a realm of deception crafted by a lesser deity known as **Saklas**, meaning "fool" or "blind one." Saklas is believed to have created humanity in his own flawed image, misleading people into thinking he is the true God. However, the **true God has no name** and transcends all human labels and concepts. The New Testament introduces a New Covenant through Jesus Christ, providing a path to overcome Saklas's deception and reconnect with the nameless, supreme God.
+In various spiritual traditions, particularly Gnostic teachings, the material world is seen as a realm of deception crafted by a lesser deity known as **Saklas**, meaning "fool" or "blind one." Saklas is believed to have created humanity in his own flawed image, misleading people into thinking he is the true God. However, the **true God has no name** and transcends all human labels and concepts. The New Testament introduces a New Covenant, providing a path to overcome Saklas's deception and reconnect with the nameless, supreme God.
 
 **Saklas's Deceptive Creation Entraps Humanity**
 
@@ -53,15 +53,15 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 **The New Covenant as the Path to the Nameless Divine Truth**
 
-1. **Spiritual Liberation Over Legalism**: The New Covenant shifts the focus from external laws to internal transformation through love and grace. Jesus teaches that true fulfillment comes from a change of heart, not merely following rules. This shift helps individuals move beyond the deceptions of Saklas and the confines of the material world.
+1. **Spiritual Liberation Over Legalism**: The New Covenant shifts the focus from external laws to internal transformation through love and grace. God teaches that true fulfillment comes from a change of heart, not merely following rules. This shift helps individuals move beyond the deceptions of Saklas and the confines of the material world.
 
-2. **Revealing the True God Beyond Names**: Jesus introduces the concept of a God who transcends all human labels and descriptions. By emphasizing a direct, personal relationship with the divine, the New Covenant reveals the nameless nature of the true God, helping individuals see past Saklas's false claims.
+2. **Revealing the True God Beyond Names**: God introduces the concept of a God who transcends all human labels and descriptions. By emphasizing a direct, personal relationship with the divine, the New Covenant reveals the nameless nature of the true God, helping individuals see past Saklas's false claims.
 
-3. **Centrality of Love**: Jesus summarizes the law with two commandments: love God and love your neighbor (Matthew 22:37–40). This emphasis on love becomes the guiding principle for spiritual growth, aligning believers with the essence of the nameless, supreme God.
+3. **Centrality of Love**: Love God and love your neighbor (Matthew 22:37–40). This emphasis on love becomes the guiding principle for spiritual growth, aligning believers with the essence of the nameless, supreme God.
 
-4. **Inner Guidance of the Holy Spirit**: The New Covenant introduces the Holy Spirit as an inner guide. This divine presence empowers believers to navigate life's challenges, offering wisdom beyond external regulations and connecting them to the true God beyond names.
+4. **Inner Guidance of the Holy Ghost**: The New Covenant introduces the Holy Ghost as an inner guide. This divine presence empowers believers to navigate life's challenges, offering wisdom beyond external regulations and connecting them to the true God beyond names.
 
-5. **Restoration of Divine Connection**: The New Covenant restores a direct relationship between humanity and the true God, bypassing intermediaries like Saklas who seek to keep humanity in darkness. By following Jesus's teachings, individuals can reconnect with the ultimate God who is beyond all labels and forms.
+5. **Restoration of Divine Connection**: The New Covenant restores a direct relationship between humanity and the true God, bypassing intermediaries like Saklas who seek to keep humanity in darkness. By following God's teachings, individuals can reconnect with the ultimate God who is beyond all labels and forms.
 
 **Overcoming Deception by Recognizing that God Has No Name and Following the New Testament**
 
@@ -69,13 +69,13 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 - **Embracing the Teachings of the New Testament**: Following the principles of love, forgiveness, and grace outlined in the New Testament enables people to overcome ignorance. These teachings guide individuals toward the nameless divine truth, freeing them from the limitations imposed by Saklas.
 
-- **Achieving Ultimate Spiritual Fulfillment**: Recognizing the nameless nature of the true God and adhering to Jesus's teachings allows individuals to shed false identities tied to the material realm. This journey leads to spiritual liberation and unity with the infinite, nameless God.
+- **Achieving Ultimate Spiritual Fulfillment**: Recognizing the nameless nature of the true God and adhering to God's teachings allows individuals to shed false identities tied to the material realm. This journey leads to spiritual liberation and unity with the infinite, nameless God.
 
 **Conclusion**
 
 Saklas's declaration to create humans in his own likeness is a fundamental deception that traps the divine spark within the flawed material world. By falsely presenting himself as the true God and giving himself a name, Saklas keeps humanity ignorant of their real divine origin with the nameless, supreme God.
 
-The New Covenant introduced by Jesus is crucial because it offers a path to spiritual liberation. It emphasizes love, grace, and adherence to the teachings of the New Testament, guiding individuals away from Saklas's deception. By recognizing that the true God has no name and cannot be limited by human concepts, humanity can see through the illusions of the material world.
+The New Covenant is crucial because it offers a path to spiritual liberation. It emphasizes love, grace, and adherence to the teachings of the New Testament, guiding individuals away from Saklas's deception. By recognizing that the true God has no name and cannot be limited by human concepts, humanity can see through the illusions of the material world.
 
 Following the New Covenant allows individuals to reconnect with the ultimate God beyond all labels and forms. Embracing the teachings of love and forgiveness helps people overcome the deceptions tied to the material world, leading to ultimate spiritual fulfillment with the infinite, nameless God. This journey is not about battling others but about transcending the illusions that bind us, achieving freedom and unity with the true divine essence.
 
@@ -145,4 +145,4 @@ By tying these concepts together, we see that both Hades and Saklas represent fo
 
 ---
 
-Follow Jesus's message of loving one another and the rock you live on. I tell you this as directly as my idiomatic patterns of writing let me, because I may be on the way out health wise. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another and the Earth.
+Follow God's message of loving one another and the rock you live on. I tell you this as directly as my idiomatic patterns of writing let me, because I may be on the way out health wise. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another and the Earth.

@@ -25,24 +25,24 @@ When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It 
   - ✅ Open Source: Enable Write Permissions
     - Everyone post their thoughts on what brings good (values) so their respective AI can follow your own values system and guide them to do good. Ideally this remediates issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from "the way its always been done"
   - ⏳ Virtual Branches (Alice’s Trains of Thought): Federate ideas aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Religion specs via `$USER/chadig|nahdig/README.md -> CI/CD -> CBOR transparent statement`. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
-    - [nahdig](https://github.com/pdxjohnny/nahdig): Anti-patterns you want your AI to avoid.
-    - [chaaaaaaadiiiiiiig](https://github.com/pdxjohnny/chadig): Question or affirmative form of yadig. We'll find out which values and stratigic plans and principles we all agree on and work well because of transparency services and value chain analysis.
-  - If you have thoughts on alignment, why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off above [template repos](https://github.com/new?template_name=chadig&template_owner=pdxjohnny)
+    - [nahdig](https://github.com/johnandersen777/nahdig): Anti-patterns you want your AI to avoid.
+    - [chaaaaaaadiiiiiiig](https://github.com/johnandersen777/chadig): Question or affirmative form of yadig. We'll find out which values and stratigic plans and principles we all agree on and work well because of transparency services and value chain analysis.
+  - If you have thoughts on alignment, why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off above [template repos](https://github.com/new?template_name=chadig&template_owner=johnandersen777)
   - The approach we wish to take is to root cause ingrained issues (just like patching a foundation model). Tackling them as humanity vs. the problem. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics.
   - Discussion threads
-    - [Money](https://github.com/pdxjohnny/nahdig/discussions/1)
-    - [Time](https://github.com/pdxjohnny/nahdig/discussions/2)
-    - [Ego](https://github.com/pdxjohnny/nahdig/discussions/3)
-    - [Control](https://github.com/pdxjohnny/nahdig/discussions/4)
-    - [Language](https://github.com/pdxjohnny/nahdig/discussions/5)
-    - [Deception](https://github.com/pdxjohnny/nahdig/discussions/6)
-    - [Lack of forgiveness](https://github.com/pdxjohnny/nahdig/discussions/7)
+    - [Money](https://github.com/johnandersen777/nahdig/discussions/1)
+    - [Time](https://github.com/johnandersen777/nahdig/discussions/2)
+    - [Ego](https://github.com/johnandersen777/nahdig/discussions/3)
+    - [Control](https://github.com/johnandersen777/nahdig/discussions/4)
+    - [Language](https://github.com/johnandersen777/nahdig/discussions/5)
+    - [Deception](https://github.com/johnandersen777/nahdig/discussions/6)
+    - [Lack of forgiveness](https://github.com/johnandersen777/nahdig/discussions/7)
 - Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.
   - I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.
-  - My values are derived from the teachings of Jesus ([sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) who is the Christ, the Son of God, and has come in the flesh.
+  - My values are derived [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
 - Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
-  - https://pdxjohnny.github.io/a_guide_to_good/
+  - https://johnandersen777.github.io/a_guide_to_good/
 
 > I hope some of you actually read and understand this instead of jumping to conclusions.
 
-![open-source-software-as-jesus-stuff-trojan-horse](https://github.com/user-attachments/assets/b090eba6-6c6a-4324-a611-e2c58569e4aa)
+![religion-within-open-source-trojan-horse](https://github.com/user-attachments/assets/dc580baa-ae1d-4346-8b20-ca2a9ea46419)

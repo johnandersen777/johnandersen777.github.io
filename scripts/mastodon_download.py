@@ -8,7 +8,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='Download all posts for a Mastodon user and save them into a YAML file.')
     parser.add_argument('--api_base_url', default='https://mastodon.social', help='The base URL of the Mastodon instance.')
     parser.add_argument('--access_token', help='Your Mastodon API access token.')
-    parser.add_argument('--user_handle', default='@pdxjohnny@mastodon.social', help='The handle of the user to fetch posts for.')
+    parser.add_argument('--user_handle', default='@johnandersen777@mastodon.social', help='The handle of the user to fetch posts for.')
     parser.add_argument('--output_file', default='mastodon_posts.yaml', help='The output YAML file.')
     return parser.parse_args()
 
