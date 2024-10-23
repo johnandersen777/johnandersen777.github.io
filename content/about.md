@@ -69,6 +69,12 @@ modeled as data flows.
 
 - "I thought I was as scattered as they come, until I met [John]"
 
+  - Big fan of how Tom Clancy ties together stories
+
+    - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
+   
+    - https://careerauthors.com/full-force-effect-military-thriller-writing-lessons-from-tom-clancy/
+
 - "John's trying to do ethical graffiti"
 
   - Everything is Art, Infrastructure should be elegant, resilient, and beautiful.
