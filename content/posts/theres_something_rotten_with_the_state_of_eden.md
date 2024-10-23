@@ -395,7 +395,7 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 
 "I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too.
 
-Don't listen to anyone though, listen to yourself, **the truth is within you, [given by the Holy Sprit](/God/)**.
+Don't listen to anyone though, listen to yourself, **the truth is within you, [given by the Holy Spirit](/God/)**.
 
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
