@@ -9,6 +9,7 @@ If for whatever reason you want my resume [here it is](https://docs.google.com/d
 
 Here is my [gpg public key][pub-key]
 `C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
+(fuck if I know where the private is though)
 
 - On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx)
   - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
