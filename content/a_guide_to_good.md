@@ -8,17 +8,31 @@ aliases = ["greek_stuff"]
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 
-## On Religon
+## On Religion
 
 > Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles is provided to ensure clarity.
 
-> "A new command I give you: Love one another. As I have loved you, so you must love one another."
+**God is the Trinity**
 
-The message is: Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gospels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from the Holy Ghost. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)). Good choices are ones which map to loving one another.
+The message is: Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gospels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from the Holy Ghost. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)).
 
-**God's message is: Love each other.**
+Making good choices means:
 
-### Religon + Tech
+- Following the Holy Ghost.
+- Accepting, honoring, and loving Christ Jesus, our Earthly Mother, and our Heavenly Father.
+- Accepting, honoring, and loving one another.
+
+We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven (To fulfill Saying 22, Gospel of Thomas):
+
+- [Canonical: Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
+- [Extracanonical: Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
+- [Extracanonical: Coptic Gospels](https://www.gospels.net)
+
+> "When you make the two into one, and make the inner like the outer and the outer like the inner, and the upper like the lower, and so make the male and the female a single one so that the male won't be male nor the female female; when you make eyes in the place of an eye, a hand in the place of a hand, a foot in the place of a foot, and an image in the place of an image; then you'll enter."
+
+We must follow the Holy Ghost to guide us to the truth in the gospels. To sift truth from deception so that we might follow Christ Jesus's teachings to honor, accept, and love Him, the Earthly Mother, and the Heavenly Father. Then we will all enter.
+
+### Religion + Tech
 
 God has no name is important because God is more than anything that can be named. We must see past symbols (words) and follow His message.
 
@@ -34,13 +48,13 @@ If that still doesn't make sense, try loving your earthly neighbors, reading [so
 
 ### Why is "God has no name" Important
 
-For some context to help others understand, in [Warhammer 40k](https://www.reddit.com/r/Warhammer40k/comments/2un3jz/why_does_the_emperor_does_not_want_to_be/), there is an issue where the Emperor is seen as a god, illustrating how concepts can gain immense power. [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) use narative to create shared contexts, and when combined with bureaucracy, these narratives can take on entity-like qualities. The way a bureaucracy interacts with individuals can make its presence almost indistinguishable from a single entity—for example, the DMV remains "the DMV" regardless of who works there; the entity is the message, not the messenger (a concept inspired by RZA's writings).
+For some context to help others understand, in [Warhammer 40k](https://www.reddit.com/r/Warhammer40k/comments/2un3jz/why_does_the_emperor_does_not_want_to_be/), there is an issue where the Emperor is seen as a god, illustrating how concepts can gain immense power. [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) use narrative to create shared contexts, and when combined with bureaucracy, these narratives can take on entity-like qualities. The way a bureaucracy interacts with individuals can make its presence almost indistinguishable from a single entity—for example, the DMV remains "the DMV" regardless of who works there; the entity is the message, not the messenger (a concept inspired by RZA's writings).
 
 The proliferation of phones has made digital identity nearly a requirement in modern city societies. As AI becomes more widespread, it will integrate into infrastructure even more deeply than phones have, forming an intelligent mesh that envelops our daily activities. This integration will tie into governance—indeed, automating governance is often one of the first applications pursued with new technologies. We must be cautious: large-scale AI governance could lead to what is noted as the "AI God Empress problem," similar to the Emperor's dilemma in Warhammer 40k.
 
 AI will become so pervasive and powerful that we must act now to shape the cultural mindset of our future selves. Those in power may try to dismiss concerns and obscure truths, but [we must remain vigilant](https://www.biblegateway.com/passage/?search=Mark%2013%3A37&version=ESV). Do not accept the centralization of all-knowing, all-influencing power. Instead, reclaim that power by decentralizing and distributing it through more localized governance. Anchor this governance in transparent values rather than in specific religions or ideologies. Identify the core values of your religion, values like love and respect for one another and the Earth. Use those values to align policy. Root cause.
 
-The Unitied States of America is a collective of autonomus entities (states and the people in them) who come together uphold truths to be self-evident, that all are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. Keep it that way, do not let anyone divide this country, do harm to anyone, or start any wars. United we stand, in peace, love, and respect for one another.
+The United States of America is a collective of autonomous entities (states and the people in them) who come together uphold truths to be self-evident, that all are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. Keep it that way, do not let anyone divide this country, do harm to anyone, or start any wars. United we stand, in peace, love, and respect for one another.
 
 ## A Guide to Good
 
