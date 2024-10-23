@@ -3,7 +3,7 @@ date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
 subtitle = "Why is there a man behind the curtain?"
-aliases = ["mark_1337_esv", "stay_woke"]
+aliases = ["mark_1337_esv", "stay_woke", "be_awake"]
 +++
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
@@ -440,6 +440,6 @@ Don't listen to anyone though, listen to yourself, the truth is within you. Or i
 
 ## Two Sides of the Same Coin
 
-Time to put away all differences.
+Time to put away all differences and follow Jesus's message of loving one another. Or else, we all die. Seems like a pretty clear choice.
 
 ![stay-woke](https://github.com/user-attachments/assets/7d86e8dc-641e-4d80-af43-8118e9bc444c)
