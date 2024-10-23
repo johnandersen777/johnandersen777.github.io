@@ -7,10 +7,6 @@ permalink = "/about/"
 
 If for whatever reason you want my resume [here it is](https://docs.google.com/document/d/1leBe8-j2r6Gd9rxPjqsVg60D8PR1MI4w4zts5XS7NVA/edit).
 
-Here is my [gpg public key][pub-key]
-`C818 9AE8 2170 FB95 BE26 712C CE2C 7260 9F5B A7A9`
-(fuck if I know where the private is though)
-
 - On Twitter as [@johnandersenpdx](https://twitter.com/johnandersenpdx)
   - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
   - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
@@ -18,6 +14,7 @@ Here is my [gpg public key][pub-key]
   - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
 - I'm on [keybase][keybase] sort of, if that still exists?
   - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
+  - Here is my [gpg public key][pub-key]
 
 Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
 updating them around 2015 I think, but they have a lot of good information about
