@@ -65,7 +65,7 @@ modeled as data flows.
 
 > Imagine like a really nerdy art project with somewhat shitty creative writing. There are some easter eegs and ruddles for fun. lots of metaphors and word games.
 
----
+## What do people say about John
 
 - "I thought I was as scattered as they come, until I met [John]"
 
@@ -84,7 +84,7 @@ modeled as data flows.
 
     - grep shes a mirror
 
----
+## Copy pasted from a slide deck
 
 - Portland State University: Computer Engineering
 - Favorite food/drink: Tacos
@@ -97,7 +97,7 @@ modeled as data flows.
 - Church: Jesus!
 - Favorite Prophet: Isaiah
 
----
+## Favorite Quotes
 
 - "Imagination is the only weapon in the war against reality" [Lewis Carroll]
 
@@ -110,7 +110,7 @@ modeled as data flows.
 
 - "It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations." [President John F. Kennedy]
  
----
+## What does the LLM say
 
 "If everyone always gives everyone a cigarette, then we all always have a cigarette"
 
