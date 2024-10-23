@@ -16,6 +16,7 @@ Here is my [gpg public key][pub-key]
   - Have I mentioned I script my [dev-env](https://pdxjohnny.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
   - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
 - I'm on [keybase][keybase] sort of, if that still exists?
+  - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
 
 Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
 updating them around 2015 I think, but they have a lot of good information about
