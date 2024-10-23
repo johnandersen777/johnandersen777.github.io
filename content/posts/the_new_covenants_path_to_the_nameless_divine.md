@@ -16,7 +16,7 @@ Deception and mistrust have eroded human connection. Decentralized AI+[TS](https
 2. Do not integrate the two physically.
 3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 
-Love your earthly neighbors, read [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) and [The Tao of Wu](https://www.goodreads.com/book/show/21503312-the-tao-of-wu).
+Love your earthly neighbors, read [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
 
 **Abstract:**
 
