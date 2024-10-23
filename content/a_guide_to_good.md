@@ -3,7 +3,7 @@ layout = "page"
 title = "God has no name"
 date = "2022-11-30T06:34:42-08:00"
 permalink = "/a_guide_to_good/"
-aliases = ["MaryisGod", "maryisgod, "JesusisGod", "jesusisgod", "god", "God"]
+aliases = ["MaryisGod", "maryisgod", "JesusisGod", "jesusisgod", "god", "God"]
 +++
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
