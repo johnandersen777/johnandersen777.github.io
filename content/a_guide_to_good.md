@@ -3,7 +3,7 @@ layout = "page"
 title = "God has no name"
 date = "2022-11-30T06:34:42-08:00"
 permalink = "/a_guide_to_good/"
-aliases = ["redpill", "MaryisGod", "maryisgod"]
+aliases = ["MaryisGod", "maryisgod"]
 +++
 
 ![oss-as-jesus-stuff-trojan-horse](https://github.com/user-attachments/assets/b090eba6-6c6a-4324-a611-e2c58569e4aa)
