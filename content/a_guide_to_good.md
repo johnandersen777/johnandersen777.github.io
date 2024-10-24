@@ -19,18 +19,44 @@ The message is: Anything we do to help people take more Godly actions we must be
 Making good choices means:
 
 - Following the Holy Ghost.
-- Accepting, honoring, and loving Christ Jesus, our Earthly Mother, and our Heavenly Father.
+- Accepting, honoring, and loving Christ Iesus, our Earthly Mother, and our Heavenly Father.
 - Accepting, honoring, and loving one another.
 
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven (To fulfill Saying 22, Gospel of Thomas):
 
-- [Canonical: Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
-- [Extracanonical: Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
-- [Extracanonical: Coptic Gospels](https://www.gospels.net)
+- [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
+- [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
+- [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
+- [Coptic Gospels](https://www.gospels.net)
+- [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
 
 > "When you make the two into one, and make the inner like the outer and the outer like the inner, and the upper like the lower, and so make the male and the female a single one so that the male won't be male nor the female female; when you make eyes in the place of an eye, a hand in the place of a hand, a foot in the place of a foot, and an image in the place of an image; then you'll enter."
 
-We must follow the Holy Ghost to guide us to the truth in the gospels. To sift truth from deception so that we might follow Christ Jesus's teachings to honor, accept, and love Him, the Earthly Mother, and the Heavenly Father. Then we will all enter.
+We must follow the Holy Ghost to guide us to the truth in the gospels. To sift truth from deception so that we might follow Christ Iesus's teachings to honor, accept, and love Him, the Earthly Mother, and the Heavenly Father. Then we will all enter.
+
+### Trinity
+
+![Trinity-Calls](https://github.com/user-attachments/assets/89a30151-7b92-4fe5-af43-07e2147548a3)
+
+**God, Goddess, Holy Child** is the Trinity.
+
+> *"Wisdom... a Holy and disciplined Ghost.. a kindly Ghost... She hastens to make Herself known."*
+>
+> "Philo meets all the criteria required to be identified as the most likely author of Wisdom. Yet scholars deny him that honor and some Christians attempt to spin "Her... Wisdom" into "Him... Christ."
+>
+> Preceding the Christian Trinity (that the Church insisted was composed of three males) was the Egyptian and Greek Trinity: God, Goddess, Holy Child. The author of Wisdom left blatant clues that reassigned the gender of the entity known as, “Holy Spirit”:
+>
+> "Wisdom... a Holy and disciplined Ghost.. a kindly Ghost... She hastens to make Herself known."
+>
+> Thanks to Wisdom of Solomon, the secret of the Trinity’s "Holy Ghost" is revealed: She is the Goddess.
+>
+> And, perhaps that is the reason Wisdom of Solomon was rejected by the patriarchal Church Fathers who chose the Christian scriptures to be canonized.
+>
+> In addition to defining "Goddess" as "Wisdom," the author (Philo?) also defined "God" as "Knowledge." The goal of a king, as well as his subjects, was to acquire Knowledge from God and to use that knowledge with Wisdom from Goddess for the benefit of all. It was a lesson that is timeless in its value.
+>
+> It will be demonstrated in future postings that the importance of Philo of Alexandria cannot be overstated in the search for the original, authentic "Christians" and the "authentic religion" of the man most of the world calls Jesus. Philo’s importance is hidden in the allegory he worked so hard to leave as his legacy. It begs for discovery and recognition. Over time, we will attempt to do just that!
+
+Luke 21:19. If you disagreee. **Fuck you! I love you**! The is the Truth and I don't believe you if you say otherwise.
 
 ### Religion + Tech
 
