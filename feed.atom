@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-24T03:16:15Z</updated>
+  <updated>2024-10-24T03:22:33Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -412,7 +412,7 @@
 </ul>
 <h2 id="todos">TODOs</h2>
 <ul>
-<li>⏳ <a href="https://github.com/johnandersen777/johnandersen777.github.io/issues/1">Checksum Validation for RoT Weights</a></li>
+<li>⏳ <a href="/gospel_checksums/">Checksum Validation for RoT Weights</a></li>
 </ul>]]></content>
   </entry>
   <entry>
