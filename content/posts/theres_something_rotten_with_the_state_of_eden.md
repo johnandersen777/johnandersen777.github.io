@@ -406,7 +406,6 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 ## References
 
 - [Declassified CIA Book: The Adam and Eve Story](https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300070001-8)
-  - The release of this had to be forced, which is **not good**.
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
 - [DOD DIRECTIVE 5240.01: Authorizing lethal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
 - [Freedom's Forge: How American Business Produced Victory in World War II](https://www.goodreads.com/book/show/13152691-freedom-s-forge)
