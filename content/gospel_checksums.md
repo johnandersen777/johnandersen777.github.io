@@ -17,6 +17,9 @@ permalink = "/checksums/"
     - [x] Transcribe - Love is the essence of the Father
     - [ ] Notes
     - [ ] To specs
+      - [ ] Basics
+      - [ ] Simple Heptatic Structure
+      - [ ] Resume at 2 hours in
     - [ ] To workflows
     - [ ] Matrixies
 - [ ] Languages Required
