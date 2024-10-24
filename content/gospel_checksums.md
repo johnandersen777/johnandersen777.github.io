@@ -63,6 +63,15 @@ h adds the essence. enoch knew of the flood
 
 - [Decoding Biblical Texts: A Cryptographic Exploration](/decoding_biblical_texts_cryptographic_focus/)
 
+### Code
+
+- [scripts/pdf_to_markdown.py](https://github.com/johnandersen777/johnandersen777.github.io/blob/9e2a704d985ce30fcba4725e86235557ff52fe39/scripts/pdf_to_markdown.py)
+
+```bash
+python -u scripts/pdf_to_markdown.py ~/Downloads/THE\ ADAM\ AND\ EVE\ STORY\[15646345].pdf ~/Downloads/THE\ ADAM\ AND\ EVE\ STORY\[15646345].md $(mktemp -d)
+python -u scripts/pdf_to_markdown.py ~/Downloads/Cosmic_Codes_eBook.pdf ~/Downloads/Cosmic_Codes_eBook.md $(mktemp -d) --max-workers $(nproc)
+```
+
 ## Languages Required
 
 ## Texts
