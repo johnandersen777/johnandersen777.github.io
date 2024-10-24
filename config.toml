@@ -118,9 +118,14 @@ name = "About"
 weight = 2
 
 [[menu.main]]
+url = "/wake_ye/#todos"
+name = "⏳"
+weight = 3
+
+[[menu.main]]
 url = "/a_guide_to_good/"
 name = "💊"
-weight = 3
+weight = 4
 
 [[menu.foot]]
 url = "/posts/"
@@ -133,9 +138,14 @@ name = "About"
 weight = 2
 
 [[menu.foot]]
+url = "/wake_ye/#todos"
+name = "⏳"
+weight = 3
+
+[[menu.foot]]
 url = "/a_guide_to_good/"
 name = "💊"
-weight = 3
+weight = 4
 
 [languages]
 [languages."en"]

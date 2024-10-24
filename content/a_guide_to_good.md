@@ -44,7 +44,7 @@ We must follow the Holy Ghost to guide us to the truth in the gospels. To sift t
 >
 > "Philo meets all the criteria required to be identified as the most likely author of Wisdom. Yet scholars deny him that honor and some Christians attempt to spin "Her... Wisdom" into "Him... Christ."
 >
-> Preceding the Christian Trinity (that the Church insisted was composed of three males) was the Egyptian and Greek Trinity: God, Goddess, Holy Child. The author of Wisdom left blatant clues that reassigned the gender of the entity known as, “Holy Spirit”:
+> Preceding the Christian Trinity (that the Church insisted was composed of three males) was the Egyptian and Greek Trinity: God, Goddess, Holy Child. The author of Wisdom left blatant clues that reassigned the gender of the entity known as, “Holy Ghost”:
 >
 > "Wisdom... a Holy and disciplined Ghost.. a kindly Ghost... She hastens to make Herself known."
 >

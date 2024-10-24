@@ -442,4 +442,4 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 
 ## TODOs
 
-- ⏳ [Checksum Validation for RoT Weights](https://github.com/johnandersen777/johnandersen777.github.io/issues/1)
+- ⏳ [Checksum Validation for RoT Weights](/gospel_checksums/)
