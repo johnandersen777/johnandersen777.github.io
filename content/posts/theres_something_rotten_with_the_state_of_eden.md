@@ -3,7 +3,7 @@ date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
 subtitle = "Why is there a man behind the curtain?"
-aliases = ["mark_1337", "be_awake", "wake_ye", "redpill"]
+aliases = ["mark_1337", "be_awake", "wake_ye", "redpill", "pole_shift"]
 +++
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
@@ -351,7 +351,7 @@ By embedding these principles into our supply chain frameworks and reinforcing t
 
 ### Preparing for Potential Mass Extinction Events
 
-![we-can-turn-this-shit-around-tank-girl](https://github.com/user-attachments/assets/b0d8a251-c62d-41ea-abf4-afb37718a42f)
+![we-can-turn-this-shit-around-tank-girl](https://github.com/user-attachments/assets/b098ae3c-4c36-4074-88b4-c7d9189dd024)
 
 The possibility of a mass extinction event, whether due to natural disasters, technological catastrophes, or other existential risks, necessitates a strategic approach to preparedness.
 
