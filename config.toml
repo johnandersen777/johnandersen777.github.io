@@ -118,7 +118,7 @@ name = "About"
 weight = 2
 
 [[menu.main]]
-url = "/wake_ye/#todos"
+url = "/theres_something_rotten_with_the_state_of_eden/#todos"
 name = "⏳"
 weight = 3
 
@@ -138,7 +138,7 @@ name = "About"
 weight = 2
 
 [[menu.foot]]
-url = "/wake_ye/#todos"
+url = "/theres_something_rotten_with_the_state_of_eden/#todos"
 name = "⏳"
 weight = 3
 
