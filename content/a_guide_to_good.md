@@ -34,7 +34,7 @@ We read the following with those in mind to learn how best to act in alignment w
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 
-We must follow the Holy Ghost to guide us to Truth. It guides us to sift truth away from deception so that we might follow God's will.
+We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
 ### Religion + Tech
 
