@@ -426,7 +426,7 @@ extract_topics(torah_text)
 - **NMF**: Non-negative Matrix Factorization, useful for topic modeling.
 - This approach may reveal thematic patterns within the text.
 
-### 8. Heptatic Structure
+### 7. Heptatic Structure
 
 The number of male name shall be seven, the number of generation shall be divisible by seven, and you've probably guessed what I've done here already. This happens to be describing the genealogy of Jesus Christ in the first 11 verses of the Gospel of Matthew. But incidentally, it's not in English. It's in Greek, which is far more rigid and far more difficult to make fit because it has so many syntactical rules. And so this is an example. These are the discoveries. What's called the heptatic structure, the seven-fold structure was discovered by Ivan Penn.
 
