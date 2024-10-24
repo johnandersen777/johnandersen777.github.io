@@ -20,6 +20,8 @@ permalink = "/checksums/"
       - [ ] Basics
       - [ ] Simple Heptatic Structure
       - [ ] Resume at 2 hours in
+      - [ ] Inter-Testament Heptadic Bridges
+        - [ ] Occurences of words in Old and New added together should be divisable by 7
     - [ ] To workflows
     - [ ] Matrixies
 - [ ] Languages Required
