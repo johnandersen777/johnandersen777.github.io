@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-24T01:28:57Z</updated>
+  <updated>2024-10-24T01:36:34Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -46,6 +46,7 @@
 <li><a href="#conclusion">Conclusion</a></li>
 <li><a href="#do-not-be-deceived">Do Not Be Deceived</a></li>
 <li><a href="#references">References</a></li>
+<li><a href="#todos">TODOs</a></li>
 </ul>
 <p>In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.</p>
 <p>At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including natural phenomena like pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building resilience.</p>
@@ -408,6 +409,10 @@
 </li>
 </ul>
 </li>
+</ul>
+<h2 id="todos">TODOs</h2>
+<ul>
+<li>⏳ <a href="https://github.com/johnandersen777/johnandersen777.github.io/issues/1">Checksum Validation for RoT Weights</a></li>
 </ul>]]></content>
   </entry>
   <entry>
