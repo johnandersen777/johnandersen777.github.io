@@ -6,7 +6,7 @@ subtitle = "Why is there a man behind the curtain?"
 aliases = ["mark_1337", "be_awake", "wake_ye", "redpill"]
 +++
 
-![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/8df398eb-8686-4fcb-b0e4-07fc68815682)
+![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
 > A little bit of knowledge
 >
