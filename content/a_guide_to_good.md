@@ -18,9 +18,13 @@ The message is: Anything we do to help people take more Godly actions we must be
 
 Making good choices means:
 
-- Following the Holy Ghost.
-- Accepting, honoring, and loving Christ, who came in the flesh, has risen, and is both fully God and Son of Humanity.
-- Accepting, honoring, and loving one another.
+- Following the Holy Ghost
+- Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
+- Accepting, honoring, and loving one another
+- Accepting, honoring, and loving Christ
+  - Who came in the flesh
+  - Has risen
+  - Is both fully God, Son of God, and Son of Humanity
 
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven:
 
