@@ -50,6 +50,10 @@ python -m yt_dlp --no-call-home --no-cache-dir -x --audio-format mp3 --add-metad
 
 h adds the essence. enoch knew of the flood
 
+### Specs
+
+- [Decoding Biblical Texts: A Cryptographic Exploration](/decoding_biblical_texts_cryptographic_focus/)
+
 ## Languages Required
 
 ## Texts
