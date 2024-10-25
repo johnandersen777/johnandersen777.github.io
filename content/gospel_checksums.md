@@ -25,9 +25,9 @@ permalink = "/checksums/"
     - ⏳ To workflows
     - ⏳ Matrixies
 - ⏳ Languages Required
-  - ⏳ Vulgate
   - ⏳ Greek
   - ⏳ Hebrew
+  - ❔ Vulgate
 - ⏳ Texts
   - ⏳ [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
   - ⏳ [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
