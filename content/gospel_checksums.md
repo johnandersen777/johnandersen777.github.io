@@ -1,6 +1,6 @@
 +++
 layout = "page"
-title = "Gospel Checksums"
+title = "Root of Trust Weighting: Checksum Validation"
 date = "2024-10-23T18:27:42-07:00"
 permalink = "/checksums/"
 +++
@@ -11,29 +11,29 @@ permalink = "/checksums/"
 
 ## TODOs
 
-- [x] Game Plan
-- [ ] Decode the Decoding Process
-  - [ ] [Chuck Missler - How We Got Our Bible](https://www.youtube.com/watch?v=5ZsZLDWWZMs)
-    - [x] Transcribe - Love is the essence of the Father
-    - [ ] Notes
-    - [ ] To specs
-      - [ ] Basics
-      - [ ] Simple Heptatic Structure
-      - [ ] Resume at 2 hours in
-      - [ ] Inter-Testament Heptadic Bridges
-        - [ ] Occurences of words in Old and New added together should be divisable by 7
-    - [ ] To workflows
-    - [ ] Matrixies
-- [ ] Languages Required
-  - [ ] Vulgate
-  - [ ] Greek
-  - [ ] Hebrew
-- [ ] Texts
-  - [ ] [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
-  - [ ] [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
-  - [ ] [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
-  - [ ] [Coptic Gospels](https://www.gospels.net)
-  - [ ] [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
+- ✅ Game Plan
+- ⏳ Decode the Decoding Process
+  - ⏳ [Chuck Missler - How We Got Our Bible](https://www.youtube.com/watch?v=5ZsZLDWWZMs)
+    - ✅ Transcribe
+    - ⏳ Notes
+    - ⏳ To specs
+      - ⏳ Basics
+      - ⏳ Simple Heptatic Structure
+      - ⏳ Resume at 2 hours in
+      - ⏳ Inter-Testament Heptadic Bridges
+        - ⏳ Occurences of words in Old and New added together should be divisable by 7
+    - ⏳ To workflows
+    - ⏳ Matrixies
+- ⏳ Languages Required
+  - ⏳ Vulgate
+  - ⏳ Greek
+  - ⏳ Hebrew
+- ⏳ Texts
+  - ⏳ [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
+  - ⏳ [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
+  - ⏳ [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
+  - ⏳ [Coptic Gospels](https://www.gospels.net)
+  - ⏳ [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
 
 ## Game Plan
 
@@ -57,7 +57,9 @@ python -m yt_dlp --no-call-home --no-cache-dir -x --audio-format mp3 --add-metad
 
 ### Notes
 
-h adds the essence. enoch knew of the flood
+- h adds the essence
+- enoch knew of the flood
+- Love is the essence of the Father
 
 ### Specs
 
