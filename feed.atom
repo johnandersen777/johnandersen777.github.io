@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-  <title>johnandersen777&#39;s blog</title>
+  <title>Blog</title>
   <subtitle></subtitle>
   <id>https://johnandersen777.github.io/</id>
   <author>
-    <name>johnandersen777&#39;s blog</name>
+    <name>Blog</name>
     <uri>https://johnandersen777.github.io/</uri>
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-25T16:07:04Z</updated>
+  <updated>2024-10-25T16:07:51Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
