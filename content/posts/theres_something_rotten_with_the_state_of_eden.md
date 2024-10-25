@@ -3,7 +3,7 @@ date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
 subtitle = "Why is there a man behind the curtain?"
-aliases = ["mark_1337", "be_awake", "wake_ye", "redpill", "pole_shift"]
+aliases = ["mark_1337", "be_awake", "wake_ye", "redpill", "poles", "pole_shift", "pole_shifts"]
 +++
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
@@ -18,9 +18,9 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "redpill", "pole_shift"]
 >
 > And awakening sleeping giants
 >
-> 
 >
-> [The ADAM amd EVE STORY](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) - Chan Thomas (unexplicitly attributed quotes within content below sourced from this)
+>
+> [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) by Chan Thomas (unexplicitly attributed quotes within content below sourced from this)
 
 ## Table of Contents
 
@@ -317,7 +317,7 @@ Supply chains today are complex, multi-tiered systems involving countless stakeh
 
 To achieve this level of transparency, we must employ sophisticated software supply chain frameworks that can handle the complexity and scale of modern networks.
 
-- **Distributed Ledger Technologies (DLT)**: Technologies like blockchain offer immutable records of transactions and movements within the supply chain, enhancing traceability and accountability.
+- **Distributed Ledger Technologies (DLT)**: Technologies like [SCITT](https://scitt.io) offer immutable records of transactions and movements within the supply chain, enhancing traceability and accountability.
 - **Internet of Things (IoT) Integration**: IoT devices can provide real-time data on the condition and location of goods, feeding into centralized platforms for monitoring and analysis.
 - **Data Standardization Protocols**: Implementing universal data standards ensures that information can be seamlessly shared and interpreted across different systems and organizations.
 
@@ -397,7 +397,7 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 
 "I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too (2 Corinthians 10:17).
 
-**Do not be deceived, wake ye! The truth is within you, let us all [pray for and follow the guidance of the Holy Ghost](/a_guide_to_good/).**
+**Do not be deceived, wake ye! The truth is within you, let us all [pray for and follow the guidance of God](/a_guide_to_good/).**
 
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
@@ -414,7 +414,9 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
 - [DOD DIRECTIVE 5240.01: Authorizing lethal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
 - [Freedom's Forge: How American Business Produced Victory in World War II](https://www.goodreads.com/book/show/13152691-freedom-s-forge)
-  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone production tracing, inventory, and invoicing to advance this front, that has a ripple effect due to the way SCITT works -> [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council).
+  - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone production tracing, inventory, and invoicing to advance this front, that has a ripple effect due to the way SCITT works
+    - [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council).
+    - [ietf: scitt: mailing list archives: Orie: "Eventually a view of the supply chain emerges, for those for have been granted read access to one or more transparency services"](https://mailarchive.ietf.org/arch/msg/scitt/BjCAySWyODuhDWwn4kMtCoY5eDA/)
 - [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
 - [PBS: The Earth’s magnetic north pole is shifting rapidly](https://www.pbs.org/newshour/science/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights)
   - https://www.youtube.com/watch?v=-sGPCMIQZLw&t=2700
@@ -430,7 +432,7 @@ There are riddles and there are meaningless riddles, one can get carried away wi
   - > "The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century"
     - Matthew 6:24
 - https://medium.com/sunnya97/alice-in-wonderland-political-allusions-91aff911fe06
-  - > "The major example of a story element which corroborates this premise is the King’s Court. While the idea of good and bad is understood by the small children, they are unable to grasp the more complicated political undertone of the section. The novel was published in 1865. The adults who were a reading the book at the time period, would have easily noticed the connections to the the February Revolutions happening in nearby France in which corrupted court systems were used by the king of France to crush out the rebellion. In France, the king would use his power to act as the judge himself, to make sure that his will was always carried out, an exact replica which is done in Alice in Wonderland by the king and queen."
+  - > "The major example of a story element which corroborates this premise is the King’s Court. While the idea of good and bad is understood by the small children, they are unable to grasp the more complicated political undertone of the section. The novel was published in 1865. The adults who were a reading the book at the time period, would have easily noticed the connections to the February Revolutions happening in nearby France in which corrupted court systems were used by the king of France to crush out the rebellion. In France, the king would use his power to act as the judge himself, to make sure that his will was always carried out, an exact replica which is done in Alice in Wonderland by the king and queen."
     >
     > - > “’Are they in the prisoner’s handwriting?’ asked another of the jurymen. ‘No, they’re not,’ said the White Rabbit, ‘and that’s the queerest thing about it.’ (The jury all looked puzzled.) ‘He must have imitated somebody else’s hand,’ said the King. (The jury all brightened up again.) ‘Please your Majesty,’ said the Knave, ‘I didn’t write it, and they can’t prove I did: there’s no name signed at the end.’ ‘If you didn’t sign it,’ said the King, ‘that only makes the matter worse. You MUST have meant some mischief, or else you’d have signed your name like an honest man.’ There was a general clapping of hands at this: it was the first really clever thing the King had said that day. ‘That PROVES his guilt,’ said the Queen.”
     >

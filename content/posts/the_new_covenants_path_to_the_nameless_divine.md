@@ -6,7 +6,7 @@ subtitle = "Trinitarian Alignment"
 aliases = ["love"]
 +++
 
-> IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://johnandersen777.github.io/wake_ye/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://johnandersen777.github.io/chadig/).
+> IMHO: Up and down, left and right, and right and wrong weren't clear before. We need to keep our heads when things go [topsy-turvy yet again](https://johnandersen777.github.io/pole_shifts/). The only way to all survive is to love one another and work together. Catch y'all on the flip side. [Peace](https://johnandersen777.github.io/chadig/).
 
 The path we follow to mitigate CVE-0 (aka deception) is to align with the Trinity.
 
