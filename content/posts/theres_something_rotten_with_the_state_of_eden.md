@@ -435,10 +435,10 @@ There are riddles and there are meaningless riddles, one can get carried away wi
     >
     > "In conclusion, Lewis Carroll definitely uses historical allusions in his novels as a means to entertain older audiences. This is clear as the topics of these allusions are complicated enough that they would not be understood by the younger children who are the primary audience simply because they had not yet been educated enough to understand them."
     - Listen, look up, speak up.
-- Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & [mastodon.social Alice Thread](https://mastodon.social/@johnandersen777/109554008204658963) (riddle warning, security by obscurity was in effect at this point)
-    - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of God's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
-      - https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
+- https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
+  - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of God's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
+    - Ref: Sifting Truths (aka `greek_stuff.md`), [Dec 20, 2022](1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d) & [mastodon.social Alice Thread](https://mastodon.social/@johnandersen777/109554008204658963) (riddle warning, security by obscurity was in effect at this point)
 
 ## TODOs
 
-- ⏳ [Checksum Validation for RoT Weights](/gospel_checksums/)
+- ⏳ [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
