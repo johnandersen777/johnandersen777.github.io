@@ -2,7 +2,7 @@
 date = 2024-10-09T09:38:19Z
 lastmod = 2024-10-21T19:33:00Z
 title = "The New Covenant's Path to the Nameless Divine"
-subtitle = "Follow the Trinity"
+subtitle = "Trinitarian Alignment"
 aliases = ["love"]
 +++
 
