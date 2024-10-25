@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-25T01:28:56Z</updated>
+  <updated>2024-10-25T01:34:35Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -396,11 +396,11 @@
 </li>
 </ul>
 </li>
-<li>Ref: Sifting Truths (aka <code>greek_stuff.md</code>), <a href="1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d">Dec 20, 2022</a> &amp; <a href="https://mastodon.social/@johnandersen777/109554008204658963">mastodon.social Alice Thread</a> (riddle warning, security by obscurity was in effect at this point)
+<li><a href="https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible">https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible</a>
 <ul>
 <li>Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of God's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
 <ul>
-<li><a href="https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible">https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible</a></li>
+<li>Ref: Sifting Truths (aka <code>greek_stuff.md</code>), <a href="1f3ea7fa44dfe6cdb940bc4301b4ba2578a3ad0d">Dec 20, 2022</a> &amp; <a href="https://mastodon.social/@johnandersen777/109554008204658963">mastodon.social Alice Thread</a> (riddle warning, security by obscurity was in effect at this point)</li>
 </ul>
 </li>
 </ul>
@@ -408,7 +408,7 @@
 </ul>
 <h2 id="todos">TODOs</h2>
 <ul>
-<li>⏳ <a href="/gospel_checksums/">Checksum Validation for RoT Weights</a></li>
+<li>⏳ <a href="/gospel_checksums/">Root of Trust Weighting: Checksum Validation</a></li>
 </ul>]]></content>
   </entry>
   <entry>
