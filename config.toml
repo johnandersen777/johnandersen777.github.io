@@ -40,7 +40,7 @@ inline = false
 path = "images/avatar2x.png"
 
 [params.services]
-analyticsId = "UA-160259978-2"
+analyticsId = ""
 adwordsId = ""
 adsenseId = ""
 adsenseAdSlotId = ""
