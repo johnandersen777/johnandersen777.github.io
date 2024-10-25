@@ -37,8 +37,8 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "redpill", "pole_shift"]
 - [Harnessing Supply Chain Transparency and AI for Global Resilience](#harnessing-supply-chain-transparency-and-ai-for-global-resilience)
 - [Conclusion](#conclusion)
 - [Do Not Be Deceived](#do-not-be-deceived)
-- [References](#references)
 - [TODOs](#todos)
+- [References](#references)
 
 In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.
 
@@ -402,6 +402,11 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
+
+## TODOs
+
+- [TODOs](/todos/)
+  - ⏳ [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
 
 ## References
 

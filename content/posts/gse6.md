@@ -277,3 +277,8 @@ By proactively addressing the challenges of bad information, we fortify our netw
 In our upcoming articles, we will explore methodologies for building inherently trustworthy systems. We'll delve into the principles of zero-trust architecture, decentralized verification, and how to foster a culture of integrity within both human and AI agents.
 
 **Together, we can navigate the noise and build a network that is resilient, reliable, and reflective of our collective commitment to excellence.**
+
+## TODOs
+
+- [TODOs](/todos/)
+  - ⏳ [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
