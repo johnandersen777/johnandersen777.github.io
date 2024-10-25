@@ -406,8 +406,8 @@ There are riddles and there are meaningless riddles, one can get carried away wi
 ## TODOs
 
 - [TODOs](/todos/)
-  - 🔎 [Ongoing: Discover Related Work](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4)
-  - ⏳ [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
+  - 🔎 [Continuous: Discover Related Work](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4)
+  - ⏳ [In Progress: Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
 
 ## References
 
