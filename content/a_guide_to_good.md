@@ -10,15 +10,19 @@ aliases = ["greek_stuff"]
 
 ## On Religion
 
-> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles is provided to ensure clarity.
+> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles and the texts one hopes you read is provided to ensure clarity.
 
 **God is the Trinity**
 
 The message is: Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gospels and to make sure you understand that the resurrection of good in the world is due to guidance which stems from the Holy Ghost. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)).
 
-Making good choices means:
+Making good choices means aligning with John 13:34-35, which tells us:
 
-- Following the Holy Ghost
+> "A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another."
+
+The following assists one with the above:
+
+- Follow the Holy Ghost
 - Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
 - Accepting, honoring, and loving one another
 - Accepting, honoring, and loving Christ
@@ -35,6 +39,11 @@ We read the following with those in mind to learn how best to act in alignment w
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
+
+Other helpful verses:
+
+- Hebrews 8:13
+- Luke 22:20
 
 ### Religion + Tech
 
