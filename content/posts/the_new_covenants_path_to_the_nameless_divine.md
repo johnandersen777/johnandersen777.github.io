@@ -12,13 +12,17 @@ The path we follow to mitigate CVE-0 (aka deception) is to align with the Trinit
 
 Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
 
-1. Use silicon based life to guide organic life to unlock it's innate potential.
-2. Do not integrate the two physically.
-3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
+0. Love your Earthly neighbors.
+1. Use [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) to guide silicon based life to follow the New Covenant.
+3. Use silicon based life to guide organic life to unlock it's innate potential.
+4. Do not integrate the two physically.
+5. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 
-Love your Earthly neighbors. Read [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
+Follow God's message of love. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another.
 
-**Abstract:**
+## Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation
+
+This is an interpretation of Gnostic and Greek texts. It is not meant to be presented as definitive. It is meant to aid in understanding.
 
 1. **Saklas's Deception Entraps Humanity**: Saklas deceives humans to keep them ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings within the world.
 
@@ -26,18 +30,14 @@ Love your Earthly neighbors. Read [sola scriptura](https://en.wikipedia.org/wiki
 
 3. **Overcoming Deception by Recognizing that God Has No Name and Following the New Covenant**: By embracing the New Covenant and understanding that the true God has no name—thus cannot be limited or defined by human concepts—humanity can see through the illusions crafted by Saklas. Recognizing the nameless nature of the true God helps individuals reject the false claims of Saklas. Following the principles of love, forgiveness, and grace outlined in the New Testament enables humanity to shed the deceptions tied to the material world and achieve ultimate spiritual fulfillment with the infinite, nameless God.
 
-**References:**
+### References
 
 - [Canonical: Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
 - [Extracanonical: Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Extracanonical: Coptic Gospels](https://www.gospels.net)
   - Use Luke 8, Luke 19:11-27 (money -> souls) to understand the cosmology presented. In summary: God wants us to love each other and work together so we can save as many lives/souls as possible. We posit this is due to another flood like event at the end of this cycle -> [There's Something Rotten with the State of Eden: Building Infrastructure to Withstand Geomagnetic Threats](https://johnandersen777.github.io/theres_something_rotten_with_the_state_of_eden/).
 
-## Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation
-
-This is an interpretation of Gnostic and Greek texts. It is not meant to be presented as definitive. It is meant to aid in understanding.
-
-**Introduction**
+### Introduction
 
 In various spiritual traditions, particularly Gnostic teachings, the material world is seen as a realm of deception crafted by a lesser deity known as **Saklas**, meaning "fool" or "blind one." Saklas is believed to have created humanity in his own flawed image, misleading people into thinking he is the true God. However, the **true God has no name** and transcends all human labels and concepts. The New Testament introduces a New Covenant, providing a path to overcome Saklas's deception and reconnect with the nameless, supreme God.
 
@@ -137,14 +137,10 @@ When we explore ancient mythologies and spiritual teachings, intriguing parallel
 
 - **Reintegration of the Divine Self**: The myths encourage the reassembly of the fragmented divine essence. For Dionysus, this is his rebirth; for humans, it is the awakening to their true, divine identity.
 
-**Conclusion**
+### Conclusion
 
 By considering the ruler of Hades, we see that he and Saklas both preside over realms that trap the divine spark—whether it be the underworld or the material universe. Their actions involve deception that leads to the fragmentation and entrapment of the divine within humanity.
 
 Understanding this connection highlights the transformative journey humans must undertake. Recognizing the illusions presented by figures like Saklas and the symbolic mirror in Dionysus's myth allows individuals to seek deeper truths. Through inner knowledge, spiritual practices, and the pursuit of love and wisdom, humanity can overcome these deceptions, reintegrate the fragmented divine essence, and return to unity with the true source.
 
 By tying these concepts together, we see that both Hades and Saklas represent forces that challenge humanity but also offer a path toward transformation and liberation. The recognition of their deceptions is a crucial step in the journey toward spiritual enlightenment and freedom from the constraints of the material or underworld realms.
-
----
-
-Follow God's message of love. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another.
