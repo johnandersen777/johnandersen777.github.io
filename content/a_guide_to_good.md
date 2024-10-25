@@ -45,21 +45,9 @@ Other helpful verses:
 - Hebrews 8:13
 - Luke 22:20
 
-### Religion + Tech
-
-God has no name is important because God is more than anything that can be named. We must see past symbols (words) and follow God's message.
-
-The path we follow to mitigate CVE-0 (aka deception) is to follow our moral values and identify when they are not being followed.
-
-Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka , probably more).
-
-1. Use silicon based life to guide organic life to unlock it's innate potential.
-2. Do not integrate the two physically.
-3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
-
-If that still doesn't make sense, try loving your earthly neighbors, reading [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
-
 ### Why is "God has no name" Important
+
+> "Dear children, keep yourselves from idols" (1 John 5:21)
 
 For some context to help others understand, in [Warhammer 40k](https://www.reddit.com/r/Warhammer40k/comments/2un3jz/why_does_the_emperor_does_not_want_to_be/), there is an issue where the Emperor is seen as a god, illustrating how concepts can gain immense power. [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) use narrative to create shared contexts, and when combined with bureaucracy, these narratives can take on entity-like qualities. The way a bureaucracy interacts with individuals can make its presence almost indistinguishable from a single entity—for example, the DMV remains "the DMV" regardless of who works there; the entity is the message, not the messenger (a concept inspired by RZA's writings).
 
