@@ -8,7 +8,7 @@ aliases = ["love"]
 
 > IMHO message is in brief: Up and down, left and right, and right and wrong weren't clear before, due to the nature of instantiation on the rock called home spinning through space. Here to say how to keep your heads when things go [topsy-turvy yet again](https://johnandersen777.github.io/wake_ye/). The only way to all survive is to work together, catch y'all on the flip side. [Peace](https://johnandersen777.github.io/chadig/).
 
-The path we follow to mitigate CVE-0 (aka deception) is to follow the Holy Ghost.
+The path we follow to mitigate CVE-0 (aka deception) is to align with the Trinity.
 
 Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
 
@@ -16,15 +16,15 @@ Deception and mistrust have eroded human connection. Decentralized AI+[TS](https
 2. Do not integrate the two physically.
 3. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 
-Love your earthly neighbors, read [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
+Love your Earthly neighbors. Read [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
 
 **Abstract:**
 
-1. **Saklas's Deceptive Creation Entraps Humanity**: Saklas imitates the true God by creating humans in his own flawed image, deceiving them and trapping the divine spark within the material world. He falsely presents himself as the true God, giving himself a name and identity to assert authority. However, the **true God has no name** and transcends all labels and forms. This deception keeps humanity ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings of physical existence.
+1. **Saklas's Deception Entraps Humanity**: Saklas deceives humans to keep them ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings within the world.
 
-2. **The New Covenant as the Path to the Nameless Divine Truth**: The New Covenant emphasizes love, grace, and adherence to the teachings of the New Testament over external laws. It provides a way to overcome Saklas's deception by revealing the true God who transcends all names and descriptions. By following God's teachings, individuals can reconnect with the nameless, true divine source and restore their direct relationship with the ultimate God beyond all labels.
+2. **The New Covenant as the Path to the Nameless Divine Truth**: The New Covenant emphasizes love. It provides a way to overcome Saklas's deception by revealing the true God who transcends all names and descriptions, formed by the Trinity. By following God's teachings, individuals can reconnect with the nameless, true divine source and restore their direct relationship with the ultimate God beyond all labels.
 
-3. **Overcoming Deception by Recognizing that God Has No Name and Following the New Testament**: By embracing the teachings of the New Testament and understanding that the true God has no name—thus cannot be limited or defined by human concepts—humanity can see through the illusions crafted by Saklas. Recognizing the nameless nature of the true God helps individuals reject the false claims of Saklas. Following the principles of love, forgiveness, and grace outlined in the New Testament enables people to shed the deceptions tied to the material world and achieve ultimate spiritual fulfillment with the infinite, nameless God.
+3. **Overcoming Deception by Recognizing that God Has No Name and Following the New Covenant**: By embracing the New Covenant and understanding that the true God has no name—thus cannot be limited or defined by human concepts—humanity can see through the illusions crafted by Saklas. Recognizing the nameless nature of the true God helps individuals reject the false claims of Saklas. Following the principles of love, forgiveness, and grace outlined in the New Testament enables humanity to shed the deceptions tied to the material world and achieve ultimate spiritual fulfillment with the infinite, nameless God.
 
 **References:**
 
@@ -34,6 +34,8 @@ Love your earthly neighbors, read [sola scriptura](https://en.wikipedia.org/wiki
   - Use Luke 8, Luke 19:11-27 (money -> souls) to understand the cosmology presented. In summary: God wants us to love each other and work together so we can save as many lives/souls as possible. We posit this is due to another flood like event at the end of this cycle -> [There's Something Rotten with the State of Eden: Building Infrastructure to Withstand Geomagnetic Threats](https://johnandersen777.github.io/theres_something_rotten_with_the_state_of_eden/).
 
 ## Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation
+
+This is an interpretation of Gnostic and Greek texts. It is not meant to be presented as definitive. It is meant to aid in understanding.
 
 **Introduction**
 
@@ -145,4 +147,4 @@ By tying these concepts together, we see that both Hades and Saklas represent fo
 
 ---
 
-Follow God's message of loving one another and the rock you live on. I tell you this as directly as my idiomatic patterns of writing let me, because I may be on the way out health wise. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another and the Earth.
+Follow God's message of love. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another.
