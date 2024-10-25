@@ -34,6 +34,7 @@ permalink = "/checksums/"
   - ⏳ [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
   - ⏳ [Coptic Gospels](https://www.gospels.net)
   - ⏳ [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
+- ⏳ Recursivity Analysis (cycles)
 
 ## Game Plan
 
