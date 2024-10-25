@@ -8,17 +8,24 @@ aliases = ["religon"]
 
 > 🕊️✌️☮️
 >
-> A message of Peace and Unity
+> A message of Peace and Unity. 
 >
 > 🌍🌏🌎
 
-This is a call for you to transparently please think on and write your own values and strategic plans and principles. “For years, religion did nothing but divide” let’s use it to unite.
+With [reformation day](
+https://en.m.wikipedia.org/wiki/Reformation_Day) approaching, thoughts turn to the core messages of religions. IMHO many of us share the same core values. In a time where deception is rampant, communication and actions of unity and love for all humanity can help us overcome manufactured divisions.
+
+If you are comfortable, please post your values. Values are sometimes derived from religions. Values such as love for one another, honesty, forgiveness, and empathy are often shared common principles. Humanity has many common values and principles which can and will lead us towards unity.
+
+---
 
 When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say [chadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 
 > - "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn."
 >   - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
 > - If you hate words because they sound silly, that's part of the point. There's no point in hate.
+
+---
 
 - If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76] as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the [gospel of peace](https://www.essene.com/GospelOfPeace/peace2.html) too).
   - ✅ Luther: Enable Read Permissions
