@@ -28,7 +28,7 @@ permalink = "/checksums/"
   - ⏳ Greek
   - ⏳ Hebrew
   - ❔ Vulgate
-- ⏳ Texts
+- ⏳ Validation Runs
   - ⏳ [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
   - ⏳ [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
   - ⏳ [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
@@ -76,4 +76,8 @@ python -u scripts/pdf_to_markdown.py ~/Downloads/Cosmic_Codes_eBook.pdf ~/Downlo
 
 ## Languages Required
 
-## Texts
+TODO
+
+## Validation Runs
+
+TODO - link to workflow runs
