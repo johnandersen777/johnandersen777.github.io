@@ -47,7 +47,7 @@ Other helpful verses:
 
 ### Religion + Tech
 
-God has no name is important because God is more than anything that can be named. We must see past symbols (words) and follow His message.
+God has no name is important because God is more than anything that can be named. We must see past symbols (words) and follow God's message.
 
 The path we follow to mitigate CVE-0 (aka deception) is to follow our moral values and identify when they are not being followed.
 
