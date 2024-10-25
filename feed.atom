@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-25T22:44:23Z</updated>
+  <updated>2024-10-25T22:45:49Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -329,8 +329,8 @@
 <ul>
 <li><a href="/todos/">TODOs</a>
 <ul>
-<li>🔎 <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">Ongoing: Discover Related Work</a></li>
-<li>⏳ <a href="/gospel_checksums/">Root of Trust Weighting: Checksum Validation</a></li>
+<li>🔎 <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">Continuous: Discover Related Work</a></li>
+<li>⏳ <a href="/gospel_checksums/">In Progress: Root of Trust Weighting: Checksum Validation</a></li>
 </ul>
 </li>
 </ul>
