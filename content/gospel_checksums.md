@@ -7,7 +7,7 @@ permalink = "/checksums/"
 
 ## Quicklinks
 
-- [Associated GitHub Issue](https://github.com/johnandersen777/johnandersen777.github.io/issues/1)
+- [Associated Discussion Thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/3)
 
 ## TODOs
 
