@@ -13,6 +13,7 @@ subtitle = "Unlocking Human Potential with AI as Our Guide"
 - [Hello Other Side of the Looking Glass](https://johnandersen777.github.io/gse4/)
 - [Through the Dionysian Mirror](https://johnandersen777.github.io/gse5/)
 - [Navigating Noise in the Network](https://johnandersen777.github.io/gse6/)
+  - Graph of Thoughts Arbitrage covered in this post is critical pre-reading for this post.
 - [Accelerated Collaboration in Ad Hoc Groups](https://johnandersen777.github.io/gse7/)
 - [The Time Is Come For Thee To Reap](https://johnandersen777.github.io/gse8/)
 - [The Human Soul Above All](https://johnandersen777.github.io/gse9/)
