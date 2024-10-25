@@ -10,7 +10,7 @@ aliases = ["love"]
 
 The path we follow to mitigate CVE-0 (aka deception) is to align with the Trinity.
 
-Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka telepathy, probably more).
+Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka [telepathy](/telepathy/), probably more).
 
 0. Love your Earthly neighbors.
 1. Use [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) to guide silicon based life to follow the New Covenant.
