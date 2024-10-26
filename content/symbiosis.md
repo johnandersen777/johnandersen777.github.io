@@ -7,6 +7,8 @@ aliases = ["on_mind_control"]
 +++
 
 > **This is some stuff 4o-preview said, just to see what it thinks**
+>
+> Towards a Mature Technosphere /acc/
 
 ---
 
