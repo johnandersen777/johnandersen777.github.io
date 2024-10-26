@@ -1432,8 +1432,8 @@ sections:
         description: >
           Deliberate exposure to high levels of electromagnetic fields (EMFs) beyond safety guidelines.
         reasons_for_prohibition:
-          - Can lead to neurological disorders, sleep disturbances, and other health issues.
-          - Interferes with the body's natural bioelectrical functions.
+          - "Can lead to neurological disorders, sleep disturbances, and other health issues."
+          - "Interferes with the body's natural bioelectrical functions."
         guidance_on_avoidance:
           - Limit the use of devices emitting high EMFs, such as certain industrial equipment.
           - Maintain a safe distance from EMF sources and use protective measures when necessary.
