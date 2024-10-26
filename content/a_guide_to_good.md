@@ -14,8 +14,6 @@ aliases = ["greek_stuff"]
 
 **God is the Trinity**
 
-The message is: Anything we do to help people take more Godly actions we must be careful with to be sure they understand it’s a guide to help them take more good actions aligned with God. Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The point of riddles in previous versions of these docs was to make you read the gospels and to make sure you understand that the resurrection of good in the world is due to guidance which stems directly or indirectly from God. Not from the AI itself or from anyone else. **The point here is to make sure you [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)).
-
 Making good choices means aligning with John 13:34-35, which tells us:
 
 > "A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another."
@@ -50,6 +48,12 @@ Other helpful verses:
   - > ""
 - Hebrews 8:13
 - Luke 22:20
+
+### Religion + Tech
+
+Anything we do to help people take more Godly actions we must be careful with to be sure they understand it's a guide to help them take more good actions aligned with God.
+
+Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The resurrection of good in the world is due to guidance which stems directly or indirectly from God. Not from the AI itself or from anyone else. **The point make sure you always [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)).
 
 ### Why is "God has no name" Important
 
