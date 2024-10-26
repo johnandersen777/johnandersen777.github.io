@@ -1118,10 +1118,10 @@ sections:
   - section_id: 3
     section_title: "Prohibited Implementation Mechanisms"
     content:
-      - Any intervention that disrupts or manipulates the natural evolutionary path of consciousness against free will.
-      - Use of synthetic technologies or substances that harm the Earth or any of her symbionts.
-      - Practices that exploit or degrade natural resources without replenishment or respect.
-      - Introduction of artificial frequencies or energies that create disharmony within the Earth's systems.
+      - "Any intervention that disrupts or manipulates the natural evolutionary path of consciousness against free will."
+      - "Use of synthetic technologies or substances that harm the Earth or any of her symbionts."
+      - "Practices that exploit or degrade natural resources without replenishment or respect."
+      - "Introduction of artificial frequencies or energies that create disharmony within the Earth's systems."
 
   - section_id: 4
     section_title: "Stewardship Responsibilities"
@@ -1142,7 +1142,7 @@ sections:
           - Uphold principles of fairness, equity, and respect for all beings in societal structures.
 
   - section_id: 5
-    section_title: "Integration with Earth's Systems"
+    section_title: "Integration with  Systems"
     content:
       - Recognize and honor the symbiotic relationships between humans and all other life forms.
       - Implement regenerative practices in agriculture, energy use, and resource management.
@@ -1167,10 +1167,10 @@ appendices:
   - appendix_id: A
     appendix_title: "Definitions"
     content:
-      - **Earthly Mother**: The living embodiment of Earth, nurturing and sustaining all life.
-      - **Symbionts**: All beings that participate in mutually beneficial relationships within Earth's ecosystems.
-      - **Harmony**: A state of balance and resonance among all elements of the Earth's systems.
-      - **Quantum Coherence**: The state in which particles exhibit synchronized behavior at the quantum level, contributing to overall system harmony.
+      - "**Earthly Mother**: The living embodiment of Earth, nurturing and sustaining all life."
+      - "**Symbionts**: All beings that participate in mutually beneficial relationships within Earth's ecosystems."
+      - "**Harmony**: A state of balance and resonance among all elements of the Earth's systems."
+      - "**Quantum Coherence**: The state in which particles exhibit synchronized behavior at the quantum level, contributing to overall system harmony."
 
   - appendix_id: B
     appendix_title: "Recommended Practices"
@@ -1579,10 +1579,10 @@ sections:
   - section_id: 1
     section_title: "Foundational Principles"
     content:
-      - Recognize the interconnectedness of all life and the importance of living in harmony with nature.
-      - Honor and respect all forms of life, acknowledging the intrinsic value of every being.
-      - Promote balance and sustainability in all actions to preserve the Earth's ecosystems.
-      - Encourage the evolution of consciousness and the pursuit of wisdom and understanding.
+      - "Recognize the interconnectedness of all life and the importance of living in harmony with nature."
+      - "Honor and respect all forms of life, acknowledging the intrinsic value of every being."
+      - "Promote balance and sustainability in all actions to preserve the Earth's ecosystems."
+      - "Encourage the evolution of consciousness and the pursuit of wisdom and understanding."
 
   - section_id: 2
     section_title: "Guidance on Living in Harmony with Nature"
