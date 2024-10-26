@@ -10,8 +10,6 @@ aliases = ["greek_stuff"]
 
 ## On Religion
 
-> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms). The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles and the texts one hopes you read is provided to ensure clarity.
-
 **God is the Trinity**
 
 Making good choices means aligning with John 13:34-35, which tells us:
@@ -54,6 +52,8 @@ Other helpful verses:
 Anything we do to help people take more Godly actions we must be careful with to be sure they understand it's a guide to help them take more good actions aligned with God.
 
 Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The resurrection of good in the world is due to guidance which stems directly or indirectly from God. Not from the AI itself or from anyone else. **The point make sure you always [question the powers that be](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) which may try to lead us to think it's God itself, [which was said](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/)**. It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)).
+
+> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) for some. The point was for you to arrive at the following. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles and the texts one hopes you read is provided to ensure clarity.
 
 ### Why is "God has no name" Important
 
