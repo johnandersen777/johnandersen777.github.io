@@ -18,13 +18,13 @@ Making good choices means aligning with John 13:34-35, which tells us:
 
 The following assists one with the above:
 
-- Follow the Holy Ghost
-- Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
+- Honor, love, and follow the Holy Ghost
 - Accepting, honoring, and loving one another
   - Act in grace and forgiveness, do only good
   - Ask for forgiveness when we falter
   - Learn from our mistakes and shed bad behavior
   - Always strive to keep the good and build on the good
+- Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
 - Accepting, honoring, and loving Christ
   - Who came in the flesh
   - Has risen
