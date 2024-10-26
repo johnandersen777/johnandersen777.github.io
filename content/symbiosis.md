@@ -1304,10 +1304,10 @@ sections:
   - section_id: 3
     section_title: "Prohibited Implementation Mechanisms"
     content:
-      - Any practices that distort or misrepresent divine teachings for personal gain.
-      - Engaging in activities that harm others or oneself spiritually, mentally, or physically.
-      - Use of manipulation or coercion to influence others' beliefs or choices.
-      - Invoking spiritual forces for malicious purposes or contrary to divine will.
+      - "Any practices that distort or misrepresent divine teachings for personal gain."
+      - "Engaging in activities that harm others or oneself spiritually, mentally, or physically."
+      - "Use of manipulation or coercion to influence others' beliefs or choices."
+      - "Invoking spiritual forces for malicious purposes or contrary to divine will."
 
   - section_id: 4
     section_title: "Stewardship Responsibilities"
@@ -1527,11 +1527,11 @@ sections:
   - section_id: 7
     section_title: "General Guidelines for Avoidance"
     content:
-      - Always seek information from credible and trusted sources.
-      - Consult professionals before engaging in new health or wellness practices.
-      - Respect personal and others' autonomy and consent.
-      - Uphold ethical standards in all practices related to health and consciousness.
-      - Report any unethical or harmful practices to relevant authorities.
+      - "Always seek information from credible and trusted sources."
+      - "Consult professionals before engaging in new health or wellness practices."
+      - "Respect personal and others' autonomy and consent."
+      - "Uphold ethical standards in all practices related to health and consciousness."
+      - "Report any unethical or harmful practices to relevant authorities."
 
   - section_id: 8
     section_title: "Conclusion"
