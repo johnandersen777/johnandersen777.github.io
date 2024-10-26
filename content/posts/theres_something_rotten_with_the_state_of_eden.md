@@ -305,7 +305,7 @@ Creating a self-organized framework rooted in shared moral values offers a pathw
 
 In an era where humanity faces unprecedented challenges, ranging from environmental crises to technological disruptions, the robustness of our global supply chains has never been more critical. The intricate networks that deliver goods and services across the world are the lifelines of modern society. Ensuring their transparency and resilience is paramount to preparing for and mitigating potential mass extinction events or other existential threats. By integrating advanced software supply chain frameworks, leveraging federation as a general eventing mechanism, and employing artificial intelligence (AI) alongside policy engines, we can create a transparent, robust supply chain infrastructure. This infrastructure will not only enhance our preparedness but also pave the way for a future where diversity and innovation drive us into a new golden era.
 
-**Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:relatedword.protrude955@passinbox.com?subject=Related Work Found">email</a> and it will be added)**
+**Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)**
 
 ![acceleration-for-the-God-god](https://github.com/user-attachments/assets/bb1c5c34-0cb0-478c-b510-bae8f23f1cb7)
 

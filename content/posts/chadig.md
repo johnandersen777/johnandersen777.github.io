@@ -12,7 +12,7 @@ aliases = ["religon"]
 >
 > 🌍🌏🌎
 
-This is a call for you to transparently please think on and write your own values and strategic plans and principles. "For years, religion did nothing but divide", let's now use it to unite. Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:relatedword.protrude955@passinbox.com?subject=Related Work Found">email</a> and it will be added).
+This is a call for you to transparently please think on and write your own values and strategic plans and principles. "For years, religion did nothing but divide", let's now use it to unite. Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added).
 
 With [reformation day](
 https://en.m.wikipedia.org/wiki/Reformation_Day) approaching, thoughts turn to the core messages of religions. IMHO many of us share the same core values. In a time where deception is rampant, communication and actions of unity and love for all humanity can help us overcome manufactured divisions.

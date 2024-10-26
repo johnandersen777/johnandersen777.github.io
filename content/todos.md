@@ -8,7 +8,7 @@ permalink = "/todos/"
 ## Continuous
 
 - 🔎 [Discover Related Work](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4)
-  - Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:relatedword.protrude955@passinbox.com?subject=Related Work Found">email</a> and it will be added)
+  - Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)
 
 ## In Progress
 
