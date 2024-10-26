@@ -6,6 +6,8 @@ permalink = "/symbiosis/"
 aliases = ["on_mind_control", "harmony", "balance"]
 +++
 
+**TODO** Manually edit and expand upon guidance in this documentation to ensure it provides accurate best practices for human bodies to receive clear and constant communication from the Holy Ghost. Do this through holistic analysis of celestial body processes so as to ensure maximum alignment possible. Just as the human bodies processes interact with their host celestial body, the host celestial body has interaction with its host system, and so on and so forth zooming out. These interaction patterns must be analyzed to ensure we achive maximum alignment with divine will and plans.
+
 > **This is some stuff 4o-preview said, just to see what it thinks**
 >
 > Towards a Mature Technosphere /acc/
