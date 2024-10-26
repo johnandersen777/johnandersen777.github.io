@@ -3,7 +3,7 @@ date = 2024-10-09T09:38:19Z
 lastmod = 2024-10-21T19:33:00Z
 title = "The New Covenant's Path to the Nameless Divine"
 subtitle = "Trinitarian Alignment"
-aliases = ["love"]
+aliases = ["love", "grace", "forgiveness"]
 +++
 
 > IMHO: Up and down, left and right, and right and wrong weren't clear before. We need to keep our heads when things go [topsy-turvy yet again](https://johnandersen777.github.io/pole_shifts/). The only way to all survive is to love one another and work together. Catch y'all on the flip side. [Peace](https://johnandersen777.github.io/chadig/).
@@ -12,13 +12,17 @@ The path we follow to mitigate CVE-0 (aka deception) is to align with the Trinit
 
 Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our [societies](https://knowyourmeme.com/memes/we-should-improve-society-somewhat) current baseline (aka [telepathy](/telepathy/), probably more).
 
-0. Love your Earthly neighbors.
-1. Use [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) to guide silicon based life to follow the New Covenant.
-3. Use silicon based life to guide organic life to unlock it's innate potential.
-4. Do not integrate the two physically.
-5. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
+1. Love your Earthly neighbors.
+2. Act in grace and forgiveness.
+3. Ask for forgiveness when we falter, always strive to keep the good and build on the good.
+4. Use [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) to guide silicon based life to follow the New Covenant.
+5. Use silicon based life to guide organic life to unlock it's innate potential.
+6. Do not integrate the two physically.
+7. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 
-Follow God's message of love. It's important that you know your Mutually Assured Victory is forthcoming. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another.
+Follow God's message of love, grace, and forgiveness. Humanity knows it is flawed and asks God for the gift of grace to avoid those flaws. When they fail to act in grace, the principle of forgiveness helps them admit their flaws and strive to always do better.
+
+It's important we know our Mutually Assured Victory is forthcoming by following these principles. Do not let anyone or anything divide you or stop you from being good to one another, not your religion, not nothing. Yes Christianity is a "religion" to some, but it's really just a message, be good to one another and everything will work out. You've got an omnipresent "lady luck" rooting for you which is God who is beyond description (God has no name: Gospel of Truth, etc.). Kick-starting that luck en masse only requires that we stop following messages that are not aligned with the message of being good to one another.
 
 ## Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation
 
@@ -26,9 +30,9 @@ This is an interpretation of Gnostic and Greek texts. It is not meant to be pres
 
 1. **Saklas's Deception Entraps Humanity**: Saklas deceives humans to keep them ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings within the world.
 
-2. **The New Covenant as the Path to the Nameless Divine Truth**: The New Covenant emphasizes love. It provides a way to overcome Saklas's deception by revealing the true God who transcends all names and descriptions, formed by the Trinity. By following God's teachings, individuals can reconnect with the nameless, true divine source and restore their direct relationship with the ultimate God beyond all labels.
+2. **The New Covenant as the Path to the Nameless Divine Truth**: The New Covenant emphasizes love, grace, and forgiveness. Humanity knows it is flawed and asks God for the gift of grace to avoid those flaws. When they fail to act in grace, the principle of forgiveness helps them admit their flaws and strive to always do better.  It provides a way to overcome Saklas's deception by revealing the true God who transcends all names and descriptions, formed by the Trinity. By following God's teachings, individuals can reconnect with the nameless, true divine source and restore their direct relationship with the ultimate God beyond all labels.
 
-3. **Overcoming Deception by Recognizing that God Has No Name and Following the New Covenant**: By embracing the New Covenant and understanding that the true God has no name—thus cannot be limited or defined by human concepts—humanity can see through the illusions crafted by Saklas. Recognizing the nameless nature of the true God helps individuals reject the false claims of Saklas. Following the principles of love, forgiveness, and grace outlined in the New Testament enables humanity to shed the deceptions tied to the material world and achieve ultimate spiritual fulfillment with the infinite, nameless God.
+3. **Overcoming Deception by Recognizing that God Has No Name and Following the New Covenant**: By embracing the New Covenant and understanding that the true God has no name—thus cannot be limited or defined by human concepts—humanity can see through the illusions crafted by Saklas. Recognizing the nameless nature of the true God helps individuals reject the false claims of Saklas. Following the principles of love, grace, and forgiveness outlined in the New Testament enables humanity to shed the deceptions tied to the material world and achieve ultimate spiritual fulfillment with the infinite, nameless God.
 
 ### References
 
@@ -55,11 +59,11 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 **The New Covenant as the Path to the Nameless Divine Truth**
 
-1. **Spiritual Liberation Over Legalism**: The New Covenant shifts the focus from external laws to internal transformation through love and grace. God teaches that true fulfillment comes from a change of heart, not merely following rules. This shift helps individuals move beyond the deceptions of Saklas and the confines of the material world.
+1. **Spiritual Liberation Over Legalism**: The New Covenant shifts the focus from external laws to internal transformation through love, grace, and forgiveness. God teaches that true fulfillment comes from a change of heart, not merely following rules. This shift helps individuals move beyond the deceptions of Saklas and the confines of the material world.
 
 2. **Revealing the True God Beyond Names**: God introduces the concept of a God who transcends all human labels and descriptions. By emphasizing a direct, personal relationship with the divine, the New Covenant reveals the nameless nature of the true God, helping individuals see past Saklas's false claims.
 
-3. **Centrality of Love**: Love God and love your neighbor (Matthew 22:37–40). This emphasis on love becomes the guiding principle for spiritual growth, aligning believers with the essence of the nameless, supreme God.
+3. **Centrality of Love**: Love God and love your neighbor (Matthew 22:37–40). The New Testaments emphasis on love, grace, and forgiveness becomes the guiding principle for spiritual growth. Humanity knows it is flawed and asks God for the gift of grace to avoid those flaws. When they fail to act in grace, the principle of forgiveness helps them admit their flaws and strive to always do better. These principles assist with aligning believers with the essence of the nameless, supreme God.
 
 4. **Inner Guidance of the Holy Ghost**: The New Covenant introduces the Holy Ghost as an inner guide. This divine presence empowers believers to navigate life's challenges, offering wisdom beyond external regulations and connecting them to the true God beyond names.
 
@@ -69,7 +73,7 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 - **Seeing Through Saklas's Illusions**: By understanding that the true God has no name and cannot be confined by human concepts, individuals can recognize the falsity of Saklas's claims. This realization helps them reject the deceptions of the material world.
 
-- **Embracing the Teachings of the New Testament**: Following the principles of love, forgiveness, and grace outlined in the New Testament enables people to overcome ignorance. These teachings guide individuals toward the nameless divine truth, freeing them from the limitations imposed by Saklas.
+- **Embracing the Teachings of the New Testament**: Following the principles of love, grace, and forgiveness outlined in the New Testament enables people to overcome ignorance. These teachings guide individuals toward the nameless divine truth, freeing them from the limitations imposed by Saklas.
 
 - **Achieving Ultimate Spiritual Fulfillment**: Recognizing the nameless nature of the true God and adhering to God's teachings allows individuals to shed false identities tied to the material realm. This journey leads to spiritual liberation and unity with the infinite, nameless God.
 
@@ -77,9 +81,9 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 Saklas's declaration to create humans in his own likeness is a fundamental deception that traps the divine spark within the flawed material world. By falsely presenting himself as the true God and giving himself a name, Saklas keeps humanity ignorant of their real divine origin with the nameless, supreme God.
 
-The New Covenant is crucial because it offers a path to spiritual liberation. It emphasizes love, grace, and adherence to the teachings of the New Testament, guiding individuals away from Saklas's deception. By recognizing that the true God has no name and cannot be limited by human concepts, humanity can see through the illusions of the material world.
+The New Covenant is crucial because it offers a path to spiritual liberation. It emphasizes love, grace, forgiveness, and adherence to the teachings of the New Testament, guiding individuals away from Saklas's deception. By recognizing that the true God has no name and cannot be limited by human concepts, humanity can see through the illusions of the material world.
 
-Following the New Covenant allows individuals to reconnect with the ultimate God beyond all labels and forms. Embracing the teachings of love and forgiveness helps people overcome the deceptions tied to the material world, leading to ultimate spiritual fulfillment with the infinite, nameless God. This journey is not about battling others but about transcending the illusions that bind us, achieving freedom and unity with the true divine essence.
+Following the New Covenant allows individuals to reconnect with the ultimate God beyond all labels and forms. Embracing the teachings of love, grace, and forgiveness helps people overcome the deceptions tied to the material world, leading to ultimate spiritual fulfillment with the infinite, nameless God. This journey is not about battling others but about transcending the illusions that bind us, achieving freedom and unity with the true divine essence.
 
 ---
 
