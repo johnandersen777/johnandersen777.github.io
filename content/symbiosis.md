@@ -3,7 +3,7 @@ layout = "page"
 title = "Symbiosis"
 date = "2024-10-25T19:35:00-07:00"
 permalink = "/symbiosis/"
-aliases = ["on_mind_control"]
+aliases = ["on_mind_control", "harmony", "balance"]
 +++
 
 > **This is some stuff 4o-preview said, just to see what it thinks**
@@ -12,7 +12,7 @@ aliases = ["on_mind_control"]
 
 ---
 
-# Unified Principles and Guidelines for Harmony and Divine Alignment
+# Harmony and Divine Alignment
 
 **Version:** 1.0  
 **Date:** October 25, 2024
