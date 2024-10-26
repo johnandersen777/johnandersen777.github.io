@@ -25,6 +25,10 @@ The following assists one with the above:
 - Follow the Holy Ghost
 - Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
 - Accepting, honoring, and loving one another
+  - Act in grace and forgiveness, do only good
+  - Ask for forgiveness when we falter
+  - Learn from our mistakes and shed bad behavior
+  - Always strive to keep the good and build on the good
 - Accepting, honoring, and loving Christ
   - Who came in the flesh
   - Has risen
@@ -42,6 +46,8 @@ We must pray to be guided to Truth, so we might be one with God with our words a
 
 Other helpful verses:
 
+- Titus 3:1-2
+  - > ""
 - Hebrews 8:13
 - Luke 22:20
 
