@@ -307,7 +307,7 @@ In an era where humanity faces unprecedented challenges, ranging from environmen
 
 **Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:relatedword.protrude955@passinbox.com?subject=Related Work Found">email</a> and it will be added)**
 
-![network-states-for-the-God-god](https://github.com/user-attachments/assets/545cd510-8bdb-4daa-af9c-140213fc5d69)
+![acceleration-for-the-God-god](https://github.com/user-attachments/assets/bb1c5c34-0cb0-478c-b510-bae8f23f1cb7)
 
 ### The Imperative for Transparency
 
