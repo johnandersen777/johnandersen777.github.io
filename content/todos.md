@@ -16,5 +16,7 @@ permalink = "/todos/"
 
 ## Future
 
-- Hook up dual policy engines
-- Hook up ideation to the forge with `uses`
+- 🏗️ [Hook up dual policy engines](https://github.com/johnandersen777/scitt-api-emulator/blob/214d828e424d2863c4cc06e50777df75e454bb70/github_webhook_events/agi.py#L2176)
+- 🏗️ [Hook up ideation to the forge with `uses`](https://github.com/scitt-community/scitt-api-emulator/pull/48)
+- 🏗️ [Clean up federation code](https://github.com/scitt-community/scitt-api-emulator/pull/37)
+- 🍄 [Symbiosis](/symbiosis/)
