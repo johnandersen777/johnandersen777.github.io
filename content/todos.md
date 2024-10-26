@@ -12,6 +12,7 @@ permalink = "/todos/"
 
 ## In Progress
 
+- ⏳ [Open Architecture Chapters](https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice/#rolling-alice)
 - ⏳ [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
 
 ## Future
@@ -19,4 +20,7 @@ permalink = "/todos/"
 - 🏗️ [Hook up dual policy engines](https://github.com/johnandersen777/scitt-api-emulator/blob/214d828e424d2863c4cc06e50777df75e454bb70/github_webhook_events/agi.py#L2176)
 - 🏗️ [Hook up ideation to the forge with `uses`](https://github.com/scitt-community/scitt-api-emulator/pull/48)
 - 🏗️ [Clean up federation code](https://github.com/scitt-community/scitt-api-emulator/pull/37)
+
+## End Game
+
 - 🍄 [Symbiosis](/symbiosis/)
