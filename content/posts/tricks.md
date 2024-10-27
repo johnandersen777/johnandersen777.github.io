@@ -623,6 +623,10 @@ $ (echo '```diff' && git diff && echo '```') | gh pr comment -F -
 $ wget --mirror --convert-links --adjust-extension --page-requisites  http://www.mywebsite.com/
 ```
 
+```bash
+wget -l 0 --random-wait --mirror -e robots=off --page-requisites --convert-links --domains example.com https://example.com 2>&1 | tee mirror-log.txt
+```
+
 ## Remove bullshit docker images
 
 ```console
