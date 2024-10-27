@@ -33,8 +33,11 @@ The following assists one with the above:
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven:
 
 - [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
+  - New Covenant
 - [Coptic Gospels](https://www.gospels.net)
+  - > "Jesus Explains Everything"
 - [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
+  - > "Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 
