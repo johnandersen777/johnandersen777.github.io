@@ -32,6 +32,7 @@ permalink = "/checksums/"
 - ⏳ Validation Runs
   - ⏳ [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
   - ⏳ [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
+  - ⏳ [Daughter of El the Mother](http://www.thenazareneway.com/Jewish%20Coverts%20and%20the%20Virgin%20Birth.htm)
   - ⏳ [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
   - ⏳ [Coptic Gospels](https://www.gospels.net)
   - ⏳ [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
