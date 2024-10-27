@@ -13,6 +13,7 @@ permalink = "/checksums/"
 
 - ✅ Game Plan
 - ⏳ Decode the Decoding Process
+  - ⏳ [Essene Version of Genesis 1:1](https://www.thenazareneway.com/Essene%20Version%20of%20Genesis%201%201.htm)
   - ⏳ [Chuck Missler - How We Got Our Bible](https://www.youtube.com/watch?v=5ZsZLDWWZMs)
     - ✅ Transcribe
     - ⏳ Notes
