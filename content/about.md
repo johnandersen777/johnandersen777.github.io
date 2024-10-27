@@ -72,6 +72,8 @@ modeled as data flows.
 
   - Just listen to God's guidance. That's all I'm trying to say.
 
+  - People didn't understand Philo either, if you can understand him, listen to him: [Legacy of the First Christian Heretic](https://essenenazarene.com/page/2/) (Luther was also a Heretic, as were the Gnostics, and the Cainites, not that I agree with any of them 100%, but being an enemy of the vatican is a good thing IMHO).
+
 - "I thought I was as scattered as they come, until I met [John]"
 
   - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
