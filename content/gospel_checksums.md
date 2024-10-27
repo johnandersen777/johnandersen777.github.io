@@ -14,6 +14,11 @@ permalink = "/checksums/"
 - ✅ Game Plan
 - ⏳ Decode the Decoding Process
   - ⏳ [Essene Version of Genesis 1:1](https://www.thenazareneway.com/Essene%20Version%20of%20Genesis%201%201.htm)
+  - ⏳ David Flynn
+  - ⏳ Newton
+  - ⏳ https://essenenazarene.com/page/2/
+  - ⏳ https://en.wikipedia.org/wiki/Philo
+    - Is this why the library was burned?
   - ⏳ [Chuck Missler - How We Got Our Bible](https://www.youtube.com/watch?v=5ZsZLDWWZMs)
     - ✅ Transcribe
     - ⏳ Notes
