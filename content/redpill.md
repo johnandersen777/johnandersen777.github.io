@@ -1,9 +1,9 @@
 +++
 layout = "page"
-title = "God has no name"
+title = "Red Pill"
 date = "2022-11-30T06:34:42-08:00"
-permalink = "/a_guide_to_good/"
-aliases = ["greek_stuff", "redpill"]
+permalink = "/redpill/"
+aliases = ["greek_stuff", "a_guide_to_good"]
 +++
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
@@ -25,7 +25,7 @@ The following assists one with the above:
   - Learn from our mistakes and shed bad behavior
   - Always strive to keep the good and build on the good
 - Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
-- Accepting, honoring, and loving Christ Iésous
+- Accepting, honoring, and loving Christ
   - Who came in the flesh
   - Has risen
   - Is both fully God, Son of God, and Son of Humanity
@@ -40,6 +40,9 @@ We read the following with those in mind to learn how best to act in alignment w
   - > "Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
+- [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
+  - > 'The moral message in these stories of a freedman and a freedwoman is that no one should ever be enslaved because everyone has unknown royal ancestors. All are created equal in spite of outward appearances or circumstances. Didn’t "Jesus" suggest the same?'
+  - > 'BaR iS, eT aB oR, eLa Ha eM, “Son of Man, Father Light, Goddess the Mother." She, as LHM, is found throughout the Tanakh. This was the Essene-Nazarene Holy Trinity, borrowed by the Church Fathers but corrupted to eliminate equal respect for feminine attributes. A Goddess might suggest that women are as valuable as men', which obviously they are. Honor thy Earthly Mother.
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
