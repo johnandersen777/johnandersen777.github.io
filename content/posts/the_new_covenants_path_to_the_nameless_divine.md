@@ -26,7 +26,7 @@ It's important we know our Mutually Assured Victory is forthcoming by following 
 
 ## Blending Christian Gnosticism and Greek Mythology to Explain Deception and Liberation
 
-This is an interpretation of Gnostic and Greek texts. It is not meant to be presented as definitive. It is meant to aid in understanding.
+This is an interpretation of Gnostic and Greek texts. Philo also used allegory to harmonize scripture and Greek philosophy, however that was also often misunderstood (which was learned after posting all this). It is not meant to be presented as definitive. It is meant to aid in understanding.
 
 1. **Saklas's Deception Entraps Humanity**: Saklas deceives humans to keep them ignorant of their real divine origin with the nameless, supreme God, binding them to the limitations and sufferings within the world.
 
