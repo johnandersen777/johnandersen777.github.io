@@ -5,6 +5,10 @@ date = "2024-10-23T18:27:42-07:00"
 permalink = "/checksums/"
 +++
 
+> I ❤️ Heresy
+>
+> "Every Good Man is Free" [Philo]
+
 ## Quicklinks
 
 - [Associated Discussion Thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/3)
