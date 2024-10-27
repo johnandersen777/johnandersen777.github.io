@@ -37,7 +37,7 @@ We read the following with those in mind to learn how best to act in alignment w
 - [Coptic Gospels](https://www.gospels.net)
   - > "Jesus Explains Everything"
 - [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
-  - > "Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***
+  - > '"Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***'
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
