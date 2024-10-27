@@ -18,7 +18,7 @@ Gospel of Thomas
 >
 > They said to him, "Then we'll enter the kingdom as little children?"
 >
-> Jesus said to them, "When you make the two into one, and make the inner like the outer and the outer like the inner, and the upper like the lower, and so make the male and the female a single one so that the male won't be male nor the female female; when you make eyes in the place of an eye, a hand in the place of a hand, a foot in the place of a foot, and an image in the place of an image; then you'll enter [the kingdom].""
+> Jesus said to them, "When you make the two into one, and make the inner like the outer and the outer like the inner, and the upper like the lower, and so make the male and the female a single one so that the male won't be male nor the female female; when you make eyes in the place of an eye, a hand in the place of a hand, a foot in the place of a foot, and [an image in the place of an image](https://x.com/Culture_Crit/status/1848369105037853127/photo/1); then you'll enter [the kingdom].""
 
 ---
 
