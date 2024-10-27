@@ -25,7 +25,7 @@ The following assists one with the above:
   - Learn from our mistakes and shed bad behavior
   - Always strive to keep the good and build on the good
 - Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
-- Accepting, honoring, and loving Christ
+- Accepting, honoring, and loving Christ Iésous
   - Who came in the flesh
   - Has risen
   - Is both fully God, Son of God, and Son of Humanity
