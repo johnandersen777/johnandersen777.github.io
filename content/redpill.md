@@ -42,7 +42,8 @@ We read the following with those in mind to learn how best to act in alignment w
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
   - > 'The moral message in these stories of a freedman and a freedwoman is that no one should ever be enslaved because everyone has unknown royal ancestors. All are created equal in spite of outward appearances or circumstances. Didn’t "Jesus" suggest the same?'
-  - > 'BaR iS, eT aB oR, eLa Ha eM, “Son of Man, Father Light, Goddess the Mother." She, as LHM, is found throughout the Tanakh. This was the Essene-Nazarene Holy Trinity, borrowed by the Church Fathers but corrupted to eliminate equal respect for feminine attributes. A Goddess might suggest that women are as valuable as men', which obviously they are. Honor thy Earthly Mother.
+  - > 'BaR iS, eT aB oR, eLa Ha eM, “Son of Man, Father Light, Goddess the Mother." She, as LHM, is found throughout the Tanakh. This was the Essene-Nazarene Holy Trinity, borrowed by the Church Fathers but corrupted to eliminate equal respect for feminine attributes. A Goddess might suggest that women are as valuable as men'
+    - All are equal. Honor thy Earthly Mother. [Understand Her cycles](/pole_shifts/), or not, and thereby accept flood 2.0. Your choice, you have free will, if you think you're smarter than God / the universe, take your chances then!
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
