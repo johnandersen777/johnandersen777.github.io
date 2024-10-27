@@ -20,7 +20,7 @@ permalink = "/checksums/"
   - ⏳ https://en.wikipedia.org/wiki/Philo
     - Is this why the library was burned?
     - > Philo's deployment of allegory to harmonize Jewish scripture, mainly the Torah, with Greek philosophy was the first documented of its kind, and thereby often misunderstood. Many critics of Philo assumed his allegorical perspective would lend credibility to the notion of legend over historicity.[4] Philo often advocated a literal understanding of the Torah and the historicity of such described events, while at other times favoring allegorical readings.[5]
-      - Whaaaat, my man Philo right here whooooop whooooop
+      - [Whaaaat](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/), my man Philo right here whooooop whooooop
   - ⏳ [Chuck Missler - How We Got Our Bible](https://www.youtube.com/watch?v=5ZsZLDWWZMs)
     - ✅ Transcribe
     - ⏳ Notes
