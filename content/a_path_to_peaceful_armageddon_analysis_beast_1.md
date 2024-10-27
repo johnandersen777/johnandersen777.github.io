@@ -919,10 +919,11 @@ index 0000000..5cc15e3
       
 ---
 
-> "In fact, his purpose was to restore the "Daughter of El the Mother" (BaT eL Ha eM)"
->
-> [...]
-> 
-> Rev 22:17
-
-https://www.thenazareneway.com/Essene%20Version%20of%20Genesis%201%201.htm
+- https://www.thenazareneway.com/Essene%20Version%20of%20Genesis%201%201.htm
+  - > "In fact, his purpose was to restore the "Daughter of El the Mother" (BaT eL Ha eM)"
+    >
+    >  [...]
+    >
+    > [Rev 22:17]
+- http://www.thenazareneway.com/Jewish%20Coverts%20and%20the%20Virgin%20Birth.htm
+  - > Dionysius of Halicarnassus
