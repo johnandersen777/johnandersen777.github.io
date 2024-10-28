@@ -1,4 +1,4 @@
-baseURL = "https://publicdomainrelay.com"
+baseURL = "https://johnandersen777.github.io"
 
 title = "Public Domain Relay"
 languageCode = "en-us"
@@ -25,7 +25,7 @@ dateFormat = "Jan 2, 2006 3:04PM"
 highlight = "dark"
 
 [params.brand]
-domain = "publicdomainrelay.com"
+domain = "johnandersen777.github.io"
 email = "publicdomainrelay@protonmail.com"
 
 [params.social]
