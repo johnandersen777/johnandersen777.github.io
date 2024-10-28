@@ -31,6 +31,7 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
   - [Deploy: Transparency Services: IETF SCITT Based For Interoperability](/gse1/)
   - [Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats](/gse1/)
   - [Develop: Implementations for Gating Tool Use Through TS Policy Engines as Tool-Call Dispatch Admission Control](/gse1/)
+  - [Develop: Methodologies and Implementations for Aligning Policy with Moral values](/chadig/)
 
 > A little bit of knowledge
 >
