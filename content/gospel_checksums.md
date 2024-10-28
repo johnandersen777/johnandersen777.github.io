@@ -12,6 +12,7 @@ permalink = "/checksums/"
 ## Quicklinks
 
 - [Associated Discussion Thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/3)
+- [Towards a Generic Methodology for Sandbox Escape: Part 33: Mary’s Role in Defending Our Secure Software Forge: 🍎🐍🌳](/gse33/)
 
 ## TODOs
 
