@@ -6,24 +6,6 @@ subtitle = "Why is there a man behind the curtain?"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts"]
 +++
 
-> **'What I say to you I say to all: "Stay alert!"' Stay 13:37! Wake ye [👉🔗💊](/redpill/)!**
-
-![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
-
-> A little bit of knowledge
->
-> Can be a dangerous thing;
->
-> Or it can be a vibrant seed
->
-> Giving rise to verdant forests
->
-> And awakening sleeping giants
->
->
->
-> [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) by Chan Thomas (unexplicitly attributed quotes within content below sourced from this)
-
 ## Table of Contents
 
 > "Only Thing We Have to Fear Is Fear Itself"
@@ -42,9 +24,27 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 - [TODOs](#todos)
 - [References](#references)
 
+> A little bit of knowledge
+>
+> Can be a dangerous thing;
+>
+> Or it can be a vibrant seed
+>
+> Giving rise to verdant forests
+>
+> And awakening sleeping giants
+>
+>
+>
+> [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/THE%20ADAM%20AND%20EVE%20STORY%5B15646345%5D.pdf) by Chan Thomas (unexplicitly attributed quotes within content below sourced from this)
+
 In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.
 
 At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including natural phenomena like pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building resilience.
+
+> **'What I say to you I say to all: "Stay alert!"' Stay 13:37! Wake ye [👉🔗💊](/redpill/)!**
+
+![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
 ### The Scientific Perspective: Understanding Pole Shifts and Their Impacts
 
