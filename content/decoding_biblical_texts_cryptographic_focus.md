@@ -5,7 +5,10 @@ date = "2024-10-23T20:14:42-07:00"
 permalink = "/decoding_biblical_texts_cryptographic_focus/"
 +++
 
-> Sourced from: [Chuck Missler - How We Got Our Bible](https://youtu.be/5ZsZLDWWZMs?feature=shared&t=7364)
+## Links
+
+- Sourced from: [Chuck Missler - How We Got Our Bible](https://youtu.be/5ZsZLDWWZMs?feature=shared&t=7364)
+- Backref: [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
 
 ## Abstract
 
