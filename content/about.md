@@ -5,7 +5,11 @@ date = "2016-11-11T12:22:04-08:00"
 permalink = "/about/"
 +++
 
-Hello Entity of the Internet! You found John. Hopefully this page give you whatever context it is you were looking for. Hope you have a great day!
+Hello Entity of the Internet!
+
+This page hopefully helps you find whatever context you're looking for about the publisher of the content on this site.
+
+Hope you have a great day! :D
 
 ## Objectives
 
