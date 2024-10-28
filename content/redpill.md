@@ -1,6 +1,6 @@
 +++
 layout = "page"
-title = "John 13:34-35"
+title = "Stay 13:37"
 date = "2022-11-30T06:34:42-08:00"
 permalink = "/redpill/"
 aliases = ["greek_stuff", "a_guide_to_good"]
