@@ -6,7 +6,7 @@ subtitle = "Why is there a man behind the curtain?"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts"]
 +++
 
-> **'What I say to you I say to all: "Stay alert!"' Stay 13:37!!**
+> **'What I say to you I say to all: "Stay alert!"' Stay 13:37! Wake ye [👉 💊](/redpill/)!**
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
