@@ -5,7 +5,9 @@ date = "2016-11-11T12:22:04-08:00"
 permalink = "/about/"
 +++
 
-Hello Entity of the Internet!
+👋🫖☕🎩 Hello Entity of the Internet! 🥳🕟🕐
+
+All content here is released into the public domain (Unlicense / CC0 1.0)
 
 This page hopefully helps you find whatever context you're looking for about the publisher of the content on this site.
 
@@ -15,6 +17,8 @@ Hope you have a great day! :D
 
 - [Principle Engineer](/chadig/)
 - Revelations 22:17
+- Humanity MUST (RFC 2119) work together!
+- Acceleration of happiness metric 🇩🇰😁
 
 ## Best Friends' Comments
 
