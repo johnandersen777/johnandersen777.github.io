@@ -25,6 +25,7 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 - [References](#references)
 - Calls to action from non-technical to technical:
   - [Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion](/chadig/)
+  - [Document: Policies and Processes: Disaster Recovery Plans](https://www.ibm.com/think/insights/disaster-recovery-strategy)
   - [Use: Federated Social Media](https://mastodon.social)
   - [Deploy: ActivityPub Based Services](https://activitypub.rocks)
   - [Deploy: Transparency Services: IETF SCITT Based For Interoperability](/gse1/)
