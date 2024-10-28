@@ -127,7 +127,7 @@ This dynamic, evolving network of AIs continuously improves, learning not only h
     - AI can help us make informed decisions about how to allocate our time and resources.
   - We must find a way to leap forward.
   - We must figure out how to exploit the “Chaos God.”
-    - https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/
+    - [The New Covenant's Path to the Nameless Divine: Trinitarian Alignment: Connecting Dionysus as Ruler of Hades to Saklas in Gnostic Thought](/the_new_covenants_path_to_the_nameless_divine/)
 
 ![chaos-for-the-chaos-god](https://user-images.githubusercontent.com/5950433/220794351-4611804a-ac72-47aa-8954-cdb3c10d6a5b.jpg)
 
