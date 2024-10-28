@@ -5,9 +5,7 @@ date = "2024-10-23T18:27:42-07:00"
 permalink = "/checksums/"
 +++
 
-> I ❤️ Truth
->
-> I ❤️ Heresy
+> I ❤️ Heresy because I ❤️ Truth
 >
 > "Every Good Man is Free" [Philo]
 
