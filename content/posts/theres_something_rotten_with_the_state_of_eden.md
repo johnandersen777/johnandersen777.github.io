@@ -45,7 +45,7 @@ In our rapidly changing world, the forces of deception and division are increasi
 
 At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including natural phenomena like pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building resilience.
 
-> **'What I say to you I say to all: "Stay alert!"' Stay 13:37! Wake ye! [👉🔗💊](/redpill/)**
+> **'What I say to you I say to all: "Stay alert!"' Stay 13:37! Seek Truth! [👉🔗💊](/redpill/)**
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
