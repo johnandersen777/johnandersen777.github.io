@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-28T14:41:31Z</updated>
+  <updated>2024-10-28T14:43:10Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -41,6 +41,7 @@
 <li>Calls to action from non-technical to technical:
 <ul>
 <li><a href="/chadig/">Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion</a></li>
+<li><a href="https://www.ibm.com/think/insights/disaster-recovery-strategy">Document: Policies and Processes: Disaster Recovery Plans</a></li>
 <li><a href="https://mastodon.social">Use: Federated Social Media</a></li>
 <li><a href="https://activitypub.rocks">Deploy: ActivityPub Based Services</a></li>
 <li><a href="/gse1/">Deploy: Transparency Services: IETF SCITT Based For Interoperability</a></li>
