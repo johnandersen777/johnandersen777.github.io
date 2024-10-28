@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Public Domain Relay</title>
   <subtitle></subtitle>
-  <id>https://johnandersen777.github.io/</id>
+  <id>https://publicdomainrelay.com/</id>
   <author>
     <name>Public Domain Relay</name>
-    <uri>https://johnandersen777.github.io/</uri>
+    <uri>https://publicdomainrelay.com/</uri>
   </author>
-  <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
-  <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-28T15:23:33Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
-  <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
+  <icon>https://publicdomainrelay.com/image/brand/icon-1-1.png</icon>
+  <logo>https://publicdomainrelay.com/image/brand/icon-2-1.png</logo>
+  <updated>2024-10-28T19:30:13Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://publicdomainrelay.com/feed.atom" hreflang="en-us"/>
+  <link rel="alternate" type="text/html" href="https://publicdomainrelay.com/" hreflang="en-us"/>
   <entry>
     <title>There&#39;s Something Rotten with the State of Eden</title>
     <author>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/theres_something_rotten_with_the_state_of_eden/</id>
+    <id>https://publicdomainrelay.com/theres_something_rotten_with_the_state_of_eden/</id>
     <updated>2024-10-19T19:00:00Z</updated>
     <published>2024-10-19T19:00:00Z</published>
     <content type="html"><![CDATA[<blockquote>
@@ -457,7 +457,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/</id>
+    <id>https://publicdomainrelay.com/the_new_covenants_path_to_the_nameless_divine/</id>
     <updated>2024-10-21T19:33:00Z</updated>
     <published>2024-10-09T09:38:19Z</published>
     <content type="html"><![CDATA[<blockquote>
@@ -640,7 +640,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/chadig/</id>
+    <id>https://publicdomainrelay.com/chadig/</id>
     <updated>2024-10-14T14:25:00Z</updated>
     <published>2024-10-06T08:15:00Z</published>
     <content type="html"><![CDATA[<blockquote>
@@ -714,7 +714,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse33/</id>
+    <id>https://publicdomainrelay.com/gse33/</id>
     <updated>2024-10-06T05:45:00Z</updated>
     <published>2024-10-06T05:45:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -1049,7 +1049,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse32/</id>
+    <id>https://publicdomainrelay.com/gse32/</id>
     <updated>2024-10-06T05:30:00Z</updated>
     <published>2024-10-06T05:30:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -1324,7 +1324,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse31/</id>
+    <id>https://publicdomainrelay.com/gse31/</id>
     <updated>2024-10-06T05:20:00Z</updated>
     <published>2024-10-06T05:20:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -1495,7 +1495,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse30/</id>
+    <id>https://publicdomainrelay.com/gse30/</id>
     <updated>2024-10-06T05:00:00Z</updated>
     <published>2024-10-06T05:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -1889,7 +1889,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse22/</id>
+    <id>https://publicdomainrelay.com/gse22/</id>
     <updated>2024-10-06T04:18:00Z</updated>
     <published>2024-10-06T04:18:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -2086,7 +2086,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/telepathy/</id>
+    <id>https://publicdomainrelay.com/telepathy/</id>
     <updated>2024-10-05T05:55:00Z</updated>
     <published>2024-10-05T05:55:00Z</published>
     <content type="html"><![CDATA[<blockquote>
@@ -2229,7 +2229,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse29/</id>
+    <id>https://publicdomainrelay.com/gse29/</id>
     <updated>2024-10-04T14:00:00Z</updated>
     <published>2024-10-04T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -2563,7 +2563,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse3/</id>
+    <id>https://publicdomainrelay.com/gse3/</id>
     <updated>2024-10-04T14:00:00Z</updated>
     <published>2024-10-04T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -2647,7 +2647,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse9/</id>
+    <id>https://publicdomainrelay.com/gse9/</id>
     <updated>2024-10-04T14:00:00Z</updated>
     <published>2024-10-04T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -2789,7 +2789,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse28/</id>
+    <id>https://publicdomainrelay.com/gse28/</id>
     <updated>2024-10-03T14:00:00Z</updated>
     <published>2024-10-03T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -3106,7 +3106,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse27/</id>
+    <id>https://publicdomainrelay.com/gse27/</id>
     <updated>2024-10-02T14:00:00Z</updated>
     <published>2024-10-02T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -3291,7 +3291,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse26/</id>
+    <id>https://publicdomainrelay.com/gse26/</id>
     <updated>2024-10-01T14:00:00Z</updated>
     <published>2024-10-01T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -3457,7 +3457,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse25/</id>
+    <id>https://publicdomainrelay.com/gse25/</id>
     <updated>2024-09-30T14:00:00Z</updated>
     <published>2024-09-30T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -3641,7 +3641,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse24/</id>
+    <id>https://publicdomainrelay.com/gse24/</id>
     <updated>2024-09-29T14:00:00Z</updated>
     <published>2024-09-29T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -3800,7 +3800,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse23/</id>
+    <id>https://publicdomainrelay.com/gse23/</id>
     <updated>2024-09-28T14:00:00Z</updated>
     <published>2024-09-28T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -4003,7 +4003,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse21/</id>
+    <id>https://publicdomainrelay.com/gse21/</id>
     <updated>2024-09-26T14:00:00Z</updated>
     <published>2024-09-26T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -4181,7 +4181,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse20/</id>
+    <id>https://publicdomainrelay.com/gse20/</id>
     <updated>2024-09-25T14:00:00Z</updated>
     <published>2024-09-25T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -4450,7 +4450,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse19/</id>
+    <id>https://publicdomainrelay.com/gse19/</id>
     <updated>2024-09-24T14:00:00Z</updated>
     <published>2024-09-24T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -4737,7 +4737,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse18/</id>
+    <id>https://publicdomainrelay.com/gse18/</id>
     <updated>2024-09-23T14:00:00Z</updated>
     <published>2024-09-23T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -4943,7 +4943,7 @@
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse17/</id>
+    <id>https://publicdomainrelay.com/gse17/</id>
     <updated>2024-09-22T14:00:00Z</updated>
     <published>2024-09-22T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -5181,7 +5181,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse16/</id>
+    <id>https://publicdomainrelay.com/gse16/</id>
     <updated>2024-09-21T14:00:00Z</updated>
     <published>2024-09-21T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -5422,7 +5422,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse15/</id>
+    <id>https://publicdomainrelay.com/gse15/</id>
     <updated>2024-09-20T14:00:00Z</updated>
     <published>2024-09-20T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -5620,7 +5620,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse14/</id>
+    <id>https://publicdomainrelay.com/gse14/</id>
     <updated>2024-09-19T14:00:00Z</updated>
     <published>2024-09-19T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -5831,7 +5831,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse13/</id>
+    <id>https://publicdomainrelay.com/gse13/</id>
     <updated>2024-09-18T14:00:00Z</updated>
     <published>2024-09-18T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -5994,7 +5994,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse12/</id>
+    <id>https://publicdomainrelay.com/gse12/</id>
     <updated>2024-09-17T14:00:00Z</updated>
     <published>2024-09-17T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -6174,7 +6174,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse11/</id>
+    <id>https://publicdomainrelay.com/gse11/</id>
     <updated>2024-09-16T14:00:00Z</updated>
     <published>2024-09-16T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -6361,7 +6361,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse8/</id>
+    <id>https://publicdomainrelay.com/gse8/</id>
     <updated>2024-09-13T14:00:00Z</updated>
     <published>2024-09-13T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -6492,7 +6492,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse7/</id>
+    <id>https://publicdomainrelay.com/gse7/</id>
     <updated>2024-09-12T14:00:00Z</updated>
     <published>2024-09-12T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -6622,7 +6622,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse6/</id>
+    <id>https://publicdomainrelay.com/gse6/</id>
     <updated>2024-09-11T14:00:00Z</updated>
     <published>2024-09-11T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -6901,7 +6901,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse5/</id>
+    <id>https://publicdomainrelay.com/gse5/</id>
     <updated>2024-09-10T14:00:00Z</updated>
     <published>2024-09-10T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -7015,7 +7015,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse4/</id>
+    <id>https://publicdomainrelay.com/gse4/</id>
     <updated>2024-09-09T14:00:00Z</updated>
     <published>2024-09-09T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -7098,7 +7098,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse2/</id>
+    <id>https://publicdomainrelay.com/gse2/</id>
     <updated>2024-09-07T14:00:00Z</updated>
     <published>2024-09-07T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="series">Series</h2>
@@ -7160,7 +7160,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/gse1/</id>
+    <id>https://publicdomainrelay.com/gse1/</id>
     <updated>2024-09-06T14:00:00Z</updated>
     <published>2024-09-06T14:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="context">Context</h2>
@@ -7361,7 +7361,7 @@ ssh_alice<span class="p">;</span> sleep 1<span class="p">;</span> ssh_alice
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/ietf-118/</id>
+    <id>https://publicdomainrelay.com/ietf-118/</id>
     <updated>2023-11-13T05:00:00Z</updated>
     <published>2023-11-13T05:00:00Z</published>
     <content type="html"><![CDATA[<h1 id="2023-11-03-engineering-logs">2023-11-03 Engineering Logs</h1>
@@ -8815,7 +8815,7 @@ ssh-keygen -q -f /dev/stdout -t ecdsa -b <span class="m">384</span> -N <span cla
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/notes/</id>
+    <id>https://publicdomainrelay.com/notes/</id>
     <updated>2022-03-30T06:00:00Z</updated>
     <published>2022-03-30T06:00:00Z</published>
     <content type="html"><![CDATA[<p>Notes on taking notes</p>
@@ -8841,7 +8841,7 @@ ssh-keygen -q -f /dev/stdout -t ecdsa -b <span class="m">384</span> -N <span cla
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/2022-03-02-did-twitter-space/</id>
+    <id>https://publicdomainrelay.com/2022-03-02-did-twitter-space/</id>
     <updated>2022-03-02T11:45:00Z</updated>
     <published>2022-03-02T11:45:00Z</published>
     <content type="html"><![CDATA[<h1 id="2022-03-02-did-discussion">2022-03-02 DID Discussion</h1>
@@ -9030,7 +9030,7 @@ ssh-keygen -q -f /dev/stdout -t ecdsa -b <span class="m">384</span> -N <span cla
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/stories/</id>
+    <id>https://publicdomainrelay.com/stories/</id>
     <updated>2021-10-26T22:57:07Z</updated>
     <published>2021-10-26T22:57:07Z</published>
     <content type="html"><![CDATA[<div class="document">
@@ -9046,7 +9046,7 @@ ssh-keygen -q -f /dev/stdout -t ecdsa -b <span class="m">384</span> -N <span cla
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/git/</id>
+    <id>https://publicdomainrelay.com/git/</id>
     <updated>2021-07-16T16:00:00Z</updated>
     <published>2021-07-16T16:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="cherry-pick-last-n-commits-off-a-branch">Cherry pick last N commits off a branch</h2>
@@ -9134,7 +9134,7 @@ the lastest version of our libraries API!</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/kernelci/</id>
+    <id>https://publicdomainrelay.com/kernelci/</id>
     <updated>2021-04-02T15:00:00Z</updated>
     <published>2021-04-02T15:00:00Z</published>
     <content type="html"><![CDATA[<p>Neelima and John setting up KernelCI</p>
@@ -9239,7 +9239,7 @@ curl -sfL https://github.com/kernelci/kernelci-backend/pull/285.patch | git am
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/personal-digital-security/</id>
+    <id>https://publicdomainrelay.com/personal-digital-security/</id>
     <updated>2021-02-10T06:00:00Z</updated>
     <published>2021-02-10T06:00:00Z</published>
     <content type="html"><![CDATA[<p>This post will cover steps you can take to better secure the digital aspects of
@@ -9487,7 +9487,7 @@ themselves into a thought to be private conversation.</p>]]></content>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/digital-ocean-python-scripting/</id>
+    <id>https://publicdomainrelay.com/digital-ocean-python-scripting/</id>
     <updated>2021-01-23T06:00:00Z</updated>
     <published>2021-01-23T06:00:00Z</published>
     <content type="html"><![CDATA[<p>This post is some heavily commented example code that shows you how you can use
@@ -9638,7 +9638,7 @@ SSH Private Key (/home/johnandersen777/.ssh/id_rsa) Password:
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/til/</id>
+    <id>https://publicdomainrelay.com/til/</id>
     <updated>2021-01-09T16:00:00Z</updated>
     <published>2021-01-09T16:00:00Z</published>
     <content type="html"><![CDATA[<h1 id="2021-01-8">2021-01-8</h1>
@@ -9733,7 +9733,7 @@ using the system, because not all programs use utmp logging.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/tpm2/</id>
+    <id>https://publicdomainrelay.com/tpm2/</id>
     <updated>2020-10-13T19:00:00Z</updated>
     <published>2020-10-13T19:00:00Z</published>
     <content type="html"><![CDATA[<p>TPM2.0 Book
@@ -9911,7 +9911,7 @@ using the system, because not all programs use utmp logging.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/python/</id>
+    <id>https://publicdomainrelay.com/python/</id>
     <updated>2020-10-12T21:50:57Z</updated>
     <published>2020-10-12T21:50:57Z</published>
     <content type="html"><![CDATA[<blockquote>
@@ -10051,7 +10051,7 @@ a = 3
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/c-development/</id>
+    <id>https://publicdomainrelay.com/c-development/</id>
     <updated>2020-08-20T21:00:00Z</updated>
     <published>2020-08-20T21:00:00Z</published>
     <content type="html"><![CDATA[<blockquote>
@@ -10098,7 +10098,7 @@ or <code>pkg-config</code>. These can be the source of many m4 macro not found e
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/terminal-quickstart/</id>
+    <id>https://publicdomainrelay.com/terminal-quickstart/</id>
     <updated>2020-07-27T18:00:00Z</updated>
     <published>2020-07-29T18:00:00Z</published>
     <content type="html"><![CDATA[<center>
@@ -10362,7 +10362,7 @@ only one match left it will fill the rest of the word in.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/cors/</id>
+    <id>https://publicdomainrelay.com/cors/</id>
     <updated>2020-07-24T06:00:00Z</updated>
     <published>2020-07-24T06:00:00Z</published>
     <content type="html"><![CDATA[<p>Hey you know JavaScript, that thing everyone loves and hates.</p>
@@ -10471,7 +10471,7 @@ search for how to enable CORS with whatever your working with.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/ffmpeg/</id>
+    <id>https://publicdomainrelay.com/ffmpeg/</id>
     <updated>2020-07-24T06:00:00Z</updated>
     <published>2020-07-24T06:00:00Z</published>
     <content type="html"><![CDATA[<p>ffmpeg is a powerful tool for command line video, audio, and image processing
@@ -10516,7 +10516,7 @@ decrease size of output file</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/linux-kernel/</id>
+    <id>https://publicdomainrelay.com/linux-kernel/</id>
     <updated>2020-10-06T08:00:00Z</updated>
     <published>2020-07-24T06:00:00Z</published>
     <content type="html"><![CDATA[<h1 id="resources">Resources</h1>
@@ -10751,7 +10751,7 @@ operate on whatever VMCS we pointed to via the <code>VMPTRLD</code> instruction.
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/qemu/</id>
+    <id>https://publicdomainrelay.com/qemu/</id>
     <updated>2020-07-24T06:00:00Z</updated>
     <published>2020-07-24T06:00:00Z</published>
     <content type="html"><![CDATA[<p>QEMU is an indispensable tool for the virtual machine inclined. It's a command
@@ -10906,7 +10906,7 @@ fi
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/wireguard/</id>
+    <id>https://publicdomainrelay.com/wireguard/</id>
     <updated>2020-07-24T06:00:00Z</updated>
     <published>2020-07-24T06:00:00Z</published>
     <content type="html"><![CDATA[<p>Wireguard is a VPN that comes built into Linux kernels &gt;= 5.6
@@ -11235,7 +11235,7 @@ read this and the previous link to figure out what you should use.</li>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/binary-downloads/</id>
+    <id>https://publicdomainrelay.com/binary-downloads/</id>
     <updated>2020-07-24T05:00:00Z</updated>
     <published>2020-07-24T05:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="choosing-the-right-download">Choosing the right download</h2>
@@ -11323,7 +11323,7 @@ Hugo Static Site Generator v0.74.3-DA0437B4 linux/amd64 BuildDate: 2020-07-23T16
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/ssh-tricks/</id>
+    <id>https://publicdomainrelay.com/ssh-tricks/</id>
     <updated>2020-07-24T05:00:00Z</updated>
     <published>2020-07-24T05:00:00Z</published>
     <content type="html"><![CDATA[<h1 id="reverse-port-forwarding">Reverse Port Forwarding</h1>
@@ -11349,7 +11349,7 @@ what you're logging into.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/python-pagination/</id>
+    <id>https://publicdomainrelay.com/python-pagination/</id>
     <updated>2020-07-24T04:42:34Z</updated>
     <published>2020-07-24T04:42:34Z</published>
     <content type="html"><![CDATA[<p>This is an example of how you might uses the <code>requests</code> HTTP Python library to
@@ -11455,7 +11455,7 @@ each result within a page.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/free-resources/</id>
+    <id>https://publicdomainrelay.com/free-resources/</id>
     <updated>2020-07-18T12:15:29Z</updated>
     <published>2020-07-18T12:15:29Z</published>
     <content type="html"><![CDATA[<h1 id="free-resources">Free Resources</h1>
@@ -11478,7 +11478,7 @@ you got it.</p>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/tricks/</id>
+    <id>https://publicdomainrelay.com/tricks/</id>
     <updated>2020-07-07T19:00:00Z</updated>
     <published>2020-07-07T19:00:00Z</published>
     <content type="html"><![CDATA[<h2 id="dos2unix-in-python">dos2unix in Python</h2>
@@ -11895,7 +11895,7 @@ example_array<span class="o">[</span><span class="si">${#</span><span class="nv"
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/dev-environment/</id>
+    <id>https://publicdomainrelay.com/dev-environment/</id>
     <updated>2020-06-25T00:00:00Z</updated>
     <published>2020-06-25T00:00:00Z</published>
     <content type="html"><![CDATA[<p><img src="/images/tmux-example.png" alt="tmux-example"></p>
@@ -12175,7 +12175,7 @@ pip install --force-reinstall -U https://github.com/ytdl-org/youtube-dl/archive/
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/clear-containers-on-arch-linux/</id>
+    <id>https://publicdomainrelay.com/clear-containers-on-arch-linux/</id>
     <updated>2017-01-18T05:06:04Z</updated>
     <published>2017-01-18T05:06:04Z</published>
     <content type="html"><![CDATA[<p>So you want the security of a virtual machine but the ease of use of docker and
@@ -12228,7 +12228,7 @@ runtime he have just installed.</p>]]></content>
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/3-resistor-bias-nmos/</id>
+    <id>https://publicdomainrelay.com/3-resistor-bias-nmos/</id>
     <updated>2016-11-11T20:22:04Z</updated>
     <published>2016-11-11T20:22:04Z</published>
     <content type="html"><![CDATA[<h2 id="circuit">Circuit</h2>
@@ -12287,7 +12287,7 @@ Rout = 100k
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/arm-qemu/</id>
+    <id>https://publicdomainrelay.com/arm-qemu/</id>
     <updated>2016-11-09T22:57:07Z</updated>
     <published>2016-11-09T22:57:07Z</published>
     <content type="html"><![CDATA[<p>This is just the markdown portion of set of files which can be found here:
@@ -12469,7 +12469,7 @@ timeout 1s ./arduino-cli config init --overwrite
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/trinity-fuzzer-android/</id>
+    <id>https://publicdomainrelay.com/trinity-fuzzer-android/</id>
     <updated>2016-10-17T19:51:22Z</updated>
     <published>2016-10-17T19:51:22Z</published>
     <content type="html"><![CDATA[<h2 id="step-1---clone-trinity">Step 1 - Clone trinity</h2>
@@ -12540,7 +12540,7 @@ adb shell 'cd /sdcard &amp;&amp; /data/trinity --dangerous -V /dev/ 2&gt;&amp;1'
       <name>John Andersen</name>
       <uri>https://johnandersen777.github.io/</uri>
     </author>
-    <id>https://johnandersen777.github.io/peach-network/</id>
+    <id>https://publicdomainrelay.com/peach-network/</id>
     <updated>2016-08-10T20:35:13Z</updated>
     <published>2016-08-10T20:35:13Z</published>
     <content type="html"><![CDATA[<p>So you want to fuzz network applications with peach eh? Well you've come to the
