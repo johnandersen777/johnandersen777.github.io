@@ -23,6 +23,9 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 - [Do Not Be Deceived](#do-not-be-deceived)
 - [TODOs](#todos)
 - [References](#references)
+- Calls to action:
+  - [Post Your Moral Values to Foster Self-Organized Religion](/chadig/)
+  - [Implement Transparency Services (IETF SCITT) and Policy Engines to Guide AI](/gse1/)
 
 > A little bit of knowledge
 >
@@ -274,6 +277,8 @@ In a world rife with misunderstanding and division, many of us seek solutions th
 Every individual possesses a moral compass, shaped by personal experiences, culture, and an innate sense of right and wrong. When we take the time to reflect on these values, we often discover that, despite superficial differences, there is significant overlap in what we consider just and equitable. This common ground is the foundation upon which a self-organized framework can be built.
 
 By identifying and addressing the root causes of societal issues—such as inequality, injustice, and environmental degradation—we move beyond treating symptoms and start fostering genuine change. This process requires honesty, openness, and a willingness to challenge our own beliefs and biases.
+
+**Call to action: [self-organized religion](/chadig/). Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)**
 
 ### Collective Alignment Through Cooperative Principles
 
