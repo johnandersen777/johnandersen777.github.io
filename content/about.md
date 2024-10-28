@@ -5,7 +5,12 @@ date = "2016-11-11T12:22:04-08:00"
 permalink = "/about/"
 +++
 
-I would like to be a [Principle Engineer](/chadig/) ;)
+Hello Entity of the Internet! You found John. Hopefully this page give you whatever context it is you were looking for. Hope you have a great day!
+
+## Objectives
+
+- [Principle Engineer](/chadig/)
+- Revelations 22:17
 
 ## Best Friends' Comments
 

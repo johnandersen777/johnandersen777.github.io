@@ -37,7 +37,7 @@ footer = ["twitter", "github", "youtube", "linkedin"]
 
 [params.logo]
 inline = false
-path = "images/publicdomainrelay.png"
+path = "images/avatar2x.png"
 
 [params.services]
 analyticsId = ""
@@ -114,7 +114,7 @@ weight = 1
 
 [[menu.main]]
 url = "/about/"
-name = "About"
+name = "🫱"
 weight = 2
 
 [[menu.main]]
@@ -139,7 +139,7 @@ weight = 1
 
 [[menu.foot]]
 url = "/about/"
-name = "About"
+name = "🫱"
 weight = 2
 
 [[menu.foot]]
