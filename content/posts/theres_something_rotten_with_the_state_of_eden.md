@@ -307,8 +307,6 @@ In an era where humanity faces unprecedented challenges, ranging from environmen
 
 **Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)**
 
-![acceleration-for-the-God-god](https://github.com/user-attachments/assets/bb1c5c34-0cb0-478c-b510-bae8f23f1cb7)
-
 ### The Imperative for Transparency
 
 Supply chains today are complex, multi-tiered systems involving countless stakeholders across the globe. This complexity often leads to a lack of visibility, making it difficult to identify vulnerabilities, inefficiencies, or potential points of failure. Transparency in supply chains is not merely a matter of operational efficiency; it is a strategic necessity for global resilience.
