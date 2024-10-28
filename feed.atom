@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-28T14:44:34Z</updated>
+  <updated>2024-10-28T14:50:55Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -35,21 +35,10 @@
 <li><a href="#bridging-divides-through-self-organized-morality-a-path-to-collective-alignment">Bridging Divides Through Self-Organized Morality: A Path to Collective Alignment</a></li>
 <li><a href="#harnessing-supply-chain-transparency-and-ai-for-global-resilience">Harnessing Supply Chain Transparency and AI for Global Resilience</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
-<li><a href="#do-not-be-deceived">Do Not Be Deceived</a></li>
+<li><a href="#calls-to-action">Calls to Action</a></li>
+<li><a href="#do-not-be-deceived">Do not be Deceived</a></li>
 <li><a href="#todos">TODOs</a></li>
 <li><a href="#references">References</a></li>
-<li>Calls to action from non-technical to technical:
-<ul>
-<li><a href="/chadig/">Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion</a></li>
-<li><a href="https://www.ibm.com/think/insights/disaster-recovery-strategy">Document: Policies and Processes: Disaster Recovery Plans</a></li>
-<li><a href="https://mastodon.social">Use: Federated Social Media</a></li>
-<li><a href="https://activitypub.rocks">Deploy: ActivityPub Based Services</a></li>
-<li><a href="/gse1/">Deploy: Transparency Services: IETF SCITT Based For Interoperability</a></li>
-<li><a href="/gse1/">Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats</a></li>
-<li><a href="/gse1/">Develop: Implementations for Gating Tool Use Through TS Policy Engines as Tool-Call Dispatch Admission Control</a></li>
-<li><a href="/chadig/">Develop: Methodologies and Implementations for Aligning Policy with Moral values</a></li>
-</ul>
-</li>
 </ul>
 <blockquote>
 <p>A little bit of knowledge</p>
@@ -236,7 +225,6 @@
 <h3 id="the-power-of-self-reflection-on-moral-values">The Power of Self-Reflection on Moral Values</h3>
 <p>Every individual possesses a moral compass, shaped by personal experiences, culture, and an innate sense of right and wrong. When we take the time to reflect on these values, we often discover that, despite superficial differences, there is significant overlap in what we consider just and equitable. This common ground is the foundation upon which a self-organized framework can be built.</p>
 <p>By identifying and addressing the root causes of societal issues—such as inequality, injustice, and environmental degradation—we move beyond treating symptoms and start fostering genuine change. This process requires honesty, openness, and a willingness to challenge our own beliefs and biases.</p>
-<p><strong>Call to action: <a href="/chadig/">self-organized religion</a>. Please help us find related work by posting in this <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">thread</a> (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)</strong></p>
 <h3 id="collective-alignment-through-cooperative-principles">Collective Alignment Through Cooperative Principles</h3>
 <p>By embracing principles that promote voluntary cooperation and mutual aid, we empower communities to:</p>
 <ul>
@@ -261,7 +249,6 @@
 <p>Probably the most sensible way in which the new nations can improve their lot is by forming federations: getting together to face common problems and opportunities while maintaining a healthy measure of separate identity. Economic federation is certainly the most promising form at the moment, despite some early failures. What English Economist Barbara Ward calls &quot;technocratic federations&quot; are likely to sprout in the future——and the young nations should begin planning how and when they can form and join them. This would happily preserve their proud national prerogatives while offering the benefits of a large economic mass and a sharing of modern technology.</p>
 </blockquote>
 <p>In an era where humanity faces unprecedented challenges, ranging from environmental crises to technological disruptions, the robustness of our global supply chains has never been more critical. The intricate networks that deliver goods and services across the world are the lifelines of modern society. Ensuring their transparency and resilience is paramount to preparing for and mitigating potential mass extinction events or other existential threats. By integrating advanced software supply chain frameworks, leveraging federation as a general eventing mechanism, and employing artificial intelligence (AI) alongside policy engines, we can create a transparent, robust supply chain infrastructure. This infrastructure will not only enhance our preparedness but also pave the way for a future where diversity and innovation drive us into a new golden era.</p>
-<p><strong>Please help us find related work by posting in this <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">thread</a> (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)</strong></p>
 <h3 id="the-imperative-for-transparency">The Imperative for Transparency</h3>
 <p>Supply chains today are complex, multi-tiered systems involving countless stakeholders across the globe. This complexity often leads to a lack of visibility, making it difficult to identify vulnerabilities, inefficiencies, or potential points of failure. Transparency in supply chains is not merely a matter of operational efficiency; it is a strategic necessity for global resilience.</p>
 <ul>
@@ -334,7 +321,26 @@
 <p>The convergence of transparent supply chains, federated systems, AI, and policy engines represents a transformative opportunity for humanity. By embracing these technologies and principles, we can build a resilient infrastructure capable of withstanding existential threats. More importantly, we can leverage the collective wisdom and creativity of a diverse global population to drive innovation and progress.</p>
 <p>This journey requires commitment and collaboration at all levels—from individual entities to international organizations. It calls for a reimagining of how we interact with technology, resources, and each other. But the rewards are immense: a secure future for humanity and the ushering in of a new golden era where prosperity, sustainability, and unity are not just aspirations but realities.</p>
 <p>By focusing on transparency, decentralization, and the intelligent application of technology, we not only prepare ourselves for potential threats but also set the stage for unprecedented growth and harmony. The challenges ahead are significant, but with collective effort and innovative thinking, we can transform them into opportunities that benefit all of humanity.</p>
-<h2 id="do-not-be-deceived">Do Not Be Deceived</h2>
+<h2 id="calls-to-action">Calls to Action</h2>
+<blockquote>
+<p>Organized from non-technical to most technical. Anyone can write documentation! Please document policies and practices!!</p>
+</blockquote>
+<ul>
+<li><a href="/chadig/">Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion</a>
+<ul>
+<li>Please foster openness of moral value discussions and communication amongst your friends to bridge divides.</li>
+<li>If you are inclined to help us refine these concepts please post in this <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">thread</a> (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)</li>
+</ul>
+</li>
+<li><a href="https://www.ibm.com/think/insights/disaster-recovery-strategy">Document: Policies and Processes: Disaster Recovery Plans</a></li>
+<li><a href="https://mastodon.social">Use: Federated Social Media</a></li>
+<li><a href="https://activitypub.rocks">Deploy: ActivityPub Based Services</a></li>
+<li><a href="/gse1/">Deploy: Transparency Services: IETF SCITT Based For Interoperability</a></li>
+<li><a href="/gse1/">Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats</a></li>
+<li><a href="/gse1/">Develop: Implementations for Gating Tool Use Through Transparency Services Policy Engines as Tool-Call Dispatch Admission Control</a></li>
+<li><a href="/chadig/">Develop: Methodologies and Implementations for Aligning Policy with Moral values</a></li>
+</ul>
+<h2 id="do-not-be-deceived">Do not be Deceived</h2>
 <p>There are riddles and there are meaningless riddles, one can get carried away with <a href="https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms">writing and the mad hatter bit</a> from when security by obscurity was needed for <a href="https://scitt-community.github.io/scitt-api-emulator/registration_policies.html">proliferation of spec work</a>, <a href="https://johnandersen777.github.io/ietf-118/">&quot;There's no backdoor to a public park&quot;</a> [Seth]. The real <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland">meaningless riddle</a> is getting caught up in the distraction of the powers that be causing saṃsāra. Hope y'all know the difference.</p>
 <p>&quot;I gotcha back, but you best to watch your front&quot;, because there's a wave of issues we have to combat before <strong>2030 timeframe</strong>. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too (2 Corinthians 10:17).</p>
 <p><strong>Do not be deceived, wake ye! The truth is within you, let us all <a href="/a_guide_to_good/">pray for and follow the guidance of God</a>.</strong></p>
