@@ -5,6 +5,8 @@ date = "2024-10-23T20:14:42-07:00"
 permalink = "/decoding_biblical_texts_cryptographic_focus/"
 +++
 
+> Sourced from: [Chuck Missler - How We Got Our Bible](https://youtu.be/5ZsZLDWWZMs?feature=shared&t=7364)
+
 ## Abstract
 
 This document presents a comprehensive exploration of cryptographic structures embedded within Biblical texts, focusing primarily on the **Torah** and other significant manuscripts. By leveraging Python, we delve into methods such as **Equidistant Letter Sequences (ELS)**, numeric patterns, and advanced constants like **π** (Pi) and **e** (Euler's number). Our goal is to provide a programmatic approach to uncovering these hidden messages, offering reusable and clean code that can be utilized for further research and analysis. Additionally, we suggest alternative approaches and variations to deepen the understanding of these cryptographic elements.
