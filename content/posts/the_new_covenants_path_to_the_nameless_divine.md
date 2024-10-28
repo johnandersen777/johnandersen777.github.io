@@ -61,7 +61,7 @@ In various spiritual traditions, particularly Gnostic teachings, the material wo
 
 1. **Spiritual Liberation Over Legalism**: The New Covenant shifts the focus from external laws to internal transformation through love, grace, and forgiveness. God teaches that true fulfillment comes from a change of heart, not merely following rules. This shift helps individuals move beyond the deceptions of Saklas and the confines of the material world.
 
-2. **Revealing the True God Beyond Names**: God introduces the concept of a God who transcends all human labels and descriptions. By emphasizing a direct, personal relationship with the divine, the New Covenant reveals the nameless nature of the true God, helping individuals see past Saklas's false claims.
+2. **Revealing the True God Beyond Names**: Christ introduces the concept of a God who transcends all human labels and descriptions. By emphasizing a direct, personal relationship with the divine, the New Covenant reveals the nameless nature of the true God, helping individuals see past Saklas's false claims.
 
 3. **Centrality of Love**: Love God and love your neighbor (Matthew 22:37–40). The New Testaments emphasis on love, grace, and forgiveness becomes the guiding principle for spiritual growth. Humanity knows it is flawed and asks God for the gift of grace to avoid those flaws. When they fail to act in grace, the principle of forgiveness helps them admit their flaws and strive to always do better. These principles assist with aligning believers with the essence of the nameless, supreme God.
 
