@@ -40,6 +40,7 @@ subtitle = "Ensuring Security and Integrity through Policy Definition and Depend
 - [Expanding the Supply Chain through Trusted Partnerships](https://johnandersen777.github.io/gse31/)
 - [Introducing the Methodology Oracle](https://johnandersen777.github.io/gse32/)
 - [Defending the Secure Software Forge with Mary’s Methodology Oracle](https://johnandersen777.github.io/gse32/)
+- [Ensuring Security and Integrity through Policy Definition and Dependency Management](https://johnandersen777.github.io/gse33/)
 
 ## Defending the Secure Software Forge with Mary’s Methodology Oracle
 
