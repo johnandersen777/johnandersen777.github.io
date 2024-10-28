@@ -6,7 +6,7 @@ subtitle = "Urgent Calls to Action"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts"]
 +++
 
-> All content on this site is public Domain via the unlicense for redistribution and remixing without attribution
+> All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution
 
 ## Table of Contents
 
