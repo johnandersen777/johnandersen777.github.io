@@ -8,9 +8,7 @@ aliases = ["greek_stuff", "a_guide_to_good"]
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 
-## On Religion
-
-**God is the Trinity**
+## God is the Trinity
 
 Making good choices means aligning with John 13:34-35, which tells us:
 
