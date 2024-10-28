@@ -19,7 +19,7 @@ Hope you have a great day! :D
   - Humanity MUST (RFC 2119) work together!
 - Revelations 22:17
   - [Come! Decentralize with us!](/gse1/)
-- Acceleration of happiness metric 🇩🇰😁
+- 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 🇩🇰😁
 
 ## Best Friends' Comments
 
