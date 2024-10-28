@@ -7,6 +7,8 @@ permalink = "/checksums/"
 
 > I ❤️ Heresy because I ❤️ Truth
 >
+> More God more better, Good thing there's always more God
+>
 > "Every Good Man is Free" [Philo]
 
 ## Quicklinks
