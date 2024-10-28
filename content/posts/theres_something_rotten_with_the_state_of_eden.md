@@ -20,7 +20,7 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 - [Bridging Divides Through Self-Organized Morality: A Path to Collective Alignment](#bridging-divides-through-self-organized-morality-a-path-to-collective-alignment)
 - [Harnessing Supply Chain Transparency and AI for Global Resilience](#harnessing-supply-chain-transparency-and-ai-for-global-resilience)
 - [Conclusion](#conclusion)
-- [Calls to Action](#calls-to-action)
+- [**Calls to Action**](#calls-to-action)
 - [Do not be Deceived](#do-not-be-deceived)
 - [TODOs](#todos)
 - [References](#references)
