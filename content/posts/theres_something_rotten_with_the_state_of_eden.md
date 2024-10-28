@@ -2,7 +2,7 @@
 date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
-subtitle = "Why is there a man behind the curtain?"
+subtitle = "Urgent Calls to Action"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts"]
 +++
 
@@ -20,18 +20,10 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 - [Bridging Divides Through Self-Organized Morality: A Path to Collective Alignment](#bridging-divides-through-self-organized-morality-a-path-to-collective-alignment)
 - [Harnessing Supply Chain Transparency and AI for Global Resilience](#harnessing-supply-chain-transparency-and-ai-for-global-resilience)
 - [Conclusion](#conclusion)
-- [Do Not Be Deceived](#do-not-be-deceived)
+- [Calls to Action](#calls-to-action)
+- [Do not be Deceived](#do-not-be-deceived)
 - [TODOs](#todos)
 - [References](#references)
-- Calls to action from non-technical to technical:
-  - [Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion](/chadig/)
-  - [Document: Policies and Processes: Disaster Recovery Plans](https://www.ibm.com/think/insights/disaster-recovery-strategy)
-  - [Use: Federated Social Media](https://mastodon.social)
-  - [Deploy: ActivityPub Based Services](https://activitypub.rocks)
-  - [Deploy: Transparency Services: IETF SCITT Based For Interoperability](/gse1/)
-  - [Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats](/gse1/)
-  - [Develop: Implementations for Gating Tool Use Through TS Policy Engines as Tool-Call Dispatch Admission Control](/gse1/)
-  - [Develop: Methodologies and Implementations for Aligning Policy with Moral values](/chadig/)
 
 > A little bit of knowledge
 >
@@ -284,8 +276,6 @@ Every individual possesses a moral compass, shaped by personal experiences, cult
 
 By identifying and addressing the root causes of societal issues—such as inequality, injustice, and environmental degradation—we move beyond treating symptoms and start fostering genuine change. This process requires honesty, openness, and a willingness to challenge our own beliefs and biases.
 
-**Call to action: [self-organized religion](/chadig/). Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)**
-
 ### Collective Alignment Through Cooperative Principles
 
 By embracing principles that promote voluntary cooperation and mutual aid, we empower communities to:
@@ -317,8 +307,6 @@ Creating a self-organized framework rooted in shared moral values offers a pathw
 > Probably the most sensible way in which the new nations can improve their lot is by forming federations: getting together to face common problems and opportunities while maintaining a healthy measure of separate identity. Economic federation is certainly the most promising form at the moment, despite some early failures. What English Economist Barbara Ward calls "technocratic federations" are likely to sprout in the future——and the young nations should begin planning how and when they can form and join them. This would happily preserve their proud national prerogatives while offering the benefits of a large economic mass and a sharing of modern technology.
 
 In an era where humanity faces unprecedented challenges, ranging from environmental crises to technological disruptions, the robustness of our global supply chains has never been more critical. The intricate networks that deliver goods and services across the world are the lifelines of modern society. Ensuring their transparency and resilience is paramount to preparing for and mitigating potential mass extinction events or other existential threats. By integrating advanced software supply chain frameworks, leveraging federation as a general eventing mechanism, and employing artificial intelligence (AI) alongside policy engines, we can create a transparent, robust supply chain infrastructure. This infrastructure will not only enhance our preparedness but also pave the way for a future where diversity and innovation drive us into a new golden era.
-
-**Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)**
 
 ### The Imperative for Transparency
 
@@ -406,7 +394,22 @@ This journey requires commitment and collaboration at all levels—from individu
 
 By focusing on transparency, decentralization, and the intelligent application of technology, we not only prepare ourselves for potential threats but also set the stage for unprecedented growth and harmony. The challenges ahead are significant, but with collective effort and innovative thinking, we can transform them into opportunities that benefit all of humanity.
 
-## Do Not Be Deceived
+## Calls to Action
+
+> Organized from non-technical to most technical. Anyone can write documentation! Please document policies and practices!!
+
+- [Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion](/chadig/)
+  -  Please foster openness of moral value discussions and communication amongst your friends to bridge divides.
+  -  If you are inclined to help us refine these concepts please post in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)
+- [Document: Policies and Processes: Disaster Recovery Plans](https://www.ibm.com/think/insights/disaster-recovery-strategy)
+- [Use: Federated Social Media](https://mastodon.social)
+- [Deploy: ActivityPub Based Services](https://activitypub.rocks)
+- [Deploy: Transparency Services: IETF SCITT Based For Interoperability](/gse1/)
+- [Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats](/gse1/)
+- [Develop: Implementations for Gating Tool Use Through Transparency Services Policy Engines as Tool-Call Dispatch Admission Control](/gse1/)
+- [Develop: Methodologies and Implementations for Aligning Policy with Moral values](/chadig/)
+
+## Do not be Deceived
 
 There are riddles and there are meaningless riddles, one can get carried away with [writing and the mad hatter bit](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) from when security by obscurity was needed for [proliferation of spec work](https://scitt-community.github.io/scitt-api-emulator/registration_policies.html), ["There's no backdoor to a public park"](https://johnandersen777.github.io/ietf-118/) [Seth]. The real [meaningless riddle](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland) is getting caught up in the distraction of the powers that be causing saṃsāra. Hope y'all know the difference. 
 
