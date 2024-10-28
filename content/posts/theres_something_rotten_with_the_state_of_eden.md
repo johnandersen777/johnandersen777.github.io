@@ -6,6 +6,8 @@ subtitle = "Urgent Calls to Action"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts"]
 +++
 
+> All content on this site is public Domain via the unlicense for redistribution and remixing without attribution
+
 ## Table of Contents
 
 > "Only Thing We Have to Fear Is Fear Itself"
