@@ -6,11 +6,7 @@ subtitle = "Decentralized Trust Fall"
 aliases = ["religon"]
 +++
 
-> 🕊️✌️☮️
->
-> A message of Peace and Unity. 
->
-> 🌍🌏🌎
+> 🕊️✌️☮️ Peace be with you! 🌍🌏🌎
 
 This is a call for you to transparently please think on and write your own values and strategic plans and principles. "For years, religion did nothing but divide", let's now use it to unite. Please help us find related work by posting in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added).
 
