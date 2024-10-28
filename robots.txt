@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://publicdomainrelay.com/sitemap.xml
+Sitemap: https://johnandersen777.github.io/sitemap.xml
