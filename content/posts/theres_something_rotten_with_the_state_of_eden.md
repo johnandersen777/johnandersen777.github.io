@@ -23,9 +23,13 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 - [Do Not Be Deceived](#do-not-be-deceived)
 - [TODOs](#todos)
 - [References](#references)
-- Calls to action:
-  - [Post Your Moral Values to Foster Self-Organized Religion](/chadig/)
-  - [Implement Transparency Services (IETF SCITT) and Policy Engines to Guide AI](/gse1/)
+- Calls to action from non-technical to technical:
+  - [Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion](/chadig/)
+  - [Use: Federated Social Media](https://mastodon.social)
+  - [Deploy: ActivityPub Based Services](https://activitypub.rocks)
+  - [Deploy: Transparency Services: IETF SCITT Based For Interoperability](/gse1/)
+  - [Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats](/gse1/)
+  - [Develop: Implementations for Gating Tool Use Through TS Policy Engines as Tool-Call Dispatch Admission Control](/gse1/)
 
 > A little bit of knowledge
 >
