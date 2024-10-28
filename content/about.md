@@ -20,6 +20,7 @@ Hope you have a great day! :D
 - Revelations 22:17
   - [Come! Decentralize with us!](/gse1/)
 - 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 🇩🇰😁
+  - [*There are several important metrics in our final system*](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
 
 ## Best Friends' Comments
 
