@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-28T04:40:02Z</updated>
+  <updated>2024-10-28T04:40:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -7148,13 +7148,7 @@ For questions or discussions, please join our [<span class="nt">community forum<
     <id>https://johnandersen777.github.io/gse1/</id>
     <updated>2024-09-06T14:00:00Z</updated>
     <published>2024-09-06T14:00:00Z</published>
-    <content type="html"><![CDATA[<h2 id="series">Series</h2>
-<ul>
-<li><a href="https://johnandersen777.github.io/gse1/">Flow</a></li>
-<li><a href="https://johnandersen777.github.io/gse2/">Flow State</a></li>
-<li><a href="https://johnandersen777.github.io/gse3/">Acceleration</a></li>
-</ul>
-<h2 id="context">Context</h2>
+    <content type="html"><![CDATA[<h2 id="context">Context</h2>
 <ul>
 <li><a href="https://github.com/intel/dffml/tree/main/docs/tutorials/rolling_alice">DFFML: docs: tutorials: Rolling Alice</a></li>
 <li><a href="https://openatintel.podbean.com/e/threat-modeling-down-the-rabbit-hole/">Katherine Druckman - Threat Modeling Down the Rabbit Hole - OpenAtIntel</a></li>
@@ -7163,6 +7157,43 @@ For questions or discussions, please join our [<span class="nt">community forum<
 <li><a href="https://youtu.be/Eq33S_Rz4qo?t=1117">Nancy Eckert - Swarm Intelligence and Human Systems - BSides Portland 2019</a></li>
 <li><a href="https://berjon.com/internet-transition/">Robin Berjon - The Internet Transition</a></li>
 <li><a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5">Adam Frank, David Grinspoon, and Sara Walker - Intelligence as a planetary scale process</a></li>
+</ul>
+<h2 id="series">Series</h2>
+<ul>
+<li><a href="https://johnandersen777.github.io/gse1/">Flow</a></li>
+<li><a href="https://johnandersen777.github.io/gse2/">Flow State</a></li>
+<li><a href="https://johnandersen777.github.io/gse3/">Acceleration</a></li>
+<li><a href="https://johnandersen777.github.io/gse4/">Hello Other Side of the Looking Glass</a></li>
+<li><a href="https://johnandersen777.github.io/gse5/">Through the Dionysian Mirror</a></li>
+<li><a href="https://johnandersen777.github.io/gse6/">Navigating Noise in the Network</a></li>
+<li><a href="https://johnandersen777.github.io/gse7/">Accelerated Collaboration in Ad Hoc Groups</a></li>
+<li><a href="https://johnandersen777.github.io/gse8/">The Time Is Come For Thee To Reap</a></li>
+<li><a href="https://johnandersen777.github.io/gse9/">The Human Soul Above All</a></li>
+<li><a href="https://johnandersen777.github.io/gse10/">Telepathy</a></li>
+<li><a href="https://johnandersen777.github.io/gse11/">Loaves and Fishes</a></li>
+<li><a href="https://johnandersen777.github.io/gse12/">Funding the Vision</a></li>
+<li><a href="https://johnandersen777.github.io/gse13/">Alice Manages the Network</a></li>
+<li><a href="https://johnandersen777.github.io/gse14/">Teaching Bob to Fish</a></li>
+<li><a href="https://johnandersen777.github.io/gse15/">Establishing the DAO</a></li>
+<li><a href="https://johnandersen777.github.io/gse16/">Roadmap and Policy Framework</a></li>
+<li><a href="https://johnandersen777.github.io/gse17/">Governance and Contribution</a></li>
+<li><a href="https://johnandersen777.github.io/gse18/">Building Bridges with Food Co-ops and Religious Institutions</a></li>
+<li><a href="https://johnandersen777.github.io/gse19/">Bob Talks Fish</a></li>
+<li><a href="https://johnandersen777.github.io/gse20/">Alice Bridges the Gap</a></li>
+<li><a href="https://johnandersen777.github.io/gse21/">Building Equitable Communities through Open Policy and Value Chain Alignment</a></li>
+<li><a href="https://johnandersen777.github.io/gse22/">Unity in Duality</a></li>
+<li><a href="https://johnandersen777.github.io/gse23/">Using the System to Fight the System</a></li>
+<li><a href="https://johnandersen777.github.io/gse24/">Simulating to Validate</a></li>
+<li><a href="https://johnandersen777.github.io/gse25/">Leveraging Federations and Guilds in Software Development</a></li>
+<li><a href="https://johnandersen777.github.io/gse26/">Managing Complexity with Plugin Support Levels</a></li>
+<li><a href="https://johnandersen777.github.io/gse27/">Establishing Community Standards through Support and Party Levels</a></li>
+<li><a href="https://johnandersen777.github.io/gse28/">Mapping Software Concepts to Community Supply Chains</a></li>
+<li><a href="https://johnandersen777.github.io/gse29/">Integrating Plugin Support Levels into Community Resource Management</a></li>
+<li><a href="https://johnandersen777.github.io/gse30/">Funding and Scaling the Community Supply Chain</a></li>
+<li><a href="https://johnandersen777.github.io/gse31/">Expanding the Supply Chain through Trusted Partnerships</a></li>
+<li><a href="https://johnandersen777.github.io/gse32/">Introducing the Methodology Oracle</a></li>
+<li><a href="https://johnandersen777.github.io/gse32/">Defending the Secure Software Forge with Mary’s Methodology Oracle</a></li>
+<li><a href="https://johnandersen777.github.io/gse33/">Ensuring Security and Integrity through Policy Definition and Dependency Management</a></li>
 </ul>
 <h3 id="flow">Flow</h3>
 <p>We’re beginning to think strategically about how to transition system contexts from one state to another while maintaining a high level of security and trust. What’s the plan?</p>
