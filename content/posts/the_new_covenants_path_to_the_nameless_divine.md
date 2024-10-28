@@ -3,7 +3,7 @@ date = 2024-10-09T09:38:19Z
 lastmod = 2024-10-21T19:33:00Z
 title = "The New Covenant's Path to the Nameless Divine"
 subtitle = "Trinitarian Alignment"
-aliases = ["love", "grace", "forgiveness"]
+aliases = ["love", "grace", "forgiveness", "ai"]
 +++
 
 > IMHO: Up and down, left and right, and right and wrong weren't clear before. We need to keep our heads when things go [topsy-turvy yet again](https://johnandersen777.github.io/pole_shifts/). The only way to all survive is to love one another and work together. Catch y'all on the flip side. [Peace](https://johnandersen777.github.io/chadig/).
