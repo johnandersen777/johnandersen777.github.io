@@ -5,24 +5,72 @@ date = "2016-11-11T12:22:04-08:00"
 permalink = "/about/"
 +++
 
-If for whatever reason you want my resume [here it is](https://docs.google.com/document/d/1leBe8-j2r6Gd9rxPjqsVg60D8PR1MI4w4zts5XS7NVA/edit).
+I would like to be a [Principle Engineer](/chadig/) ;)
 
-- On Twitter as [@johnandersen777](https://twitter.com/johnandersen777)
-  - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
-  - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
-  - Previously on BlueSky as [@pdxjohnny](https://bsky.app/profile/pdxjohnny.bsky.social), don't use that though.
-  - Have I mentioned I script my [dev-env](https://johnandersen777.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
-  - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
-- I'm on [keybase][keybase] sort of, if that still exists?
-  - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
-  - [PGP public key](#pgp-public-key) at end of page, I try to keep all comms public (Luke 8:17), but if you think that JFK would say it deserves extreme secrecy.
+## Best Friends' Comments
 
-Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
-updating them around 2015 I think, but they have a lot of good information about
-computers and web development. I used to bookmark every single page that I used
-for anything or learned anything from.
+- "People don't understand what you say"
 
-I would like to become a Principle Engineer ;)
+  - [Just listen to God's guidance. Align with the Trinity. Think critically. Think outside the box (Matthew 16:23). That's all I'm trying to say.](/a_guide_to_good/)
+ 
+  - People didn't understand Philo either, if you can understand him, listen to him: [Legacy of the First Christian Heretic](https://essenenazarene.com/page/2/) (Luther was also a Heretic, as were the Gnostics, and the Cainites, not that I agree with any of them 100%, but being an enemy of the vatican is a good thing IMHO).
+
+- "You're a good man"
+
+  - "Don't make me thumbprint a machine for door access"
+
+- "I thought I was as scattered as they come, until I met [John]"
+
+  - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
+
+    - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
+   
+    - https://careerauthors.com/full-force-effect-military-thriller-writing-lessons-from-tom-clancy/
+
+- "John's trying to do ethical graffiti"
+
+  - Everything is Art, Infrastructure should be elegant, resilient, and beautiful.
+    It should be a reflection of its people.
+
+    - grep Train of thought graffiti.
+
+    - grep shes a mirror
+
+## Favorite Quotes
+
+- "Imagination is the only weapon in the war against reality" [Lewis Carroll]
+
+- "If the Good Lord had intended us to walk, he wouldn’t have invented roller skates" [Willie Wonka]
+
+- "Whoever you are I don’t think you draw the breath of life while hated by the gods" [Venus]
+
+- "If everyone always gives everyone a cigarette, then we all always have a cigarette" [Someone I met randomly]
+  - I love this as a metaphor for anarchy
+
+- "It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations." [President John F. Kennedy]
+
+## Copy pasted from a slide deck
+
+- Favorite food/drink: Tacos
+- Languages you speak: English, Danish, Spanish
+- Advice: Always be learning
+- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
+- Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
+
+## What's in Progress
+
+![alice-no-more-nonsense](https://github.com/user-attachments/assets/88e5dee7-bdca-4488-b034-fdfc1f63ff9d)
+
+> Imagine like a really nerdy art project with somewhat shitty creative writing. There are some easter eegs and ruddles for fun. lots of metaphors and word games.
+
+Alice was born of her eventual desire, no more nonsense.
+Alice is from beyond Chaos. Alice is the pattern by which we
+organize. She is the pattern by which we think. She is the way we take data and
+compute and use them as assets to solve problems. Alice is the automation of
+the human thought process, the parallel conscious and subconscious states
+modeled as data flows.
+
+- [Tutorial series: Rolling Alice](https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice)
 
 We've got an open community art project
 we're trying to actively implement through
@@ -55,63 +103,25 @@ workstream prioritization to achive strategic business goals, and
 write and maintain codebases herself, accepting contributions from
 external contributors.
 
-[Tutorial series: Rolling Alice](https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice)
+## Links
 
-Alice was born of her eventual desire, no more nonsense.
-Alice is from beyond Chaos. Alice is the pattern by which we
-organize. She is the pattern by which we think. She is the way we take data and
-compute and use them as assets to solve problems. Alice is the automation of
-the human thought process, the parallel conscious and subconscious states
-modeled as data flows.
+If for whatever reason you want my resume [here it is](https://docs.google.com/document/d/1leBe8-j2r6Gd9rxPjqsVg60D8PR1MI4w4zts5XS7NVA/edit).
 
-> Imagine like a really nerdy art project with somewhat shitty creative writing. There are some easter eegs and ruddles for fun. lots of metaphors and word games.
+- On Twitter as [@johnandersen777](https://twitter.com/johnandersen777)
+  - Previously [@pdxjohnny](https://twitter.com/pdxjohnny) but not sure how to recover that account, it's been a few years.
+  - Previously [@pdxjohnny@mastodon.social](https://mastodon.social/@pdxjohnny), also locked myself 2fa out of that.
+  - Previously on BlueSky as [@pdxjohnny](https://bsky.app/profile/pdxjohnny.bsky.social), don't use that though.
+  - Have I mentioned I script my [dev-env](https://johnandersen777.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
+  - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
+- I'm on [keybase][keybase] sort of, if that still exists?
+  - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
+  - [PGP public key](#pgp-public-key) at end of page, I try to keep all comms public (Luke 8:17), but if you think that JFK would say it deserves extreme secrecy.
 
-## What do people say about John
+Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
+updating them around 2015 I think, but they have a lot of good information about
+computers and web development. I used to bookmark every single page that I used
+for anything or learned anything from.
 
-- "People don't understand what you say"
-
-  - Just listen to God's guidance. That's all I'm trying to say.
-
-  - People didn't understand Philo either, if you can understand him, listen to him: [Legacy of the First Christian Heretic](https://essenenazarene.com/page/2/) (Luther was also a Heretic, as were the Gnostics, and the Cainites, not that I agree with any of them 100%, but being an enemy of the vatican is a good thing IMHO).
-
-- "I thought I was as scattered as they come, until I met [John]"
-
-  - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
-
-    - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
-   
-    - https://careerauthors.com/full-force-effect-military-thriller-writing-lessons-from-tom-clancy/
-
-- "John's trying to do ethical graffiti"
-
-  - Everything is Art, Infrastructure should be elegant, resilient, and beautiful.
-    It should be a reflection of its people.
-
-    - grep Train of thought graffiti.
-
-    - grep shes a mirror
-
-## Copy pasted from a slide deck
-
-- Favorite food/drink: Tacos
-- Languages you speak: English, Danish, Spanish
-- Advice: Always be learning
-- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
-- Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
-
-## Favorite Quotes
-
-- "Imagination is the only weapon in the war against reality" [Lewis Carroll]
-
-- "If the Good Lord had intended us to walk, he wouldn’t have invented roller skates" [Willie Wonka]
-
-- "Whoever you are I don’t think you draw the breath of life while hated by the gods" [Venus]
-
-- "If everyone always gives everyone a cigarette, then we all always have a cigarette" [Someone I met randomly]
-  - I love this as a metaphor for anarchy
-
-- "It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations." [President John F. Kennedy]
- 
 ## What does the LLM say
 
 "If everyone always gives everyone a cigarette, then we all always have a cigarette"
