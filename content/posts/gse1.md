@@ -5,12 +5,6 @@ title = "Towards a Generic Methodology for Sandbox Escape: Part 1: Flow"
 subtitle = "First enable flow. Next enter flow state"
 +++
 
-## Series
-
-- [Flow](https://johnandersen777.github.io/gse1/)
-- [Flow State](https://johnandersen777.github.io/gse2/)
-- [Acceleration](https://johnandersen777.github.io/gse3/)
-
 ## Context
 
 - [DFFML: docs: tutorials: Rolling Alice](https://github.com/intel/dffml/tree/main/docs/tutorials/rolling_alice)
@@ -20,6 +14,43 @@ subtitle = "First enable flow. Next enter flow state"
 - [Nancy Eckert - Swarm Intelligence and Human Systems - BSides Portland 2019](https://youtu.be/Eq33S_Rz4qo?t=1117)
 - [Robin Berjon - The Internet Transition](https://berjon.com/internet-transition/)
 - [Adam Frank, David Grinspoon, and Sara Walker - Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
+
+## Series
+
+- [Flow](https://johnandersen777.github.io/gse1/)
+- [Flow State](https://johnandersen777.github.io/gse2/)
+- [Acceleration](https://johnandersen777.github.io/gse3/)
+- [Hello Other Side of the Looking Glass](https://johnandersen777.github.io/gse4/)
+- [Through the Dionysian Mirror](https://johnandersen777.github.io/gse5/)
+- [Navigating Noise in the Network](https://johnandersen777.github.io/gse6/)
+- [Accelerated Collaboration in Ad Hoc Groups](https://johnandersen777.github.io/gse7/)
+- [The Time Is Come For Thee To Reap](https://johnandersen777.github.io/gse8/)
+- [The Human Soul Above All](https://johnandersen777.github.io/gse9/)
+- [Telepathy](https://johnandersen777.github.io/gse10/)
+- [Loaves and Fishes](https://johnandersen777.github.io/gse11/)
+- [Funding the Vision](https://johnandersen777.github.io/gse12/)
+- [Alice Manages the Network](https://johnandersen777.github.io/gse13/)
+- [Teaching Bob to Fish](https://johnandersen777.github.io/gse14/)
+- [Establishing the DAO](https://johnandersen777.github.io/gse15/)
+- [Roadmap and Policy Framework](https://johnandersen777.github.io/gse16/)
+- [Governance and Contribution](https://johnandersen777.github.io/gse17/)
+- [Building Bridges with Food Co-ops and Religious Institutions](https://johnandersen777.github.io/gse18/)
+- [Bob Talks Fish](https://johnandersen777.github.io/gse19/)
+- [Alice Bridges the Gap](https://johnandersen777.github.io/gse20/)
+- [Building Equitable Communities through Open Policy and Value Chain Alignment](https://johnandersen777.github.io/gse21/)
+- [Unity in Duality](https://johnandersen777.github.io/gse22/)
+- [Using the System to Fight the System](https://johnandersen777.github.io/gse23/)
+- [Simulating to Validate](https://johnandersen777.github.io/gse24/)
+- [Leveraging Federations and Guilds in Software Development](https://johnandersen777.github.io/gse25/)
+- [Managing Complexity with Plugin Support Levels](https://johnandersen777.github.io/gse26/)
+- [Establishing Community Standards through Support and Party Levels](https://johnandersen777.github.io/gse27/)
+- [Mapping Software Concepts to Community Supply Chains](https://johnandersen777.github.io/gse28/)
+- [Integrating Plugin Support Levels into Community Resource Management](https://johnandersen777.github.io/gse29/)
+- [Funding and Scaling the Community Supply Chain](https://johnandersen777.github.io/gse30/)
+- [Expanding the Supply Chain through Trusted Partnerships](https://johnandersen777.github.io/gse31/)
+- [Introducing the Methodology Oracle](https://johnandersen777.github.io/gse32/)
+- [Defending the Secure Software Forge with Mary’s Methodology Oracle](https://johnandersen777.github.io/gse32/)
+- [Ensuring Security and Integrity through Policy Definition and Dependency Management](https://johnandersen777.github.io/gse33/)
 
 ### Flow
 
