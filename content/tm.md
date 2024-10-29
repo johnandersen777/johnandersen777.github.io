@@ -12,8 +12,9 @@ permalink = "/tm/"
 ## Game Plan
 
 - Mantra Loop: *Use the system to fight the system*
+  - Threat: [We the proletariat lack resilience to geomagnetic threats](/action_required/)
   - Adversary: Totalitarian Doomsday Cult
-    - Term borrowed from "The Ponzi Papers" SubStack
+    - Term borrowed from ["The Ponzi Papers" SubStack](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
   - Us: Decentralized Protopian Anti-Cult
     - Decentralized Protopian Anti-Cult
       - Decentralized: [No Single Points of Control](/gse33/)
