@@ -34,6 +34,10 @@ subtitle = "Redefining Value Exchange with Two Tokens for Work and Play"
 
 In our previous articles, we've explored various facets of building equitable communities through open policies, technological integration, and collaborative efforts. Now, we delve into a revolutionary approach to value exchange that challenges traditional monetary systems. By introducing two distinct tokens—one representing units of work and the other representing units of play—we aim to create a currency system backed by tangible standards, much like the gold standard of the past.
 
+- The American way:
+  - From each according to their ability (to follow God's will)
+  - To each according to their wants (Genesis 27:28 -> abundance)
+
 ### The Problem with Traditional Money
 
 #### Loss of Precision and Room for Deception
