@@ -53,6 +53,8 @@ Other helpful verses:
   - > 'In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you'
 - Titus 3:1-2
   - > "Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, to slander no one, to be peaceable and considerate, and always to be gentle toward everyone"
+- Luke 6:47-49
+  - > "As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built. But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete."
 
 ### Religion + Tech
 
