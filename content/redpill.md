@@ -44,7 +44,7 @@ We read the following with those in mind to learn how best to act in alignment w
         - The image doing God's good will.
         - All humanity doing only good, collective [symbiosis](/symbiosis/).
       - An image is never the same as the real thing.
-        - '"What is the sin of the world?", The Savior said, "There is no sin, but it is you who make sin' (Gospel of Mary)
+        - '"What is the sin of the world?", The Savior said, "There is no sin, but [it is you who make sin](https://github.com/johnandersen777/nahdig)' (Gospel of Mary, Matthew 16:23)
         - When we know God we know what is good. While an image is never the same as what it is an image of, it can know how to be a good image.
           - [An Image](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0007_an_image.md)
             - This is heavy on the AI, but you can see we are an artificial intelligence as well, because the only real intelligence comes from God.
