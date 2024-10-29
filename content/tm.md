@@ -37,8 +37,13 @@ aliases = ["threat_model", "game_plan"]
 
 ## Food & Housing
 
+> *If not already engaged with that should be noted as potential*
+
 - Automated farming equipment. Already in 20+ countries.
-- Houseless outreach. Already active.
+  - https://iunu.com
+- DLT Farm Data
+  - https://www.allthefarms.com
+- Houseless outreach
 - **TODO** ... add more ...
 
 ## Threats & Mitigations
