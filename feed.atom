@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-29T21:13:23Z</updated>
+  <updated>2024-10-29T21:57:45Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -1941,7 +1941,7 @@
 <p>By backing our currency with these standards, we create a system where value is directly linked to measurable inputs and outputs:</p>
 <ul>
 <li><strong>Transparency</strong>: Clear understanding of what each token represents.</li>
-<li><strong>Fairness</strong>: Equitable exchange based on actual contributions and needs.</li>
+<li><strong>Fairness</strong>: Equitable exchange based on actual contributions and wants.</li>
 <li><strong>Stability</strong>: Reduced volatility as tokens are tied to tangible goods and services.</li>
 </ul>
 <hr>
@@ -1954,9 +1954,9 @@
 </ul>
 <h3 id="units-of-play-output-token">Units of Play (Output Token)</h3>
 <ul>
-<li><strong>Definition</strong>: Each token equates to one loaf of bread and one can of salmon, representing a day's basic nourishment.</li>
-<li><strong>Using Tokens</strong>: Individuals use these tokens to obtain play from community resources or participating vendors.</li>
-<li><strong>Value Stability</strong>: Tied to tangible goods, reducing inflation and speculative fluctuations.</li>
+<li><strong>Definition</strong>: Each token represents the output process flow which units of work go into.</li>
+<li><strong>Using Tokens</strong>: Individuals use these tokens to obtain resources or services for play from community resources or participating vendors.</li>
+<li><strong>Value Stability</strong>: Tied to tangible goods and services, reducing inflation and speculative fluctuations.</li>
 </ul>
 <h3 id="exchange-mechanism">Exchange Mechanism</h3>
 <ul>
@@ -1991,12 +1991,12 @@
 <h4 id="eves-needs">Eve's Needs</h4>
 <ul>
 <li><strong>Requirement</strong>: Eve needs apples for herself and her family.</li>
-<li><strong>Tokens Used</strong>: She utilizes output tokens to obtain loaves of bread and cans of salmon.</li>
+<li><strong>Tokens Used</strong>: She utilizes output tokens to obtain loaves of bread.</li>
 </ul>
 <h4 id="exchange-process">Exchange Process</h4>
 <ul>
 <li><strong>Bob's Tokens</strong>: Bob exchanges his input tokens for output tokens, allowing him to use them for whatever he pleases without being subject to &quot;time value of money&quot;.</li>
-<li><strong>Community Benefit</strong>: Bob's work contributes to community projects, and his reward meets his needs.</li>
+<li><strong>Community Benefit</strong>: Bob's work contributes to community projects, and his reward meets his wants.</li>
 </ul>
 <h3 id="establishing-the-token-standards">Establishing the Token Standards</h3>
 <ul>
@@ -2053,16 +2053,16 @@
 <h3 id="continual-improvement">Continual Improvement</h3>
 <ul>
 <li><strong>Feedback Loops</strong>: Encouraging feedback to improve processes and address issues.</li>
-<li><strong>Adaptability</strong>: Being open to adjustments as the community's needs evolve.</li>
+<li><strong>Adaptability</strong>: Being open to adjustments as the community's wants evolve.</li>
 </ul>
 <h3 id="vision-for-the-future">Vision for the Future</h3>
 <ul>
-<li><strong>Holistic Economy</strong>: Moving towards an economy that values human effort and basic needs over abstract monetary gain.</li>
+<li><strong>Holistic Economy</strong>: Moving towards an economy that values human effort and basic wants over abstract monetary gain.</li>
 <li><strong>Inspiring Change</strong>: Setting an example that could influence broader economic models.</li>
 </ul>
 <hr>
 <h2 id="conclusion">Conclusion</h2>
-<p>By splitting money into two tokens—one for units of work and one for units of play—we propose a system that restores precision and fairness to value exchange. This dual-token economy addresses the shortcomings of traditional money by grounding currency in tangible standards and aligning it with human needs.</p>
+<p>By splitting money into two tokens—one for units of work and one for units of play—we propose a system that restores precision and fairness to value exchange. This dual-token economy addresses the shortcomings of traditional money by grounding currency in tangible standards and aligning it with human wants.</p>
 <p><strong>Why This Matters</strong></p>
 <ul>
 <li><strong>Empowerment</strong>: Individuals are directly rewarded for their contributions.</li>
@@ -2081,7 +2081,7 @@
 </ul>
 <hr>
 <p>By reimagining how we exchange value, we have the opportunity to build economies that are more aligned with human dignity and communal well-being. The dual-token system is not just a theoretical concept but a practical framework that can be adapted and implemented in communities seeking fairness and transparency.</p>
-<p>Let us consider how we might adopt such systems in our own lives and work towards economies that truly serve the needs of all.</p>]]></content>
+<p>Let us consider how we might adopt such systems in our own lives and work towards economies that truly serve the wants of all.</p>]]></content>
   </entry>
   <entry>
     <title>Towards a Generic Methodology for Sandbox Escape: Part 10: Telepathy</title>
