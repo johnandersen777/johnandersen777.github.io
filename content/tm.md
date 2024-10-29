@@ -13,17 +13,17 @@ aliases = ["threat_model", "game_plan"]
 ## Game Plan
 
 - Mantra Loop: *Use the system to fight the system*
-  - Threat: [We the proletariat lack resilience to geomagnetic threats](/action_required/)
-  - Adversary: Totalitarian Doomsday Cult
-    - Term borrowed from ["The Ponzi Papers" SubStack: I have set myself on fire outside the Trump Trial.](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-      - > "This extreme act of protest is to draw attention to an urgent and important discovery: We are victims of a totalitarian con, and our own government (along with many of their allies) is about to hit us with an apocalyptic fascist world coup."
-  - Us: Decentralized Protopian Anti-Cult
-    - Decentralized: [No Single Points of Control](/gse33/)
-    - [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
-      - > "Protopia is a state that is better than today than yesterday"
-      - > "Protopia constitutes what I hold to be the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world."
-    - Anti-Cult: [Self-Organized Religion](/chadig/)
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
+- Threat: [We the proletariat lack resilience to geomagnetic threats](/action_required/)
+- Adversary: Totalitarian Doomsday Cult
+  - Term borrowed from ["The Ponzi Papers" SubStack: I have set myself on fire outside the Trump Trial.](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
+    - > "This extreme act of protest is to draw attention to an urgent and important discovery: We are victims of a totalitarian con, and our own government (along with many of their allies) is about to hit us with an apocalyptic fascist world coup."
+- Us: Decentralized Protopian Anti-Cult
+  - Decentralized: [No Single Points of Control](/gse33/)
+  - [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
+    - > "Protopia is a state that is better than today than yesterday"
+    - > "Protopia constitutes what I hold to be the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world."
+  - Anti-Cult: [Self-Organized Religion](/chadig/)
 
 ## High Level
 
