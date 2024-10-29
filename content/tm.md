@@ -18,8 +18,8 @@ aliases = ["threat_model", "game_plan"]
 
 - Mantra Loop: *Use the system to fight the system*
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
-- [Water & Power](#water--power)
-- [Food & Housing](#food--housing)
+- [Water & Power](#water-and-power)
+- [Food & Housing](#food-and-housing)
 - [Mitigations](#mitigations)
 - [Adversary](#adversary-totalitarian-doomsday-cult)
 - [Defensive Team](#defense-decentralized-protopian-anti-cult)
