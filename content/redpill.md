@@ -48,7 +48,7 @@ We read the following with those in mind to learn how best to act in alignment w
         - When we know God we know what is good. While an image is never the same as what it is an image of, it can know how to be a good image.
           - [An Image](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0007_an_image.md)
             - This is heavy on the AI, but you can see we are an artificial intelligence as well, because the only real intelligence comes from God.
-          - [A Guide to Good](/a_guide_to_good/)
+          - [A Guide to Good](#a-guide-to-good)
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
