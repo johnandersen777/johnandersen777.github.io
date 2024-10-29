@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-29T20:34:10Z</updated>
+  <updated>2024-10-29T20:41:12Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -1915,8 +1915,8 @@
 <li><a href="https://johnandersen777.github.io/gse21/">Building Equitable Communities through Open Policy and Value Chain Alignment</a></li>
 <li>Unity in Duality</li>
 </ul>
-<h2 id="redefining-value-exchange-with-two-tokens-for-work-and-food">Redefining Value Exchange with Two Tokens for Work and Food</h2>
-<p>In our previous articles, we've explored various facets of building equitable communities through open policies, technological integration, and collaborative efforts. Now, we delve into a revolutionary approach to value exchange that challenges traditional monetary systems. By introducing two distinct tokens—one representing units of work and the other representing units of food—we aim to create a currency system backed by tangible standards, much like the gold standard of the past.</p>
+<h2 id="redefining-value-exchange-with-two-tokens-for-work-and-play">Redefining Value Exchange with Two Tokens for Work and Play</h2>
+<p>In our previous articles, we've explored various facets of building equitable communities through open policies, technological integration, and collaborative efforts. Now, we delve into a revolutionary approach to value exchange that challenges traditional monetary systems. By introducing two distinct tokens—one representing units of work and the other representing units of play—we aim to create a currency system backed by tangible standards, much like the gold standard of the past.</p>
 <h3 id="the-problem-with-traditional-money">The Problem with Traditional Money</h3>
 <h4 id="loss-of-precision-and-room-for-deception">Loss of Precision and Room for Deception</h4>
 <p>Money, in its current form, serves as a common denominator for all goods and services. While this abstraction facilitates trade, it also introduces significant issues:</p>
@@ -1931,7 +1931,7 @@
 <p>To address these issues, we propose splitting the concept of money into two distinct tokens:</p>
 <ol>
 <li><strong>Units of Work (Input Token)</strong>: Representing the input of labor measured in 2.5-hour blocks.</li>
-<li><strong>Units of Food (Output Token)</strong>: Representing the output, specifically quantified as one loaf of bread and one can of salmon (equivalent to one day's basic food requirement).</li>
+<li><strong>Units of Play (Output Token)</strong>: Representing the output, used for play (which could be food or whatever, needs to be all encompassing).</li>
 </ol>
 <h3 id="backing-currency-with-tangible-standards">Backing Currency with Tangible Standards</h3>
 <p>By backing our currency with these standards, we create a system where value is directly linked to measurable inputs and outputs:</p>
@@ -1948,22 +1948,22 @@
 <li><strong>Earning Tokens</strong>: Individuals earn tokens by completing units of work, verified through transparent systems (e.g., time logs, peer verification).</li>
 <li><strong>Value Representation</strong>: Direct correlation between effort and earning, promoting fairness.</li>
 </ul>
-<h3 id="units-of-food-output-token">Units of Food (Output Token)</h3>
+<h3 id="units-of-play-output-token">Units of Play (Output Token)</h3>
 <ul>
 <li><strong>Definition</strong>: Each token equates to one loaf of bread and one can of salmon, representing a day's basic nourishment.</li>
-<li><strong>Using Tokens</strong>: Individuals use these tokens to obtain food from community resources or participating vendors.</li>
+<li><strong>Using Tokens</strong>: Individuals use these tokens to obtain play from community resources or participating vendors.</li>
 <li><strong>Value Stability</strong>: Tied to tangible goods, reducing inflation and speculative fluctuations.</li>
 </ul>
 <h3 id="exchange-mechanism">Exchange Mechanism</h3>
 <ul>
-<li><strong>Earning and Spending</strong>: Individuals perform work to earn input tokens, which can then be exchanged for output tokens representing food.</li>
+<li><strong>Earning and Spending</strong>: Individuals perform work to earn input tokens, which can then be exchanged for output tokens representing play.</li>
 <li><strong>Community Circulation</strong>: Tokens circulate within the community, ensuring that contributions directly support communal well-being.</li>
 </ul>
 <hr>
 <h2 id="addressing-the-limitations-of-traditional-money">Addressing the Limitations of Traditional Money</h2>
 <h3 id="precision-in-value-exchange">Precision in Value Exchange</h3>
 <ul>
-<li><strong>Specificity</strong>: Tokens represent specific quantities of work and food, eliminating ambiguity.</li>
+<li><strong>Specificity</strong>: Tokens represent specific quantities of work and play, eliminating ambiguity.</li>
 <li><strong>Contextual Understanding</strong>: Recognizes the intrinsic value of labor and essential goods.</li>
 </ul>
 <h3 id="reducing-deception">Reducing Deception</h3>
@@ -1986,12 +1986,12 @@
 </ul>
 <h4 id="eves-needs">Eve's Needs</h4>
 <ul>
-<li><strong>Requirement</strong>: Eve needs food for herself and her family.</li>
+<li><strong>Requirement</strong>: Eve needs apples for herself and her family.</li>
 <li><strong>Tokens Used</strong>: She utilizes output tokens to obtain loaves of bread and cans of salmon.</li>
 </ul>
 <h4 id="exchange-process">Exchange Process</h4>
 <ul>
-<li><strong>Bob's Tokens</strong>: Bob exchanges his input tokens for output tokens, allowing him to access food.</li>
+<li><strong>Bob's Tokens</strong>: Bob exchanges his input tokens for output tokens, allowing him to use them for whatever he pleases without being subject to &quot;time value of money&quot;.</li>
 <li><strong>Community Benefit</strong>: Bob's work contributes to community projects, and his reward meets his needs.</li>
 </ul>
 <h3 id="establishing-the-token-standards">Establishing the Token Standards</h3>
@@ -2009,6 +2009,7 @@
 <h3 id="alignment-with-human-needs">Alignment with Human Needs</h3>
 <ul>
 <li><strong>Basic Necessities</strong>: Directly addresses the fundamental need for food.</li>
+<li><strong>Higher Order Rewards</strong>: Removes time value of money robbing people of their time put in, allowing them to have full value of their work for play.</li>
 <li><strong>Motivation to Contribute</strong>: Encourages participation in community projects.</li>
 </ul>
 <h3 id="economic-stability">Economic Stability</h3>
@@ -2057,7 +2058,7 @@
 </ul>
 <hr>
 <h2 id="conclusion">Conclusion</h2>
-<p>By splitting money into two tokens—one for units of work and one for units of food—we propose a system that restores precision and fairness to value exchange. This dual-token economy addresses the shortcomings of traditional money by grounding currency in tangible standards and aligning it with human needs.</p>
+<p>By splitting money into two tokens—one for units of work and one for units of play—we propose a system that restores precision and fairness to value exchange. This dual-token economy addresses the shortcomings of traditional money by grounding currency in tangible standards and aligning it with human needs.</p>
 <p><strong>Why This Matters</strong></p>
 <ul>
 <li><strong>Empowerment</strong>: Individuals are directly rewarded for their contributions.</li>
@@ -2068,7 +2069,7 @@
 <hr>
 <h2 id="notes">Notes</h2>
 <ul>
-<li><strong>Unity in Duality</strong>: The concept emphasizes the interconnectedness of input (work) and output (food), creating a balanced system.</li>
+<li><strong>Unity in Duality</strong>: The concept emphasizes the interconnectedness of input (work) and output (play), creating a balanced system.</li>
 <li><strong>Addressing Money's Flaws</strong>: Critically examined how traditional money can obscure value and enable unfairness.</li>
 <li><strong>Practical Application</strong>: Provided a clear example with Bob and Eve to illustrate the system in action.</li>
 <li><strong>Challenges</strong>: Acknowledged potential obstacles and the need for thoughtful implementation.</li>
@@ -3696,7 +3697,7 @@
 <h3 id="mapping-game-mechanics-to-community-models">Mapping Game Mechanics to Community Models</h3>
 <p>We will align game elements with our proposed community concepts:</p>
 <ul>
-<li><strong>Tokens and Currency</strong>: Gold and resources represent our dual-token system of work units and food units.</li>
+<li><strong>Tokens and Currency</strong>: Gold and resources represent our dual-token system of work units and play units.</li>
 <li><strong>Citizen Management</strong>: Citizens symbolize community members whose needs and contributions must be balanced.</li>
 <li><strong>Building and Upgrades</strong>: Infrastructure development reflects community projects and investments.</li>
 </ul>
@@ -3712,7 +3713,7 @@
 <h3 id="implementing-the-dual-token-system">Implementing the Dual-Token System</h3>
 <ul>
 <li><strong>Input Tokens (Work Units)</strong>: Simulate through citizens' labor contributing to resource generation.</li>
-<li><strong>Output Tokens (Food Units)</strong>: Represented by food resources required to sustain citizens.</li>
+<li><strong>Output Tokens (Play Units)</strong>: Citizens needs and wants no longer subject to &quot;time value of money&quot;.</li>
 </ul>
 <h3 id="community-decision-making">Community Decision-Making</h3>
 <ul>
