@@ -53,6 +53,8 @@ Hope you have a great day! :D
 
 ## Favorite Quotes
 
+- ["Tell your gods I'm coming"](https://www.reddit.com/r/Xcom/comments/isd9nh/tell_your_gods_im_coming/) [The Time is Come for Thee to [Reap](https://xcom.fandom.com/wiki/Reapers)]
+
 - "Imagination is the only weapon in the war against reality" [Lewis Carroll]
 
 - "If the Good Lord had intended us to walk, he wouldn’t have invented roller skates" [Willie Wonka]
