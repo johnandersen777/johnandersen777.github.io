@@ -52,6 +52,8 @@ permalink = "/tm/"
 
 ## References
 
-- **TOOD**
+- Farming
+  - [Oregon Public Broadcasting: It’s not easy to become a farmer. This Oregon farm incubator seeks to change that](https://www.opb.org/article/2024/10/28/its-not-easy-to-become-a-farmer-this-oregon-farm-incubator-seeks-to-change-that/)
+- **TODO** ... add more ...
 
 ![we-can-turn-this-shit-around-tank-girl](https://github.com/user-attachments/assets/b098ae3c-4c36-4074-88b4-c7d9189dd024)
