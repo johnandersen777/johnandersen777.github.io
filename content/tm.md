@@ -23,7 +23,7 @@ aliases = ["threat_model", "game_plan"]
   - [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
     - > "Protopia is a state that is better than today than yesterday"
     - > "Protopia constitutes what I hold to be the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world."
-  - Anti-Cult: [Self-Organized Religion](/chadig/)
+  - Anti-Cult: [Self-Organized Religions (8 odd-billion cults of One)](/chadig/)
 
 ## High Level
 
