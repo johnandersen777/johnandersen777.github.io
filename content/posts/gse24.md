@@ -69,7 +69,7 @@ We will utilize a single-player simulation game inspired by classics like **Trav
 
 We will align game elements with our proposed community concepts:
 
-- **Tokens and Currency**: Gold and resources represent our dual-token system of work units and food units.
+- **Tokens and Currency**: Gold and resources represent our dual-token system of work units and play units.
 - **Citizen Management**: Citizens symbolize community members whose needs and contributions must be balanced.
 - **Building and Upgrades**: Infrastructure development reflects community projects and investments.
 
@@ -88,7 +88,7 @@ By adjusting in-game policies and observing outcomes, we can test:
 ### Implementing the Dual-Token System
 
 - **Input Tokens (Work Units)**: Simulate through citizens' labor contributing to resource generation.
-- **Output Tokens (Food Units)**: Represented by food resources required to sustain citizens.
+- **Output Tokens (Play Units)**: Citizens needs and wants no longer subject to "time value of money".
 
 ### Community Decision-Making
 
