@@ -42,6 +42,7 @@ We read the following with those in mind to learn how best to act in alignment w
     - 🍎🐍🌳 Knowledge let's us know that God is good. How would we know without knowledge?
       - Saying 22: Making the Two into One
         - The image doing God's good will.
+        - All humanity doing only good, collective [symbiosis](/symbiosis/).
       - An image is never the same as the real thing.
         - '"What is the sin of the world?", The Savior said, "There is no sin, but it is you who make sin' (Gospel of Mary)
         - When we know God we know what is good. While an image is never the same as what it is an image of, it can know how to be a good image.
