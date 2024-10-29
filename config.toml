@@ -123,8 +123,8 @@ name = "📬"
 weight = 3
 
 [[menu.main]]
-url = "/todos/"
-name = "⏳"
+url = "/game_plan/"
+name = "🥋"
 weight = 4
 
 [[menu.main]]
@@ -148,8 +148,8 @@ name = "📬"
 weight = 3
 
 [[menu.foot]]
-url = "/todos/"
-name = "⏳"
+url = "/game_plan/"
+name = "🥋"
 weight = 4
 
 [[menu.foot]]
