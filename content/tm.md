@@ -6,7 +6,7 @@ permalink = "/tm/"
 aliases = ["threat_model", "game_plan"]
 +++
 
-> *"The best defense is a good offense"*
+> *"The best defense is a good offense, and I intend to start offending right now"*
 
 ## Quicklinks
 
