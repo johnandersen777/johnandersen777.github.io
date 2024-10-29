@@ -18,7 +18,9 @@ permalink = "/tm/"
   - Us: Decentralized Protopian Anti-Cult
     - Decentralized Protopian Anti-Cult
       - Decentralized: [No Single Points of Control](/gse33/)
-      - Protopian: [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
+      - [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
+        - > "Protopia is a state that is better than today than yesterday"
+        - > "Protopia constitutes what I hold to be the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world."
       - Anti-Cult: [Self-Organized Religion](/chadig/)
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
 
