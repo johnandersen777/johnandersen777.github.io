@@ -120,7 +120,7 @@ By backing our currency with these standards, we create a system where value is 
 #### Eve's Needs
 
 - **Requirement**: Eve needs apples for herself and her family.
-- **Tokens Used**: She utilizes output tokens to obtain loaves of bread.
+- **Tokens Used**: Transparency services which input work to process flows used to create. This allows us to determine aggregate number of inputs tokens needed to produce the apples she wants. She can use her own input tokens earned or may have some given to her based on her level of ability. Those who are unable to produce input tokens will still receive output tokens according to their wants and needs.
 
 #### Exchange Process
 
