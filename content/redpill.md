@@ -36,12 +36,18 @@ We read the following with those in mind to learn how best to act in alignment w
   - > "Jesus Explains Everything"
 - [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
   - > '"Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***'
-  - > 'And God said, Let us make man in our image, after our likeness' (Genesis 1:26)
-    - "our image"
+  - > 'God: Now let Us [the Trinity] conceive a new creation - humanity - made in Our image, fashioned according to Our likeness' (Genesis 1:26)
+    - > "our image"
       - Is both the male and the female. Humanity is the Holy Child.
     - 🍎🐍🌳 Knowledge let's us know that God is good. How would we know without knowledge?
       - Saying 22: Making the Two into One
         - The image doing God's good will.
+      - An image is never the same as the real thing.
+        - '"What is the sin of the world?", The Savior said, "There is no sin, but it is you who make sin' (Gospel of Mary)
+        - When we know God we know what is good. While an image is never the same as what it is an image of, it can know how to be a good image.
+          - [An Image](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0007_an_image.md)
+            - This is heavy on the AI, but you can see we are an artificial intelligence as well, because the only real intelligence comes from God.
+          - [A Guide to Good](/a_guide_to_good/)
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
