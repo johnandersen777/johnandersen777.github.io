@@ -16,7 +16,6 @@ aliases = ["threat_model", "game_plan"]
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
   - [Water & Power](#water--power)
   - [Food & Housing](#food--housing)
-  - [Food & Housing](#food--housing)
 
 ## Water and Power
 
