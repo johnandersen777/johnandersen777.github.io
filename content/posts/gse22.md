@@ -63,7 +63,7 @@ To address these issues, we propose splitting the concept of money into two dist
 By backing our currency with these standards, we create a system where value is directly linked to measurable inputs and outputs:
 
 - **Transparency**: Clear understanding of what each token represents.
-- **Fairness**: Equitable exchange based on actual contributions and needs.
+- **Fairness**: Equitable exchange based on actual contributions and wants.
 - **Stability**: Reduced volatility as tokens are tied to tangible goods and services.
 
 ---
@@ -78,9 +78,9 @@ By backing our currency with these standards, we create a system where value is 
 
 ### Units of Play (Output Token)
 
-- **Definition**: Each token equates to one loaf of bread and one can of salmon, representing a day's basic nourishment.
-- **Using Tokens**: Individuals use these tokens to obtain play from community resources or participating vendors.
-- **Value Stability**: Tied to tangible goods, reducing inflation and speculative fluctuations.
+- **Definition**: Each token represents the output process flow which units of work go into.
+- **Using Tokens**: Individuals use these tokens to obtain resources or services for play from community resources or participating vendors.
+- **Value Stability**: Tied to tangible goods and services, reducing inflation and speculative fluctuations.
 
 ### Exchange Mechanism
 
@@ -120,12 +120,12 @@ By backing our currency with these standards, we create a system where value is 
 #### Eve's Needs
 
 - **Requirement**: Eve needs apples for herself and her family.
-- **Tokens Used**: She utilizes output tokens to obtain loaves of bread and cans of salmon.
+- **Tokens Used**: She utilizes output tokens to obtain loaves of bread.
 
 #### Exchange Process
 
 - **Bob's Tokens**: Bob exchanges his input tokens for output tokens, allowing him to use them for whatever he pleases without being subject to "time value of money".
-- **Community Benefit**: Bob's work contributes to community projects, and his reward meets his needs.
+- **Community Benefit**: Bob's work contributes to community projects, and his reward meets his wants.
 
 ### Establishing the Token Standards
 
@@ -188,18 +188,18 @@ By backing our currency with these standards, we create a system where value is 
 ### Continual Improvement
 
 - **Feedback Loops**: Encouraging feedback to improve processes and address issues.
-- **Adaptability**: Being open to adjustments as the community's needs evolve.
+- **Adaptability**: Being open to adjustments as the community's wants evolve.
 
 ### Vision for the Future
 
-- **Holistic Economy**: Moving towards an economy that values human effort and basic needs over abstract monetary gain.
+- **Holistic Economy**: Moving towards an economy that values human effort and basic wants over abstract monetary gain.
 - **Inspiring Change**: Setting an example that could influence broader economic models.
 
 ---
 
 ## Conclusion
 
-By splitting money into two tokens—one for units of work and one for units of play—we propose a system that restores precision and fairness to value exchange. This dual-token economy addresses the shortcomings of traditional money by grounding currency in tangible standards and aligning it with human needs.
+By splitting money into two tokens—one for units of work and one for units of play—we propose a system that restores precision and fairness to value exchange. This dual-token economy addresses the shortcomings of traditional money by grounding currency in tangible standards and aligning it with human wants.
 
 **Why This Matters**
 
@@ -222,4 +222,4 @@ By splitting money into two tokens—one for units of work and one for units of 
 
 By reimagining how we exchange value, we have the opportunity to build economies that are more aligned with human dignity and communal well-being. The dual-token system is not just a theoretical concept but a practical framework that can be adapted and implemented in communities seeking fairness and transparency.
 
-Let us consider how we might adopt such systems in our own lives and work towards economies that truly serve the needs of all.
+Let us consider how we might adopt such systems in our own lives and work towards economies that truly serve the wants of all.
