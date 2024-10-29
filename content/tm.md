@@ -17,14 +17,14 @@ permalink = "/tm/"
   - Us: Decentralized Protopian Anti-Cult
     - Decentralized Protopian Anti-Cult
       - Decentralized: [No Single Points of Control](/gse33/)
-      - Protopian: [Incremental Continuous Improvement]()
+      - Protopian: [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
       - Anti-Cult: [Self-Organized Religion](/chadig/)
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
 
 ## High Level
 
-- [Water & Power](#water---power)
-- [Food & Housing](#food---housing)
+- [Water & Power](#water--power)
+- [Food & Housing](#food--housing)
 
 ## Water & Power
 
