@@ -21,7 +21,7 @@ aliases = ["threat_model", "game_plan"]
 - [Water & Power](#water--power)
 - [Food & Housing](#food--housing)
 - [Mitigations](#mitigations)
-- [Adversary](#adversary-totalitarian doomsday cult)
+- [Adversary](#adversary-totalitarian-doomsday-cult)
 - [Defensive Team](#defense-decentralized-protopian-anti-cult)
 
 ## Water and Power
@@ -62,7 +62,7 @@ aliases = ["threat_model", "game_plan"]
     - > "The men launched into a series of questions about topics like Bitcoin vs. Ethereum, augmented reality vs. virtual reality, and—most alarming—Alaska or New Zealand."
     - > "The men cited potential disasters caused by electromagnetic pulses, economic downturn, disease, or war that might “necessitate them leaving their Silicon Valley ranches and retreating to these fortified bunkers in the middle of nowhere."
 - Term borrowed from ["The Ponzi Papers" SubStack: I have set myself on fire outside the Trump Trial.](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-- > "This extreme act of protest is to draw attention to an urgent and important discovery: We are victims of a totalitarian con, and our own government (along with many of their allies) is about to hit us with an apocalyptic fascist world coup."
+  - > "This extreme act of protest is to draw attention to an urgent and important discovery: We are victims of a totalitarian con, and our own government (along with many of their allies) is about to hit us with an apocalyptic fascist world coup."
 
 ## Defense: Decentralized Protopian Anti-Cult
 
