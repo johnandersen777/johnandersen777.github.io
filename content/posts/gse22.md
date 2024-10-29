@@ -1,7 +1,7 @@
 +++
 date = 2024-10-06T04:18:00Z
 lastmod = 2024-10-06T04:18:00Z
-title = "Towards a Generic Methodology for Sandbox Escape: Part 22: Unity in Duality"
+title = "Towards a Generic Methodology for Sandbox Escape: Part 22: Work & Play"
 subtitle = "Redefining Value Exchange with Two Tokens for Work and Play"
 +++
 
@@ -36,7 +36,7 @@ In our previous articles, we've explored various facets of building equitable co
 - [Bob Talks Fish](https://johnandersen777.github.io/gse19/)
 - [Alice Bridges the Gap](https://johnandersen777.github.io/gse20/)
 - [Building Equitable Communities through Open Policy and Value Chain Alignment](https://johnandersen777.github.io/gse21/)
-- [nity in Duality](/gse22/)
+- [Work & Play](/gse22/)
 
 ### The Problem with Traditional Money
 
@@ -179,7 +179,7 @@ By backing our currency with these standards, we create a system where value is 
 
 ---
 
-## Moving Forward: Embracing Unity in Duality
+## Moving Forward: Embracing Work & Play
 
 ### Collective Action
 
@@ -213,7 +213,7 @@ By splitting money into two tokens—one for units of work and one for units of 
 
 ## Notes
 
-- **Unity in Duality**: The concept emphasizes the interconnectedness of input (work) and output (play), creating a balanced system.
+- **Work & Play**: The concept emphasizes the interconnectedness of input (work) and output (play), creating a balanced system.
 - **Addressing Money's Flaws**: Critically examined how traditional money can obscure value and enable unfairness.
 - **Practical Application**: Provided a clear example with Bob and Eve to illustrate the system in action.
 - **Challenges**: Acknowledged potential obstacles and the need for thoughtful implementation.

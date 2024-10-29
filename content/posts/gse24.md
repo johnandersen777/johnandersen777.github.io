@@ -28,7 +28,7 @@ subtitle = "Building a Simulated Environment for Backvalidation of Community Mod
 - [Bob Talks Fish](https://johnandersen777.github.io/gse19/)
 - [Alice Bridges the Gap](https://johnandersen777.github.io/gse20/)
 - [Building Equitable Communities through Open Policy and Value Chain Alignment](https://johnandersen777.github.io/gse21/)
-- [Unity in Duality](https://johnandersen777.github.io/gse22/)
+- [Work & Play](https://johnandersen777.github.io/gse22/)
 - [Using the System to Fight the System](https://johnandersen777.github.io/gse23/)
 - Simulating to Validate
 
