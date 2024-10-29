@@ -6,6 +6,8 @@ permalink = "/tm/"
 aliases = ["threat_model", "game_plan"]
 +++
 
+> *"The best defense is a good offense"*
+
 ## Links
 
 - Backref: [TODOs](/todos/)
@@ -19,12 +21,14 @@ aliases = ["threat_model", "game_plan"]
 
 ## Water and Power
 
+![we-can-turn-this-shit-around-tank-girl](https://github.com/user-attachments/assets/b098ae3c-4c36-4074-88b4-c7d9189dd024)
+
 - Solar arrays power well water
 - **TODO** ... add more ...
 
 ## Food and Housing
 
-> *If not already engaged with that should be noted as potential*
+![521px-All_Harvester_Products_are_war_products](https://github.com/user-attachments/assets/179c5ff4-273c-4a3a-835e-5b77738e6765)
 
 - Automated farming equipment. Already in 20+ countries.
   - https://iunu.com
@@ -54,10 +58,6 @@ aliases = ["threat_model", "game_plan"]
 
 ## Defense: Decentralized Protopian Anti-Cult
 
-> *"The best defense is a good offense"*
-
-![521px-All_Harvester_Products_are_war_products](https://github.com/user-attachments/assets/179c5ff4-273c-4a3a-835e-5b77738e6765)
-
 - Decentralized: [No Single Points of Control](/gse33/)
 - [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
   - > "Protopia is a state that is better than today than yesterday"
@@ -69,5 +69,3 @@ aliases = ["threat_model", "game_plan"]
 - Farming
   - [Oregon Public Broadcasting: It’s not easy to become a farmer. This Oregon farm incubator seeks to change that](https://www.opb.org/article/2024/10/28/its-not-easy-to-become-a-farmer-this-oregon-farm-incubator-seeks-to-change-that/)
 - **TODO** ... add more ...
-
-![we-can-turn-this-shit-around-tank-girl](https://github.com/user-attachments/assets/b098ae3c-4c36-4074-88b4-c7d9189dd024)
