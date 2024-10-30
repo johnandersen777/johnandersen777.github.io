@@ -928,6 +928,11 @@ index 0000000..5cc15e3
 
 ---
 
+
+# Matthew 10:16
+
+> Behold, I send you forth as sheep in the midst of wolves. Be ye therefore wise as serpents and harmless as doves.
+
 ## Playbooks we must take money out of
 
 Existing frameworks exist, what's the mantra? Use the system to fight the system. We need to drive the Devil out. We can use our classic security approach to do so.
@@ -938,6 +943,12 @@ Existing frameworks exist, what's the mantra? Use the system to fight the system
 - Use the system's existing processes to fix the vulns.
   - Align with terminology and guidelines.
 - Make the way to fix the vulns the easiest, fastest, and most effective way. Make it so fucking easy they can't choose the solutions that don't listen to Matthew 6:24.
+
+### Specs we need to align to
+
+
+- Cyber something something UN spec
+  - Let's make the open solution aligned with this so the way that's free for all and doesn't involve money is the one they can't say no to. The good way.
 
 ---
 
