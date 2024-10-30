@@ -20,6 +20,11 @@ aliases = ["threat_model", "game_plan"]
 ## Game Plan 🥋
 
 - Mantra Loop: *Use the system to fight the system*
+  - A free world is a world free to do [God's good will](/a_guide_to_good/)
+  - We will use the UN's Global Digital Compact as our vector to implement
+    Matthew 6:24. We'll ensure the online platform information gateway is
+    either implemented by or rivaled and superseded by an open architecture /
+    implementation which prevents deception and inequality.
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
 - [Water & Power](#water-and-power)
 - [Food & Housing](#food-and-housing)
