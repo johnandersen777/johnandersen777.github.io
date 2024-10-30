@@ -967,6 +967,8 @@ Existing frameworks exist, what's the mantra? Use the system to fight the system
     - What happened to freedom of movement of labour?
   - 10.c: By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent
     - Why not 0? Who stands to gain here? Monopolies, that's who, they will further centralize.
+  - 16.3: Promote the rule of law at the national and international levels and ensure equal access  to justice for all
+    - John 13:34-35 is the only true law (Hebrews 8:13) - we must make sure value chain analysis ensures this
 - [Sendai Framework for Disaster Risk Reduction: 2015-2030](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
   - Priority 4: Enhancing disaster preparedness for effective response and to "Build Back Better" in recovery, rehabilitation and reconstruction
   - Disasters have demonstrated that the recovery, rehabilitation and reconstruction phase, which needs to be prepared ahead of a disaster, is a critical opportunity to "Build Back Better", including through integrating disaster risk reduction into development measures, making nations and communities resilient to disasters.
