@@ -930,6 +930,17 @@ index 0000000..5cc15e3
 
 ## Playbooks we must take money out of
 
+Existing frameworks exist, what's the mantra? Use the system to fight the system. We need to drive the Devil out. We can use our classic security approach to do so.
+
+- Find the vulns.
+- Expose the vulns.
+  - Make sure everybody knows vulns are everybody's problem until everyone understands it needs to get fixed.
+- Use the system's existing processes to fix the vulns.
+  - Align with terminology and guidelines.
+- Make the way to fix the vulns the easiest, fastest, and most effective way. Make it so fucking easy they can't choose the solutions that don't listen to Matthew 6:24.
+
+---
+
 - [Unitied Nations: Transforming Our World](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
   - Mark of the beast. NOT GOOD.
   - 16.9: By 2030, provide legal identity for all, including birth registration
@@ -950,3 +961,7 @@ index 0000000..5cc15e3
   - Disasters have demonstrated that the recovery, rehabilitation and reconstruction phase, which needs to be prepared ahead of a disaster, is a critical opportunity to "Build Back Better", including through integrating disaster risk reduction into development measures, making nations and communities resilient to disasters.
     - Well, well, well, if it ain't "Rebuilding Dionysia", heard that one before. As well as 2030 date. Chaos is a ladder.
   - IV. 48. d. International financial institutions, such as the World Bank and regional development banks, to consider the priorities of the present Framework for providing financial support and loans for integrated disaster risk reduction to developing countries;
+- Hyogo Framework for Action 2005-2015: International Strategy for Disaster Reduction: Building the Resilience of Nations and Communities to Disasters
+  - Vulnerability is defined as: “The conditions determined by physical, social, economic, and environmental factors or processes, which increase the susceptibility of a community to the impact of hazards”. UN/ISDR. Geneva 2004.
+  - 2 Hazard is defined as: “A potentially damaging physical event, phenomenon or human activity that may cause the loss of life or injury, property damage, social and economic disruption or environmental degradation. Hazards can include latent conditions that may represent future threats and can have different origins: natural (geological, hydrometeorological and biological) or induced by human processes (environmental degradation and technological hazards)” UN/ISDR. Geneva 2004.
+  - 3 The scope of this Framework for Action encompasses disasters caused by hazards of natural origin and related environmental and technological hazards and risks. It thus reflects a holistic and multi- hazard approach to disaster risk management and the relationship, between them which can have a significant impact on social, economic, cultural and environmental systems, as stressed in the Yokohama Strategy (section I, part B, letter I, p. 8)
