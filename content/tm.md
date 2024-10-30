@@ -26,11 +26,56 @@ aliases = ["threat_model", "game_plan"]
     either implemented by or rivaled and superseded by an open architecture /
     implementation which prevents deception and inequality.
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
+- [Threats](#threats)
+- [Mitigations](#mitigations)
+- [Defensive Team](#defense-decentralized-protopian-anti-cult)
 - [Water & Power](#water-and-power)
 - [Food & Housing](#food-and-housing)
-- [Mitigations](#mitigations)
-- [Adversary](#adversary-totalitarian-doomsday-cult)
-- [Defensive Team](#defense-decentralized-protopian-anti-cult)
+
+## Threats
+
+- [We lack resilience](/action_required/)
+- Falling into the "Totalitarian Doomsday Cult" mindset
+  - Term borrowed from ["The Ponzi Papers" SubStack](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
+    - We may about to be hit with *"with an apocalyptic fascist world coup"*
+  - In Mr. Azzarello's writing, he uses the phrase *"So we would believe it"*
+    repeatedly, this literary device is not literal, it is metaphorical for
+    **the mindset we must avoid falling into** which is the true vulnerability
+    we must collectively face.
+    - > "We find similar goals of instilling fear and partisan division throughout new media and daytime television: We are bombarded with messaging with the express purpose of dividing us and instilling learned helplessness: It’s a cult leader tactic on a global scale."
+  - The key take away from this should be as [Franklin D.
+    Roosevelt](https://historymatters.gmu.edu/d/5057/) said: *"Only Thing We
+    Have to Fear Is Fear Itself"*.
+    - The mindset of normalcy of injustice makes humanity an easy target for
+      deception, and perpetuates fears the world cannot be changed and made
+      better.
+
+## Mitigations
+
+> Largely mitigated by combination of Artificial Intelligence, Transparency
+> Services, and Policy Engines to form backbone of [decentralized
+> governance](https://github.com/johnandersen777/chadig).
+
+- On-boarding guidance
+  - Documenting processes and following of documented processes assisted by AI
+- Funding auto-distribution
+  - Transparent Policy and Alignment Proposal process (Wardly Maps)
+- Ensure self-declared moral values are being followed.
+  - Value chain analysis
+
+## Defense: Decentralized Protopian Anti-Cult
+
+- Decentralized: [No Single Points of Control](/gse33/)
+- [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
+  - > "Protopia is a state that is better than today than yesterday"
+  - > "Protopia constitutes what I hold to be the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world."
+- Anti-Cult: [Self-Organized Religions (8 odd-billion anti-cults of One)](/chadig/)
+
+## References
+
+- Farming
+  - [Oregon Public Broadcasting: It’s not easy to become a farmer. This Oregon farm incubator seeks to change that](https://www.opb.org/article/2024/10/28/its-not-easy-to-become-a-farmer-this-oregon-farm-incubator-seeks-to-change-that/)
+- **TODO** ... add more ...
 
 ## Water and Power
 
@@ -48,40 +93,4 @@ aliases = ["threat_model", "game_plan"]
 - DLT Farm Data
   - https://www.allthefarms.com
 - Houseless outreach
-- **TODO** ... add more ...
-
-## Mitigations
-
-> Largely mitigated by combination of Artificial Intelligence and Transparency
-> Services and Policy Engines to form backbone of [decentralized
-> governance](https://github.com/johnandersen777/chadig).
-
-- On-boarding guidance
-  - Documenting processes and following of documented processes assisted by AI
-- Funding auto-distribution
-  - Transparent Policy and Alignment Proposal process (Wardly Maps)
-- Ensure self-declared moral values are being followed.
-  - Value chain analysis
-
-## Adversary: Totalitarian Doomsday Cult
-
-- Threat: [We the proletariat lack resilience](/action_required/)
-  - [Vice: Billionaires Are Building Luxury Bunkers to Escape Doomsday](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/)
-    - > "The men launched into a series of questions about topics like Bitcoin vs. Ethereum, augmented reality vs. virtual reality, and—most alarming—Alaska or New Zealand."
-    - > "The men cited potential disasters caused by electromagnetic pulses, economic downturn, disease, or war that might “necessitate them leaving their Silicon Valley ranches and retreating to these fortified bunkers in the middle of nowhere."
-- Term borrowed from ["The Ponzi Papers" SubStack: I have set myself on fire outside the Trump Trial.](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-  - > "This extreme act of protest is to draw attention to an urgent and important discovery: We are victims of a totalitarian con, and our own government (along with many of their allies) is about to hit us with an apocalyptic fascist world coup."
-
-## Defense: Decentralized Protopian Anti-Cult
-
-- Decentralized: [No Single Points of Control](/gse33/)
-- [Protopian](https://kk.org/thetechnium/protopia/): [Incremental Continuous Improvement via Entity Analysis Trinity](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/README.md#entity-analysis-trinity)
-  - > "Protopia is a state that is better than today than yesterday"
-  - > "Protopia constitutes what I hold to be the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world."
-- Anti-Cult: [Self-Organized Religions (8 odd-billion anti-cults of One)](/chadig/)
-
-## References
-
-- Farming
-  - [Oregon Public Broadcasting: It’s not easy to become a farmer. This Oregon farm incubator seeks to change that](https://www.opb.org/article/2024/10/28/its-not-easy-to-become-a-farmer-this-oregon-farm-incubator-seeks-to-change-that/)
 - **TODO** ... add more ...

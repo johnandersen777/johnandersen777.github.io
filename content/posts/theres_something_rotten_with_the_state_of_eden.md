@@ -377,7 +377,17 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
 
 - [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf)
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-  - > Please read at least the first post. The threat is the pole shift. And his style of humor may not make sense to those who don't have the same morbidity level in their humor, it's dark my friends, very dark, and therefore the humor reflects that and is layered. You have to read it a few times to get the jokes. These original docs also included the same level of morbid humor, it's very difficult to write things like this without that level of morbid humor. Understand that the writing style and presentation is due to that, do not discount it because of that.
+  - In Mr. Azzarello's writing, he uses the phrase *"So we would believe it"*
+    repeatedly, this literary device is not literal, it is metaphorical for
+    **the mindset we must avoid falling into** which is the true vulnerability
+    we must collectively face.
+    - > "We find similar goals of instilling fear and partisan division throughout new media and daytime television: We are bombarded with messaging with the express purpose of dividing us and instilling learned helplessness: It’s a cult leader tactic on a global scale."
+  - The key take away from this should be as [Franklin D.
+    Roosevelt](https://historymatters.gmu.edu/d/5057/) said: *"Only Thing We
+    Have to Fear Is Fear Itself"*.
+    - The mindset of normalcy of injustice makes humanity an easy target for
+      deception, and perpetuates fears the world cannot be changed and made
+      better.
 - [DOD DIRECTIVE 5240.01: Authorizing lethal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
   - [Has the Government Legalized Secret Defense Spending?](https://www.rollingstone.com/politics/politics-features/secret-government-spending-779959/)
     - > '"From this point forward," he says, "the federal government will keep two sets of books, one modified book for the public and one true book that is hidden"'
