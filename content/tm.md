@@ -10,11 +10,14 @@ aliases = ["threat_model", "game_plan"]
 
 ## Quicklinks
 
+> These are living documents, by no means complete.
+
 - Backref: [TODOs](/todos/)
 - [Vice: Billionaires Are Building Luxury Bunkers to Escape Doomsday](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/)
   - > 'The men cited potential disasters caused by electromagnetic pulses [a hint at geomagnetic threats], economic downturn, disease, or war that might "necessitate them leaving their Silicon Valley ranches and retreating to these fortified bunkers in the middle of nowhere."'
+  - **Critical Pre-Reading: [There's Something Rotten with the State of Eden](/action_required/)**
 
-## Game Plan
+## Game Plan 🥋
 
 - Mantra Loop: *Use the system to fight the system*
 - Funding Model: [Value Chain Analysis + Alignment Proposals](https://github.com/dffml/dffml/blob/main/CONTRIBUTING.md#measuring-alignment)
