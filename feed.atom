@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-10-30T02:00:59Z</updated>
+  <updated>2024-10-30T02:02:46Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -2114,7 +2114,8 @@
 <p>The idea of supporting only &quot;1 or N&quot; (and not arbitrary numbers in between) typically arises from a principle of <strong>simplicity and consistency</strong> in system and API design. Here’s why supporting just &quot;1 or N&quot; (and avoiding in-between values like “2 to N-1”) is generally preferred:</p>
 <p>Supporting only &quot;1 or N&quot; reduces the mental load for both developers and users by providing a clear model: either handle a single item or handle an arbitrary collection. When intermediate values are allowed, like 2 or 3 items, the mental model becomes complex, as users must remember different behavior or handling mechanisms based on the number of items.</p>
 <p>Supporting &quot;1 or N&quot; is ultimately about <strong>focusing on simplicity and reducing unnecessary complexity</strong>, as seen in design principles from many software engineering texts. Limiting cases makes systems easier to understand, use, and maintain, aligning with a <em>minimalist philosophy</em> in API and system design.</p>
-<h2 id="embracing-the-1-or-n-principle-how-specifications-and-transparent-policies-foster-alignment-and-innovation-in-decentralized-ecosystems">Embracing the '1 or N' Principle: How Specifications and Transparent Policies Foster Alignment and Innovation in Decentralized Ecosystems**</h2>
+<h2 id="embracing-the-1-or-n-principle">Embracing the '1 or N' Principle</h2>
+<p><strong>How Specifications and Transparent Policies Foster Alignment and Innovation in Decentralized Ecosystems</strong></p>
 <p>In software design and system architecture, the <strong>&quot;support 1 or N&quot;</strong> principle emphasizes designing systems to handle either a single item (1) or any number of items (N), but not to create special cases for intermediate counts. This approach is crucial for simplicity, consistency, and scalability. Coupled with transparent policies and clear specifications, this principle plays a significant role in enabling innovation and achieving alignment within decentralized ecosystems.</p>
 <h3 id="why-supporting-1-or-n-is-important"><strong>Why Supporting '1 or N' Is Important</strong></h3>
 <ol>
