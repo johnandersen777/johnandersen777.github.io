@@ -934,4 +934,6 @@ index 0000000..5cc15e3
   - Mark of the beast. NOT GOOD.
   - 16.9: By 2030, provide legal identity for all, including birth registration
   - 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
-    - Insurance is the work of the devil 
+    - Insurance is the work of the devil
+  - 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes
+    - Who decides what is relavent and effective??? Decentralize!
