@@ -943,6 +943,7 @@ Existing frameworks exist, what's the mantra? Use the system to fight the system
 - Use the system's existing processes to fix the vulns.
   - Align with terminology and guidelines.
 - Make the way to fix the vulns the easiest, fastest, and most effective way. Make it so fucking easy they can't choose the solutions that don't listen to Matthew 6:24.
+- We use the system to fight the system and build reslience while driving the devil out
 
 ### Specs we need to align to
 
