@@ -939,3 +939,12 @@ index 0000000..5cc15e3
     - Who decides what is relavent and effective??? Decentralize!
   - 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
     - MORE CAPITALISM!?!?!?!?! When is more enough??????
+  - 8.10: Strengthen  the  capacity  of  domestic  financial  institutions  to  encourage  and  expand  access to banking, insurance and financial services for all
+    - Matthew 6:24
+  - 10.7: Facilitate  orderly,  safe,  regular  and  responsible  migration  and  mobility  of  people, including through the implementation of planned and well managed migration policies
+    - What happened to freedom of movement of labour?
+  - 10.c: By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent
+    - Why not 0? Who stands to gain here? Monopolies, that's who, they will further centralize.
+- [Sendai Framework for Disaster Risk Reduction: 2015-2030](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
+  - Disasters have demonstrated that the recovery, rehabilitation and reconstruction phase, which needs to be prepared ahead of a disaster, is a critical opportunity to **"Build Back Better"**, including through integrating disaster risk reduction into development measures, making nations and communities resilient to disasters.
+    - Well, well, well, if it ain't "Rebuilding Dionysia", heard that one before. As well as 2030 date.
