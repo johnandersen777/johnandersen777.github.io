@@ -65,7 +65,7 @@ aliases = ["threat_model", "game_plan"]
 
 ## Adversary: Totalitarian Doomsday Cult
 
-- Threat: [We the proletariat lack resilience to geomagnetic threats](/action_required/)
+- Threat: [We the proletariat lack resilience](/action_required/)
   - [Vice: Billionaires Are Building Luxury Bunkers to Escape Doomsday](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/)
     - > "The men launched into a series of questions about topics like Bitcoin vs. Ethereum, augmented reality vs. virtual reality, and—most alarming—Alaska or New Zealand."
     - > "The men cited potential disasters caused by electromagnetic pulses, economic downturn, disease, or war that might “necessitate them leaving their Silicon Valley ranches and retreating to these fortified bunkers in the middle of nowhere."

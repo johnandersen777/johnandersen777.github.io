@@ -1,0 +1,4 @@
+security:
+  exec:
+    allow:
+    - ^rst2html$
