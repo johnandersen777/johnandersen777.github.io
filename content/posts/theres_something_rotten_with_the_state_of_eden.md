@@ -10,10 +10,6 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 
 ## Table of Contents
 
-> "Only Thing We Have to Fear Is Fear Itself"
->
-> [[Franklin D. Roosevelt](https://historymatters.gmu.edu/d/5057/)]
-
 - [The Scientific Perspective: Understanding Pole Shifts, Climate Change, and Their Impacts](#the-scientific-perspective-understanding-pole-shifts-and-their-impacts)
 - [The Spiritual Perspective: Overcoming Division Through Unity](#the-spiritual-perspective-overcoming-division-through-unity)
 - [Building Decentralized Resilience](#building-decentralized-resilience)
