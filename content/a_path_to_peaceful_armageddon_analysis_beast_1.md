@@ -946,12 +946,8 @@ Existing frameworks exist, what's the mantra? Use the system to fight the system
 
 ### Specs we need to align to
 
-
-- Cyber something something UN spec
+- [Global Digital Compact](https://www.un.org/global-digital-compact/sites/default/files/2024-09/Global%20Digital%20Compact%20-%20English_0.pdf)
   - Let's make the open solution aligned with this so the way that's free for all and doesn't involve money is the one they can't say no to. The good way.
-
----
-
 - [Unitied Nations: Transforming Our World](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
   - Mark of the beast. NOT GOOD.
   - 16.9: By 2030, provide legal identity for all, including birth registration
