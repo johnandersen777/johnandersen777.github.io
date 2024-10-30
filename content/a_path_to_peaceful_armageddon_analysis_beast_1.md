@@ -937,3 +937,5 @@ index 0000000..5cc15e3
     - Insurance is the work of the devil
   - 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes
     - Who decides what is relavent and effective??? Decentralize!
+  - 8.1: Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries
+    - MORE CAPITALISM!?!?!?!?! When is more enough??????
