@@ -445,9 +445,8 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
 - [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
 - [16.9  By 2030, provide legal identity for all, including birth registration](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
 - [PBS: The Earth’s magnetic north pole is shifting rapidly](https://www.pbs.org/newshour/science/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights)
-  - https://www.youtube.com/watch?v=-sGPCMIQZLw&t=2700
-    - > Pole shifts will amplify climate change affects. Making this much much worse than just climate change. We must act now en masse.
-  - https://www.youtube.com/watch?v=qx1KmbiJq9A
+  - Rapidly pole shifts + climate change => worse than just climate change.
+    Which was already on track to be bad.
   - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
   - https://www.sciencealert.com/is-earths-magnetic-field-on-the-verge-of-flipping-over-an-expert-explains
   - https://www.science.org/doi/10.1126/sciadv.adl3198
