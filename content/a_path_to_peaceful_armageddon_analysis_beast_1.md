@@ -928,7 +928,7 @@ index 0000000..5cc15e3
 
 ---
 
-## Red Alert
+## Playbooks we must take money out of
 
 - [Unitied Nations: Transforming Our World](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
   - Mark of the beast. NOT GOOD.
@@ -946,5 +946,7 @@ index 0000000..5cc15e3
   - 10.c: By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent
     - Why not 0? Who stands to gain here? Monopolies, that's who, they will further centralize.
 - [Sendai Framework for Disaster Risk Reduction: 2015-2030](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
-  - Disasters have demonstrated that the recovery, rehabilitation and reconstruction phase, which needs to be prepared ahead of a disaster, is a critical opportunity to **"Build Back Better"**, including through integrating disaster risk reduction into development measures, making nations and communities resilient to disasters.
-    - Well, well, well, if it ain't "Rebuilding Dionysia", heard that one before. As well as 2030 date.
+  - Priority 4: Enhancing disaster preparedness for effective response and to "Build Back Better" in recovery, rehabilitation and reconstruction
+  - Disasters have demonstrated that the recovery, rehabilitation and reconstruction phase, which needs to be prepared ahead of a disaster, is a critical opportunity to "Build Back Better", including through integrating disaster risk reduction into development measures, making nations and communities resilient to disasters.
+    - Well, well, well, if it ain't "Rebuilding Dionysia", heard that one before. As well as 2030 date. Chaos is a ladder.
+  - IV. 48. d. International financial institutions, such as the World Bank and regional development banks, to consider the priorities of the present Framework for providing financial support and loans for integrated disaster risk reduction to developing countries;
