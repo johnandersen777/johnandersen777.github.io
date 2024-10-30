@@ -10,7 +10,7 @@ aliases = ["threat_model", "game_plan"]
 
 ## Quicklinks
 
-> These are living documents, by no means complete.
+> These are living documents, by no means complete. Please [contribute](/contact/).
 
 - Backref: [TODOs](/todos/)
 - [Vice: Billionaires Are Building Luxury Bunkers to Escape Doomsday](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/)
