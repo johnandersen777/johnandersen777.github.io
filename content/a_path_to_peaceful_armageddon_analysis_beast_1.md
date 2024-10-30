@@ -930,5 +930,8 @@ index 0000000..5cc15e3
 
 ## Red Alert
 
-- [Unitied Nations: Transforming Our World: 16.9: By 2030, provide legal identity for all, including birth registration](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
+- [Unitied Nations: Transforming Our World](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
   - Mark of the beast. NOT GOOD.
+  - 16.9: By 2030, provide legal identity for all, including birth registration
+  - 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
+    - Insurance is the work of the devil 
