@@ -951,8 +951,10 @@ Existing frameworks exist, what's the mantra? Use the system to fight the system
   - Let's make the open solution aligned with this so the way that's free for all and doesn't involve money is the one they can't say no to. The good way.
   - Need to go through Sustainable Development Goals (SDGs)
 - [Unitied Nations: Transforming Our World](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
-  - Mark of the beast. NOT GOOD.
+  - 16.7: Ensure responsive, inclusive, participatory and representative decision making at all levels
+    - We can use our social identity to tie to group identies to have respresentation while maintaining levels of annonymity to prevent relatliation for voting against violent bad actors might not like
   - 16.9: By 2030, provide legal identity for all, including birth registration
+    - Mark of the beast. NOT GOOD.
   - 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
     - Insurance is the work of the devil
   - 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes
