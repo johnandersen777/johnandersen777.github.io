@@ -248,7 +248,9 @@ Supporting only "1 or N" reduces the mental load for both developers and users b
 
 Supporting "1 or N" is ultimately about **focusing on simplicity and reducing unnecessary complexity**, as seen in design principles from many software engineering texts. Limiting cases makes systems easier to understand, use, and maintain, aligning with a *minimalist philosophy* in API and system design.
 
-## Embracing the '1 or N' Principle: How Specifications and Transparent Policies Foster Alignment and Innovation in Decentralized Ecosystems**
+## Embracing the '1 or N' Principle
+
+**How Specifications and Transparent Policies Foster Alignment and Innovation in Decentralized Ecosystems**
 
 In software design and system architecture, the **"support 1 or N"** principle emphasizes designing systems to handle either a single item (1) or any number of items (N), but not to create special cases for intermediate counts. This approach is crucial for simplicity, consistency, and scalability. Coupled with transparent policies and clear specifications, this principle plays a significant role in enabling innovation and achieving alignment within decentralized ecosystems.
 
