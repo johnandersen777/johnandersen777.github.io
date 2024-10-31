@@ -158,7 +158,7 @@ Every individual possesses a moral compass, shaped by personal experiences, cult
 
 By identifying and addressing the root causes of societal issues—such as inequality, injustice, and environmental degradation—we move beyond treating symptoms and start fostering genuine change. This process requires honesty, openness, and a willingness to challenge our own beliefs and biases.
 
-By root causing our belief systems, we can arrive at common values we all share, beyond the symbolic names given to the practices which lead us to those values, which are often said in different ways by different religions.
+By root causing our belief systems, we can arrive at common values we all share, beyond the symbolic names given to the practices which lead us to those values, [which are often said in different ways by different religions](/chadig/).
 
 ### Collective Alignment Through Cooperative Principles
 
