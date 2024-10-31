@@ -15,7 +15,7 @@ All content on this site is public domain via the unlicense for redistribution a
 ## Table of Contents
 
 - [The Scientific Perspective: Understanding Global Threat Landscape](#the-scientific-perspective-understanding-global-threat-landscape)
-- [The Spiritual Perspective: Overcoming Division Through Unity](#the-spiritual-perspective-overcoming-division-through-unity)
+- [The Spiritual Perspective: Overcoming Deception and Division](#the-spiritual-perspective-overcoming-division-through-unity)
 - [Building Decentralized Resilience](#building-decentralized-resilience)
 - [Unity and Resilience for a Sustainable Future](#unity-and-resilience-for-a-sustainable-future)
 - [Building Infrastructure to Withstand Global Threats](#building-infrastructure-to-withstand-global-threats)
