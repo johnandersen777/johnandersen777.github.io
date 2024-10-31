@@ -75,13 +75,13 @@ In light of both scientific and spiritual insights, building decentralized resil
 
 The following strategies are a high level description of some of the same strategies found in the Untied Nations Plan 2030.
 
-These strategies enhance energy resilience, sustainability.
+These strategies enhance resilience, sustainability, and efficient, effective, and rapid response to threats.
 
-- **Localized Energy Solutions:** Microgrids of renewable energy sources such as solar, wind, nuclear, geothermal, and hydro power reduce dependence on centralized grids and enhance energy resilience and sustainability.
+- **Localized Energy Solutions:** Microgrids of renewable energy sources such as solar, wind, nuclear, geothermal, and hydro power reduce dependence on centralized grids.
 - **Community-Centric Agriculture:** Developing local food systems through urban farming, community gardens, and [support for local farmers]() increases food security. It also fosters community engagement and sustainable agricultural practices.
 - **Decentralized Communication Networks:** Establishing local communication infrastructures like mesh networks ensures connectivity even when larger networks are disrupted. This is crucial for emergency response and maintaining social cohesion during crises.
 - **Education and Knowledge Sharing:** Creating platforms for sharing knowledge and skills strengthens community resilience. Educational programs focused on emergency preparedness, sustainability, and technological literacy empower individuals.
-- **Decentralized Governance:** Encouraging participatory decision-making processes allows communities to have a direct say in policies and initiatives that affect them. This inclusivity enhances the relevance and effectiveness of resilience strategies.
+- **Decentralized Governance:** Encouraging participatory decision-making processes allows communities to have a direct say in policies and initiatives that affect them. This inclusively enhances the relevance and effectiveness of resilience strategies.
 
 ### Unity and Resilience for a Sustainable Future
 
@@ -226,7 +226,7 @@ Ensuring the survival of as many lives as possible is not just a humanitarian im
 
 - **Cultural and Intellectual Diversity**: A diverse population brings a wealth of perspectives, ideas, and innovations that drive progress.
 - **Collaborative Innovation**: Diverse teams are more likely to develop creative solutions to complex problems, particularly when augmented by AI capabilities.
-- **Ethical AI Development**: Incorporating diverse viewpoints ensures that AI systems are designed with fairness and inclusivity in mind, avoiding biases that could perpetuate inequality.
+- **Ethical AI Development**: Incorporating diverse viewpoints ensures that AI systems are designed with fairness and inclusively in mind, avoiding biases that could perpetuate inequality.
 
 ### Accelerating into the Future
 
@@ -246,11 +246,12 @@ By focusing on transparency, decentralization, and the intelligent application o
 
 ## Calls to Action
 
-> Organized from non-technical to most technical. Anyone can write documentation! Please document policies and practices!!
+Organized from non-technical to most technical. Anyone can write documentation! Please document policies and practices!!
+
+If you are inclined to help us refine these concepts please post in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)
 
 - [Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion](/chadig/)
   -  Please foster openness of moral value discussions and communication amongst your friends to bridge divides.
-  -  If you are inclined to help us refine these concepts please post in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)
 - [Document: Policies and Processes: Disaster Recovery Plans](https://www.ibm.com/think/insights/disaster-recovery-strategy)
 - [Use: Federated Social Media](https://mastodon.social)
 - [Deploy: ActivityPub Based Services](https://activitypub.rocks)
@@ -261,25 +262,21 @@ By focusing on transparency, decentralization, and the intelligent application o
 
 ## Do not be Deceived
 
-"I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too (2 Corinthians 10:17).
+"I gotcha back, but you best to watch your front", because there's a wave of issues we have to combat before **2030 timeframe**. Here's hoping unity and problem solving have more ecological stability and magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too (2 Corinthians 10:17).
 
-The best way to attack this problem is ["there's no backdoor to a public park"](https://johnandersen777.github.io/ietf-118/) [Seth]. The most [meaningless riddle](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0011_entering_wonderland.md#rolling-alice-volume-0-chapter-11-entering-wonderland) is getting caught up in the distractions of the powers that be causing saṃsāra.
-
-**Do not be deceived, be alert! The truth is within you, let us all [pray for and follow the guidance of God](/a_guide_to_good/).**
+The best way to attack this problem is ["there's no backdoor to a public park"](https://johnandersen777.github.io/ietf-118/) [Seth], aka transparency and engagement with open entities and organizations which conduct mutual aid and foster open policies and specifications.
 
 > It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.
 >
 > [[President John F. Kennedy](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)]
 
-## TODOs
+## [TODOs](/todos/)
 
-- [TODOs](/todos/)
-  - 🔎 [Continuous: Discover Related Work](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4)
-  - ⏳ [In Progress: Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
+- 🔎 [Continuous: Discover Related Work](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4)
+- ⏳ [In Progress: Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
 
 ## References
 
-- [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf)
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
   - Mr. Azzarello's writing uses the phrase *"So we would believe it"*
     repeatedly, this literary device is not literal, it is metaphorical for
@@ -300,9 +297,8 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
   - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone production tracing, inventory, and invoicing to advance this front, that has a ripple effect due to the way SCITT works
     - [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council).
     - [ietf: scitt: mailing list archives: Orie: "Eventually a view of the supply chain emerges, for those for have been granted read access to one or more transparency services"](https://mailarchive.ietf.org/arch/msg/scitt/BjCAySWyODuhDWwn4kMtCoY5eDA/)
-- [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
-- [16.9  By 2030, provide legal identity for all, including birth registration](https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)
 - [PBS: The Earth’s magnetic north pole is shifting rapidly](https://www.pbs.org/newshour/science/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights)
+  - [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf)
   - Rapidly pole shifts + climate change => worse than just climate change.
     Which was already on track to be bad.
   - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
@@ -311,6 +307,7 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
 - > "the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy"
   - There are dumb conspiracy theories and then there are ones which [all the richest people might build bunkers for](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/), use your brain.
   - https://en.wikipedia.org/wiki/Operation_CHAOS
+- [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
 - https://historycollection.com/16-hidden-symbolic-messages-in-the-wizard-of-oz-you-may-have-missed/
   - > "The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century"
     - Matthew 6:24
@@ -324,6 +321,3 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
     > "In Through the Looking Glass, the war is during a chess game between Red and White, as opposed to the traditional Black and White. Upon further examination, it turns out that there is actually deeper meaning behind the choice of colours. This is a direct political allusion to yet another series of wars, not so close timewise, but in Carroll’s own home country of England. During the war, the white roses represented the House of York while the red roses represented the House of Lancaster. In the first book, the Queen would often exclaim, “Off with his head” to numerous different characters. This is a clear cut reference to Queen Margaret’s famous quote, “Off with the crown, and, with the crown, his head.” The prolonged wars between the two houses vying for power after the 100 year war was characterized by equal matchup and nearly even wins. This is clearly characterized by the fight between the red and white knights during Through the Looking Glass in the quote, “One Rule seems to be that if one Knight hits another he knocks him off his horse, and if he misses he tumbles off himself.” This political allusion would be well known to the adult audiences of the book, as they would have a decent understanding of the history of their own nation, but the topic is too advanced to have been commonly taught during the younger grades, the primary audience of Alice in Wonderland. Therefore, the political allusion must be directed towards the older audiences of the book, who would have been educated enough to recognize the historical allusions."
     >
     > "In conclusion, Lewis Carroll definitely uses historical allusions in his novels as a means to entertain older audiences. This is clear as the topics of these allusions are complicated enough that they would not be understood by the younger children who are the primary audience simply because they had not yet been educated enough to understand them."
-    - Listen, look up, speak up.
-- https://www.quora.com/Why-did-the-Vatican-remove-14-books-in-the-Bible
-  - Revelations can be good, so long as we use them to prepare and unite instead of previous proliferated revelations from organized religions who's aim is to save only a few. Do not conflate organized religion or whatever groups was JFK was talking about with anything other than ideology. The whole point is for you to understand that humanity knows right and wrong and that saving all of humanity is the point of God's message. If anyone is not living or communicating in a way that re-enforces love for one another they should root cause their values and modify their behavior.
