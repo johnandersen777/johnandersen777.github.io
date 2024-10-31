@@ -63,9 +63,7 @@ Deceptive forces often exploit fear and spread misinformation to create division
 
 ### Building Decentralized Resilience
 
-In light of both scientific and spiritual insights, building decentralized resilience emerges as a practical and philosophical approach to addressing global challenges. Decentralization involves distributing resources, decision-making, and responsibilities across various levels rather than centralizing them. This mitigates consolidation of power in any actor: entity, individual, or organization. Decentralization is a generally applicable mitigation mechanism which reduces the "blast radius" of [errors, incompetence, or malintent from actors within systems](/gse6/).
-
-#### Benefits of Decentralization
+In light of both scientific and spiritual insights, building decentralized resilience emerges as a practical and philosophical approach to addressing global challenges. Decentralization involves distributing resources, decision-making, and responsibilities across various levels rather than centralizing them. This mitigates consolidation of power in any actor: entity, individual, or organization. Decentralization is a generally applicable mitigation mechanism which reduces the "blast radius" of [errors, incompetence, or malintent from actors within systems](/gse6/). Decentralization offers many benefits including the following:
 
 - **Enhanced Adaptability:** Decentralized systems can respond more quickly to local needs and changes, making them more adaptable in the face of disruptions.
 - **Reduced Vulnerabilities:** By avoiding reliance on a single point of control, decentralized systems are less susceptible to widespread failures.
