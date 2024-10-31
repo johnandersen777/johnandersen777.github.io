@@ -36,12 +36,13 @@ aliases = ["threat_model", "game_plan"]
 
 - [We lack resilience](/action_required/)
 - Falling into the "Totalitarian Doomsday Cult" mindset
-  - Term borrowed from ["The Ponzi Papers" SubStack](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-    - We may about to be hit with *"with an apocalyptic fascist world coup"*
-  - In Mr. Azzarello's writing, he uses the phrase *"So we would believe it"*
+  - Term borrowed from ["The Ponzi Papers" SubStack: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
+    - We may about to be hit with, as he calls it: *"an apocalyptic fascist world coup"*
+  - Mr. Azzarello's writing uses the phrase *"So we would believe it"*
     repeatedly, this literary device is not literal, it is metaphorical for
-    **the mindset we must avoid falling into** which is the true vulnerability
-    we must collectively face.
+    **the mindset we must avoid falling into**, this is the vulnerability
+    we must collectively overcome which is feed to us via ingrained biases and
+    cultural norms.
     - > "We find similar goals of instilling fear and partisan division throughout new media and daytime television: We are bombarded with messaging with the express purpose of dividing us and instilling learned helplessness: It’s a cult leader tactic on a global scale."
   - The key take away from this should be as [Franklin D.
     Roosevelt](https://historymatters.gmu.edu/d/5057/) said: *"Only Thing We
