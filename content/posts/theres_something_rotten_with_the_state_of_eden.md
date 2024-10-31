@@ -6,9 +6,11 @@ subtitle = "Urgent Calls to Action"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts", "calls_to_action", "action_required"]
 +++
 
-> All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution
->
-> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"
+This is a living document which attempts to appeal to folks with different viewpoints. As such, you may disagree with some of the verbiage, the verbiage you disagree with may be meant to unify the perspective opposite to yours to bridge the same gap which you're feeling from "the other side".
+
+All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please [contact / contribute](/contact/) if you have thoughts or desire changes.
+
+> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
 
 ## Table of Contents
 
@@ -27,7 +29,7 @@ aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shif
 
 In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.
 
-At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including human caused climate change and natural phenomena like pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.
+At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including human caused climate change and phenomena like climate change and pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.
 
 ![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
@@ -83,7 +85,7 @@ These strategies enhance energy resilience, sustainability.
 
 ### Unity and Resilience for a Sustainable Future
 
-The challenges posed by phenomena like pole shifts and the forces of deception and division require a concerted effort to build a resilient and unified society. By integrating scientific understanding with spiritual principles of unity and compassion, we can develop holistic approaches to these challenges.
+The challenges posed by phenomena like climate change and pole shifts and the forces of deception and division require a concerted effort to build a resilient and unified society. By integrating scientific understanding with spiritual principles of unity and compassion, we can develop holistic approaches to these challenges.
 
 **Action Steps Forward**
 
@@ -107,42 +109,6 @@ The threats we face will have profound effects on modern infrastructure:
 - **Supply Chain Disruptions**: Supply chain disruptions (as seen with COVID in 2020) can
 - **Communication Systems**: Satellites, radio communications, and GPS technologies can experience malfunctions due to natural disasters or increased solar activity affecting the Earth's magnetosphere.
 - **Transportation Networks**: Earthquakes and other natural disasters affect our ability to rapidly transport critical aid to places that need it most. Air and maritime navigation systems, which rely on satellite and magnetic compasses, may suffer inaccuracies due to EMPs or geomagnetic threats.
-
-#### Community-Level Initiatives
-
-**1. Localized Energy Solutions**
-
-- **Microgrids**: Establish community microgrids that can operate independently during wider grid failures.
-- **Renewable Energy Adoption**: Promote the use of solar panels and wind turbines at the household and community levels.
-
-**2. Emergency Preparedness Education**
-
-- **Public Awareness Campaigns**: Educate citizens about geomagnetic threats and preparedness strategies.
-- **Training Programs**: Workshops on emergency response, first aid, and survival skills can be found via local government and NGO resources. Oregon Public Broadcasting is one such example which educates folks on how to respond to "The Big One" (Cascadia Subduction Zone earthquake).
-
-**3. Building Strong Social Networks**
-
-- **Community Organizations**: Engage in and form local groups focused on resilience planning and resource sharing.
-- **Mutual Aid Agreements**: Develop agreements between neighboring communities to support each other during crises.
-
-#### Policy and Governance
-
-**1. National Preparedness Plans**
-
-- **Infrastructure Assessments**: Conduct comprehensive evaluations of existing infrastructure vulnerabilities. Require transparent audits and accountability to ensure gaps are addressed when suboptimal responenses are found in past event mitigation or training exercises.
-- **Regulatory Standards**: Implement policy that require resilience measures in new infrastructure projects (looking at you bridges in high risk earthquake zones).
-
-**2. International Cooperation**
-
-- **Data Sharing**: Collaborate globally to share information on geomagnetic activity and best practices. The Global Digital Compact addresses this via the  online platform information gateway.
-- **Joint Exercises**: Participate in international drills to improve readiness and coordination.
-
-**3. Funding and Incentives**
-
-- **Investment in Resilience**: Allocate funding for upgrading infrastructure and research initiatives.
-- **Incentivizing Innovation**: Provide tax credits or grants for businesses developing resilience technologies.
-
-#### The Imperative of Action
 
 The potential impacts of climate change combined with pole shifts present an existential threat that requires immediate (before 2030, just echoing the UN's plan) and concerted efforts. Building resilient infrastructure is not just a technical challenge but a moral imperative to safeguard lives and ensure the continuity of our societies.
 

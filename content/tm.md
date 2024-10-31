@@ -6,7 +6,7 @@ permalink = "/tm/"
 aliases = ["threat_model", "game_plan"]
 +++
 
-![kirk-defense](https://github.com/user-attachments/assets/31e1e54c-e47f-478e-bf12-14253a2e22a7)
+> *"The best defense is a good offense"*
 
 ## Quicklinks
 
