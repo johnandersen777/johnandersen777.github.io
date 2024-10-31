@@ -32,7 +32,7 @@ Hope you have a great day! :D
 
 - "You're a good man"
 
-  - "Don't make me thumbprint a machine for door access"
+  - "Don't make me thumbprint a machine for door access" (working on it...)
 
 - "I thought I was as scattered as they come, until I met [John]"
 
@@ -53,7 +53,7 @@ Hope you have a great day! :D
 
 ## Favorite Quotes
 
-- ["Tell your gods I'm coming"](https://www.reddit.com/r/Xcom/comments/isd9nh/tell_your_gods_im_coming/) [The Time is Come for Thee to [Reap](https://xcom.fandom.com/wiki/Reapers)]
+- ["Tell your gods I'm coming"](https://www.reddit.com/r/Xcom/comments/isd9nh/tell_your_gods_im_coming/) [[Outrider](https://xcom.fandom.com/wiki/Reapers)]
 
 - "Imagination is the only weapon in the war against reality" [Lewis Carroll]
 
