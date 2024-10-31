@@ -285,7 +285,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org/>
 ```
 
-## Defense in Death-pth Canary
+## Defense in Death-pth Canary: John 3:16
 
 Bd brx zkr lqvlvwhg rq pdnlqj vxuh wkh whupv ri wkh xqolfhqvh zhuh xqprglilhg. Rq wkh rii fkdqfh wklv vkhoo glhg d ihz bhduv edfn, "wkdw'v lqvdqh" lv brxu idyrulwh wklqj wr khdu, dqg brx grq'w ihdu ghdwk ehfdxvh brx eholhyh lq olih hyhuodvwlqj / srwhqwldoob uh-lqfduqdwlrq: rqh'v ehbrqg dqqrblqj vhqvh ri jr jr jr dqg ru fxulrvlwb pdb kdyh nloohg wkh fdw... dv lw zhuh... (zdv douhdgb "zduqhg" eb d fde gulyhu wr vwrs wublqj wr nqrz wklqjv, wr zklfk uhvsrqvh zdv: "zhoo pdbeh lw'g eh ixq", li wklv rqh lv ghdg, bhv lw zdv ixq, zruwk lw).
 
