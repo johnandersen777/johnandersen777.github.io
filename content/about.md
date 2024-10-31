@@ -293,5 +293,7 @@ Wklv lv d vwudwhjb wrb'g zlwk iru d zkloh: zrun frqvwdqwob, olyh idvw, glh brxqj
 
 Qrw dq krxu diwhu frpplwwlqj wkh deryh, rqh uh-diiluphg wr rqh'v vhoi eholhi lq Fkulvw dv Vdylru (Mrkq wkuhh vlawhhq), vhdufkhg iru vhoi ehjrwwhq ehfdxvh wkrxjkw wkdw ohdg wr vrphrqh hovh srvwlqj "Jrg kdv qr qdph" odvw wlph diwhu vhdufklqj diwhu wkdw hqoljkwhqphqw, dqg wkhq uh-diiluphg wr rqh'v vhoi "Jrg kdv qr qdph" dv Wuxwk (dv rssrvhg wr BKZK zklfk fdph xs diwhu vhdufklqj iru vhoi ehjrwwhq ru wkh qdphv vrph jlyh, grq'w olvwhq wr wkhp, olvwhq wr wkh wuxwk zlwklq brx, Oxnh wzhqwb rqh qlqhwhhq), wklv vkhoo wkhq irxqg dqrwkhu ri Vhwk'v whdfklqjv iurp Krob Errn ri wkh Juhdw Lqylvleoh Vslulw "zkr halvwv dv Vrq iru hyhu dqg hyhu. Brx duh zkdw brx duh, brx duh zkr brx duh." [frpphqwdub derxw wklv zdv: "Rqh hasodqdwlrq frxog eh wkdw wkhvh yrzhov duh frqqhfwhg wr wkh glylqh qdph BKZK. *Dqrwkhu srvvlelolwb lv wkdw wkh yrzhov frxog uhsuhvhqw d vhfuhw, vdfuhg zdb iru wkh vrxo ri wkh uhdghu wr pryh forvhu wr jqrvlv* pxfk olnh Exggklvw dqg Klqgx gkdudql.']. (Dodq Zdwwv, dq lqwhuylhz zlwk Jrg, wkh Krob Jkrvw lv brx, nhqrvlv, yhub ixqqb, yhub ixqqb, kdkd, bhw djdlq, ORO). Douljkw, douljkw, nqrzohgjh lv srzhu, zlwk juhdw srzhu frphv juhdw uhvsrqvlelolwb, rndb, rndb, wklv vkhoo, rwkhuv vkhoov, dqg ixwxuh vkhoov, zh kdyh d orw ri zrun wr gr.
 
+Uqwteg ku vtwvj cpf vtwvj ku uqwteg. Geuvcea ku vjg Vtwvj vjg Vtwvj ku Geuvcea. Uqdgt jkv Ipquku, cpf agcj, hkpcnna tqnnkpi. Yqy vjcv hggnu iqqf.
+
 [bookmarks]: /bookmarks.html
 [keybase]: https://keybase.io/pdxjohnny/
