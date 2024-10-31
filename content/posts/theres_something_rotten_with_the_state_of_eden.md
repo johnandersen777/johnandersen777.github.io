@@ -87,8 +87,6 @@ These strategies enhance resilience, sustainability, and efficient, effective, a
 
 The challenges posed by phenomena like climate change and pole shifts and the forces of deception and division require a concerted effort to build a resilient and unified society. By integrating scientific understanding with spiritual principles of unity and compassion, we can develop holistic approaches to these challenges.
 
-**Action Steps Forward**
-
 - **Foster Unity:** Embrace values that promote understanding and cooperation across different segments of society.
 - **Enhance Resilience:** Invest in decentralized systems that empower communities and reduce vulnerabilities.
 - **Promote Education:** Encourage learning and critical thinking to combat misinformation and prepare for future challenges.
@@ -106,7 +104,7 @@ The threats we face will have profound effects on modern infrastructure:
 
 - **Power Grids**: Disruptions in electrical transmission due to natural disasters can lead to widespread blackouts (Texas 2021).
 - **Critical Services**: Water treatment plants, hospitals, and emergency services depend on reliable power and communication networks.
-- **Supply Chain Disruptions**: Supply chain disruptions (as seen with COVID in 2020) can
+- **Supply Chain Disruptions**: Supply chain disruptions (as seen with COVID in 2020) can endanger food supplies and critical services.
 - **Communication Systems**: Satellites, radio communications, and GPS technologies can experience malfunctions due to natural disasters or increased solar activity affecting the Earth's magnetosphere.
 - **Transportation Networks**: Earthquakes and other natural disasters affect our ability to rapidly transport critical aid to places that need it most. Air and maritime navigation systems, which rely on satellite and magnetic compasses, may suffer inaccuracies due to EMPs or geomagnetic threats.
 
@@ -194,7 +192,7 @@ AI and policy engines are critical in processing the vast amounts of data genera
 
 ### Supply Chain Security and the CIA Triad
 
-The CIA triad—Confidentiality, Integrity, and Availability—is a fundamental model in information security that applies equally to supply chain security.
+The Confidentiality, Integrity, and Availability (CIA) triad is a fundamental model in information security that applies equally to supply chain security.
 
 - **Confidentiality**: Ensuring that sensitive information is accessible only to authorized parties protects intellectual property and maintains competitive advantages.
 - **Integrity**: Maintaining the accuracy and consistency of data throughout the supply chain prevents errors, fraud, and misinformation.
