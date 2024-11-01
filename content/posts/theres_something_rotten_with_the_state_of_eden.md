@@ -246,6 +246,8 @@ Organized from non-technical to most technical. Anyone can write documentation! 
 
 If you are inclined to help us refine these concepts please post in this [thread](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4) (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)
 
+There's no point in worrying about things we know will happen and active happenings, the point is we just mitigate the any threats we identify.
+
 - [Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion](/chadig/)
   -  Please foster openness of moral value discussions and communication amongst your friends to bridge divides.
 - [Document: Policies and Processes: Disaster Recovery Plans](https://www.ibm.com/think/insights/disaster-recovery-strategy)
