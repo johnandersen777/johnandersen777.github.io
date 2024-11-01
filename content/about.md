@@ -26,6 +26,9 @@ Hope you have a great day! :D
   - [Come! Decentralize with us!](/gse1/)
 - 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 🇩🇰😁
   - [*There are several important metrics in our final system*](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
+- Give us Liberty or give me death
+  - Give us Truth or give me death
+  - Amen.
 
 ## Best Friends' Comments
 
