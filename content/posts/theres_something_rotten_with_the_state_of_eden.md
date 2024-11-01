@@ -2,7 +2,7 @@
 date = 2024-10-19T19:00:00Z
 lastmod = 2024-10-19T19:00:00Z
 title = "There's Something Rotten with the State of Eden"
-subtitle = "Urgent Calls to Action"
+subtitle = "Actionable steps towards alignment and resilience"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts", "calls_to_action", "action_required"]
 +++
 
