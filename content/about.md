@@ -5,6 +5,8 @@ date = "2016-11-11T12:22:04-08:00"
 permalink = "/about/"
 +++
 
+> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
+
 👋🫖☕ Hello Entity 🥳 of the Internet! 🎩🕟🕐
 
 All content on this site is public domain via the [unlicense](#license) for redistribution and remixing without need for attribution (Unlicense / CC0 1.0)

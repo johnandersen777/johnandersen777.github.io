@@ -7,6 +7,8 @@ aliases = ["threat_model", "game_plan"]
 +++
 
 > *"The best defense is a good offense"*
+>
+> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
 
 ## Quicklinks
 
