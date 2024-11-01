@@ -8,6 +8,10 @@ aliases = ["greek_stuff", "a_guide_to_good", "stay_1337"]
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 
+> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
+>
+> For example: the publisher of this content is just relaying information found other places and the work or other and active working groups into a single jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
+
 ## God is the Trinity
 
 Making good choices means aligning with John 13:34-35, which tells us:
