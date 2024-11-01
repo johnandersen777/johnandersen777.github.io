@@ -12,7 +12,7 @@ All content on this site is public domain via the unlicense for redistribution a
 
 > [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
 >
-> For example: the publisher of this content is just relaying information found other places and the work or other and active working groups into a single jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
+> For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
 
 ## Table of Contents
 
