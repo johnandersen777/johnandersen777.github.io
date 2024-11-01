@@ -11,4 +11,4 @@
 	url = https://github.com/johnandersen777/hugo-cactus-theme
 [submodule "themes/axiom"]
 	path = themes/axiom
-	url = https://github.com/marketempower/axiom.git
+	url = https://github.com/johnandersen777/axiom
