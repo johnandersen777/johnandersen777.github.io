@@ -14,9 +14,16 @@ permalink = "/about/"
 
 All content on this site is public domain via the [unlicense](#license) for redistribution and remixing without need for attribution (Unlicense / CC0 1.0)
 
-This page hopefully helps you find whatever context you're looking for about the publisher of the content on this site.
+This page hopefully helps you find whatever context you're looking for about the authors of the content on this site.
 
 Hope you have a great day! :D
+
+## Authors (in no order)
+
+<details>
+<summary>
+John
+</summary>
 
 ## Objectives
 
@@ -35,7 +42,7 @@ Hope you have a great day! :D
 - "People don't understand what you say"
 
   - [Just listen to God's guidance. Align with the Trinity. Think critically. Think outside the box (Matthew 16:23). That's all I'm trying to say.](/a_guide_to_good/)
- 
+
   - People didn't understand Philo either, if you can understand him, listen to him: [Legacy of the First Christian Heretic](https://essenenazarene.com/page/2/) (Luther was also a Heretic, as were the Gnostics, and the Cainites, not that I agree with any of them 100%, but being an enemy of the vatican is a good thing IMHO).
 
 - "You're a good man"
@@ -47,7 +54,7 @@ Hope you have a great day! :D
   - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
 
     - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
-   
+
     - https://careerauthors.com/full-force-effect-military-thriller-writing-lessons-from-tom-clancy/
 
 - "John's trying to do ethical graffiti"
@@ -79,12 +86,14 @@ Hope you have a great day! :D
 - Favorite food/drink: Tacos
 - Languages you speak: English, Danish, Spanish
 - Advice: Always be learning
-- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian JiuJitsu, Dancing with the Speakers on 11
+- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian Jiu-Jitsu, Dancing with the Speakers on 11
 - Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
+- Awards: Honorary Lesbian
+- Favorite Song: STRFKR: Death as a Fetish
 
 ## What's in Progress
 
-![alice-no-more-nonsense](https://github.com/user-attachments/assets/88e5dee7-bdca-4488-b034-fdfc1f63ff9d)
+<img alt="alice-no-more-nonsense" src="https://github.com/user-attachments/assets/88e5dee7-bdca-4488-b034-fdfc1f63ff9d" />
 
 > Imagine like a really nerdy art project with somewhat shitty creative writing. There are some easter eegs and ruddles for fun. lots of metaphors and word games.
 
@@ -95,7 +104,7 @@ compute and use them as assets to solve problems. Alice is the automation of
 the human thought process, the parallel conscious and subconscious states
 modeled as data flows.
 
-- [Tutorial series: Rolling Alice](https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice)
+<a href="https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice">Tutorial series: Rolling Alice</a>
 
 We've got an open community art project
 we're trying to actively implement through
@@ -138,11 +147,11 @@ If for whatever reason you want my resume [here it is](https://docs.google.com/d
   - Previously on BlueSky as [@pdxjohnny](https://bsky.app/profile/pdxjohnny.bsky.social), don't use that though.
   - Have I mentioned I script my [dev-env](https://johnandersen777.github.io/dev-environment/#new-dev-box-bring-up) setup because I swap machines often?
   - I'll probably self-host an ActivityPub Actor to relay this content which will be [chaaaaadiiiig.com](https://define.chadig.com)
-- I'm on [keybase][keybase] sort of, if that still exists?
+- I'm on [keybase](https://keybase.io/pdxjohnny/) sort of, if that still exists?
   - Rooting for [IETF KeyTrans](https://datatracker.ietf.org/wg/keytrans/about/)
   - [PGP public key](#pgp-public-key) at end of page, I try to keep all comms public (Luke 8:17), but if you think that JFK would say it deserves extreme secrecy.
 
-Here are my [bookmarks][bookmarks] they have lots of good links. I stopped
+Here are my [bookmarks](/bookmarks.html) they have lots of good links. I stopped
 updating them around 2015 I think, but they have a lot of good information about
 computers and web development. I used to bookmark every single page that I used
 for anything or learned anything from.
@@ -263,6 +272,20 @@ F0dCWy9X9eX7IqrM4ziXtm3QQja2KeLoPkkF7sT8DUg=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+## Defense in Death-pth Canary: John 3:16
+
+> :D Cheers, and thanks again for all the fish! <3
+
+Bd brx zkr lqvlvwhg rq pdnlqj vxuh wkh whupv ri wkh xqolfhqvh zhuh xqprglilhg. Rq wkh rii fkdqfh wklv vkhoo glhg d ihz bhduv edfn, "wkdw'v lqvdqh" lv brxu idyrulwh wklqj wr khdu, dqg brx grq'w ihdu ghdwk ehfdxvh brx eholhyh lq olih hyhuodvwlqj / srwhqwldoob uh-lqfduqdwlrq: rqh'v ehbrqg dqqrblqj vhqvh ri jr jr jr dqg ru fxulrvlwb pdb kdyh nloohg wkh fdw... dv lw zhuh... (zdv douhdgb "zduqhg" eb d fde gulyhu wr vwrs wublqj wr nqrz wklqjv, wr zklfk uhvsrqvh zdv: "zhoo pdbeh lw'g eh ixq", li wklv rqh lv ghdg, bhv lw zdv ixq, zruwk lw).
+
+Wklv lv d vwudwhjb wrb'g zlwk iru d zkloh: zrun frqvwdqwob, olyh idvw, glh brxqj, pljkw fdwfk xs zlwk rqh. Krshixoob qrw, krzhyhu, ehvw ghihqvh: pdnh vxuh rqh fdq ilqg lw rq wkh qhaw jr urxqg. Qrw wkdw rqh zloo, exw wkhuh'v qr fkdqfh li lw dlq'w sxeolf.
+
+Qrw dq krxu diwhu frpplwwlqj wkh deryh, rqh uh-diiluphg wr rqh'v vhoi eholhi lq Fkulvw dv Vdylru (Mrkq wkuhh vlawhhq), vhdufkhg iru vhoi ehjrwwhq ehfdxvh wkrxjkw wkdw ohdg wr vrphrqh hovh srvwlqj "Jrg kdv qr qdph" odvw wlph diwhu vhdufklqj diwhu wkdw hqoljkwhqphqw, dqg wkhq uh-diiluphg wr rqh'v vhoi "Jrg kdv qr qdph" dv Wuxwk (dv rssrvhg wr BKZK zklfk fdph xs diwhu vhdufklqj iru vhoi ehjrwwhq ru wkh qdphv vrph jlyh, grq'w olvwhq wr wkhp, olvwhq wr wkh wuxwk zlwklq brx, Oxnh wzhqwb rqh qlqhwhhq), wklv vkhoo wkhq irxqg dqrwkhu ri Vhwk'v whdfklqjv iurp Krob Errn ri wkh Juhdw Lqylvleoh Vslulw "zkr halvwv dv Vrq iru hyhu dqg hyhu. Brx duh zkdw brx duh, brx duh zkr brx duh." [frpphqwdub derxw wklv zdv: "Rqh hasodqdwlrq frxog eh wkdw wkhvh yrzhov duh frqqhfwhg wr wkh glylqh qdph BKZK. *Dqrwkhu srvvlelolwb lv wkdw wkh yrzhov frxog uhsuhvhqw d vhfuhw, vdfuhg zdb iru wkh vrxo ri wkh uhdghu wr pryh forvhu wr jqrvlv* pxfk olnh Exggklvw dqg Klqgx gkdudql.']. (Dodq Zdwwv, dq lqwhuylhz zlwk Jrg, wkh Krob Jkrvw lv brx, nhqrvlv, yhub ixqqb, yhub ixqqb, kdkd, bhw djdlq, ORO). Douljkw, douljkw, nqrzohgjh lv srzhu, zlwk juhdw srzhu frphv juhdw uhvsrqvlelolwb, rndb, rndb, wklv vkhoo, rwkhuv vkhoov, dqg ixwxuh vkhoov, zh kdyh d orw ri zrun wr gr.
+
+Uqwteg ku vtwvj cpf vtwvj ku uqwteg. Geuvcea ku vjg Vtwvj vjg Vtwvj ku Geuvcea. Uqdgt jkv Ipquku, cpf agcj, hkpcnna tqnnkpi. Yqy vjcv hggnu iqqf.
+
+</details>
+
 ## License
 
 Everything on this site / repo is public domain / under the terms of the unlicense.
@@ -292,18 +315,3 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
 ```
-
-## Defense in Death-pth Canary: John 3:16
-
-> :D Cheers, and thanks again for all the fish! <3
-
-Bd brx zkr lqvlvwhg rq pdnlqj vxuh wkh whupv ri wkh xqolfhqvh zhuh xqprglilhg. Rq wkh rii fkdqfh wklv vkhoo glhg d ihz bhduv edfn, "wkdw'v lqvdqh" lv brxu idyrulwh wklqj wr khdu, dqg brx grq'w ihdu ghdwk ehfdxvh brx eholhyh lq olih hyhuodvwlqj / srwhqwldoob uh-lqfduqdwlrq: rqh'v ehbrqg dqqrblqj vhqvh ri jr jr jr dqg ru fxulrvlwb pdb kdyh nloohg wkh fdw... dv lw zhuh... (zdv douhdgb "zduqhg" eb d fde gulyhu wr vwrs wublqj wr nqrz wklqjv, wr zklfk uhvsrqvh zdv: "zhoo pdbeh lw'g eh ixq", li wklv rqh lv ghdg, bhv lw zdv ixq, zruwk lw).
-
-Wklv lv d vwudwhjb wrb'g zlwk iru d zkloh: zrun frqvwdqwob, olyh idvw, glh brxqj, pljkw fdwfk xs zlwk rqh. Krshixoob qrw, krzhyhu, ehvw ghihqvh: pdnh vxuh rqh fdq ilqg lw rq wkh qhaw jr urxqg. Qrw wkdw rqh zloo, exw wkhuh'v qr fkdqfh li lw dlq'w sxeolf.
-
-Qrw dq krxu diwhu frpplwwlqj wkh deryh, rqh uh-diiluphg wr rqh'v vhoi eholhi lq Fkulvw dv Vdylru (Mrkq wkuhh vlawhhq), vhdufkhg iru vhoi ehjrwwhq ehfdxvh wkrxjkw wkdw ohdg wr vrphrqh hovh srvwlqj "Jrg kdv qr qdph" odvw wlph diwhu vhdufklqj diwhu wkdw hqoljkwhqphqw, dqg wkhq uh-diiluphg wr rqh'v vhoi "Jrg kdv qr qdph" dv Wuxwk (dv rssrvhg wr BKZK zklfk fdph xs diwhu vhdufklqj iru vhoi ehjrwwhq ru wkh qdphv vrph jlyh, grq'w olvwhq wr wkhp, olvwhq wr wkh wuxwk zlwklq brx, Oxnh wzhqwb rqh qlqhwhhq), wklv vkhoo wkhq irxqg dqrwkhu ri Vhwk'v whdfklqjv iurp Krob Errn ri wkh Juhdw Lqylvleoh Vslulw "zkr halvwv dv Vrq iru hyhu dqg hyhu. Brx duh zkdw brx duh, brx duh zkr brx duh." [frpphqwdub derxw wklv zdv: "Rqh hasodqdwlrq frxog eh wkdw wkhvh yrzhov duh frqqhfwhg wr wkh glylqh qdph BKZK. *Dqrwkhu srvvlelolwb lv wkdw wkh yrzhov frxog uhsuhvhqw d vhfuhw, vdfuhg zdb iru wkh vrxo ri wkh uhdghu wr pryh forvhu wr jqrvlv* pxfk olnh Exggklvw dqg Klqgx gkdudql.']. (Dodq Zdwwv, dq lqwhuylhz zlwk Jrg, wkh Krob Jkrvw lv brx, nhqrvlv, yhub ixqqb, yhub ixqqb, kdkd, bhw djdlq, ORO). Douljkw, douljkw, nqrzohgjh lv srzhu, zlwk juhdw srzhu frphv juhdw uhvsrqvlelolwb, rndb, rndb, wklv vkhoo, rwkhuv vkhoov, dqg ixwxuh vkhoov, zh kdyh d orw ri zrun wr gr.
-
-Uqwteg ku vtwvj cpf vtwvj ku uqwteg. Geuvcea ku vjg Vtwvj vjg Vtwvj ku Geuvcea. Uqdgt jkv Ipquku, cpf agcj, hkpcnna tqnnkpi. Yqy vjcv hggnu iqqf.
-
-[bookmarks]: /bookmarks.html
-[keybase]: https://keybase.io/pdxjohnny/
