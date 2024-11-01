@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-01T07:14:40Z</updated>
+  <updated>2024-11-01T16:52:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -25,6 +25,7 @@
 <p>All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please <a href="/contact/">contact / contribute</a> if you have thoughts or desire changes.</p>
 <blockquote>
 <p><a href="https://kk.org/thetechnium/protopia/">Protopia</a>: &quot;<em>the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world&quot;</em></p>
+<p>For example: the publisher of this content is just relaying information found other places and the work or other and active working groups into a single jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.</p>
 </blockquote>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
@@ -604,7 +605,11 @@ Which was already on track to be bad.</li>
     <id>https://johnandersen777.github.io/gse33/</id>
     <updated>2024-10-06T05:45:00Z</updated>
     <published>2024-10-06T05:45:00Z</published>
-    <content type="html"><![CDATA[<h2 id="series">Series</h2>
+    <content type="html"><![CDATA[<blockquote>
+<p><a href="https://kk.org/thetechnium/protopia/">Protopia</a>: &quot;<em>the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world&quot;</em></p>
+<p>For example: the publisher of this content is just relaying information found other places and the work or other and active working groups into a single jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices. From a technical perspective, this means gating and guiding AI via established mechanisms and best practices we use for human sysadmins and devs.</p>
+</blockquote>
+<h2 id="series">Series</h2>
 <ul>
 <li><a href="https://johnandersen777.github.io/gse1/">Flow</a></li>
 <li><a href="https://johnandersen777.github.io/gse2/">Flow State</a></li>
