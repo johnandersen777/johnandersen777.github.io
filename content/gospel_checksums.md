@@ -24,8 +24,9 @@ permalink = "/checksums/"
   - ⏳ David Flynn
   - ⏳ Newton
   - ⏳ https://essenenazarene.com/page/2/
-    - > Thomas Paine and Thomas Jefferson can be aptly labeled “Christian Heretics.” They admired and praised “Jesus” but rejected Orthodox Christian doctrines. Paine wrote, “I do not believe in the creed professed by the Jewish church, by the Protestant church, nor by any church that I know of.” Regarding the bible, he mused, “…it would be more consistent that [we call it the word of a demon](https://github.com/johnandersen777/johnandersen777.github.io/commit/bcb131db679822c84ac4398e41594a81763bc478) than the word of God.”
+    - > Thomas Paine and Thomas Jefferson can be aptly labeled “Christian Heretics.” They admired and praised “Jesus” but rejected Orthodox Christian doctrines. Paine wrote, “I do not believe in the creed professed by the Jewish church, by the Protestant church, nor by any church that I know of.” Regarding the bible, he mused, “…it would be more consistent that we call it the word of a demon than the word of God.”
       - Judas 47-56
+      - [`bcb131db679822c84ac4398e41594a81763bc478`](https://github.com/johnandersen777/johnandersen777.github.io/commit/bcb131db679822c84ac4398e41594a81763bc478)
   - ⏳ https://en.wikipedia.org/wiki/Philo
     - Is this why the library was burned?
     - > Philo's deployment of allegory to harmonize Jewish scripture, mainly the Torah, with Greek philosophy was the first documented of its kind, and thereby often misunderstood. Many critics of Philo assumed his allegorical perspective would lend credibility to the notion of legend over historicity.[4] Philo often advocated a literal understanding of the Torah and the historicity of such described events, while at other times favoring allegorical readings.[5]
