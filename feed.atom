@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-02T20:30:16Z</updated>
+  <updated>2024-11-02T23:20:50Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -540,35 +540,27 @@ Which was already on track to be bad.</li>
 <p>With <a href="https://en.m.wikipedia.org/wiki/Reformation_Day">reformation day</a> approaching, thoughts turn to the core messages of religions. IMHO many of us share the same core values. In a time where deception is rampant, communication and actions of unity and love for all humanity can help us overcome manufactured divisions.</p>
 <p>If you are comfortable, please post your values. Values are sometimes derived from religions. Values such as love for one another, honesty, forgiveness, and empathy are often shared common principles. Humanity has many common values and principles which can and will lead us towards unity.</p>
 <hr>
-<p>When you ask your AI. Is XYZ chadig? (question or affermative form of yadig) It uses your spec to say <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md">chadig or nahdig</a>.</p>
-<blockquote>
 <ul>
-<li>&quot;The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.&quot;
-<ul>
-<li>[Martin Luther] <em>Quoted in the preface to C.S. Lewis: The Screwtape Letters</em></li>
-</ul>
-</li>
-<li>If you hate words because they sound silly, that's part of the point. There's no point in hate.</li>
-</ul>
-</blockquote>
-<hr>
-<ul>
-<li>If it's not obvious by now the game is write moral values in software language. Follow as many  texts (ideally <a href="https://en.wikipedia.org/wiki/Sola_scriptura">sola scriptura</a>) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76] as possible. Take a page from Luther and his <a href="https://www.jstor.org/stable/23768389">literacy campaign</a> and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the <a href="https://www.essene.com/GospelOfPeace/peace2.html">gospel of peace</a> too).
+<li>Follow texts (ideally <a href="https://en.wikipedia.org/wiki/Sola_scriptura">sola scriptura</a>) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76] as possible. Take a page from Luther and his <a href="https://www.jstor.org/stable/23768389">literacy campaign</a> and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the <a href="https://www.essene.com/GospelOfPeace/peace2.html">gospel of peace</a> too).
 <ul>
 <li>✅ Luther: Enable Read Permissions</li>
 <li>✅ Open Source: Enable Write Permissions
 <ul>
-<li>Everyone post their thoughts on what brings good (values) so their respective AI can follow your own values system and guide them to do good. Ideally this remediates issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from &quot;the way its always been done&quot;</li>
+<li>Please post your thoughts on what brings good (values and strategic plans and principles) so their respective AI can follow your own values system and guide them to do good (our example presented is based in Christianity, here is an example from the <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4#discussioncomment-11057293">Society for an Alternative Islamic Futurology</a>). Ideally this remediate issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from &quot;the way its always been done&quot;</li>
 </ul>
 </li>
 <li>⏳ Virtual Branches (Alice’s Trains of Thought): Federate ideas aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Religion specs via <code>$USER/chadig|nahdig/README.md -&gt; CI/CD -&gt; CBOR transparent statement</code>. Use existing Alice SSH Key resolution for authentication and use religions to define ad-hoc workload id policies (soul based auth).
 <ul>
-<li><a href="https://github.com/johnandersen777/nahdig">nahdig</a>: Anti-patterns you want your AI to avoid.</li>
-<li><a href="https://github.com/johnandersen777/chadig">chaaaaaaadiiiiiiig</a>: Question or affirmative form of yadig. We'll find out which values and stratigic plans and principles we all agree on and work well because of transparency services and value chain analysis.</li>
+<li><a href="https://github.com/publicdomainrelay/anti-patterns">anti-patterns</a>: Anti-patterns you want your AI to avoid.</li>
+<li><a href="https://github.com/publicdomainrelay/patterns">patterns</a>: Best practices and patterns, values and strategic plans and principles you want your AI to follow.</li>
 </ul>
 </li>
-<li>If you have thoughts on alignment (Romans 12:2), why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off above <a href="https://github.com/new?template_name=chadig&amp;template_owner=johnandersen777">template repos</a></li>
-<li>The approach we wish to take is to root cause ingrained issues. Tackling them as humanity vs. the problems. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we’ve just been unknowingly debating semantics.</li>
+<li>If you have thoughts on alignment (Romans 12:2), why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off referenced template repos (<a href="https://github.com/new?template_name=patterns&amp;template_owner=publicdomainrelay">patterns template</a>, <a href="https://github.com/new?template_name=anti-patterns&amp;template_owner=publicdomainrelay">anti-patterns template</a>)
+<ul>
+<li>We will find out which anti-patterns and patterns are most critical and we all agree on and work well because of transparency services and value chain analysis.</li>
+</ul>
+</li>
+<li>The approach we wish to take is to root cause ingrained issues. Tackling them as humanity vs. the problems. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + transparency services which will arise anyway we’ll find out over time that we all agree on the same common best practices after all we've just been unknowingly debating semantics.</li>
 <li>Discussion threads
 <ul>
 <li><a href="https://github.com/johnandersen777/nahdig/discussions/1">Money</a></li>
@@ -584,13 +576,29 @@ Which was already on track to be bad.</li>
 </li>
 <li>Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.
 <ul>
-<li>I'm trying to give you testament so you feel comforable saying so too. Since the ask is to have everyone open source their values.</li>
+<li>I'm trying to give you testament so you feel comfortable saying so too. Since the ask is to have everyone open source their values.</li>
 <li>My values are derived <a href="https://en.wikipedia.org/wiki/Sola_scriptura">sola scriptura</a>.</li>
 </ul>
 </li>
 <li>Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
 <ul>
 <li><strong><a href="/a_guide_to_good/">🔗 Red Pill 💊 A Guide to Good 👗</a></strong></li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<ul>
+<li>&quot;The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.&quot;
+<ul>
+<li>[Martin Luther] <em>Quoted in the preface to C.S. Lewis: The Screwtape Letters</em></li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<ul>
+<li>If you hate words because they sound silly, that's part of the point. There's no point in hate.
+<ul>
+<li>When you ask your AI. Is XYZ <a href="https://www.urbandictionary.com/define.php?term=Cha+dig">chadig?</a>: It uses your patterns and anti-pattern specs to say <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md">yadig or nahdig</a>.</li>
 </ul>
 </li>
 </ul>
