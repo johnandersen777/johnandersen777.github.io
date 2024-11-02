@@ -30,35 +30,6 @@ Hope you have a great day! :D
   - Give us Truth or give me death
   - Amen.
 
-## Best Friends' Comments
-
-- "People don't understand what you say"
-
-  - [Just listen to God's guidance. Align with the Trinity. Think critically. Think outside the box (Matthew 16:23). That's all I'm trying to say.](/a_guide_to_good/)
-
-  - People didn't understand Philo either, if you can understand him, listen to him: [Legacy of the First Christian Heretic](https://essenenazarene.com/page/2/) (Luther was also a Heretic, as were the Gnostics, and the Cainites, not that I agree with any of them 100%, but being an enemy of the vatican is a good thing IMHO).
-
-- "You're a good man"
-
-  - "Don't make me thumbprint a machine for door access" (working on it...)
-
-- "I thought I was as scattered as they come, until I met [John]"
-
-  - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
-
-    - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
-
-    - https://careerauthors.com/full-force-effect-military-thriller-writing-lessons-from-tom-clancy/
-
-- "John's trying to do ethical graffiti"
-
-  - Everything is Art, Infrastructure should be elegant, resilient, and beautiful.
-    It should be a reflection of its people.
-
-    - grep Train of thought graffiti.
-
-    - grep shes a mirror
-
 ## Favorite Quotes
 
 - ["Tell your gods I'm coming"](https://www.reddit.com/r/Xcom/comments/isd9nh/tell_your_gods_im_coming/) [[Outrider](https://xcom.fandom.com/wiki/Reapers)]
@@ -72,17 +43,9 @@ Hope you have a great day! :D
 - "If everyone always gives everyone a cigarette, then we all always have a cigarette" [Someone I met randomly]
   - I love this as a metaphor for anarchy
 
+- "Jack of all trades, master of One" [Benjamin Franklin]
+
 - "It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations." [President John F. Kennedy]
-
-## Copy pasted from a slide deck
-
-- Favorite food/drink: Tacos
-- Languages you speak: English, Danish, Spanish
-- Advice: Always be learning
-- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian Jiu-Jitsu, Dancing with the Speakers on 11
-- Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
-- Awards: Honorary Lesbian
-- Favorite Song: STRFKR: Death as a Fetish
 
 ## What's in Progress
 
@@ -129,6 +92,45 @@ properties such as maintainability, provide guideance for developer
 workstream prioritization to achive strategic business goals, and
 write and maintain codebases herself, accepting contributions from
 external contributors.
+
+## Copy pasted from a slide deck
+
+- Favorite food/drink: Tacos
+- Languages you speak: English, Danish, Spanish
+- Advice: Always be learning
+- Hobbies: Hiking, Longboarding, Film (,) Photography, Kayaking, Surfing, Brazilian Jiu-Jitsu, Dancing with the Speakers on 11
+- Adjectives: Rolling, Passionate, Hardcore, Loud, Loving, Intense, Stoked
+- Awards: Honorary Lesbian
+- Favorite Song: STRFKR: Death as a Fetish
+
+## Best Friends' Comments
+
+- "People don't understand what you say"
+
+  - [Just listen to God's guidance. Align with the Trinity. Think critically. Think outside the box (Matthew 16:23). That's all I'm trying to say.](/a_guide_to_good/)
+
+  - People didn't understand Philo either, if you can understand him, listen to him: [Legacy of the First Christian Heretic](https://essenenazarene.com/page/2/) (Luther was also a Heretic, as were the Gnostics, and the Cainites, not that I agree with any of them 100%, but being an enemy of the vatican is a good thing IMHO).
+
+- "You're a good man"
+
+  - "Don't make me thumbprint a machine for door access" (working on it...)
+
+- "I thought I was as scattered as they come, until I met [John]"
+
+  - Aspire to tie stories and code together as well as Tom Clancy does. RIP.
+
+    - https://bookbrio.com/glossario/book-by-tom-clancy-literary-masterpieces/
+
+    - https://careerauthors.com/full-force-effect-military-thriller-writing-lessons-from-tom-clancy/
+
+- "John's trying to do ethical graffiti"
+
+  - Everything is Art, Infrastructure should be elegant, resilient, and beautiful.
+    It should be a reflection of its people.
+
+    - grep Train of thought graffiti.
+
+    - grep shes a mirror
 
 ## Links
 
