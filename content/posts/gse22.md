@@ -7,7 +7,7 @@ subtitle = "Redefining Value Exchange with Two Tokens for Work and Play"
 
 ## Redefining Value Exchange with Two Tokens for Work and Play
 
-In our previous articles, we've explored various facets of building equitable communities through open policies, technological integration, and collaborative efforts. Now, we delve into a revolutionary approach to value exchange that challenges traditional monetary systems. By introducing two distinct tokens—one representing units of work and the other representing units of play—we aim to create a currency system backed by tangible standards, much like the gold standard of the past.
+In our previous articles, we've explored various facets of building equitable communities through open policies, technological integration, and collaborative efforts. Now, we delve into an alternate approach to value exchange that challenges traditional monetary systems. By introducing two distinct tokens—one representing units of work and the other representing units of play—we aim to create a currency system backed by tangible standards, much like the gold standard of the past.
 
 - From each according to their ability (to follow God's will)
 - To each according to their wants (Genesis 27:28 -> abundance)
@@ -216,7 +216,7 @@ By splitting money into two tokens—one for units of work and one for units of 
 - **Addressing Money's Flaws**: Critically examined how traditional money can obscure value and enable unfairness.
 - **Practical Application**: Provided a clear example with Bob and Eve to illustrate the system in action.
 - **Challenges**: Acknowledged potential obstacles and the need for thoughtful implementation.
-- **Visionary Approach**: Positioned the dual-token system as a transformative step towards a more equitable economy.
+- **Matthew 16:23 Approach**: Positioned the dual-token system as a transformative step towards a more equitable economy. Eventually we build up enough trust and lack of deception that we don't need money (Matthew 6:24)
 
 ---
 
