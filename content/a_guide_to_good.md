@@ -8,10 +8,6 @@ aliases = ["greek_stuff", "redpill", "stay_1337"]
 
 [![matrix-red-pill](https://user-images.githubusercontent.com/5950433/198105723-47c90cbb-639d-4991-94fc-4a488eaae266.gif)](https://github.com/intel/dffml/commit/291cfbe5153414932afe446aa4f6c2e298069914)
 
-> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
->
-> For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
-
 ## God is the Trinity
 
 Making good choices means aligning with John 13:34-35, which tells us:
@@ -35,24 +31,20 @@ The following assists one with the above:
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven:
 
 - [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
-  - New Covenant
+  - New Covenant (John 13:34-35)
 - [Coptic Gospels](https://www.gospels.net)
-  - > "Jesus Explains Everything"
+  - > "Jesus Explains Everything" (Judas 47-56)
 - [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
   - > '"Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***'
   - > 'God: Now let Us [the Trinity] conceive a new creation - humanity - made in Our image, fashioned according to Our likeness' (Genesis 1:26)
     - > "our image"
       - Is both the male and the female. Humanity is the Holy Child.
-    - 🍎🐍🌳 Knowledge let's us know that God is good. How would we know without knowledge?
+    - Knowledge let's us know that God is good. How would we know without knowledge?
       - Saying 22: Making the Two into One
-        - The image doing God's good will.
-        - All humanity doing only good, collective [symbiosis](/symbiosis/).
+        - The image (all humanity) doing good things (God's will).
       - An image is never the same as the real thing.
-        - '"What is the sin of the world?", The Savior said, "There is no sin, but [it is you who make sin](https://github.com/johnandersen777/nahdig)' (Gospel of Mary, Matthew 16:23)
-        - When we know God we know what is good. While an image is never the same as what it is an image of, it can know how to be a good image.
-          - [An Image](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_architecting_alice/0007_an_image.md)
-            - This is heavy on the AI, but you can see we are an artificial intelligence as well, because the only real intelligence comes from God.
-          - [A Guide to Good](#a-guide-to-good)
+        - '"What is the sin of the world?", The Savior said, "There is no sin, but [it is you who make sin](https://github.com/publicdomainrelay/anti-patterns)' (Gospel of Mary, Matthew 16:23)
+        - While an image is never the same as what it is an image of, we have an innate sense of right and wrong and Christ's teachings which guide us, we can also guide others on how to be good images: [A Guide to Good](#a-guide-to-good)
 - [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
