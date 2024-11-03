@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-03T02:41:59Z</updated>
+  <updated>2024-11-03T05:06:21Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -11720,7 +11720,10 @@ $ gh run view --log $(gh run list | head -n 2 | tail -n 1 | awk '{print $(NF-2)}
 <h2 id="edit-a-file-only-if-autoformatting-passes">Edit a file only if autoformatting passes</h2>
 <p>Can be used to hand edit xxd as well if you wanted to</p>
 <pre><code class="language-console" data-lang="console">$ cp old-admin.json old-old-admin.json; cp ~/.local/admin.json old-admin.json &amp;&amp; python -m json.tool old-admin.json &gt; admin.json || cp old-admin.json admin.json &amp;&amp; cp admin.json staged.json &amp;&amp; vim staged.json &amp;&amp; python -m json.tool &lt; staged.json &gt; admin.json &amp;&amp; cp admin.json ~/.local/admin.json
-</code></pre><h2 id="quick-pop-shell-from-python">Quick pop shell from python</h2>
+</code></pre><h2 id="javascript">JavaScript</h2>
+<p>Find youtube videos by title</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">links</span> <span class="o">=</span> <span class="p">{};</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s2">&#34;div[data-link]&#34;</span><span class="p">).</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">el</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span><span class="kd">var</span> <span class="nx">key</span> <span class="o">=</span> <span class="nx">el</span><span class="p">.</span><span class="nx">innerText</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="s1">&#39;- Hour ((\\w+)*)&#39;</span><span class="p">);</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">el</span><span class="p">.</span><span class="nx">innerText</span><span class="p">,</span> <span class="nx">key</span><span class="p">);</span> <span class="k">if</span> <span class="p">(</span><span class="nx">key</span> <span class="o">==</span> <span class="kc">null</span><span class="p">)</span> <span class="p">{</span><span class="k">return</span><span class="p">;};</span> <span class="nx">links</span><span class="p">[</span><span class="nb">Number</span><span class="p">(</span><span class="nx">key</span><span class="p">[</span><span class="mi">1</span><span class="p">])]</span> <span class="o">=</span> <span class="nx">el</span><span class="p">.</span><span class="nx">attributes</span><span class="p">[</span><span class="s2">&#34;data-link&#34;</span><span class="p">].</span><span class="nx">value</span><span class="p">;});</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">links</span><span class="p">));</span>
+</code></pre></div><h2 id="quick-pop-shell-from-python">Quick pop shell from python</h2>
 <div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">os</span>
 <span class="n">directory</span> <span class="o">=</span> <span class="s2">&#34;/tmp&#34;</span>
 <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="n">f</span><span class="s2">&#34;bash -c &#39;cd {directory}; pwd; exec bash&#39;&#34;</span><span class="p">)</span>
