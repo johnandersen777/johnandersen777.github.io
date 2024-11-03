@@ -75,7 +75,7 @@ python -m pip install -U --force-reinstall 'https://github.com/yt-dlp/yt-dlp/arc
 python -m yt_dlp --no-call-home --no-cache-dir -x --audio-format mp3 --add-metadata --audio-quality 0 --restrict-filenames --ignore-errors 'https://www.youtube.com/watch?v=5ZsZLDWWZMs'
 
 for link in $(cat static/missler/24Hours.json | jq -r 'to_entries[] | .value'); do python -m yt_dlp --no-call-home --no-cache-dir -x --audio-format mp3 --add-metadata --audio-quality 0 --restrict-filenames --ignore-errors "${link}"; done
-for file in $(echo Learn_the_Bible*); do mkdir -pv "${file}.transcribe/" && whisper --model large-v3 --output_format all --device cpu --output_dir "${file}.transcribe/" "${file}"; done
+for file in $(echo Learn_the_Bible* | grep -v \.transcribe); do mkdir -pv "${file}.transcribe/" && time whisper --language en --model tiny.en --output_format all --device cpu --output_dir "${file}.transcribe" "${file}"; done
 ```
 
 ### Notes
@@ -83,6 +83,12 @@ for file in $(echo Learn_the_Bible*); do mkdir -pv "${file}.transcribe/" && whis
 - h adds the essence
 - enoch knew of the flood
 - Love is the essence of the Father
+- 2
+  - Theremodynamics
+    - 1st Law - There's no way to win
+    - 2nd Law - You can't even break even
+    - 3rd Law - Every object has a positive entropy which may become zero at absolute zero
+      - he says you can't get out of the game because of this (our objective is to escape the sandbox, there may be a way around this).
 
 ### Specs
 
