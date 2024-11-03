@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-02T23:35:04Z</updated>
+  <updated>2024-11-03T02:41:59Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -21,12 +21,7 @@
     <id>https://johnandersen777.github.io/theres_something_rotten_with_the_state_of_eden/</id>
     <updated>2024-10-19T19:00:00Z</updated>
     <published>2024-10-19T19:00:00Z</published>
-    <content type="html"><![CDATA[<p>This is a living document which attempts to appeal to folks with different viewpoints. As such, you may disagree with some of the verbiage, the verbiage you disagree with may be meant to unify the perspective opposite to yours to bridge the same gap which you're feeling from &quot;the other side&quot;.</p>
-<p>All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please <a href="/contact/">contact / contribute</a> if you have thoughts or desire changes.</p>
-<blockquote>
-<p><a href="https://kk.org/thetechnium/protopia/">Protopia</a>: &quot;<em>the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world&quot;</em></p>
-<p>For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.</p>
-</blockquote>
+    <content type="html"><![CDATA[<p>In brief: Climate change + industrial revolution + pole shifts + increasing deception at scale = worse than just climate change (which was already on track to be difficult to tackle). This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#the-scientific-perspective-understanding-global-threat-landscape">The Scientific Perspective: Understanding Global Threat Landscape</a></li>
@@ -43,8 +38,14 @@
 <li><a href="#references">References</a></li>
 </ul>
 <p>In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.</p>
-<p>At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including human caused climate change and phenomena like climate change and pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.</p>
-<p><img src="https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec" alt="the-system-has-been-hiding-this-from-us"></p>
+<p>At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time- cyclical phenomena like climate change and pole shifts, human caused acceleration of climate change, and manufactured divisions and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.</p>
+<p>This is a living document which attempts to appeal to folks with different viewpoints. As such, you may disagree with some of the verbiage, the verbiage you disagree with may be meant to unify the perspective opposite to yours to bridge the same gap which you're feeling from what you may consider &quot;the other side&quot; of your viewpoint.</p>
+<blockquote>
+<p>All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please <a href="/contact/">contact / contribute</a> if you have thoughts or desire changes.</p>
+<p><a href="https://kk.org/thetechnium/protopia/">Protopia</a>: &quot;<em>the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world&quot;</em></p>
+<p>For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.</p>
+</blockquote>
+<p><img src="https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec" alt="what-is-behind-the-systems-curtain"></p>
 <h3 id="the-scientific-perspective-understanding-global-threat-landscape">The Scientific Perspective: Understanding Global Threat Landscape</h3>
 <p>While climate change and pole shifts are natural and happen by the cycles of the earth and stars, since the 1800s, the industrial revolution has accelerated climate change, the combinded impacts on modern society will be significant.</p>
 <p>Understanding these potential impacts underscores the need for proactive measures. By investing in decentralized resilience, we can better predict changes and implement strategies to mitigate adverse effects. This preparation involves enhancing the resilience of technological systems and updating protocols for supply chains and communication. These enhancments enable rapid response by humans and AI agents to mitigate these threats (<a href="/tm/">threat model</a>).</p>
