@@ -6,13 +6,7 @@ subtitle = "Actionable steps towards alignment and resilience"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts", "calls_to_action", "action_required"]
 +++
 
-This is a living document which attempts to appeal to folks with different viewpoints. As such, you may disagree with some of the verbiage, the verbiage you disagree with may be meant to unify the perspective opposite to yours to bridge the same gap which you're feeling from "the other side".
-
-All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please [contact / contribute](/contact/) if you have thoughts or desire changes.
-
-> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
->
-> For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
+In brief: Climate change + industrial revolution + pole shifts + increasing deception at scale = worse than just climate change (which was already on track to be difficult to tackle). This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.
 
 ## Table of Contents
 
@@ -31,9 +25,17 @@ All content on this site is public domain via the unlicense for redistribution a
 
 In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.
 
-At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time—including human caused climate change and phenomena like climate change and pole shifts and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.
+At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time- cyclical phenomena like climate change and pole shifts, human caused acceleration of climate change, and manufactured divisions and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.
 
-![the-system-has-been-hiding-this-from-us](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
+This is a living document which attempts to appeal to folks with different viewpoints. As such, you may disagree with some of the verbiage, the verbiage you disagree with may be meant to unify the perspective opposite to yours to bridge the same gap which you're feeling from what you may consider "the other side" of your viewpoint.
+
+> All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please [contact / contribute](/contact/) if you have thoughts or desire changes.
+>
+> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
+>
+> For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
+
+![what-is-behind-the-systems-curtain](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
 ### The Scientific Perspective: Understanding Global Threat Landscape
 
