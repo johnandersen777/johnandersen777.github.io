@@ -43,22 +43,23 @@ If you have thoughts on alignment (Romans 12:2), why so serious? Put your free w
 
 ## Plan
 
-Follow texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76] as possible. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the [gospel of peace](https://www.essene.com/GospelOfPeace/peace2.html) too).
-
-- ✅ Luther: Enable Read Permissions
-- ✅ Open Source: Enable Write Permissions
-- ⏳ Virtual Branches (Technical Content): Federate ideas (graph of thoughts / trains of thought) aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Self-Organized Religion specs via `$USER/patterns|anti-patterns/README.md -> CI/CD -> CBOR transparent statement`. Use existing [SSH Key resolution](/gse1/) for authentication and use religions to define ad-hoc workload id policies (soul based auth).
-
 Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.
 
 - I'm trying to give you testament so you feel comfortable saying so too. Since the ask is for folks to open source their values.
 - My values are derived [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
 
+Follow texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76]. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the [gospel of peace](https://www.essene.com/GospelOfPeace/peace2.html) too).
+
+- ✅ Luther: Enable Read Permissions
+- ✅ Open Source: Enable Write Permissions
+- ⏳ Virtual Branches (Technical Content): Federate ideas (graph of thoughts / trains of thought) aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Self-Organized Religion specs via `$USER/patterns|anti-patterns/README.md -> CI/CD -> CBOR transparent statement`. Use existing [SSH Key resolution](/gse1/) for authentication and use religions to define ad-hoc workload id policies (soul based auth).
+
+> "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn" [Martin Luther]
+>
+> *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
+
 When you ask your AI. Is XYZ [chadig?](https://www.urbandictionary.com/define.php?term=Cha+dig): It uses your patterns and anti-pattern specs to say [yadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
 
-> - "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn."
->   - [Martin Luther] *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
-
-- If you hate words because they sound silly, that's part of the point. There's no point in hate.
+If you hate words because they sound silly, that's part of the point. There's no point in hate.
 
 [![hole-rabbit-hole](https://user-images.githubusercontent.com/5950433/196436807-68881b75-2006-4734-b4a2-63dc3d17b634.gif)](https://johnandersen777.github.io/a_guide_to_good/)
