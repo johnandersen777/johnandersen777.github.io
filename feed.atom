@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-03T06:54:07Z</updated>
+  <updated>2024-11-03T07:04:14Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -537,25 +537,28 @@ Which was already on track to be bad.</li>
     <content type="html"><![CDATA[<blockquote>
 <p>🕊️✌️☮️ Peace be with you! 🌍🌏🌎</p>
 </blockquote>
-<p>This is a call for you to transparently please think on and write your own values and strategic plans and principles. &quot;For years, religion did nothing but divide&quot;, let's now use it to unite. Please help us find related work by posting in this <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">thread</a> (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added).</p>
+<p>This is a call for you to transparently please think on and write your own values and strategic plans and principles. &quot;For years, religion did nothing but divide&quot;, let's now use it to unite. Please help us find related work by posting in this <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">thread</a>, or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added, <a href="/contact/">contact</a>.</p>
 <p>With <a href="https://en.m.wikipedia.org/wiki/Reformation_Day">reformation day</a> approaching, thoughts turn to the core messages of religions. IMHO many of us share the same core values. In a time where deception is rampant, communication and actions of unity and love for all humanity can help us overcome manufactured divisions.</p>
 <p>If you are comfortable, please post your values. Values are sometimes derived from religions. Values such as love for one another, honesty, forgiveness, and empathy are often shared common principles. Humanity has many common values and principles which can and will lead us towards unity.</p>
-<hr>
 <ul>
-<li>Follow texts (ideally <a href="https://en.wikipedia.org/wiki/Sola_scriptura">sola scriptura</a>) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76] as possible. Take a page from Luther and his <a href="https://www.jstor.org/stable/23768389">literacy campaign</a> and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the <a href="https://www.essene.com/GospelOfPeace/peace2.html">gospel of peace</a> too).
-<ul>
-<li>✅ Luther: Enable Read Permissions</li>
-<li>✅ Open Source: Enable Write Permissions
-<ul>
-<li>Please post your thoughts on what brings good (values and strategic plans and principles) so instances of AI you use can follow your own values system and guide them to do good (our example presented is based in <a href="/a_guide_to_good/">Christianity</a>, here is an example from the <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4#discussioncomment-11057293">Society for an Alternative Islamic Futurology</a>). Ideally this assists with remediation of issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from &quot;the way its always been done&quot;</li>
-<li><a href="https://github.com/publicdomainrelay/patterns">patterns</a>: Best practices and patterns, values, and strategic plans and principles you want your AI to follow.</li>
-<li><a href="https://github.com/publicdomainrelay/anti-patterns">anti-patterns</a>: Anti-patterns you want your AI to avoid.</li>
+<li><a href="https://github.com/publicdomainrelay/anti-patterns">anti-patterns</a>: Anti-patterns you want to be avoided when others act on your behalf.</li>
+<li><a href="https://github.com/publicdomainrelay/patterns">patterns</a>: Best practices and patterns, values, and strategic plans and principles you want others to follow when acting on your behalf.</li>
 </ul>
-</li>
-<li>⏳ Virtual Branches (Technical Content): Federate ideas (graph of thoughts / trains of thought) aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Self-Organized Religion specs via <code>$USER/patterns|anti-patterns/README.md -&gt; CI/CD -&gt; CBOR transparent statement</code>. Use existing <a href="/gse1/">SSH Key resolution</a> for authentication and use religions to define ad-hoc workload id policies (soul based auth).</li>
-<li>If you have thoughts on alignment (Romans 12:2), why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off referenced template repos (<a href="https://github.com/new?template_name=patterns&amp;template_owner=publicdomainrelay">patterns template</a>, <a href="https://github.com/new?template_name=anti-patterns&amp;template_owner=publicdomainrelay">anti-patterns template</a>)</li>
-<li>The approach we wish to take is to root cause ingrained issues. Tackling them as humanity vs. the problems. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + <a href="https://scitt.io">transparency services</a> which will arise anyway due to supply chain requirements we’ll find out over time that we all agree on the same common best practices after all we've just been unknowingly debating semantics.</li>
-<li>Discussion threads
+<p>Please post your thoughts on what brings good (values and strategic plans and principles) so instances of AI you use (this is &quot;others act on your behalf&quot;, or teams / organizations you are involved in) can follow your own values system and guide them to do good (our example presented is based in <a href="/a_guide_to_good/">Christianity</a>, here is an example from the <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4#discussioncomment-11057293">Society for an Alternative Islamic Futurology</a>). Ideally this assists with remediation of issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from &quot;the way its always been done&quot;</p>
+<p>We can also think of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on our behalf. We do not want it acting in bad karma ways. We want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.</p>
+<ul>
+<li><strong><a href="/a_guide_to_good/">🔗 Red Pill 💊 A Guide to Good 👗</a></strong></li>
+</ul>
+<p>The approach we wish to take is to root cause ingrained issues. Tackling them as humanity vs. the problems. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + <a href="https://scitt.io">transparency services</a> which will arise anyway due to supply chain requirements we’ll find out over time that we all agree on the same common best practices after all we've just been unknowingly debating semantics.</p>
+<p>If you have thoughts on alignment (Romans 12:2), why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off referenced template repos</p>
+<ul>
+<li><a href="https://github.com/new?template_name=anti-patterns&amp;template_owner=publicdomainrelay">anti-patterns template</a></li>
+<li><a href="https://github.com/new?template_name=patterns&amp;template_owner=publicdomainrelay">patterns template</a></li>
+</ul>
+<h2 id="discussion-threads">Discussion threads</h2>
+<blockquote>
+<p><em>&quot;Do not be overcome by evil, but overcome evil with good&quot;</em> (Romans 12:21)</p>
+</blockquote>
 <ul>
 <li><a href="https://github.com/johnandersen777/nahdig/discussions/1">Money</a></li>
 <li><a href="https://github.com/johnandersen777/nahdig/discussions/2">Time</a></li>
@@ -565,21 +568,19 @@ Which was already on track to be bad.</li>
 <li><a href="https://github.com/johnandersen777/nahdig/discussions/6">Deception</a></li>
 <li><a href="https://github.com/johnandersen777/nahdig/discussions/7">Lack of forgiveness</a></li>
 </ul>
-</li>
-</ul>
-</li>
-<li>Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.
+<h2 id="plan">Plan</h2>
+<p>Follow texts (ideally <a href="https://en.wikipedia.org/wiki/Sola_scriptura">sola scriptura</a>) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76] as possible. Take a page from Luther and his <a href="https://www.jstor.org/stable/23768389">literacy campaign</a> and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the <a href="https://www.essene.com/GospelOfPeace/peace2.html">gospel of peace</a> too).</p>
 <ul>
-<li>I'm trying to give you testament so you feel comfortable saying so too. Since the ask is to have everyone open source their values.</li>
+<li>✅ Luther: Enable Read Permissions</li>
+<li>✅ Open Source: Enable Write Permissions</li>
+<li>⏳ Virtual Branches (Technical Content): Federate ideas (graph of thoughts / trains of thought) aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Self-Organized Religion specs via <code>$USER/patterns|anti-patterns/README.md -&gt; CI/CD -&gt; CBOR transparent statement</code>. Use existing <a href="/gse1/">SSH Key resolution</a> for authentication and use religions to define ad-hoc workload id policies (soul based auth).</li>
+</ul>
+<p>Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.</p>
+<ul>
+<li>I'm trying to give you testament so you feel comfortable saying so too. Since the ask is for folks to open source their values.</li>
 <li>My values are derived <a href="https://en.wikipedia.org/wiki/Sola_scriptura">sola scriptura</a>.</li>
 </ul>
-</li>
-<li>Romans 12:21. You can also try thinking of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on your behalf. You do not want it acting in bad karma ways. You want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.
-<ul>
-<li><strong><a href="/a_guide_to_good/">🔗 Red Pill 💊 A Guide to Good 👗</a></strong></li>
-</ul>
-</li>
-</ul>
+<p>When you ask your AI. Is XYZ <a href="https://www.urbandictionary.com/define.php?term=Cha+dig">chadig?</a>: It uses your patterns and anti-pattern specs to say <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md">yadig or nahdig</a>.</p>
 <blockquote>
 <ul>
 <li>&quot;The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn.&quot;
@@ -590,11 +591,7 @@ Which was already on track to be bad.</li>
 </ul>
 </blockquote>
 <ul>
-<li>If you hate words because they sound silly, that's part of the point. There's no point in hate.
-<ul>
-<li>When you ask your AI. Is XYZ <a href="https://www.urbandictionary.com/define.php?term=Cha+dig">chadig?</a>: It uses your patterns and anti-pattern specs to say <a href="https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md">yadig or nahdig</a>.</li>
-</ul>
-</li>
+<li>If you hate words because they sound silly, that's part of the point. There's no point in hate.</li>
 </ul>
 <p><a href="https://johnandersen777.github.io/a_guide_to_good/"><img src="https://user-images.githubusercontent.com/5950433/196436807-68881b75-2006-4734-b4a2-63dc3d17b634.gif" alt="hole-rabbit-hole"></a></p>]]></content>
   </entry>
