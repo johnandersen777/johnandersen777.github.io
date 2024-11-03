@@ -279,6 +279,11 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
 
 ## References
 
+- [Politicians not ambitious enough to save nature, say scientists](https://www.bbc.com/news/articles/cy9jdpep4ydo)
+  - > *"Scientists say there has been an alarming lack of progress in saving nature as the UN biodiversity summit, COP 16, draws to a close. The scale of political ambition has not risen to the challenge of reducing the destruction of nature that costs the economy billions, said one leading expert. Representatives of 196 countries have been meeting in Cali, Colombia, to agree on how to halt nature decline by 2030"*
+‪
+  - [Alarm call as world's trees slide towards extinction](https://www.bbc.com/news/articles/c24558g69mgo)
+  - [Deadliest weather made worse by climate change - scientists](https://www.bbc.com/news/articles/cdxvnk10xz2o)
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
   - Mr. Azzarello's writing uses the phrase *"So we would believe it"*
     repeatedly, this literary device is not literal, it is metaphorical for
