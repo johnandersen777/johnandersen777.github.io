@@ -63,3 +63,13 @@ When you ask your AI. Is XYZ [chadig?](https://www.urbandictionary.com/define.ph
 If you hate words because they sound silly, that's part of the point. There's no point in hate.
 
 [![hole-rabbit-hole](https://user-images.githubusercontent.com/5950433/196436807-68881b75-2006-4734-b4a2-63dc3d17b634.gif)](https://johnandersen777.github.io/a_guide_to_good/)
+
+## God has no name
+
+God has no **single** name:
+
+- **Christ Jesus** was both fully God and fully man. He is known by the names Christ, Jesus, and God.
+- **Jesus**: means God is salvation
+- **Christ**: means "the anointed one"
+
+God transcends the concepts of a name.
