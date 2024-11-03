@@ -435,6 +435,13 @@ Can be used to hand edit xxd as well if you wanted to
 $ cp old-admin.json old-old-admin.json; cp ~/.local/admin.json old-admin.json && python -m json.tool old-admin.json > admin.json || cp old-admin.json admin.json && cp admin.json staged.json && vim staged.json && python -m json.tool < staged.json > admin.json && cp admin.json ~/.local/admin.json
 ```
 
+## JavaScript
+
+Find youtube videos by title
+
+```javascript
+var links = {}; document.querySelectorAll("div[data-link]").forEach((el) => {var key = el.innerText.match('- Hour ((\\w+)*)'); console.log(el.innerText, key); if (key == null) {return;}; links[Number(key[1])] = el.attributes["data-link"].value;}); console.log(JSON.stringify(links));
+```
 
 ## Quick pop shell from python
 
