@@ -88,7 +88,8 @@ for file in $(echo Learn_the_Bible* | grep -v \.transcribe); do mkdir -pv "${fil
     - 1st Law - There's no way to win
     - 2nd Law - You can't even break even
     - 3rd Law - Every object has a positive entropy which may become zero at absolute zero
-      - he says you can't get out of the game because of this (our objective is to escape the sandbox, there may be a way around this).
+      - he says you can't get out of the game because of this (our objective is to escape the sandbox, there may be a way around this: Romans 8:21, repeal of entropy laws).
+        - "that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God"
 
 ### Specs
 
