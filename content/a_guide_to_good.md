@@ -73,6 +73,14 @@ Due to the impending proliferation of artificial intelligence and it being smart
 
 > Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) for some. The point was for readers to arrive at sola scriptura based conclusions of God being the Trinity. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles and the texts one hopes you read is provided to ensure clarity.
 
+## Books which say the same thing
+
+Please consider reading the following books, we will gladly send you a copy if
+you can't find them at your local library:
+
+- The Tao of Wu by RZA
+- "The Book" by Alan Watts
+
 ### Why is "God has no name" Important
 
 > "Dear children, keep yourselves from idols" (1 John 5:21)
