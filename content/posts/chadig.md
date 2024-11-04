@@ -102,7 +102,10 @@ God transcends the concepts of a name. God is of a place beyond our concepts of 
   - https://www.newsandsentinel.com/opinion/local-columns/2021/04/recognizing-a-god-with-no-name/
   - https://www.quora.com/What-is-the-meaning-of-the-saying-God-has-no-name
 
-## "The Book" by Alan Watts
+## Books which say the same thing
 
-If none of this makes any sense, please just read Alan Watts instead, he wrote
-"The Book", it's well worth a read.
+Please consider reading the following books, we will gladly send you a copy if
+you can't find them at your local library:
+
+- The Tao of Wu by RZA
+- "The Book" by Alan Watts
