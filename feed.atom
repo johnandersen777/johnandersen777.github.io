@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-04T09:12:32Z</updated>
+  <updated>2024-11-04T17:45:24Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -667,9 +667,13 @@ Which was already on track to be bad.</li>
 </ul>
 </li>
 </ul>
-<h2 id="the-book-by-alan-watts">&quot;The Book&quot; by Alan Watts</h2>
-<p>If none of this makes any sense, please just read Alan Watts instead, he wrote
-&quot;The Book&quot;, it's well worth a read.</p>]]></content>
+<h2 id="books-which-say-the-same-thing">Books which say the same thing</h2>
+<p>Please consider reading the following books, we will gladly send you a copy if
+you can't find them at your local library:</p>
+<ul>
+<li>The Tao of Wu by RZA</li>
+<li>&quot;The Book&quot; by Alan Watts</li>
+</ul>]]></content>
   </entry>
   <entry>
     <title>Towards a Generic Methodology for Sandbox Escape: Part 33: Mary’s Role in Defending Our Secure Software Forge</title>
