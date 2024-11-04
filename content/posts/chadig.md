@@ -101,3 +101,8 @@ God transcends the concepts of a name. God is of a place beyond our concepts of 
 - References
   - https://www.newsandsentinel.com/opinion/local-columns/2021/04/recognizing-a-god-with-no-name/
   - https://www.quora.com/What-is-the-meaning-of-the-saying-God-has-no-name
+
+## "The Book" by Alan Watts
+
+If none of this makes any sense, please just read Alan Watts instead, he wrote
+"The Book", it's well worth a read.
