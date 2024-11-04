@@ -55,8 +55,8 @@ If you have thoughts on alignment (Romans 12:2), why so serious? Put your free w
   - *"For no man understandeth him; howbeit in the spirit he speaketh mysteries"* – True connection and collaboration require transparent language, avoiding hidden meanings that may confuse or create unnecessary barriers among those we aim to engage.
 - **[Deception](https://github.com/johnandersen777/nahdig/discussions/6):** Transparency is paramount
   - Transparency in policies and desecration making
-  - *"For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad"* – In decision-making and value chain analysis, transparency is essential, as hidden motives and actions will eventually surface, affecting trust and integrity.
-  - *"Neither any thing hid, that shall not be known and come abroad"* – By maintaining openness in policies and strategies, such as through value chain analysis and Wardley Maps, we create an environment where clarity prevails over deception, fostering sustainable alignment and accountability.
+  - *"Take heed that no man deceive you"* (Matthew 24:4) – Just as we are warned against deception, maintaining transparency in policies and decision-making builds trust, ensuring that no one is led astray by hidden agendas or obscured motives.
+  - *"Ye shall not surely die"* (Genesis 3:4) – Avoid the deception which may cause you to act in error; instead, value clarity and honesty in every part of the value chain, from analysis to mapping, so that decisions are rooted in truth rather than illusion.
 - **[Lack of forgiveness](https://github.com/johnandersen777/nahdig/discussions/7):** Forgive but do not forget
   - Re-establishing federation with blocklisted entities and sandboxing communications and influence (Graph of  Thoughts Arbitrage) per threat model
   - *"Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven"* – Genuine forgiveness enables reconciliation without blind trust; we can forgive past actions while remaining vigilant and cautious in re-engagement, establishing boundaries where necessary.
