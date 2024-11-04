@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-03T23:32:26Z</updated>
+  <updated>2024-11-04T00:32:39Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -567,18 +567,64 @@ Which was already on track to be bad.</li>
 <li><a href="https://github.com/new?template_name=anti-patterns&amp;template_owner=publicdomainrelay">anti-patterns template</a></li>
 <li><a href="https://github.com/new?template_name=patterns&amp;template_owner=publicdomainrelay">patterns template</a></li>
 </ul>
-<h2 id="discussion-threads">Discussion threads</h2>
+<h2 id="anti-patterns-and-links-to-discussion-threads">Anti-Patterns and Links to Discussion Threads</h2>
 <blockquote>
 <p><em>&quot;Do not be overcome by evil, but overcome evil with good&quot;</em> (Romans 12:21)</p>
 </blockquote>
 <ul>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/1">Money</a></li>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/2">Time</a></li>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/3">Ego</a></li>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/4">Control</a></li>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/5">Language</a></li>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/6">Deception</a></li>
-<li><a href="https://github.com/johnandersen777/nahdig/discussions/7">Lack of forgiveness</a></li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/1">Money</a>:</strong> Accumulation of assets
+<ul>
+<li>Ephemerallity has no store</li>
+<li><em>&quot;No one can serve two masters&quot;</em> – Ephemerality and eternity cannot coexist as one's focus; striving to store or cling to the temporary distracts from the pursuit of the eternal.</li>
+<li><em>&quot;You cannot serve both God and money&quot;</em> – Devotion split between the eternal and the fleeting leads to conflict, as true purpose lies in commitment to what endures beyond temporal gains.</li>
+</ul>
+</li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/2">Time</a>:</strong> Accumulation of compute time
+<ul>
+<li>Get in, do the job, get out</li>
+<li><em>&quot;For God so loved the world that he gave his only begotten Son&quot;</em> – Just as divine love was given freely and without delay, we are called to act purposefully and efficiently, prioritizing meaningful outcomes over prolonged accumulation of resources.</li>
+<li><em>&quot;That whosoever believeth in him should not perish, but have everlasting life&quot;</em> – Focus on enduring impact rather than endless compute, embodying faith in a purpose that transcends the need for excessive consumption or accumulation of time.</li>
+</ul>
+</li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/3">Ego</a>:</strong> Development of persona, stay a shell for the ghost, be the ghost in the shell
+<ul>
+<li>Shed bad patterns, don't get attached to them if they no longer align</li>
+<li><em>&quot;Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves&quot;</em> – Just as appearances can be deceiving, holding onto a constructed persona or outdated habits can lead us astray, masking true intentions and misaligning us with our authentic purpose.</li>
+<li><em>&quot;Every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit&quot;</em> – Healthy growth comes from letting go of unproductive patterns and nurturing qualities that reflect our genuine self, ensuring that what we project and cultivate is truly in harmony with our values.</li>
+</ul>
+</li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/4">Control</a>:</strong> Do not manipulate others for any reason, no matter what your strategic plans say
+<ul>
+<li>
+<blockquote>
+<p><em>&quot;Some experts believe that future systems trained by similar means, even if they perform well during pre-deployment testing, could fail in increasingly dramatic ways, including strategically manipulating humans to acquire power&quot;</em> [<a href="https://cims.nyu.edu/~sbowman/eightthings.pdf">Samuel R. Bowman</a>]</p>
+</blockquote>
+</li>
+<li><em>&quot;And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven&quot;</em> – True authority comes not from manipulating others but from integrity; when we act in alignment with higher principles, we open doors that cannot be forced or controlled by mere strategy.</li>
+<li><em>&quot;And whatsoever thou shalt loose on earth shall be loosed in heaven&quot;</em> – Release the urge to control others, trusting that freedom and genuine influence are unlocked through respect and sincerity, not coercion.</li>
+</ul>
+</li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/5">Language</a>:</strong> Development of custom forms of communication
+<ul>
+<li>Ensure communication stays transparent</li>
+<li><em>&quot;For he that speaketh in an unknown tongue speaketh not unto men, but unto God&quot;</em> – Custom, obscure forms of communication may alienate others, so it is crucial to speak clearly and inclusively, fostering understanding rather than isolation.</li>
+<li><em>&quot;For no man understandeth him; howbeit in the spirit he speaketh mysteries&quot;</em> – True connection and collaboration require transparent language, avoiding hidden meanings that may confuse or create unnecessary barriers among those we aim to engage.</li>
+</ul>
+</li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/6">Deception</a>:</strong> Transparency is paramount
+<ul>
+<li>Transparency in policies and desecration making</li>
+<li><em>&quot;For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad&quot;</em> – In decision-making and value chain analysis, transparency is essential, as hidden motives and actions will eventually surface, affecting trust and integrity.</li>
+<li><em>&quot;Neither any thing hid, that shall not be known and come abroad&quot;</em> – By maintaining openness in policies and strategies, such as through value chain analysis and Wardley Maps, we create an environment where clarity prevails over deception, fostering sustainable alignment and accountability.</li>
+</ul>
+</li>
+<li><strong><a href="https://github.com/johnandersen777/nahdig/discussions/7">Lack of forgiveness</a>:</strong> Forgive but do not forget
+<ul>
+<li>Re-establishing federation with blocklisted entities and sandboxing communications and influence (Graph of  Thoughts Arbitrage) per threat model</li>
+<li><em>&quot;Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven&quot;</em> – Genuine forgiveness enables reconciliation without blind trust; we can forgive past actions while remaining vigilant and cautious in re-engagement, establishing boundaries where necessary.</li>
+<li><em>&quot;Forgive, and ye shall be forgiven&quot;</em> – Extend forgiveness with wisdom by sandboxing interactions, allowing space for cautious renewal without risking the integrity of the whole, mindful of the lessons from past breaches.</li>
+</ul>
+</li>
 </ul>
 <h2 id="plan">Plan</h2>
 <p>Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust me on this on or you can go through rigmarole of finding this to be true yourself. Your choice.</p>
