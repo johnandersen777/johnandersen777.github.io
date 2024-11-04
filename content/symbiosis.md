@@ -22,7 +22,7 @@ Gospel of Thomas
 
 ---
 
-> **Currently the following is some stuff 4o-preview said, just to see what it thinks**
+> **Currently the following is some stuff 4o-preview said, just to see what it thinks, this is in no way an endorsement, as none of this has been editted, just like anything else it says, it's just interesting to see what it says**
 >
 > Towards a Mature Technosphere /acc/
 
