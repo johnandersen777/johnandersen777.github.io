@@ -21,22 +21,21 @@ Hope you have a great day! :D
 
 - [Foster Principle Engineers](/chadig/)
   - Humanity MUST (RFC 2119) work together!
-- Revelations 22:17
   - [Come! Decentralize with us!](/gse1/)
-- 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 🇩🇰😁
+- 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 😁
   - [*There are several important metrics in our final system*](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
 
-## Favorite Quotes
+## Quotes
 
-- "Imagination is the only weapon in the war against reality" [Lewis Carroll]
+- *"Imagination is the only weapon in the war against reality"* [Lewis Carroll]
 
-- "If the Good Lord had intended us to walk, he wouldn’t have invented roller skates" [Willie Wonka]
+- *"If the Good Lord had intended us to walk, he wouldn’t have invented roller skates"* [Willie Wonka]
 
-- "Whoever you are I don’t think you draw the breath of life while hated by the gods" [Venus]
+- *"Whoever you are I don’t think you draw the breath of life while hated by the gods"* [Venus]
 
-- "If everyone always gives everyone a cigarette, then we all always have a cigarette" [Someone met randomly]
+- *"If everyone always gives everyone a cigarette, then we all always have a cigarette"* [Someone met randomly]
 
-- "It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations." [President John F. Kennedy]
+- *"It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations"* [President John F. Kennedy]
 
 - [*"You are what you are, you are who you are"*](http://www.gnosis.org/naghamm/goseqypt.html)
   - Defense in Death-pth: John 3:16

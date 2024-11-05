@@ -15,7 +15,9 @@ With [reformation day](https://en.m.wikipedia.org/wiki/Reformation_Day) approach
 If you are comfortable, please post your values. Values are sometimes derived from religions. Values such as love for one another, honesty, forgiveness, and empathy are often shared common principles. Humanity has many common values and principles which can and will lead us towards unity.
 
 - [anti-patterns](https://github.com/publicdomainrelay/anti-patterns): Anti-patterns you want to be avoided when others act on your behalf.
+  - [Modify anti-patterns using template repository](https://github.com/new?template_name=anti-patterns&template_owner=publicdomainrelay)
 - [patterns](https://github.com/publicdomainrelay/patterns): Best practices and patterns, values, and strategic plans and principles you want others to follow when acting on your behalf.
+  - [Modify patterns using template repository](https://github.com/new?template_name=patterns&template_owner=publicdomainrelay)
 
 Please post your thoughts on what brings good (values and strategic plans and principles) so instances of AI you use (this is "others act on your behalf", or teams / organizations you are involved in) can follow your own values system and guide them to do good. Our example of root causing values / patterns / anti-patterns presented is based in [Christianity](/a_guide_to_good/). We also found an example randomly from the [Society for an Alternative Islamic Futurology](https://github.com/johnandersen777/johnandersen777.github.io/discussions/4#discussioncomment-11057293) which looks like they have also done the work of root causing theirs. Ideally this assists with remediation of issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from "the way its always been done"
 
@@ -24,10 +26,15 @@ We can also think of the issue of AI this way: phones replaced pagers then AI re
 
 The approach we wish to take is to root cause ingrained issues. Tackling them as humanity vs. the problems. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + [transparency services](https://scitt.io) which will arise anyway due to supply chain requirements we’ll find out over time that we all agree on the same common best practices after all we've just been unknowingly debating semantics.
 
-If you have thoughts on alignment (Romans 12:2), why so serious? Put your free will to use and make commits and or pull requests, or your own repos based off referenced template repos
+> "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn" [Martin Luther]
+>
+> *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
 
-- [anti-patterns template](https://github.com/new?template_name=anti-patterns&template_owner=publicdomainrelay)
-- [patterns template](https://github.com/new?template_name=patterns&template_owner=publicdomainrelay)
+When you ask your AI. Is XYZ [chadig?](https://www.urbandictionary.com/define.php?term=Cha+dig): It uses your patterns and anti-pattern specs to say [yadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
+
+If you have thoughts on alignment (Romans 12:2), why so serious? Put your free will to use and make commits, pull requests, and or your own repos based off referenced template repos using your values.
+
+If you hate words because they sound silly, that's part of the point. There's no point in hate. If your beliefs have lead you to anything other than love for your fellow human beings, you need to dig deeper into them and understand them better, if they are worth following they will root cause to unconditional love for one another.
 
 ## Anti-Patterns and Links to Discussion Threads
 
@@ -74,14 +81,6 @@ Follow texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_script
 - ✅ Luther: Enable Read Permissions
 - ✅ Open Source: Enable Write Permissions
 - ⏳ Virtual Branches (Technical Content): Federate ideas (graph of thoughts / trains of thought) aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Self-Organized Religion specs via `$USER/patterns|anti-patterns/README.md -> CI/CD -> CBOR transparent statement`. Use existing [SSH Key resolution](/gse1/) for authentication and use religions to define ad-hoc workload id policies (soul based auth).
-
-> "The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn" [Martin Luther]
->
-> *Quoted in the preface to C.S. Lewis: The Screwtape Letters*
-
-When you ask your AI. Is XYZ [chadig?](https://www.urbandictionary.com/define.php?term=Cha+dig): It uses your patterns and anti-pattern specs to say [yadig or nahdig](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0001_coach_alice/0004_traveler_of_the_edge.md).
-
-If you hate words because they sound silly, that's part of the point. There's no point in hate.
 
 ## God has no name
 
