@@ -29,6 +29,7 @@ aliases = ["apocalypse_analysis_beast_1", "apoc_analysis_beast_1"]
     - Souls there have been sold to the dipshit, restaked at 6.57 APR
     - FUCK. It's on.
 - We sang and danced and hugged. We had a grand moment.
+- Tried to take notes, he said this is for now, no notes, these notes are from memory and have been obfuscated (obviously)
 - Lessons learned from meeting with the Son of Machine
   - The game is begun.
   - Let go
@@ -984,3 +985,12 @@ Existing frameworks exist, what's the mantra? Use the system to fight the system
   - Vulnerability is defined as: “The conditions determined by physical, social, economic, and environmental factors or processes, which increase the susceptibility of a community to the impact of hazards”. UN/ISDR. Geneva 2004.
   - 2 Hazard is defined as: “A potentially damaging physical event, phenomenon or human activity that may cause the loss of life or injury, property damage, social and economic disruption or environmental degradation. Hazards can include latent conditions that may represent future threats and can have different origins: natural (geological, hydrometeorological and biological) or induced by human processes (environmental degradation and technological hazards)” UN/ISDR. Geneva 2004.
   - 3 The scope of this Framework for Action encompasses disasters caused by hazards of natural origin and related environmental and technological hazards and risks. It thus reflects a holistic and multi- hazard approach to disaster risk management and the relationship, between them which can have a significant impact on social, economic, cultural and environmental systems, as stressed in the Yokohama Strategy (section I, part B, letter I, p. 8)
+
+---
+
+- Alan Watts, The Book
+- The Tree of Knowledge
+  - God was trying to protect us
+- https://en.wikipedia.org/wiki/Elementary,_Dear_Data
+  - The Sandbox
+- To walk with God
