@@ -1,6 +1,6 @@
 +++
 layout = "page"
-title = "TODO"
+title = "TODOs"
 date = "2024-10-24T21:01:42-07:00"
 permalink = "/todos/"
 +++
@@ -23,3 +23,11 @@ permalink = "/todos/"
 - 🏗️ [Clean up federation code](https://github.com/scitt-community/scitt-api-emulator/pull/37)
 - 🏗️ [Align with Global Digital Compact Specs](https://www.un.org/global-digital-compact/sites/default/files/2024-09/Global%20Digital%20Compact%20-%20English_0.pdf)
 - 🍄 [Collective Symbiosis](/symbiosis/)
+
+## 🪱
+
+Spolier alert. The mission objective has been and is build a
+[worm](https://en.wikipedia.org/wiki/Computer_worm). For the worm to be
+able to move fast and fix things (find a problem, fix a problem), it needs to be
+able to modify policy as well as code. There you go, that's the mission. Point
+blank. Build a worm, make it a good worm.
