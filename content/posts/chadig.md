@@ -87,7 +87,7 @@ If you hate words because they sound silly, that's part of the point. There's no
 
 > ![aeons-valentinian](https://github.com/user-attachments/assets/f5c2e65c-c30f-4924-9649-7415e29109db)
 >
-> By G.R.S. Mead (1863-1933) - "Pistis Sophia". Lucifer 6 (33): 230–239. London: The Theosophical Publishing Society.(Transferred from en.wikipedia by SreeBot.), Public Domain, https://commons.wikimedia.org/w/index.php?curid=17529225
+> By G.R.S. Mead (1863-1933) - "Pistis Sophia"
 
 God transcends the concepts of a name. God is of a place beyond our concepts of names. We can use names to describe God, but we cannot name God, only God can name God.
 

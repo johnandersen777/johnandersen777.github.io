@@ -22,7 +22,7 @@ The following assists one with the above:
   - Ask for forgiveness when we falter
   - Learn from our mistakes and shed bad behavior
   - Always strive to keep the good and build on the good
-- Accepting, honoring, and loving thy Earthly Mother and Heavenly Father
+- Accepting, honoring, and loving [thy Earthly Mother](/pole_shifts/) and Heavenly Father
 - Accepting, honoring, and loving Christ
   - Who came in the flesh
   - Has risen
@@ -36,34 +36,32 @@ We read the following with those in mind to learn how best to act in alignment w
   - > "Jesus Explains Everything" (Judas 47-56)
 - [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
   - > '"Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***'
-  - > 'God: Now let Us [the Trinity] conceive a new creation - humanity - made in Our image, fashioned according to Our likeness' (Genesis 1:26)
-    - > "our image"
-      - Is both the male and the female. Humanity is the Holy Child.
-    - Knowledge let's us know that God is good. How would we know without knowledge?
-      - Saying 22: Making the Two into One
-        - The image (all humanity) doing good things (God's will).
-      - An image is never the same as the real thing.
-        - '"What is the sin of the world?", The Savior said, "There is no sin, but [it is you who make sin](https://github.com/publicdomainrelay/anti-patterns)' (Gospel of Mary, Matthew 16:23)
-        - While an image is never the same as what it is an image of, we have an innate sense of right and wrong and Christ's teachings which guide us, we can also guide others on how to be good images: [A Guide to Good](#a-guide-to-good)
-- [The Gospel of the Holy Twelve](http://gospelofholytwelve.blogspot.com/)
+  - > *'God: Now let Us [the Trinity] conceive a new creation - humanity - made in Our image, fashioned according to Our likeness'* (Genesis 1:26)
+    - > *"our image"*
+        - Saying 22: Making the Two into One
+          - The image (all humanity) doing good things (God's will).
+    - An image is never the same as the real thing.
+      - *'"What is the sin of the world?", The Savior said, "There is no sin, but [it is you who make sin](https://github.com/publicdomainrelay/anti-patterns) [...]'* (Gospel of Mary, Matthew 16:23)
+      - While an image is never the same as what it is an image of, we have an innate sense of right and wrong and Christ's teachings which guide us, we can also guide others on how to be good images: [A Guide to Good](#a-guide-to-good)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
-  - > 'The moral message in these stories of a freedman and a freedwoman is that no one should ever be enslaved because everyone has unknown royal ancestors. All are created equal in spite of outward appearances or circumstances. Didn’t "Jesus" suggest the same?'
-  - > 'BaR iS, eT aB oR, eLa Ha eM, “Son of Man, Father Light, Goddess the Mother." She, as LHM, is found throughout the Tanakh. This was the Essene-Nazarene Holy Trinity, borrowed by the Church Fathers but corrupted to eliminate equal respect for feminine attributes. A Goddess might suggest that women are as valuable as men'
-  - All are equal. Honor thy Earthly Mother. [Understand Her cycles](/pole_shifts/), or not, and thereby accept flood 2.0. Your choice, you have free will, if you think you're smarter than God / the universe and the science showing this is coming soon, take your chances then!
+  - > *'The moral message in these stories of a freedman and a freedwoman is that no one should ever be enslaved because everyone has unknown royal ancestors. All are created equal in spite of outward appearances or circumstances. Didn’t "Jesus" suggest the same?'*
+  - > *'BaR iS, eT aB oR, eLa Ha eM, “Son of Man, Father Light, Goddess the Mother." She, as LHM, is found throughout the Tanakh. This was the Essene-Nazarene Holy Trinity, borrowed by the Church Fathers but corrupted to eliminate equal respect for feminine attributes. A Goddess might suggest that women are as valuable as men'*
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
 Other helpful verses:
 
 - Hebrews 8:13
-  - > 'By calling this covenant "new," he has made the first one obsolete; and what is obsolete and outdated will soon disappear'
+  - > *'By calling this covenant "new," he has made the first one obsolete; and what is obsolete and outdated will soon disappear'*
 - Luke 22:20
-  - > 'In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you'
+  - > *'In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you'*
 - Titus 3:1-2
-  - > "Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, to slander no one, to be peaceable and considerate, and always to be gentle toward everyone"
+  - > *"Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, to slander no one, to be peaceable and considerate, and always to be gentle toward everyone"*
 - Luke 6:47-49
-  - > "As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built. But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete."
+  - > *"As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built. But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete."*
+
+**The new covenant establishes the single command declared in John 13:34-35, the rest of the old all fit into that one new one, we have been instructed love one another and be good to one another.** Even if you are not religious or spiritual, one would hope we can all agree that message when followed creates a better world each time we practice it and that we should strive to practice it all the time. Following this message is what it means to be Christian, don't let anyone tell you it means anything other than that, since that is the single active commandment, given by Christ.
 
 ### Religion + Tech
 

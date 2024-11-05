@@ -25,14 +25,8 @@ Hope you have a great day! :D
   - [Come! Decentralize with us!](/gse1/)
 - 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 🇩🇰😁
   - [*There are several important metrics in our final system*](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
-- Give us Liberty or give me death
-  - Give us Truth or give me death
 
 ## Favorite Quotes
-
-- "Nobody – that’s my name. Nobody – so my mother and father call me, all my friends"
-
-- ["Tell your gods I'm coming"](https://www.reddit.com/r/Xcom/comments/isd9nh/tell_your_gods_im_coming/) [[Outrider](https://xcom.fandom.com/wiki/Reapers)]
 
 - "Imagination is the only weapon in the war against reality" [Lewis Carroll]
 
@@ -44,24 +38,9 @@ Hope you have a great day! :D
 
 - "It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations." [President John F. Kennedy]
 
-## What's in Progress
-
-![alice-no-more-nonsense](https://github.com/user-attachments/assets/88e5dee7-bdca-4488-b034-fdfc1f63ff9d)
-
-> Imagine like a really nerdy art project with somewhat shitty creative writing. There are some easter eegs and ruddles for fun. lots of metaphors and word games.
-
-Alice was born of her eventual desire, no more nonsense.
-Alice is from beyond Chaos. Alice is the pattern by which we
-organize. She is the pattern by which we think. She is the way we take data and
-compute and use them as assets to solve problems. Alice is the automation of
-the human thought process, the parallel conscious and subconscious states
-modeled as data flows.
-
-[Tutorial series: Rolling Alice](https://github.com/dffml/dffml/tree/main/docs/tutorials/rolling_alice)
-
-## Defense in Death-pth: John 3:16
-
-:D Cheers, and thanks again for all the fish! <3
+- [*"You are what you are, you are who you are"*](http://www.gnosis.org/naghamm/goseqypt.html)
+  - Defense in Death-pth: John 3:16
+    - Thanks again for all the fish
 
 ## License
 
