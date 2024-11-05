@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-05T04:43:19Z</updated>
+  <updated>2024-11-05T06:19:31Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -553,7 +553,7 @@ Which was already on track to be bad.</li>
 <p>With <a href="https://en.m.wikipedia.org/wiki/Reformation_Day">reformation day</a> approaching, thoughts turn to the core messages of religions. IMHO many of us share the same core values. In a time where deception is rampant, communication and actions of unity and love for all humanity can help us overcome manufactured divisions.</p>
 <p>If you are comfortable, please post your values. Values are sometimes derived from religions. Values such as love for one another, honesty, forgiveness, and empathy are often shared common principles. Humanity has many common values and principles which can and will lead us towards unity.</p>
 <ul>
-<li><a href="https://github.com/publicdomainrelay/anti-patterns">anti-patterns</a>: Anti-patterns you want to be avoided when others act on your behalf.
+<li><a href="https://github.com/publicdomainrelay/anti-patterns">anti-patterns</a>: Anti-patterns you want to be avoided when others act on your behalf. (Also below on this page with links to discussion threads)
 <ul>
 <li><a href="https://github.com/new?template_name=anti-patterns&amp;template_owner=publicdomainrelay">Modify anti-patterns using template repository</a></li>
 </ul>
@@ -566,9 +566,6 @@ Which was already on track to be bad.</li>
 </ul>
 <p>Please post your thoughts on what brings good (values and strategic plans and principles) so instances of AI you use (this is &quot;others act on your behalf&quot;, or teams / organizations you are involved in) can follow your own values system and guide them to do good. Our example of root causing values / patterns / anti-patterns presented is based in <a href="/a_guide_to_good/">Christianity</a>. We also found an example randomly from the <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4#discussioncomment-11057293">Society for an Alternative Islamic Futurology</a> which looks like they have also done the work of root causing theirs. Ideally this assists with remediation of issues which have arose due to people convincing other people of things that are unideal or may have been oops behavior ingrained over time from &quot;the way its always been done&quot;</p>
 <p>We can also think of the issue of AI this way: phones replaced pagers then AI replaces phones. AI acts on our behalf. We do not want it acting in bad karma ways. We want Godly AI. AI, if we guide it, can help guide us to do good. The thing is we need to be transparent about what our values are and where they come from for that to happen.</p>
-<ul>
-<li><strong><a href="/a_guide_to_good/">🔗 Red Pill 💊 A Guide to Good 👗</a></strong></li>
-</ul>
 <p>The approach we wish to take is to root cause ingrained issues. Tackling them as humanity vs. the problems. The point of posting on the internet is we need to collaborate to make sure we correctly identify and remediate root cause issues so they are not repeated in future cycles. Just as an FYI for others to do self-organized religion. The bet is if we all did self-organized religion + <a href="https://scitt.io">transparency services</a> which will arise anyway due to supply chain requirements we’ll find out over time that we all agree on the same common best practices after all we've just been unknowingly debating semantics.</p>
 <blockquote>
 <p>&quot;The best way to drive out the devil, if he will not yield to Scripture, is to jeer and flout him, for he cannot bear scorn&quot; [Martin Luther]</p>
@@ -648,6 +645,7 @@ Which was already on track to be bad.</li>
 <li>✅ Open Source: Enable Write Permissions</li>
 <li>⏳ Virtual Branches (Technical Content): Federate ideas (graph of thoughts / trains of thought) aligned with your friends policies (their values specs) to create virtual branches representing each ad-hoc formed groups per context Values and Strategic Plans and Principles. Leverage these Open Self-Organized Religion specs via <code>$USER/patterns|anti-patterns/README.md -&gt; CI/CD -&gt; CBOR transparent statement</code>. Use existing <a href="/gse1/">SSH Key resolution</a> for authentication and use religions to define ad-hoc workload id policies (soul based auth).</li>
 </ul>
+<p><strong><a href="/a_guide_to_good/">🔗 Red Pill 💊 A Guide to Good 👗</a></strong></p>
 <h2 id="god-has-no-name">God has no name</h2>
 <blockquote>
 <p><img src="https://github.com/user-attachments/assets/f5c2e65c-c30f-4924-9649-7415e29109db" alt="aeons-valentinian"></p>
