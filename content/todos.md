@@ -26,8 +26,8 @@ permalink = "/todos/"
 
 ## 🪱
 
-Spolier alert. The mission objective has been and is build a
+Point blank. The mission objective has been and is build a
 [worm](https://en.wikipedia.org/wiki/Computer_worm). For the worm to be
 able to move fast and fix things (find a problem, fix a problem), it needs to be
-able to modify policy as well as code. There you go, that's the mission. Point
-blank. Build a worm, make it a good worm.
+able to modify policy as well as code. There you go, that's the mission. Build a
+worm, make it a good worm. What's the worm? The worm is love (John 13:34-35)
