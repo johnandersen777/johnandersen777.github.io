@@ -10,6 +10,134 @@ permalink = "/decoding_biblical_texts_cryptographic_focus/"
 - Sourced from: [Chuck Missler - How We Got Our Bible](https://youtu.be/5ZsZLDWWZMs?feature=shared&t=7364)
 - Backref: [Root of Trust Weighting: Checksum Validation](/gospel_checksums/)
 
+## YAML
+
+```yaml
+Bible_Algorithms:
+  - name: "Equidistant Letter Sequences (ELS)"
+    description: "Hidden words in the Bible text appear at equidistant letter intervals, revealing coded messages."
+    location: "Chapters 10-12, p. 121-147"
+    references:
+      - "Genesis 1:31 to 2:3"
+      - "Leviticus 19"
+    notable_use: "Detecting the name 'Israel' in Genesis."
+    significance: "Suggests divine patterns encoded in Biblical texts."
+    example_code: |
+      def find_els(text, word, interval):
+          """Searches for a word in text at given letter intervals (ELS)"""
+          positions = []
+          for i in range(0, len(text) - len(word) * interval, interval):
+              segment = text[i:i + len(word) * interval:interval]
+              if segment == word:
+                  positions.append(i)
+          return positions
+      
+      # Example usage on Genesis 1:31 to 2:3 (KJV text)
+      genesis_text = "... Genesis text here ..."
+      find_els(genesis_text, 'Israel', 50)
+
+  - name: "Albam Cipher"
+    description: "A substitution system in which the Hebrew alphabet is split into two halves, with each letter substituted by its counterpart."
+    location: "p. 47"
+    references:
+      - "Isaiah 7:14"
+    notable_use: "Used in Isaiah for hidden references."
+    significance: "Highlights encoded messages within Biblical names."
+    example_code: |
+      def albam_cipher(text, hebrew_alphabet):
+          """Encodes text using the Albam substitution cipher on Hebrew alphabet"""
+          split_point = len(hebrew_alphabet) // 2
+          substitution = str.maketrans(
+              hebrew_alphabet[:split_point] + hebrew_alphabet[split_point:],
+              hebrew_alphabet[split_point:] + hebrew_alphabet[:split_point]
+          )
+          return text.translate(substitution)
+      
+      # Example usage on Isaiah 7:14
+      hebrew_text = "עִמָּנוּ אֵל"  # "Immanuel" in Hebrew
+      hebrew_alphabet = "אבגדהוזחטיכלמנסעפצקרשת"
+      albam_cipher(hebrew_text, hebrew_alphabet)
+
+  - name: "Atbash Cipher"
+    description: "Alphabet is folded over, substituting letters based on positional symmetry (first-last, second-second-last, etc.)."
+    location: "p. 48"
+    references:
+      - "Jeremiah 25:26"
+    notable_use: "Used in Jeremiah to disguise names (e.g., 'Sheshach' for 'Babel')."
+    significance: "Ancient encryption technique visible in Biblical text."
+    example_code: |
+      def atbash_cipher(text, hebrew_alphabet):
+          """Encodes text using the Atbash substitution cipher on Hebrew alphabet"""
+          substitution = str.maketrans(
+              hebrew_alphabet,
+              hebrew_alphabet[::-1]
+          )
+          return text.translate(substitution)
+      
+      # Example usage on Jeremiah 25:26
+      hebrew_text = "ששך"  # "Sheshach" in Hebrew
+      hebrew_alphabet = "אבגדהוזחטיכלמנסעפצקרשת"
+      atbash_cipher(hebrew_text, hebrew_alphabet)
+
+  - name: "Gematria"
+    description: "Assigns numerical values to letters and analyzes their sums in words or phrases to find hidden meanings."
+    location: "p. 289"
+    references:
+      - "Psalm 119"
+      - "Genesis 14:14"
+    notable_use: "Calculating the numerical value of 'Messiah' and other terms."
+    significance: "Used to interpret deeper layers in the Bible based on number symbolism."
+    example_code: |
+      def gematria_value(word, hebrew_values):
+          """Calculates the Gematria value of a Hebrew word"""
+          return sum(hebrew_values[char] for char in word if char in hebrew_values)
+      
+      # Example usage on Psalm 119 with custom values
+      hebrew_word = "משיח"  # "Messiah" in Hebrew
+      hebrew_values = {'א': 1, 'ב': 2, 'ג': 3, ... , 'ת': 400}
+      gematria_value(hebrew_word, hebrew_values)
+
+  - name: "Biblical Numerics"
+    description: "Patterns in Biblical numbers, often seen in repetitive or symbolic numbers like '7' and '12.'"
+    location: "p. 290"
+    references:
+      - "Genesis 1:1"
+      - "Revelation 13"
+    notable_use: "Indicating completeness, divine design, and symbolic significance."
+    significance: "Testifies to a unified design transcending individual authors."
+    example_code: |
+      def count_specific_numbers(text, numbers):
+          """Counts occurrences of specified numbers in text for symbolic analysis"""
+          return {num: text.count(str(num)) for num in numbers}
+      
+      # Example usage on Genesis 1:1
+      genesis_text = "In the beginning God created the heaven and the earth."
+      count_specific_numbers(genesis_text, [7, 12])
+
+  - name: "Heptadic Structures (Seven-Fold Patterns)"
+    description: "Consistent structural theme of sevens that stitch together Biblical texts."
+    location: "Chapters 7, 19, p. 291"
+    references:
+      - "Genesis 1"
+      - "Revelation 1"
+    notable_use: "Appears across the Old and New Testaments."
+    significance: "Imparts continuity and divine authorship across multiple authors and centuries."
+    example_code: |
+      def find_seven_fold_patterns(text):
+          """Analyzes text for seven-fold occurrences or structures"""
+          patterns = []
+          words = text.split()
+          for i in range(len(words) - 6):
+              segment = words[i:i + 7]
+              if len(set(segment)) == 1:  # Example condition for seven-fold pattern
+                  patterns.append(segment)
+          return patterns
+      
+      # Example usage on Genesis 1
+      genesis_text = "And God said, Let there be light: and there was light..."
+      find_seven_fold_patterns(genesis_text)
+```
+
 ## Abstract
 
 This document presents a comprehensive exploration of cryptographic structures embedded within Biblical texts, focusing primarily on the **Torah** and other significant manuscripts. By leveraging Python, we delve into methods such as **Equidistant Letter Sequences (ELS)**, numeric patterns, and advanced constants like **π** (Pi) and **e** (Euler's number). Our goal is to provide a programmatic approach to uncovering these hidden messages, offering reusable and clean code that can be utilized for further research and analysis. Additionally, we suggest alternative approaches and variations to deepen the understanding of these cryptographic elements.
