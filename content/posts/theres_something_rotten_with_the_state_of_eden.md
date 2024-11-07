@@ -279,13 +279,8 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
 
 ## References
 
-- [Politicians not ambitious enough to save nature, say scientists](https://www.bbc.com/news/articles/cy9jdpep4ydo)
-  - > *"Scientists say there has been an alarming lack of progress in saving nature as the UN biodiversity summit, COP 16, draws to a close. The scale of political ambition has not risen to the challenge of reducing the destruction of nature that costs the economy billions, said one leading expert. Representatives of 196 countries have been meeting in Cali, Colombia, to agree on how to halt nature decline by 2030"*
-‪
-  - [Alarm call as world's trees slide towards extinction](https://www.bbc.com/news/articles/c24558g69mgo)
-  - [Deadliest weather made worse by climate change - scientists](https://www.bbc.com/news/articles/cdxvnk10xz2o)
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-  - [JPMorgan’s Blockchain Unit Rebrands as Kinexys, Targets 24/7 Multicurrency Settlements](https://coingape.com/jpmorgans-blockchain-unit-rebrands-as-kinexys-targets-24-7-multicurrency-settlements/)
+  - [JPMorgan’s Blockchain Unit [Onyx] Rebrands as Kinexys, Targets 24/7 Multicurrency Settlements](https://coingape.com/jpmorgans-blockchain-unit-rebrands-as-kinexys-targets-24-7-multicurrency-settlements/)
     - > *"**A Strategic Rebrand or a Distraction?** The recent rebranding of the blockchain platform of JPMorgan from Onyx to Kinexys raised many questions: Why now? It was announced on **US election day** and released in Singapore, raising speculation over why this strategic move had been made"*
     - > *"The bank also announced the introduction of on-chain foreign exchange capabilities on the platform by **Q1 2025**. It said it would achieve “automation of 24/7, near real-time multicurrency clearing and settlement.” The service will initially handle the US dollar and euro, with other currencies expected later"*
   - Mr. Azzarello's writing uses the phrase *"So we would believe it"*
@@ -311,6 +306,11 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
   - We can and will mobilize supply chains. We've done it before we'll do it again. This time it needs to be global and for the common good. I tired my best to increase transparency in supply chains at my previous work to this effect. Please work to increase transparency in supply chains you are involved in as well. The easiest way is for folks responsible for backbone production tracing, inventory, and invoicing to advance this front, that has a ripple effect due to the way SCITT works
     - [2024-07-12 World Domination Council](https://github.com/dffml/dffml/blob/523cb62dbff21c4bb6c3bc9672ee6fca687d78cd/docs/discussions/alice_engineering_comms/0677/reply_0000.md#2024-07-12-world-domination-council).
     - [ietf: scitt: mailing list archives: Orie: "Eventually a view of the supply chain emerges, for those for have been granted read access to one or more transparency services"](https://mailarchive.ietf.org/arch/msg/scitt/BjCAySWyODuhDWwn4kMtCoY5eDA/)
+- [Politicians not ambitious enough to save nature, say scientists](https://www.bbc.com/news/articles/cy9jdpep4ydo)
+  - > *"Scientists say there has been an alarming lack of progress in saving nature as the UN biodiversity summit, COP 16, draws to a close. The scale of political ambition has not risen to the challenge of reducing the destruction of nature that costs the economy billions, said one leading expert. Representatives of 196 countries have been meeting in Cali, Colombia, to agree on how to halt nature decline by 2030"*
+‪
+  - [Alarm call as world's trees slide towards extinction](https://www.bbc.com/news/articles/c24558g69mgo)
+  - [Deadliest weather made worse by climate change - scientists](https://www.bbc.com/news/articles/cdxvnk10xz2o)
 - [PBS: The Earth’s magnetic north pole is shifting rapidly](https://www.pbs.org/newshour/science/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights)
   - [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf)
   - Rapidly pole shifts + climate change => worse than just climate change.
