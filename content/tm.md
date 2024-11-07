@@ -18,7 +18,7 @@ aliases = ["threat_model", "game_plan"]
 
 - Backref: [TODOs](/todos/)
 - [Vice: Billionaires Are Building Luxury Bunkers to Escape Doomsday](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/)
-  - > 'The men cited potential disasters caused by electromagnetic pulses [a hint at geomagnetic threats], economic downturn, disease, or war that might "necessitate them leaving their Silicon Valley ranches and retreating to these fortified bunkers in the middle of nowhere."'
+  - > 'The men cited potential disasters caused by electromagnetic pulses, economic downturn, disease, or war that might "necessitate them leaving their Silicon Valley ranches and retreating to these fortified bunkers in the middle of nowhere."'
   - **Critical Pre-Reading: [There's Something Rotten with the State of Eden](/action_required/)**
 
 ## Game Plan 🥋
