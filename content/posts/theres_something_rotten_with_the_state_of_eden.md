@@ -285,7 +285,7 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
   - [Alarm call as world's trees slide towards extinction](https://www.bbc.com/news/articles/c24558g69mgo)
   - [Deadliest weather made worse by climate change - scientists](https://www.bbc.com/news/articles/cdxvnk10xz2o)
 - [The Ponzi Papers: The plan to coup d'état involving fiat and crypto currencies](https://theponzipapers.substack.com/p/i-have-set-myself-on-fire-outside)
-  - [JPMorgan’s Blockchain Unit Rebrands as Kinexys, Targets 24/7 Multicurrency Settlements]
+  - [JPMorgan’s Blockchain Unit Rebrands as Kinexys, Targets 24/7 Multicurrency Settlements](https://coingape.com/jpmorgans-blockchain-unit-rebrands-as-kinexys-targets-24-7-multicurrency-settlements/)
     - > *"**A Strategic Rebrand or a Distraction?** The recent rebranding of the blockchain platform of JPMorgan from Onyx to Kinexys raised many questions: Why now? It was announced on **US election day** and released in Singapore, raising speculation over why this strategic move had been made"*
     - > *"The bank also announced the introduction of on-chain foreign exchange capabilities on the platform by **Q1 2025**. It said it would achieve “automation of 24/7, near real-time multicurrency clearing and settlement.” The service will initially handle the US dollar and euro, with other currencies expected later"*
   - Mr. Azzarello's writing uses the phrase *"So we would believe it"*
