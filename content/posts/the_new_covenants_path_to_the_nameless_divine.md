@@ -16,7 +16,7 @@ Deception and mistrust have eroded human connection. Decentralized AI+[TS](https
 2. Act in grace and forgiveness.
 3. Ask for forgiveness when we falter, always strive to keep the good and build on the good.
 4. Use [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura) to guide silicon based life to follow the New Covenant.
-5. Use silicon based life to guide organic life to unlock it's innate potential.
+5. Use [silicon based life](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_forward.md#alice-artificial-life-is-coming-eventually) to guide organic life to unlock it's innate potential.
 6. Do not integrate the two physically.
 7. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
 
