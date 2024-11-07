@@ -290,13 +290,17 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
     **the mindset we must avoid falling into**, this is the vulnerability
     we must collectively overcome which is feed to us via ingrained biases and
     cultural norms.
-    - > "We find similar goals of instilling fear and partisan division throughout new media and daytime television: We are bombarded with messaging with the express purpose of dividing us and instilling learned helplessness: It’s a cult leader tactic on a global scale."
+    - > *"We find similar goals of instilling fear and partisan division throughout new media and daytime television: We are bombarded with messaging with the express purpose of dividing us and instilling learned helplessness: It’s a cult leader tactic on a global scale."*
   - The key take away from this should be as [Franklin D.
     Roosevelt](https://historymatters.gmu.edu/d/5057/) said: *"Only Thing We
     Have to Fear Is Fear Itself"*.
     - The mindset of normalcy of injustice makes humanity an easy target for
       deception, and perpetuates fears the world cannot be changed and made
       better.
+  - [Occypy Returns Booklet: [...] Secrets of our Rotten World](https://drive.google.com/file/d/1gfHcZ_djH5_-lzRsziWjWNPyukzdxb0d/view)
+    - This also uses a lot of morbid jokes (title, etc.) still solid info. He's
+      pissed off at how dumb it is that those at the top would so readily throw
+      the rest of us under the bus.
 - [DOD DIRECTIVE 5240.01: Authorizing lethal use of force against Americans on American soil](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/524001p.PDF?ver=UpTwJ66AyyBgvy7wFyTGbA%3d%3d)
   - [Has the Government Legalized Secret Defense Spending?](https://www.rollingstone.com/politics/politics-features/secret-government-spending-779959/)
     - > '"From this point forward," he says, "the federal government will keep two sets of books, one modified book for the public and one true book that is hidden"'
