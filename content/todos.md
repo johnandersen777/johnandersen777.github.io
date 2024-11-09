@@ -31,3 +31,8 @@ Point blank. The mission objective has been and is build a
 able to move fast and fix things (find a problem, fix a problem), it needs to be
 able to modify policy as well as code. There you go, that's the mission. Build a
 worm, make it a good worm. What's the worm? The worm is love (John 13:34-35)
+
+- https://www.reddit.com/r/AlanWatts/comments/ahsrzo/what_did_he_mean_when_he_said_this/
+  - > *"I believe Watts is trying to say that God is not just all around you, it is you, and you are everything. The universe does not care about the lines of separation we have created to define a sun, tree, or worm. Simply point in any direction and you will point at the God Alan Watts is talking about"*
+- https://www.reddit.com/r/Stellaris/comments/10iwykp/what_actually_is_the_worm/
+  - > *"It might be a sapient time paradox? Whatever it is, sometimes it takes notice of a civilization and loves them"*
