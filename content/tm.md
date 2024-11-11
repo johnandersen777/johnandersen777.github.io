@@ -54,6 +54,35 @@ aliases = ["threat_model", "game_plan"]
     - The mindset of normalcy of injustice makes humanity an easy target for
       deception, and perpetuates fears the world cannot be changed and made
       better.
+- It looks like things could be going the way of a power grab. Another 2008
+  style crisis could happen if things aren't handled carefully. Certain parties
+  are moving into digitization of physical assets via private DLTs. Hopefully
+  they don't crash the market and then digitize everything and issue smart
+  contract based loans. Sure looks like that may be the Q1 plan though...
+- The UN 2030 plan also has digital identity and banking as a 2030 goal, which
+  would be easy to slip on that target date sans "helpful" push
+- The UN's Global Digital Compact's online platform information gateway
+  is a key pace of implementing the UN 2030 Agenda for Sustainable
+  Development. We wish to ensure transparency in policy lest the platform be
+  used by misaligned actors for nefarious or erroneous purposes.
+  - > *"16.10: Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreement"*
+- Folks around the world want to do the right thing (for the most part).
+  However, the systems / games within which we play are functioning largely as
+  intended. They incentivize behavior which perpetuates "petty fiefdoms". As
+  the essay [The Passions & Perils of Nationhood](https://time.com/archive/6834071/essay-the-passions-perils-of-nationhood/)
+  points out, federations between nations, economic, technological, or
+  otherwise, could help break down the walls of these petty fiefdoms and lead to
+  greater unity and posterity.
+  - To do so, we need to replace the backbone of "the system", "the machine".
+    The UN's 2030 agenda and the digital platform it will be built on is our
+    opportunity to do just that. Use the system to fight the system.
+  - There is much good to be found in that agenda. However, there is much
+    monitery policy to be found in the agenda as well, and ties to banking
+    systems. Which are becoming more and more private from the public eye.
+    [We all know money is a root of evil](https://drive.google.com/file/d/16NBQR_iOg3SMoyP2XPdn_KYvxER5oI0f/view?usp=sharing).
+  - In the system which will hopefully be built to stand the test of time, we
+    must tear up the roots of evil, and ensure it does not enter the future.
+    - > *"It's the same way with the tree. While its root is hidden, it blossoms and grows. If its root is exposed, the tree dries up. That's what it's like with everything that's born in the world, not only the revealed, but also the hidden; because as long as the root of evil is hidden, it's strong. But if it's recognized, it dissolves, and if it's revealed, it dies."* (Philip 83)
 
 ## Mitigations
 
@@ -93,9 +122,14 @@ aliases = ["threat_model", "game_plan"]
 
 ![521px-All_Harvester_Products_are_war_products](https://github.com/user-attachments/assets/179c5ff4-273c-4a3a-835e-5b77738e6765)
 
+- Mutual Aid networks - food, clothing, etc.
 - Automated farming equipment. Already in 20+ countries.
   - https://iunu.com
 - DLT Farm Data
   - https://www.allthefarms.com
 - Houseless outreach
 - **TODO** ... add more ...
+
+## Medical
+
+- ... TODO ...
