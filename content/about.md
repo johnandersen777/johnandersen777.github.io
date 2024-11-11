@@ -13,7 +13,8 @@ Hello Entity of the Internet!
 
 All content on this site is public domain via the [unlicense](#license) for redistribution and remixing without need for attribution (Unlicense / CC0 1.0)
 
-This page hopefully helps you find whatever context you're looking for about the authors of the content on this site.
+Authors of the content on this site can be found via commit data referenced via
+the GitHub link on the [contact](/contact/) page. Please contribute!
 
 Hope you have a great day! :D
 
@@ -25,7 +26,7 @@ Hope you have a great day! :D
 - 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 😁
   - [*There are several important metrics in our final system*](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
 
-## Quotes
+## Some Quotes, in no Order
 
 - *"Imagination is the only weapon in the war against reality"* [Lewis Carroll]
 
