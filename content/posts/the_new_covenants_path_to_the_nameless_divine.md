@@ -19,6 +19,7 @@ Deception and mistrust have eroded human connection. Decentralized AI+[TS](https
 5. Use [silicon based life](https://github.com/dffml/dffml/blob/main/docs/tutorials/rolling_alice/0000_forward.md#alice-artificial-life-is-coming-eventually) to guide organic life to unlock it's innate potential.
 6. Do not integrate the two physically.
 7. [Prophet](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5).
+  - > https://knowyourmeme.com/memes/profit
 
 Follow God's message of love, grace, and forgiveness. Humanity knows it is flawed and asks God for the gift of grace to avoid those flaws. When they fail to act in grace, the principle of forgiveness helps them admit their flaws and strive to always do better.
 

@@ -7,10 +7,6 @@ aliases = ["threat_model", "game_plan"]
 +++
 
 > *"The best defense is a good offense"*
->
-> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
->
-> For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
 
 ## Quicklinks
 
@@ -35,6 +31,7 @@ aliases = ["threat_model", "game_plan"]
 - [Defensive Team](#defense-decentralized-protopian-anti-cult)
 - [Water & Power](#water-and-power)
 - [Food & Housing](#food-and-housing)
+- [Medical](#medical)
 
 ## Threats
 
@@ -62,10 +59,16 @@ aliases = ["threat_model", "game_plan"]
 - The UN 2030 plan also has digital identity and banking as a 2030 goal, which
   would be easy to slip on that target date sans "helpful" push
 - The UN's Global Digital Compact's online platform information gateway
-  is a key pace of implementing the UN 2030 Agenda for Sustainable
+  is a key place of implementing the UN 2030 Agenda for Sustainable
   Development. We wish to ensure transparency in policy lest the platform be
   used by misaligned actors for nefarious or erroneous purposes.
   - > *"16.10: Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreement"*
+  - In some nations, or if power changes hands suddenly in nations, "national
+    legislation" includes state directed definition of "truth".
+    - We MUST act to decentralize existing power structures while maintain good
+      best practices and organizations. We MUST increase transparency in policy
+      so that all can see when threat actors attempt to [manipulate
+      information](/gse6/)
 - Folks around the world want to do the right thing (for the most part).
   However, the systems / games within which we play are functioning largely as
   intended. They incentivize behavior which perpetuates "petty fiefdoms". As

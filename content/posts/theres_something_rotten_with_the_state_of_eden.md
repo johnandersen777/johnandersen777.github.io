@@ -6,7 +6,9 @@ subtitle = "Actionable steps towards alignment and resilience"
 aliases = ["mark_1337", "be_awake", "wake_ye", "poles", "pole_shift", "pole_shifts", "calls_to_action", "action_required"]
 +++
 
-In brief: Climate change + industrial revolution + pole shifts + increasing deception at scale = worse than just climate change (which was already on track to be difficult to tackle). This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.
+This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.
+
+This is a living document which attempts to appeal to folks with different viewpoints. As such, you may vehemently disagree with some of the verbiage or threats, the verbiage you disagree with may be meant to acknowledge the perspective which is opposite to yours. The verbiage around these threats really doesn't matter, **the effect of these threats are the same and must be actively mitigated**, no matter where you think they come from. The verbiage used is to bridge the same gap which you're feeling from what you may consider "the other side" of your viewpoint. If you have ideas on improvement, all content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please [contact / contribute](/contact/) if you have any thoughts or desire changes.
 
 ## Table of Contents
 
@@ -27,15 +29,7 @@ In our rapidly changing world, the forces of deception and division are increasi
 
 At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time- cyclical phenomena like climate change and pole shifts, human caused acceleration of climate change, and manufactured divisions and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.
 
-This is a living document which attempts to appeal to folks with different viewpoints. As such, you may disagree with some of the verbiage, the verbiage you disagree with may be meant to unify the perspective opposite to yours to bridge the same gap which you're feeling from what you may consider "the other side" of your viewpoint.
-
-> All content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please [contact / contribute](/contact/) if you have thoughts or desire changes.
->
-> [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
->
-> For example: the publisher of this content is just relaying information found other places and the work of others and active working groups into yet another jumping off location as public domain content for others to get involved with and broadcast the work of others with the aim of alignment to good best practices.
-
-![what-is-behind-the-systems-curtain](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
+![whats-beyond-the-curtain](https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec)
 
 ### The Scientific Perspective: Understanding Global Threat Landscape
 
@@ -314,15 +308,28 @@ The best way to attack this problem is ["there's no backdoor to a public park"](
   - [Alarm call as world's trees slide towards extinction](https://www.bbc.com/news/articles/c24558g69mgo)
   - [Deadliest weather made worse by climate change - scientists](https://www.bbc.com/news/articles/cdxvnk10xz2o)
 - [PBS: The Earth’s magnetic north pole is shifting rapidly](https://www.pbs.org/newshour/science/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights)
-  - [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf)
   - Rapidly pole shifts + climate change => worse than just climate change.
     Which was already on track to be bad.
+  - [The Adam and Eve Story](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf)
+    - bada bing bada **BOOM**
+      - If you believe Chan Thomas, or you see the effects of climate change,
+        then you understand we must work together quickly to avoid any
+        unnecessary deaths.
+      - If you believe in Christ, then good news is that we just have to hold
+        out until the ring of fire blows (so to speak). He promised He'd come
+        back and get us off this rock lest no flesh be left alive. I believe
+        Him. Question is only the day and the hour. If it happens to be about
+        when Chan thinks, then we best hunker down. In fact, we best hunker down
+        either way, if you think it's what Chan says, or climate change. We just
+        need to ensure as few people die as possible, until the skies clear, or
+        until we're clear past the skies. Either perspective, you can't deny
+        that Houston, we have problems.
   - https://www.zmescience.com/science/news-science/earth-magnetic-flip-sound/
   - https://www.sciencealert.com/is-earths-magnetic-field-on-the-verge-of-flipping-over-an-expert-explains
   - https://www.science.org/doi/10.1126/sciadv.adl3198
-- > "the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy"
+- https://en.wikipedia.org/wiki/Operation_CHAOS
+  - > "the term [conspiracy theory] entered everyday language in the United States after 1964, the year in which the Warren Commission published its findings on the assassination of John F. Kennedy"
   - There are dumb conspiracy theories and then there are ones which [all the richest people might build bunkers for](https://www.vice.com/en/article/billionaires-are-building-luxury-bunkers-to-escape-doomsday/), use your brain.
-  - https://en.wikipedia.org/wiki/Operation_CHAOS
 - [Do Not Leave Quietly: A Call for Everyday People to Rise Up and Defeat Evil](https://www.goodreads.com/book/show/56337844)
 - https://historycollection.com/16-hidden-symbolic-messages-in-the-wizard-of-oz-you-may-have-missed/
   - > "The Wizard of Oz is a cleverly disguised political treatise railing against American monetary policy in the late-19th century"
