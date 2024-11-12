@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-12T18:44:45Z</updated>
+  <updated>2024-11-12T18:51:35Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -21,7 +21,11 @@
     <id>https://johnandersen777.github.io/theres_something_rotten_with_the_state_of_eden/</id>
     <updated>2024-10-19T19:00:00Z</updated>
     <published>2024-10-19T19:00:00Z</published>
-    <content type="html"><![CDATA[<p>This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.</p>
+    <content type="html"><![CDATA[<blockquote>
+<p><em>&quot;Monitoring and governing Earth's stability and resilience is no longer optional -- it is an urgent necessity to restore Earth's balance and stay within safe boundaries&quot;</em> [<a href="#references">Johan Rockström - Pioneering Planetary Boundaries science as key to mitigating rising planetary risks</a>]</p>
+<p><em>&quot;In a mature Technosphere all atmospheric constituents may have their concentrations modified to produce long-term stable and productive states for the full (civilization + biosphere) system&quot;</em> [<a href="#references">Adam Frank, David Grinspoon, and Sara Walker - Intelligence as a planetary scale process</a>]</p>
+</blockquote>
+<p>This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.</p>
 <p>This is a living document which attempts to appeal to folks with different viewpoints. As such, you may vehemently disagree with some of the verbiage or threats, the verbiage you disagree with may be meant to acknowledge the perspective which is opposite to yours. The verbiage around these threats really doesn't matter, <strong>the effect of these threats are the same and must be actively mitigated</strong>, no matter where you think they come from. The verbiage used is to bridge the same gap which you're feeling from what you may consider &quot;the other side&quot; of your viewpoint. If you have ideas on improvement, all content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please <a href="/contact/">contact / contribute</a> if you have any thoughts or desire changes.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
@@ -240,6 +244,15 @@
 <li>
 <blockquote>
 <p><em>'&quot;Monitoring and governing Earth's stability and resilience is no longer optional -- it is an urgent necessity to restore Earth's balance and stay within safe boundaries,&quot; says Johan Rockström, director of the Potsdam Institute for Climate Impact research PIK and lead author of the paper. Together with an international team of 28 scientists he first proposed the Planetary Boundaries (PB) framework in 2009. &quot;Thanks to the science of the Planetary Boundaries, we have clear evidence that there is no solution to the climate crisis and no way of holding the 1.5°C boundary, without coming back to the safe operating space within the Biosphere boundaries: biodiversity, water, land, ocean, nutrients, aerosols. We need to consider all boundaries together to safeguard Earth's health&quot;'</em></p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5">Intelligence as a planetary scale process</a>
+<ul>
+<li>
+<blockquote>
+<p><em>&quot;Conventionally, intelligence is seen as a property of individuals. However, it is also known to be a property of collectives. Here, we broaden the idea of intelligence as a collective property and extend it to the planetary scale. We consider the ways in which the appearance of technological intelligence may represent a kind of planetary scale transition, and thus might be seen not as something which happens on a planet but to a planet, much as some models propose the origin of life itself was a planetary phenomenon. Our approach follows the recognition among researchers that the correct scale to understand key aspects of life and its evolution is planetary, as opposed to the more traditional focus on individual species. We explore ways in which the concept may prove useful for three distinct domains: Earth Systems and Exoplanet studies; Anthropocene and Sustainability studies; and the study of Technosignatures and the Search for Extraterrestrial Intelligence (SETI). We argue that explorations of planetary intelligence, defined as the acquisition and application of collective knowledge operating at a planetary scale and integrated into the function of coupled planetary systems, can prove a useful framework for understanding possible paths of the long-term evolution of inhabited planets including future trajectories for life on Earth and predicting features of intelligentially steered planetary evolution on other worlds&quot;</em></p>
 </blockquote>
 </li>
 </ul>
