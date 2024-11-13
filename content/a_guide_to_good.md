@@ -79,9 +79,7 @@ you can't find them at your local library:
 - The Tao of Wu by RZA
 - "The Book" by Alan Watts
 
-### Why is "God has no name" Important
-
-> "Dear children, keep yourselves from idols" (1 John 5:21)
+### *"Dear children, keep yourselves from idols"* (1 John 5:21)
 
 For some context to help others understand, in [Warhammer 40k](https://www.reddit.com/r/Warhammer40k/comments/2un3jz/why_does_the_emperor_does_not_want_to_be/), there is an issue where the Emperor is seen as a god, illustrating how concepts can gain immense power. [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) use narrative to create shared contexts, and when combined with bureaucracy, these narratives can take on entity-like qualities. The way a bureaucracy interacts with individuals can make its presence almost indistinguishable from a single entity—for example, the DMV remains "the DMV" regardless of who works there; the entity is the message, not the messenger (a concept inspired by RZA's writings).
 

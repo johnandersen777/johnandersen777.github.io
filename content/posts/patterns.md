@@ -1,8 +1,8 @@
 +++
 date = 2024-10-06T08:15:00Z
 lastmod = 2024-10-14T14:25:00Z
-title = "God has no name"
-subtitle = "Decentralized Trust Fall"
+title = "Secure Patterns"
+subtitle = "For Decentralized Development"
 aliases = ["religon", "patterns", "chadig"]
 +++
 
@@ -83,29 +83,4 @@ Follow texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_script
 
 **[🔗 Red Pill 💊 A Guide to Good 👗](/a_guide_to_good/)**
 
-## God has no name
-
-> ![aeons-valentinian](https://github.com/user-attachments/assets/f5c2e65c-c30f-4924-9649-7415e29109db)
->
-> By G.R.S. Mead (1863-1933) - "Pistis Sophia"
-
-God transcends the concepts of a name. God is of a place beyond our concepts of names. We can use names to describe God, but we cannot name God, only God can name God.
-
-- **God** is a term we use to describe the omnipresent entity
-- **Christ Jesus** was both fully God and fully man. He is known by the names Christ, Jesus, and God
-- **Jesus** means God is salvation
-- **Christ** means "the anointed one"
-
-> *"My favorite translation of the Sacred Name is: I AM WHO I AM & I WILL BE WHO I WILL BE. In other words, NO NAME can capture the Eternal One, for the Eternal One cannot be defined or summarized by ANY name or phrase"* [[Jeff Danner](https://www.newsandsentinel.com/opinion/local-columns/2021/04/recognizing-a-god-with-no-name/)]
-
-- References
-  - https://www.newsandsentinel.com/opinion/local-columns/2021/04/recognizing-a-god-with-no-name/
-  - https://www.quora.com/What-is-the-meaning-of-the-saying-God-has-no-name
-
-## Books which say the same thing
-
-Please consider reading the following books, we will gladly send you a copy if
-you can't find them at your local library:
-
-- The Tao of Wu by RZA
-- "The Book" by Alan Watts
+[![hole-rabbit-hole](https://user-images.githubusercontent.com/5950433/196436807-68881b75-2006-4734-b4a2-63dc3d17b634.gif)](/a_guide_to_good/)
