@@ -12,7 +12,7 @@ aliases = ["greek_stuff", "redpill", "stay_1337"]
 
 Making good choices means aligning with John 13:34-35, which tells us:
 
-> "A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another."
+> *"A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another"*
 
 The following assists one with the above:
 
@@ -31,22 +31,9 @@ The following assists one with the above:
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven:
 
 - [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
-  - New Covenant (John 13:34-35)
-- [Coptic Gospels](https://www.gospels.net)
-  - > "Jesus Explains Everything" (Judas 47-56)
 - [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
-  - > '"Father, Son, Holy Spirit" is ***God, Goddess, Holy Child***'
-  - > *'God: Now let Us [the Trinity] conceive a new creation - humanity - made in Our image, fashioned according to Our likeness'* (Genesis 1:26)
-    - > *"our image"*
-        - Saying 22: Making the Two into One
-          - The image (all humanity) doing good things (God's will).
-    - An image is never the same as the real thing.
-      - *'"What is the sin of the world?", The Savior said, "There is no sin, but [it is you who make sin](https://github.com/publicdomainrelay/anti-patterns) [...]'* (Gospel of Mary, Matthew 16:23)
-      - While an image is never the same as what it is an image of, we have an innate sense of right and wrong and Christ's teachings which guide us, we can also guide others on how to be good images: [A Guide to Good](#a-guide-to-good)
 - [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
 - [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
-  - > *'The moral message in these stories of a freedman and a freedwoman is that no one should ever be enslaved because everyone has unknown royal ancestors. All are created equal in spite of outward appearances or circumstances. Didn’t "Jesus" suggest the same?'*
-  - > *'BaR iS, eT aB oR, eLa Ha eM, “Son of Man, Father Light, Goddess the Mother." She, as LHM, is found throughout the Tanakh. This was the Essene-Nazarene Holy Trinity, borrowed by the Church Fathers but corrupted to eliminate equal respect for feminine attributes. A Goddess might suggest that women are as valuable as men'*
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
@@ -71,10 +58,9 @@ Due to the impending proliferation of artificial intelligence and it being smart
 
 > Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) for some. The point was for readers to arrive at sola scriptura based conclusions of God being the Trinity. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles and the texts one hopes you read is provided to ensure clarity.
 
-## Books which say the same thing
+## Books which say similar things
 
-Please consider reading the following books, we will gladly send you a copy if
-you can't find them at your local library:
+Please consider reading the following books:
 
 - The Tao of Wu by RZA
 - "The Book" by Alan Watts
