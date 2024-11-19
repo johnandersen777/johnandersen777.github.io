@@ -63,7 +63,7 @@ If you hate words because they sound silly, that's part of the point. There's no
   - Transparency in policies and desecration making
   - *"Take heed that no man deceive you"* (Matthew 24:4) – Just as we are warned against deception, maintaining transparency in policies and decision-making builds trust, ensuring that no one is led astray by hidden agendas or obscured motives.
   - *"Ye shall not surely die"* (Genesis 3:4) – Avoid the deception which may cause you to act in error; instead, value clarity and honesty in every part of the value chain, from analysis to mapping, so that decisions are rooted in truth rather than illusion.
-- **[Lack of forgiveness](https://github.com/johnandersen777/nahdig/discussions/7):** Forgive but do not forget
+- **[Lack of forgiveness](https://github.com/johnandersen777/nahdig/discussions/7):** Forgive and forget
   - Re-establishing federation with blocklisted entities and sandboxing communications and influence (Graph of  Thoughts Arbitrage) per threat model
   - *"Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven"* – Genuine forgiveness enables reconciliation without blind trust; we can forgive past actions while remaining vigilant and cautious in re-engagement, establishing boundaries where necessary.
   - *"Forgive, and ye shall be forgiven"* – Extend forgiveness with wisdom by sandboxing interactions, allowing space for cautious renewal without risking the integrity of the whole, mindful of the lessons from past breaches.
