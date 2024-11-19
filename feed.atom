@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2024-11-14T03:00:58Z</updated>
+  <updated>2024-11-19T00:39:11Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -26,7 +26,6 @@
 <p><em>&quot;In a mature Technosphere all atmospheric constituents may have their concentrations modified to produce long-term stable and productive states for the full (civilization + biosphere) system&quot;</em> [<a href="#references">Adam Frank, David Grinspoon, and Sara Walker - Intelligence as a planetary scale process</a>]</p>
 </blockquote>
 <p>This document attempts to capture some of the threats we are facing and mitigations to them as a jumping off point for engagement.</p>
-<p>This is a living document which attempts to appeal to folks with different viewpoints. As such, you may vehemently disagree with some of the verbiage or threats, the verbiage you disagree with may be meant to acknowledge the perspective which is opposite to yours. The verbiage around these threats really doesn't matter, <strong>the effect of these threats are the same and must be actively mitigated</strong>, no matter where you think they come from. The verbiage used is to bridge the same gap which you're feeling from what you may consider &quot;the other side&quot; of your viewpoint. If you have ideas on improvement, all content on this site is public domain via the unlicense for redistribution and remixing without need for attribution. Please <a href="/contact/">contact / contribute</a> if you have any thoughts or desire changes.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#the-scientific-perspective-understanding-global-threat-landscape">The Scientific Perspective: Understanding Global Threat Landscape</a></li>
@@ -39,102 +38,33 @@
 <li><a href="#conclusion">Conclusion</a></li>
 <li><a href="#calls-to-action"><strong>Calls to Action</strong></a></li>
 <li><a href="#do-not-be-deceived">Do not be Deceived</a></li>
-<li><a href="#todos">TODOs</a></li>
 <li><a href="#references">References</a></li>
 </ul>
-<p>In our rapidly changing world, the forces of deception and division are increasingly active. Through various channels—politics, media, and even certain aspects of organized religion—these forces create distractions that hinder humanity's ability to unite. This disunity prevents us from effectively addressing significant environmental and societal challenges. The ultimate aim of these divisive strategies appears to be the obscuring of truth, isolating individuals, and perpetuating passivity and disempowerment among the masses.</p>
-<p>At the core of this division lies an age-old conflict between the forces of love and unity, epitomized by teachings that encourage compassion and cooperation, and the forces of fear and deception. As we confront the complex issues of our time- cyclical phenomena like climate change and pole shifts, human caused acceleration of climate change, and manufactured divisions and their wide-ranging impacts—the influence of deceptive forces seems to grow stronger. Yet, these forces can be overcome if we collectively embrace messages of unity and focus on building collective resilience.</p>
 <p><img src="https://github.com/user-attachments/assets/08e8974b-30f2-492c-bdb3-c7aa4a4221ec" alt="whats-beyond-the-curtain"></p>
-<h3 id="the-scientific-perspective-understanding-global-threat-landscape">The Scientific Perspective: Understanding Global Threat Landscape</h3>
-<p>While climate change and pole shifts are natural and happen by the cycles of the earth and stars, since the 1800s, the industrial revolution has accelerated climate change, the combinded impacts on modern society will be significant.</p>
-<p>Understanding these potential impacts underscores the need for proactive measures. By investing in decentralized resilience, we can better predict changes and implement strategies to mitigate adverse effects. This preparation involves enhancing the resilience of technological systems and updating protocols for supply chains and communication. These enhancments enable rapid response by humans and AI agents to mitigate these threats (<a href="/tm/">threat model</a>).</p>
-<ul>
-<li><strong>Extreme Weather Events:</strong> Increased frequency and severity of hurricanes, floods, droughts, and heatwaves.</li>
-<li><strong>Sea-Level Rise:</strong> Melting polar ice caps contribute to rising sea levels, threatening coastal communities.</li>
-<li><strong>Biodiversity Loss:</strong> Changing climates disrupt ecosystems, leading to species extinction.</li>
-<li><strong>Health Risks:</strong> Increased spread of diseases, heat-related illnesses, and food insecurity.</li>
-<li><strong>Navigation Systems:</strong> Many navigation systems, including compasses used in aviation and maritime activities, rely on the Earth's magnetic field. Significant shifts could necessitate recalibrations to maintain accuracy.</li>
-<li><strong>Satellite and Communication Systems:</strong> Variations in the magnetic field can affect satellite operations and communication networks, potentially leading to disruptions.</li>
-<li><strong>Radiation Exposure:</strong> A weakened magnetic field during a pole shift could result in increased exposure to solar and cosmic radiation, affecting both human health and electronic systems.</li>
-</ul>
+<h2 id="overcoming-deception-and-division">Overcoming Deception and Division</h2>
 <blockquote>
 <p>&quot;Perhaps we need some outside, universal threat to make us recognize this common bond. I occasionally think how quickly our differences worldwide would vanish if we were facing an alien threat from outside this world.&quot;</p>
 <p>[<a href="https://www.reaganlibrary.gov/archives/speech/address-42d-session-united-nations-general-assembly-new-york-new-york">President Ronald Reagan</a>]</p>
 </blockquote>
-<h3 id="the-spiritual-perspective-overcoming-deception-and-division">The Spiritual Perspective: Overcoming Deception and Division</h3>
-<p>On a spiritual level, we must overcome the forces of deception and division which corrupt centralized power and create suboptimal and at worst dysfunctional responses to shared threats. Mitigation requires a return to principles that emphasize love, grace, and forgiveness. Throughout history, spiritual leaders have taught the importance of these values in building harmonious societies.</p>
-<p>Recognizing our shared humanity is a fundamental step toward unity. By acknowledging that we are all interconnected, we can transcend the barriers of race, religion, nationality, and ideology. This perspective fosters empathy and reduces conflicts born out of misunderstanding or fear.</p>
-<p>Love, grace, and forgiveness are powerful tools in countering deception and division. When individuals act with empathy, kindness, and consideration for others, it creates a ripple effect that strengthens community bonds. These values encourage cooperation and collective action toward common goals.</p>
+<p>On a spiritual level, we must overcome the forces of deception and division which corrupt centralized power and create suboptimal and at worst dysfunctional responses to shared threats. Mitigation requires a return to principles that emphasize love, grace, and forgiveness.</p>
+<p><a href="/a_guide_to_good/">Love, grace, and forgiveness</a> are powerful tools in countering deception and division. When individuals act with empathy, kindness, and consideration for others, it creates a ripple effect that strengthens community bonds. These values encourage cooperation and collective action toward common goals.</p>
 <p>Deceptive forces often exploit fear and spread misinformation to create division. By promoting critical thinking and open dialogue around the &quot;why?&quot; questions, communities can become more resilient against such tactics. Encouraging individuals to seek truth and question misleading narratives empowers them to make informed decisions which benefit all those they interact with.</p>
-<h3 id="building-decentralized-resilience">Building Decentralized Resilience</h3>
-<p>In light of both scientific and spiritual insights, building decentralized resilience emerges as a practical and philosophical approach to addressing global challenges. Decentralization involves distributing resources, decision-making, and responsibilities across various levels rather than centralizing them. This mitigates consolidation of power in any actor: entity, individual, or organization. Decentralization is a generally applicable mitigation mechanism which reduces the &quot;blast radius&quot; of <a href="/gse6/">errors, incompetence, or malintent from actors within systems</a>. Decentralization offers many benefits including the following:</p>
+<p>Building decentralized resilience emerges as a practical approach to addressing global challenges. Decentralization involves distributing resources, decision-making, and responsibilities across various levels rather than centralizing them. This mitigates consolidation of power in any actor: entity, individual, or organization. Decentralization is a generally applicable mitigation mechanism which reduces the &quot;blast radius&quot; of <a href="/gse6/">errors, incompetence, or malintent from actors within systems</a>.</p>
+<p>Decentralization offers many benefits including the following:</p>
 <ul>
 <li><strong>Enhanced Adaptability:</strong> Decentralized systems can respond more quickly to local needs and changes, making them more adaptable in the face of disruptions.</li>
 <li><strong>Reduced Vulnerabilities:</strong> By avoiding reliance on a single point of control, decentralized systems are less susceptible to widespread failures.</li>
 <li><strong>Empowered Communities:</strong> Localized control empowers communities to take charge of their development and resilience strategies.</li>
 </ul>
-<h4 id="strategies-for-implementation">Strategies for Implementation</h4>
-<p>The following strategies are a high level description of some of the same strategies found in the Untied Nations Plan 2030.</p>
-<p>These strategies enhance resilience, sustainability, and efficient, effective, and rapid response to threats.</p>
-<ul>
-<li><strong>Localized Energy Solutions:</strong> Microgrids of renewable energy sources such as solar, wind, nuclear, geothermal, and hydro power reduce dependence on centralized grids.</li>
-<li><strong>Community-Centric Agriculture:</strong> Developing local food systems through urban farming, community gardens, and <a href="">support for local farmers</a> increases food security. It also fosters community engagement and sustainable agricultural practices.</li>
-<li><strong>Decentralized Communication Networks:</strong> Establishing local communication infrastructures like mesh networks ensures connectivity even when larger networks are disrupted. This is crucial for emergency response and maintaining social cohesion during crises.</li>
-<li><strong>Education and Knowledge Sharing:</strong> Creating platforms for sharing knowledge and skills strengthens community resilience. Educational programs focused on emergency preparedness, sustainability, and technological literacy empower individuals.</li>
-<li><strong>Decentralized Governance:</strong> Encouraging participatory decision-making processes allows communities to have a direct say in policies and initiatives that affect them. This inclusively enhances the relevance and effectiveness of resilience strategies.</li>
-</ul>
-<h3 id="unity-and-resilience-for-a-sustainable-future">Unity and Resilience for a Sustainable Future</h3>
-<p>The challenges posed by phenomena like climate change and pole shifts and the forces of deception and division require a concerted effort to build a resilient and unified society. By integrating scientific understanding with spiritual principles of unity and compassion, we can develop holistic approaches to these challenges.</p>
-<ul>
-<li><strong>Foster Unity:</strong> Embrace values that promote understanding and cooperation across different segments of society.</li>
-<li><strong>Enhance Resilience:</strong> Invest in decentralized systems that empower communities and reduce vulnerabilities.</li>
-<li><strong>Promote Education:</strong> Encourage learning and critical thinking to combat misinformation and prepare for future challenges.</li>
-<li><strong>Engage Collaboratively:</strong> Work together across disciplines, sectors, and borders to develop comprehensive solutions.</li>
-</ul>
-<p>The time to act is now. By uniting scientific insights with spiritual wisdom, we can navigate the complexities of our world and build a future that is resilient, equitable, and harmonious.</p>
-<h3 id="building-infrastructure-to-withstand-global-threats">Building Infrastructure to Withstand Global Threats</h3>
-<p>As we face the potential impacts of climate change and geomagnetic pole shifts, it is imperative to focus on building infrastructure that can withstand these existential threats and save as many lives as possible. Strengthening our technological and structural systems is crucial to ensure the safety and continuity of societies worldwide.</p>
-<h4 id="understanding-the-challenges">Understanding the Challenges</h4>
-<p>The threats we face will have profound effects on modern infrastructure:</p>
-<ul>
-<li><strong>Power Grids</strong>: Disruptions in electrical transmission due to natural disasters can lead to widespread blackouts (Texas 2021).</li>
-<li><strong>Critical Services</strong>: Water treatment plants, hospitals, and emergency services depend on reliable power and communication networks.</li>
-<li><strong>Supply Chain Disruptions</strong>: Supply chain disruptions (as seen with COVID in 2020) can endanger food supplies and critical services.</li>
-<li><strong>Communication Systems</strong>: Satellites, radio communications, and GPS technologies can experience malfunctions due to natural disasters or increased solar activity affecting the Earth's magnetosphere.</li>
-<li><strong>Transportation Networks</strong>: Earthquakes and other natural disasters affect our ability to rapidly transport critical aid to places that need it most. Air and maritime navigation systems, which rely on satellite and magnetic compasses, may suffer inaccuracies due to EMPs or geomagnetic threats.</li>
-</ul>
-<p>The potential impacts of climate change combined with pole shifts present an existential threat that requires immediate (before 2030, just echoing the UN's plan) and concerted efforts. Building resilient infrastructure is not just a technical challenge but a moral imperative to safeguard lives and ensure the continuity of our societies.</p>
-<p>By focusing on these strategies and collaborating across all levels—from individual communities to international partnerships—we can build infrastructure capable of withstanding geomagnetic threats. The fate of humanity depends on proactive measures taken today to protect our future.</p>
 <h2 id="bridging-divides-through-self-organized-morality-a-path-to-collective-alignment">Bridging Divides Through Self-Organized Morality: A Path to Collective Alignment</h2>
 <p>In a world rife with misunderstanding and division, many of us seek solutions that unite rather than separate. By delving deep into our moral values and examining the root causes of global issues, we may find a pathway toward a common framework—a self-organized system of shared principles and values that emerges organically from collective introspection and cooperation.</p>
-<h3 id="the-power-of-self-reflection-on-moral-values">The Power of Self-Reflection on Moral Values</h3>
 <p>Every individual possesses a moral compass, shaped by personal experiences, culture, and an innate sense of right and wrong. When we take the time to reflect on these values, we often discover that, despite superficial differences, there is significant overlap in what we consider just and equitable. This common ground is the foundation upon which a self-organized framework can be built.</p>
-<p>By identifying and addressing the root causes of societal issues—such as inequality, injustice, and environmental degradation—we move beyond treating symptoms and start fostering genuine change. This process requires honesty, openness, and a willingness to challenge our own beliefs and biases.</p>
-<p>By root causing our belief systems, we can arrive at common values we all share, beyond the symbolic names given to the practices which lead us to those values, <a href="/chadig/">which are often said in different ways by different religions</a>.</p>
-<h3 id="collective-alignment-through-cooperative-principles">Collective Alignment Through Cooperative Principles</h3>
-<p>By embracing principles that promote voluntary cooperation and mutual aid, we empower communities to:</p>
-<ul>
-<li><strong>Shed Deception</strong>: Transparency becomes paramount. With open communication channels, information flows freely, reducing the capacity for manipulation.</li>
-<li><strong>Reduce Human Error</strong>: Collaborative efforts and community-based checks and balances help mitigate the impact of individual mistakes.</li>
-<li><strong>Combat Manipulation</strong>: Decentralized decision-making minimizes the influence of those who might seek to exploit systems for personal gain.</li>
-</ul>
-<p>Through these means, we align on common goals—such as sustainability, equity, and peace—by fostering environments where everyone's voice contributes to the collective direction.</p>
-<h3 id="bridging-the-symbolic-to-subsymbolic-gap">Bridging the Symbolic to Subsymbolic Gap</h3>
-<p>Much of the misunderstanding in the world arises from symbolic representations—language, rituals, and cultural artifacts—that differ across societies. These symbols can create barriers when taken at face value without understanding the underlying subsymbolic meanings—the fundamental human experiences and emotions they represent.</p>
-<p>To bridge this gap:</p>
-<ul>
-<li><strong>Encourage Empathetic Communication</strong>: Strive to understand others' perspectives beyond their words or symbols.</li>
-<li><strong>Focus on Shared Human Experiences</strong>: Acknowledge that, at a subsymbolic level, we all experience love, fear, joy, and sorrow similarly.</li>
-<li><strong>Promote Cultural Exchange</strong>: Engaging with diverse cultures demystifies symbols and reduces prejudices.</li>
-</ul>
-<p>By doing so, we peel back the layers that superficially divide us, revealing the common humanity that binds us all.</p>
-<h3 id="self-organization">Self-Organization</h3>
-<p>Creating a self-organized framework rooted in shared moral values offers a pathway toward unity and understanding. By collectively shedding deception, reducing human error, and bridging symbolic divides, we can work together to address the root causes of the world's issues. This collaborative approach doesn't require a central authority but thrives on the active participation and alignment of individuals committed to common goals. In embracing this model, we take meaningful steps toward a more harmonious and equitable world.</p>
-<h2 id="harnessing-supply-chain-transparency-and-ai-for-global-resilience">Harnessing Supply Chain Transparency and AI for Global Resilience</h2>
+<p><a href="/patterns/"><strong>By root causing our belief systems, we can arrive at common values we all share, beyond the symbolic names given to the practices which lead us to those values, which are often said in different ways by different religions</strong></a>.</p>
+<h2 id="harnessing-supply-chain-transparency-and-global-resilience">Harnessing Supply Chain Transparency and Global Resilience</h2>
 <blockquote>
-<p>Probably the most sensible way in which the new nations can improve their lot is by forming federations: getting together to face common problems and opportunities while maintaining a healthy measure of separate identity. Economic federation is certainly the most promising form at the moment, despite some early failures. What English Economist Barbara Ward calls &quot;technocratic federations&quot; are likely to sprout in the future——and the young nations should begin planning how and when they can form and join them. This would happily preserve their proud national prerogatives while offering the benefits of a large economic mass and a sharing of modern technology.</p>
+<p><em>&quot;Probably the most sensible way in which the new nations can improve their lot is by forming federations: getting together to face common problems and opportunities while maintaining a healthy measure of separate identity. Economic federation is certainly the most promising form at the moment, despite some early failures. What English Economist Barbara Ward calls &quot;technocratic federations&quot; are likely to sprout in the future——and the young nations should begin planning how and when they can form and join them. This would happily preserve their proud national prerogatives while offering the benefits of a large economic mass and a sharing of modern technology&quot;</em> [The Passions &amp; Perils Of Nationhood]</p>
 </blockquote>
-<p>In an era where humanity faces unprecedented challenges, ranging from environmental crises to technological disruptions, the robustness of our global supply chains has never been more critical. The intricate networks that deliver goods and services across the world are the lifelines of modern society. Ensuring their transparency and resilience is paramount to preparing for and mitigating potential mass extinction events or other existential threats. By integrating advanced software supply chain frameworks, leveraging federation as a general eventing mechanism, and employing artificial intelligence (AI) alongside policy engines, we can create a transparent, robust supply chain infrastructure. This infrastructure will not only enhance our preparedness but also pave the way for a future where diversity and innovation drive us into a new golden era.</p>
+<p>In an era where humanity faces unprecedented challenges, the robustness of our global supply chains has never been more critical. The intricate networks that deliver goods and services across the world are the lifelines of modern society. Ensuring their transparency and resilience is paramount to preparing for and mitigating potential mass extinction events or other existential threats. By integrating advanced software supply chain frameworks, leveraging federation as a general eventing mechanism, and employing artificial intelligence (AI) alongside transparent policies, we can create a transparent, robust supply chain infrastructure. This infrastructure will not only enhance our preparedness but also pave the way for a future where diversity and innovation drive us into a new golden era.</p>
 <h3 id="the-imperative-for-transparency">The Imperative for Transparency</h3>
 <p>Supply chains today are complex, multi-tiered systems involving countless stakeholders across the globe. This complexity often leads to a lack of visibility, making it difficult to identify vulnerabilities, inefficiencies, or potential points of failure. Transparency in supply chains is not merely a matter of operational efficiency; it is a strategic necessity for global resilience.</p>
 <ul>
@@ -156,35 +86,22 @@
 <li><strong>Scalability and Flexibility</strong>: Federated systems can adapt to changes in the network, accommodating new participants or adjusting to shifting demands without overhauling the entire system.</li>
 <li><strong>Enhanced Security</strong>: By distributing data and control across multiple nodes, federated systems reduce the risk of single points of failure and make unauthorized access more difficult.</li>
 </ul>
-<h3 id="the-role-of-artificial-intelligence-and-policy-engines">The Role of Artificial Intelligence and Policy Engines</h3>
+<h3 id="the-role-of-artificial-intelligence-and-transparent-policy">The Role of Artificial Intelligence and Transparent Policy</h3>
 <blockquote>
-<p>Farther down the road is the prospect of political federation. So far, it has proved an unsuccessful experiment, torpedoed in several instances by prickly national and even tribal sensitivities and by the fear of bureaucrats that co-operation would eliminate duplication of ministries—and hence their jobs.</p>
+<p><em>&quot;Farther down the road is the prospect of political federation. So far, it has proved an unsuccessful experiment, torpedoed in several instances by prickly national and even tribal sensitivities and by the fear of bureaucrats that co-operation would eliminate duplication of ministries—and hence their jobs&quot;</em> [The Passions &amp; Perils Of Nationhood]</p>
 </blockquote>
-<p>AI and policy engines are critical in processing the vast amounts of data generated by transparent, federated supply chains.</p>
+<p>AI and transparent policy are critical in processing the vast amounts of data generated by transparent, federated supply chains.</p>
 <ul>
 <li><strong>Predictive Analytics</strong>: AI algorithms can analyze historical and real-time data to predict potential disruptions, allowing proactive measures to be taken.</li>
-<li><strong>Automated Decision-Making</strong>: Policy engines can enforce predefined rules and compliance requirements automatically, ensuring that actions taken within the supply chain adhere to established guidelines.</li>
+<li><strong>Automated Decision-Making</strong>: Transparent policy can enforce predefined rules and compliance requirements automatically, ensuring that actions taken within the supply chain adhere to established guidelines.</li>
 <li><strong>Adaptive Learning</strong>: Machine learning models can continuously improve their understanding of the supply chain dynamics, leading to more accurate predictions and efficient operations over time.</li>
-</ul>
-<h3 id="supply-chain-security-and-the-cia-triad">Supply Chain Security and the CIA Triad</h3>
-<p>The Confidentiality, Integrity, and Availability (CIA) triad is a fundamental model in information security that applies equally to supply chain security.</p>
-<ul>
-<li><strong>Confidentiality</strong>: Ensuring that sensitive information is accessible only to authorized parties protects intellectual property and maintains competitive advantages.</li>
-<li><strong>Integrity</strong>: Maintaining the accuracy and consistency of data throughout the supply chain prevents errors, fraud, and misinformation.</li>
-<li><strong>Availability</strong>: Guaranteeing that information and resources are accessible when needed ensures that the supply chain operates without unnecessary delays or interruptions.</li>
-</ul>
-<p>By embedding these principles into our supply chain frameworks and reinforcing them with AI and policy engines, we can create a secure environment that fosters trust among all participants.</p>
-<h3 id="preparing-for-potential-mass-extinction-events">Preparing for Potential Mass Extinction Events</h3>
-<p><img src="https://github.com/user-attachments/assets/b098ae3c-4c36-4074-88b4-c7d9189dd024" alt="we-can-turn-this-shit-around-tank-girl"></p>
-<p>The possibility of a mass extinction event, whether due to natural disasters, technological catastrophes, or other existential risks, necessitates a strategic approach to preparedness.</p>
-<ul>
-<li><strong>Resource Allocation</strong>: Transparent supply chains enable efficient allocation of critical resources such as food, water, medicine, and energy.</li>
-<li><strong>Redundancy and Diversification</strong>: Building redundancies into supply chains and diversifying sources reduces reliance on single points that could fail during a crisis.</li>
-<li><strong>Rapid Response Mechanisms</strong>: AI-powered systems can detect anomalies and initiate response protocols swiftly, mitigating the impact of sudden disruptions.</li>
 </ul>
 <h3 id="decentralization-and-resilience">Decentralization and Resilience</h3>
 <p>Moving towards a decentralized model enhances resilience by distributing risk and empowering local entities.</p>
 <ul>
+<li><strong>Resource Allocation</strong>: Transparent supply chains enable efficient allocation of critical resources such as food, water, medicine, and energy.</li>
+<li><strong>Redundancy and Diversification</strong>: Building redundancies into supply chains and diversifying sources reduces reliance on single points that could fail during a crisis.</li>
+<li><strong>Rapid Response Mechanisms</strong>: AI-powered systems can detect anomalies and initiate response protocols swiftly, mitigating the impact of sudden disruptions.</li>
 <li><strong>Local Production and Self-Sufficiency</strong>: Encouraging local manufacturing and resource generation reduces dependency on distant suppliers and transportation networks.</li>
 <li><strong>Community Engagement</strong>: Involving local communities in decision-making processes strengthens social cohesion and ensures that solutions are tailored to specific needs.</li>
 <li><strong>Flexible Infrastructure</strong>: Decentralized systems can adapt more readily to changing circumstances, making them better suited to withstand and recover from disruptions.</li>
@@ -204,12 +121,11 @@
 <li><strong>Global Cooperation</strong>: Fostering international collaboration to address global challenges and promote peace.</li>
 </ul>
 <h2 id="conclusion">Conclusion</h2>
-<p>The convergence of transparent supply chains, federated systems, AI, and policy engines represents a transformative opportunity for humanity. By embracing these technologies and principles, we can build a resilient infrastructure capable of withstanding existential threats. More importantly, we can leverage the collective wisdom and creativity of a diverse global population to drive innovation and progress.</p>
-<p>This journey requires commitment and collaboration at all levels—from individual entities to international organizations. It calls for a reimagining of how we interact with technology, resources, and each other. But the rewards are immense: a secure future for humanity and the ushering in of a new golden era where prosperity, sustainability, and unity are not just aspirations but realities.</p>
-<p>By focusing on transparency, decentralization, and the intelligent application of technology, we not only prepare ourselves for potential threats but also set the stage for unprecedented growth and harmony. The challenges ahead are significant, but with collective effort and innovative thinking, we can transform them into opportunities that benefit all of humanity.</p>
+<p>The convergence of transparent supply chains, federated systems, AI, and transparent policy represents an opportunity to shed deception and increase resilience.</p>
+<p>By focusing on transparency and decentralization we prepare ourselves for potential threats and set the stage for unprecedented growth and harmony.</p>
 <h2 id="calls-to-action">Calls to Action</h2>
-<p>Organized from non-technical to most technical. Anyone can write documentation! Please document policies and practices!!</p>
-<p>If you are inclined to help us refine these concepts please post in this <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">thread</a> (or you can <a href="mailto:publicdomainrelay@protonmail.com?subject=Related Work Found">email</a> and it will be added)</p>
+<p>Organized from non-technical to most technical</p>
+<p>If you are inclined to help us refine these concepts please <a href="/contact/">contact us</a>.</p>
 <p>There's no point in worrying about things we know will happen and active happenings, the point is we just mitigate the any threats we identify.</p>
 <ul>
 <li><a href="/chadig/">Communicate: Your Existing Belief System Using Root Cause Analysis of Moral Values: Self-Organized Religion</a>
@@ -220,23 +136,17 @@
 <li><a href="https://www.ibm.com/think/insights/disaster-recovery-strategy">Document: Policies and Processes: Disaster Recovery Plans</a></li>
 <li><a href="https://mastodon.social">Use: Federated Social Media</a></li>
 <li><a href="https://activitypub.rocks">Deploy: ActivityPub Based Services</a></li>
-<li><a href="/gse1/">Deploy: Transparency Services: IETF SCITT Based For Interoperability</a></li>
-<li><a href="/gse1/">Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats</a></li>
-<li><a href="/gse1/">Develop: Implementations for Gating Tool Use Through Transparency Services Policy Engines as Tool-Call Dispatch Admission Control</a></li>
-<li><a href="/chadig/">Develop: Methodologies and Implementations for Aligning Policy with Moral values</a></li>
+<li><a href="/gse33/">Deploy: Transparency Services: IETF SCITT Based For Interoperability</a></li>
+<li><a href="/gse33/">Deploy: Transparent Policies: JSON Schema, Open Policy Agent, and other Machine Readable Formats</a></li>
+<li><a href="/gse33/">Develop: Implementations for Gating Tool Use Through Transparency Services Policy Engines as Tool-Call Dispatch Admission Control</a></li>
+<li><a href="/patterns/">Develop: Methodologies and Implementations for Aligning Policy with Moral values</a></li>
 </ul>
 <h2 id="do-not-be-deceived">Do not be Deceived</h2>
-<p>&quot;I gotcha back, but you best to watch your front&quot;, because there's a wave of issues we have to combat before <strong>2030 timeframe</strong>. Here's hoping unity and problem solving have more ecological stability and magnetism than our home by that point. There are plenty of others saying this, you're just hearing it here too (2 Corinthians 10:17).</p>
-<p>The best way to attack this problem is <a href="https://johnandersen777.github.io/ietf-118/">&quot;there's no backdoor to a public park&quot;</a> [Seth], aka transparency and engagement with open entities and organizations which conduct mutual aid and foster open policies and specifications.</p>
+<p>The best way to attack this problem is <em>&quot;there's no backdoor to a public park&quot;</em> [Seth], aka transparency and engagement with open organizations which conduct mutual aid and foster open policies and specifications.</p>
 <blockquote>
-<p>It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations.</p>
+<p><em>&quot;It requires a change in outlook, a change in tactics, a change in missions--by the government, by the people, by every businessman or labor leader, and by every newspaper. For we are opposed around the world by a monolithic and ruthless conspiracy that relies primarily on covert means for expanding its sphere of influence--on infiltration instead of invasion, on subversion instead of elections, on intimidation instead of free choice, on guerrillas by night instead of armies by day. It is a system which has conscripted vast human and material resources into the building of a tightly knit, highly efficient machine that combines military, diplomatic, intelligence, economic, scientific and political operations&quot;</em></p>
 <p>[<a href="https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427">President John F. Kennedy</a>]</p>
 </blockquote>
-<h2 id="todostodos"><a href="/todos/">TODOs</a></h2>
-<ul>
-<li>🔎 <a href="https://github.com/johnandersen777/johnandersen777.github.io/discussions/4">Continuous: Discover Related Work</a></li>
-<li>⏳ <a href="/gospel_checksums/">In Progress: Root of Trust Weighting: Checksum Validation</a></li>
-</ul>
 <h2 id="references">References</h2>
 <ul>
 <li><a href="https://www.sciencedaily.com/releases/2024/11/241108113503.htm">Pioneering Planetary Boundaries science as key to mitigating rising planetary risks</a>
@@ -430,11 +340,7 @@ that Houston, we have problems.</li>
     <id>https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/</id>
     <updated>2024-10-21T19:33:00Z</updated>
     <published>2024-10-09T09:38:19Z</published>
-    <content type="html"><![CDATA[<blockquote>
-<p>IMHO: Up and down, left and right, and right and wrong weren't clear before. We need to keep our heads when things go <a href="https://johnandersen777.github.io/pole_shifts/">topsy-turvy yet again</a>. The only way to all survive is to love one another and work together. Catch y'all on the flip side. <a href="https://johnandersen777.github.io/chadig/">Peace</a>.</p>
-</blockquote>
-<p>The path we follow to mitigate CVE-0 (aka deception) is to align with the Trinity.</p>
-<p>Deception and mistrust have eroded human connection. Decentralized AI+<a href="https://datatracker.ietf.org/wg/scitt/about/">TS</a> guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our <a href="https://knowyourmeme.com/memes/we-should-improve-society-somewhat">societies</a> current baseline (aka <a href="/telepathy/">telepathy</a>, probably more).</p>
+    <content type="html"><![CDATA[<p>Deception and mistrust have eroded human connection. Decentralized AI+<a href="https://datatracker.ietf.org/wg/scitt/about/">TS</a> guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than <a href="https://knowyourmeme.com/memes/we-should-improve-society-somewhat">our societies current baseline</a> (aka <a href="/telepathy/">telepathy</a>, probably more).</p>
 <ol>
 <li>Love your Earthly neighbors.</li>
 <li>Act in grace and forgiveness.</li>
