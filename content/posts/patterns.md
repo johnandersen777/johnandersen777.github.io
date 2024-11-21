@@ -75,7 +75,7 @@ Luke 6:38. I tell you absolutely that I know God. God does exist. You can trust 
 - I'm trying to give you testament so you feel comfortable saying so too. Since the ask is for folks to open source their values.
 - My values are derived [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura).
 
-Follow texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76]. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the [gospel of peace](https://www.essene.com/GospelOfPeace/peace2.html) too).
+Follow texts (ideally [sola scriptura](https://en.wikipedia.org/wiki/Sola_scriptura)) where we detect the Holy Ghost [Luther, quoted in the Collected Works of Erasmus Volume 76]. Take a page from Luther and his [literacy campaign](https://www.jstor.org/stable/23768389) and post them theses on the Internet in a way others can read and modify 🇩🇰 Make sure you read the gospels (and the [gospel of peace](https://www.essene.com/GospelOfPeace/peace2.html) too (Ephesians 6:15)).
 
 - ✅ Luther: Enable Read Permissions
 - ✅ Open Source: Enable Write Permissions
