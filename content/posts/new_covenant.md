@@ -3,7 +3,7 @@ date = 2024-10-09T09:38:19Z
 lastmod = 2024-10-21T19:33:00Z
 title = "The New Covenant"
 subtitle = "Trinitarian Alignment"
-aliases = ["love", "grace", "forgiveness", "ai"]
+aliases = ["love", "grace", "forgiveness", "ai", "the_new_covenants_path_to_the_nameless_divine"]
 +++
 
 What is the new covenant about? What are the gospels about? **Hope**
