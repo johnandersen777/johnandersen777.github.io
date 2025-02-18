@@ -31,9 +31,7 @@ The following assists one with the above:
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven:
 
 - [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
-- [Wisdom the Goddess](http://thenazareneway.com/Wisdom%20the%20Goddess.htm)
-- [Essene Gospel Of Peace: Book Two](https://www.essene.com/GospelOfPeace/peace2.html)
-- [Following Philo: Legacy of the First Christian Heretic](https://essenenazarene.com/2019/02/24/legacy-of-the-first-christian-heretic/)
+- [Essene Gospel Of Peace](https://www.essene.com/GospelOfPeace/peace2.html)
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
