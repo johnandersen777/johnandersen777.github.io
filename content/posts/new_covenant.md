@@ -10,7 +10,7 @@ What is the new covenant about? What are the gospels about? **Hope**
 
 Hope is important. Hope for a better world, hope for more love in the world.
 
-Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than [our societies current baseline](https://knowyourmeme.com/memes/we-should-improve-society-somewhat).
+Deception and mistrust have eroded human connection. Decentralized AI+[TS](https://datatracker.ietf.org/wg/scitt/about/) guided by policy engines tied to moral values are tools we can leverage to help us scale networks of shared context and trust which re-enable access to human inference and communication abilities which require higher levels of trust between individuals than our societies current baseline.
 
 1. Love your Earthly neighbors.
 2. Act in grace and forgiveness.
