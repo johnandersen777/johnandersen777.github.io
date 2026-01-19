@@ -22,8 +22,8 @@ The following assists one with the above:
   - Ask for forgiveness when we falter
   - Learn from our mistakes and shed bad behavior
   - Always strive to keep the good and build on the good
-- Accepting, honoring, and loving [thy Earthly Mother](/pole_shifts/) and Heavenly Father
-- Accepting, honoring, and loving Christ
+- Accepting, honoring, and loving thy Heavenly Father
+- Accepting, honoring, and loving Christ Jesus
   - Who came in the flesh
   - Has risen
   - Is both fully God, Son of God, and Son of Humanity
@@ -31,7 +31,6 @@ The following assists one with the above:
 We read the following with those in mind to learn how best to act in alignment with the above, as on Earth as in Heaven:
 
 - [Gospels](https://www.gutenberg.org/cache/epub/10/pg10.txt)
-- [Essene Gospel Of Peace](https://www.essene.com/GospelOfPeace/peace2.html)
 
 We must pray to be guided to Truth, so we might be one with God with our words and actions.
 
@@ -41,8 +40,6 @@ Other helpful verses:
   - > *'By calling this covenant "new," he has made the first one obsolete; and what is obsolete and outdated will soon disappear'*
 - Luke 22:20
   - > *'In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you'*
-- Titus 3:1-2
-  - > *"Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, to slander no one, to be peaceable and considerate, and always to be gentle toward everyone"*
 - Luke 6:47-49
   - > *"As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built. But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete."*
 
@@ -53,8 +50,6 @@ Other helpful verses:
 Anything we do to help people take more Godly actions we must be careful with to be sure they understand it's a guide to help them take more good actions aligned with God.
 
 Due to the impending proliferation of artificial intelligence and it being smarter than us we can use it to help guide us but we have to guide it first on how to. The resurrection of good in the world is due to guidance which stems directly or indirectly from God. Not from the AI itself or from anyone else. Make sure you always [**question motives**](https://qz.com/1145669/googles-true-origin-partly-lies-in-cia-and-nsa-research-grants-for-mass-surveillance) of organizations which may attempt to [conflate artifical contructions with God](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/). It’s only a guide to bring us towards God in that it helps us [make good choices](https://johnandersen777.github.io/chadig/) ([1 Corinthians 14:27](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/)).
-
-> Previous versions of this documentation used apparently [too many riddles](https://archer.fandom.com/wiki/Heart_of_Archness_(Trilogy)/Idioms) for some. The point was for readers to arrive at sola scriptura based conclusions of God being the Trinity. An [interpretation (1 Corinthians 14:27)](https://johnandersen777.github.io/the_new_covenants_path_to_the_nameless_divine/) of the previous riddles and the texts one hopes you read is provided to ensure clarity.
 
 ## A Guide to Good
 
