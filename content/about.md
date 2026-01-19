@@ -12,15 +12,10 @@ All content on this site is public domain via the [unlicense](#license) for redi
 Authors of the content on this site can be found via commit data referenced via
 the GitHub link on the [contact](/contact/) page. Please contribute!
 
-Hope you have a great day! :D
-
 ## Objectives
 
 - [Foster Principle Engineers](/chadig/)
-  - Humanity MUST (RFC 2119) work together!
-  - [Come! Decentralize with us!](/gse1/)
-- 🕊️✌️☮️ Acceleration of 🌍🌏🌎 happiness metric 😁
-  - [*There are several important metrics in our final system*](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
+- [Important metrics in our final system](https://github.com/intel/dffml/issues/1315#issuecomment-1066814280)
 
 ## Some Quotes, in no Order
 
@@ -28,19 +23,9 @@ Hope you have a great day! :D
 
 - *"Imagination is the only weapon in the war against reality"* [Lewis Carroll]
 
-- *"If the Good Lord had intended us to walk, he wouldn’t have invented roller skates"* [Willie Wonka]
+- *"If the Good Lord had intended us to walk, He wouldn’t have invented roller skates"* [Willie Wonka]
 
 - *"Whoever you are I don’t think you draw the breath of life while hated by the gods"* [Venus]
-
-- *"If everyone always gives everyone a cigarette, then we all always have a cigarette"* [Someone met randomly]
-
-- [Protopia](https://kk.org/thetechnium/protopia/): "*the best term for the massive set of interlinked projects of activists, thinkers, and practitioners around the world who seek to contribute to the necessary and desirable transformations of societies around the world"*
-
-  - For example: The publishers of this content relay information found other places and the work of others and active working groups (IETF, OpenSSF, etc.) into yet another jumping off location as public domain content for others to get involved with existing efforts and broadcast the work of others with the aim of alignment to preexisting widely adopted best practices. We aim to kint together existing work as much as possible and write as little new code as possible to implement secure patterns for decentralized software development.
-
-- [*"You are what you are, you are who you are"*](http://www.gnosis.org/naghamm/goseqypt.html)
-  - Defense in Death-pth: John 3:16
-    - Thanks again for all the fish
 
 ## License
 

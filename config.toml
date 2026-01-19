@@ -121,14 +121,9 @@ name = "📬"
 weight = 3
 
 [[menu.main]]
-url = "/game_plan/"
-name = "🥋"
-weight = 4
-
-[[menu.main]]
 url = "/a_guide_to_good/"
 name = "💊"
-weight = 5
+weight = 4
 
 [[menu.foot]]
 url = "/posts/"
@@ -146,14 +141,9 @@ name = "📬"
 weight = 3
 
 [[menu.foot]]
-url = "/game_plan/"
-name = "🥋"
-weight = 4
-
-[[menu.foot]]
 url = "/a_guide_to_good/"
 name = "💊"
-weight = 5
+weight = 4
 
 [languages]
 [languages."en"]
