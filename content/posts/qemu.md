@@ -54,7 +54,8 @@ qemu-system-x86_64 \
   -numa node,memdev=mem \
   -chardev socket,id=char0,path="$VIRTIOFS_SOCKET" \
   -device vhost-user-fs-pci,queue-size=1024,chardev=char0,tag=myfs \
-  -append "console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/bin/bash"
+  -append "console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/lib/systemd/systemd"
+  # -append "console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/bin/bash"
   #  -append "SYSTEMD_SULOGIN_FORCE=1 console=ttyS0 rd.driver.pre=virtiofs rootfstype=virtiofs root=myfs ro init=\"/sbin/sulogin --force\" rd.shell rd.debug log_buf_len=1M"
 
 ```
