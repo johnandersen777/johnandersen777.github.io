@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2026-05-01T04:38:43Z</updated>
+  <updated>2026-05-01T04:41:55Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -3741,7 +3741,69 @@ if [ -f OVMF_VARS.fd -a -f OVMF_CODE.fd ]; then
     UEFI_BIOS=&quot; -drive file=OVMF_CODE.fd,if=pflash,format=raw,unit=0,readonly=on &quot;
     UEFI_BIOS+=&quot; -drive file=OVMF_VARS.fd,if=pflash,format=raw,unit=1 &quot;
 fi
-</code></pre>]]></content>
+</code></pre><h2 id="links">Links</h2>
+<p>1184122 – Can't mount virtio-9p fs at boot time
+<a href="https://bugzilla.redhat.com/show_bug.cgi?id=1184122#c1">https://bugzilla.redhat.com/show_bug.cgi?id=1184122#c1</a></p>
+<p>bootc-dev/bootc: Boot and upgrade via container images
+<a href="https://github.com/bootc-dev/bootc">https://github.com/bootc-dev/bootc</a></p>
+<p>cloud-hypervisor/docs/vsock.md at main · cloud-hypervisor/cloud-hypervisor
+<a href="https://github.com/cloud-hypervisor/cloud-hypervisor/blob/main/docs/vsock.md">https://github.com/cloud-hypervisor/cloud-hypervisor/blob/main/docs/vsock.md</a></p>
+<p>dracut tries to mount virtiofs root before kernel has enumerated available virtiofs tags · Issue #22
+<a href="https://github.com/dracut-ng/dracut-ng/issues/2242">https://github.com/dracut-ng/dracut-ng/issues/2242</a></p>
+<p>dracut-ng/modules.d/71overlayfs-crypt/prepare-overlayfs-crypt.sh at e1bf57a772198becf126aebdfd2240ce
+<a href="https://github.com/dracut-ng/dracut-ng/blob/e1bf57a772198becf126aebdfd2240cebc49b2f3/modules.d/71overlayfs-crypt/prepare-overlayfs-crypt.sh">https://github.com/dracut-ng/dracut-ng/blob/e1bf57a772198becf126aebdfd2240cebc49b2f3/modules.d/71overlayfs-crypt/prepare-overlayfs-crypt.sh</a></p>
+<p>DRACUT.CMDLINE(7) :: Dracut
+<a href="https://dracut-ng.github.io/dracut-ng/man/dracut.cmdline.7.html">https://dracut-ng.github.io/dracut-ng/man/dracut.cmdline.7.html</a></p>
+<p>DRACUT(8) :: Dracut
+<a href="https://dracut-ng.github.io/dracut-ng/man/dracut.8.html#using-the-dracut-shell">https://dracut-ng.github.io/dracut-ng/man/dracut.8.html#using-the-dracut-shell</a></p>
+<p>firecracker/docs/vsock.md at main · firecracker-microvm/firecracker
+<a href="https://github.com/firecracker-microvm/firecracker/blob/main/docs/vsock.md">https://github.com/firecracker-microvm/firecracker/blob/main/docs/vsock.md</a></p>
+<p>Getting Started with Bootable Containers :: Fedora Docs
+<a href="https://docs.fedoraproject.org/en-US/bootc/getting-started/">https://docs.fedoraproject.org/en-US/bootc/getting-started/</a></p>
+<p>hyperlight-dev/hyperlight-sandbox: A multi-backend sandboxing framework for running untrusted code w
+<a href="https://github.com/hyperlight-dev/hyperlight-sandbox">https://github.com/hyperlight-dev/hyperlight-sandbox</a></p>
+<p>hyperlight-dev/hyperlight: Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be
+<a href="https://github.com/hyperlight-dev/hyperlight">https://github.com/hyperlight-dev/hyperlight</a></p>
+<p>Invocation — QEMU documentation
+<a href="https://qemu-project.gitlab.io/qemu/system/invocation.html#hxtool-6">https://qemu-project.gitlab.io/qemu/system/invocation.html#hxtool-6</a></p>
+<p>Linux Kernel Development Tips And Tricks : Public Domain Relay
+<a href="https://publicdomainrelay.com/linux-kernel/">https://publicdomainrelay.com/linux-kernel/</a></p>
+<p>linux/block/early-lookup.c at master · torvalds/linux
+<a href="https://github.com/torvalds/linux/blob/master/block/early-lookup.c">https://github.com/torvalds/linux/blob/master/block/early-lookup.c</a></p>
+<p>linux/block/early-lookup.c at master · torvalds/linux
+<a href="https://github.com/torvalds/linux/blob/master/block/early-lookup.c#L197">https://github.com/torvalds/linux/blob/master/block/early-lookup.c#L197</a></p>
+<p>model-spec/docs/aikit.md at 783d1c84157ebde6c4014ac975d96c838cdee8f9 · modelpack/model-spec
+<a href="https://github.com/modelpack/model-spec/blob/783d1c84157ebde6c4014ac975d96c838cdee8f9/docs/aikit.md">https://github.com/modelpack/model-spec/blob/783d1c84157ebde6c4014ac975d96c838cdee8f9/docs/aikit.md</a></p>
+<p>modelpack/model-spec at 783d1c84157ebde6c4014ac975d96c838cdee8f9
+<a href="https://github.com/modelpack/model-spec/tree/783d1c84157ebde6c4014ac975d96c838cdee8f9">https://github.com/modelpack/model-spec/tree/783d1c84157ebde6c4014ac975d96c838cdee8f9</a></p>
+<p>Post by @filippo.abyssdomain.expert — Bluesky
+<a href="https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h">https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h</a></p>
+<p>skopeo/docs/skopeo-copy.1.md at main · containers/skopeo
+<a href="https://github.com/containers/skopeo/blob/main/docs/skopeo-copy.1.md">https://github.com/containers/skopeo/blob/main/docs/skopeo-copy.1.md</a></p>
+<p>ssh virtio systemd at DuckDuckGo
+<a href="https://duckduckgo.com/?q=ssh+virtio+systemd&amp;ia=web">https://duckduckgo.com/?q=ssh+virtio+systemd&amp;ia=web</a></p>
+<p>sulogin(8) - Linux manual page
+<a href="https://www.man7.org/linux/man-pages/man8/sulogin.8.html">https://www.man7.org/linux/man-pages/man8/sulogin.8.html</a></p>
+<p>sysroot.mount: About to execute: /usr/bin/mount virtfs:foo /sysroot -o ro · Issue #1397 · dracut-ng/
+<a href="https://github.com/dracut-ng/dracut-ng/issues/1397">https://github.com/dracut-ng/dracut-ng/issues/1397</a></p>
+<p>systemd-ssh-proxy
+<a href="https://www.freedesktop.org/software/systemd/man/latest/systemd-ssh-proxy.html">https://www.freedesktop.org/software/systemd/man/latest/systemd-ssh-proxy.html</a>\</p>
+<p>systemd-ssh-proxy(1) - Linux manual page
+<a href="https://www.man7.org/linux/man-pages//man1/systemd-ssh-proxy.1.html">https://www.man7.org/linux/man-pages//man1/systemd-ssh-proxy.1.html</a></p>
+<p>systemd-ssh-proxy(1) — Arch manual pages
+<a href="https://man.archlinux.org/man/systemd-ssh-proxy.1.en">https://man.archlinux.org/man/systemd-ssh-proxy.1.en</a></p>
+<p>rpmfile for downloading kernel oob
+<a href="https://github.com/srossross/rpmfile">https://github.com/srossross/rpmfile</a></p>
+<p>The kernel’s command-line parameters — The Linux Kernel documentation
+<a href="https://www.kernel.org/doc/html/v6.19/admin-guide/kernel-parameters.html">https://www.kernel.org/doc/html/v6.19/admin-guide/kernel-parameters.html</a></p>
+<p>virtio-fs / virtiofsd · GitLab
+<a href="https://gitlab.com/virtio-fs/virtiofsd">https://gitlab.com/virtio-fs/virtiofsd</a></p>
+<p>virtiofs - shared file system for virtual machines / Standalone usage
+<a href="https://virtio-fs.gitlab.io/howto-qemu.html">https://virtio-fs.gitlab.io/howto-qemu.html</a></p>
+<p>virtiofs: virtio-fs host&lt;-&gt;guest shared file system — The Linux Kernel documentation
+<a href="https://www.kernel.org/doc/html/v6.19/filesystems/virtiofs.html">https://www.kernel.org/doc/html/v6.19/filesystems/virtiofs.html</a></p>
+<p>VM Interface
+<a href="https://systemd.io/VM_INTERFACE/">https://systemd.io/VM_INTERFACE/</a></p>]]></content>
   </entry>
   <entry>
     <title>Wireguard HowTo</title>
