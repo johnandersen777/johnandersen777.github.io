@@ -10,6 +10,55 @@ line utility for running virtual machines.
 
 Main documentation: https://www.qemu.org/docs/master/system/
 
+
+## Virtiofs
+
+```bash
+#!/usr/bin/env bash
+set -xeuo pipefail
+
+if [[ ! -d my-chroot ]]; then
+  mkdir -p temp_oci_layout
+  mkdir -p my-chroot
+  skopeo copy --format oci docker://registry.fedoraproject.org/fedora:latest dir:./temp_oci_layout/
+  find ./temp_oci_layout/ -type f -exec tar -xzkf '{}' -C ./my-chroot \;
+fi
+
+if [[ ! -f initrd.img ]]; then
+  sudo dracut --force-drivers "virtiofs fuse overlay" -m "virtiofs" --force initrd.img
+  sudo chown ${USER}:${USER} ./initrd.img
+fi
+
+VIRTIOFS_SOCKET="/tmp/vfs-$(uuidgen).sock"
+
+/usr/libexec/virtiofsd \
+  --socket-path="$VIRTIOFS_SOCKET" \
+  --shared-dir="${PWD}/my-chroot" \
+  --cache always \
+  --readonly \
+  --sandbox none &
+VFS_PID=$!
+
+trap 'kill $VFS_PID; rm -f "$VIRTIOFS_SOCKET"' EXIT
+
+qemu-system-x86_64 \
+  -no-reboot \
+  -enable-kvm \
+  -cpu host \
+  -smp cpus=2 \
+  -m 4G \
+  -nographic \
+  -initrd "${PWD}/initrd.img" \
+  -kernel "/boot/vmlinuz-$(uname -r)" \
+  -object memory-backend-file,id=mem,size=4G,mem-path=/dev/shm,share=on \
+  -numa node,memdev=mem \
+  -chardev socket,id=char0,path="$VIRTIOFS_SOCKET" \
+  -device vhost-user-fs-pci,queue-size=1024,chardev=char0,tag=myfs \
+  -append "console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/bin/bash"
+  #  -append "SYSTEMD_SULOGIN_FORCE=1 console=ttyS0 rd.driver.pre=virtiofs rootfstype=virtiofs root=myfs ro init=\"/sbin/sulogin --force\" rd.shell rd.debug log_buf_len=1M"
+
+```
+
 ## Example Flags
 
 Run a 64 bit Intel / AMD system
