@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2026-05-01T04:41:55Z</updated>
+  <updated>2026-05-01T04:47:50Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -3597,7 +3597,8 @@ qemu-system-x86_64 <span class="se">\
 </span><span class="se"></span>  -numa node,memdev<span class="o">=</span>mem <span class="se">\
 </span><span class="se"></span>  -chardev socket,id<span class="o">=</span>char0,path<span class="o">=</span><span class="s2">&#34;</span><span class="nv">$VIRTIOFS_SOCKET</span><span class="s2">&#34;</span> <span class="se">\
 </span><span class="se"></span>  -device vhost-user-fs-pci,queue-size<span class="o">=</span>1024,chardev<span class="o">=</span>char0,tag<span class="o">=</span>myfs <span class="se">\
-</span><span class="se"></span>  -append <span class="s2">&#34;console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/bin/bash&#34;</span>
+</span><span class="se"></span>  -append <span class="s2">&#34;console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/lib/systemd/systemd&#34;</span>
+  <span class="c1"># -append &#34;console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/bin/bash&#34;</span>
   <span class="c1">#  -append &#34;SYSTEMD_SULOGIN_FORCE=1 console=ttyS0 rd.driver.pre=virtiofs rootfstype=virtiofs root=myfs ro init=\&#34;/sbin/sulogin --force\&#34; rd.shell rd.debug log_buf_len=1M&#34;</span>
 
 </code></pre></div><h2 id="example-flags">Example Flags</h2>
