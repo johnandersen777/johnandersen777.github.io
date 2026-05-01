@@ -21,6 +21,16 @@ subtitle = "Sandbox for CI/CD and AI"
  
 - atproto (obvi)
 
+- spiffie wid rproxy
+
+- tpm host -> tpm guest -> verifier -> SCITT
+
+  - SPIFFIE endpoint expose attestation / verifier siger for scitt or something? 
+
+  - "free" decentralized pool
+
+  - attested & reproducable builds tracks
+
 ---
 
 > https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h
