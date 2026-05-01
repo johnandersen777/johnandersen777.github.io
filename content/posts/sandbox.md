@@ -9,6 +9,18 @@ subtitle = "Sandbox for CI/CD and AI"
 
 - could maybe just tun MITM all trafic and replace certs in guest
 
+- why not just offer a sandboxed runtime?
+
+  - deno or python or wasm
+ 
+  - Then package management would be standard
+ 
+  - Expose clean interfaces between runner and orchestrator
+ 
+  - Keep it standard lang -> no jenkins groovy
+ 
+- atproto (obvi)
+
 ---
 
 > https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h
