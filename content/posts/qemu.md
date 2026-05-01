@@ -337,3 +337,98 @@ if [ -f OVMF_VARS.fd -a -f OVMF_CODE.fd ]; then
     UEFI_BIOS+=" -drive file=OVMF_VARS.fd,if=pflash,format=raw,unit=1 "
 fi
 ```
+
+## Links
+
+1184122 – Can't mount virtio-9p fs at boot time
+https://bugzilla.redhat.com/show_bug.cgi?id=1184122#c1
+
+bootc-dev/bootc: Boot and upgrade via container images
+https://github.com/bootc-dev/bootc
+
+cloud-hypervisor/docs/vsock.md at main · cloud-hypervisor/cloud-hypervisor
+https://github.com/cloud-hypervisor/cloud-hypervisor/blob/main/docs/vsock.md
+
+dracut tries to mount virtiofs root before kernel has enumerated available virtiofs tags · Issue #22
+https://github.com/dracut-ng/dracut-ng/issues/2242
+
+dracut-ng/modules.d/71overlayfs-crypt/prepare-overlayfs-crypt.sh at e1bf57a772198becf126aebdfd2240ce
+https://github.com/dracut-ng/dracut-ng/blob/e1bf57a772198becf126aebdfd2240cebc49b2f3/modules.d/71overlayfs-crypt/prepare-overlayfs-crypt.sh
+
+DRACUT.CMDLINE(7) :: Dracut
+https://dracut-ng.github.io/dracut-ng/man/dracut.cmdline.7.html
+
+DRACUT(8) :: Dracut
+https://dracut-ng.github.io/dracut-ng/man/dracut.8.html#using-the-dracut-shell
+
+firecracker/docs/vsock.md at main · firecracker-microvm/firecracker
+https://github.com/firecracker-microvm/firecracker/blob/main/docs/vsock.md
+
+Getting Started with Bootable Containers :: Fedora Docs
+https://docs.fedoraproject.org/en-US/bootc/getting-started/
+
+hyperlight-dev/hyperlight-sandbox: A multi-backend sandboxing framework for running untrusted code w
+https://github.com/hyperlight-dev/hyperlight-sandbox
+
+hyperlight-dev/hyperlight: Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be 
+https://github.com/hyperlight-dev/hyperlight
+
+Invocation — QEMU documentation
+https://qemu-project.gitlab.io/qemu/system/invocation.html#hxtool-6
+
+Linux Kernel Development Tips And Tricks : Public Domain Relay
+https://publicdomainrelay.com/linux-kernel/
+
+linux/block/early-lookup.c at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/block/early-lookup.c
+
+linux/block/early-lookup.c at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/block/early-lookup.c#L197
+
+model-spec/docs/aikit.md at 783d1c84157ebde6c4014ac975d96c838cdee8f9 · modelpack/model-spec
+https://github.com/modelpack/model-spec/blob/783d1c84157ebde6c4014ac975d96c838cdee8f9/docs/aikit.md
+
+modelpack/model-spec at 783d1c84157ebde6c4014ac975d96c838cdee8f9
+https://github.com/modelpack/model-spec/tree/783d1c84157ebde6c4014ac975d96c838cdee8f9
+
+Post by @filippo.abyssdomain.expert — Bluesky
+https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h
+
+skopeo/docs/skopeo-copy.1.md at main · containers/skopeo
+https://github.com/containers/skopeo/blob/main/docs/skopeo-copy.1.md
+
+ssh virtio systemd at DuckDuckGo
+https://duckduckgo.com/?q=ssh+virtio+systemd&ia=web
+
+sulogin(8) - Linux manual page
+https://www.man7.org/linux/man-pages/man8/sulogin.8.html
+
+sysroot.mount: About to execute: /usr/bin/mount virtfs:foo /sysroot -o ro · Issue #1397 · dracut-ng/
+https://github.com/dracut-ng/dracut-ng/issues/1397
+
+systemd-ssh-proxy
+https://www.freedesktop.org/software/systemd/man/latest/systemd-ssh-proxy.html\
+
+systemd-ssh-proxy(1) - Linux manual page
+https://www.man7.org/linux/man-pages//man1/systemd-ssh-proxy.1.html
+
+systemd-ssh-proxy(1) — Arch manual pages
+https://man.archlinux.org/man/systemd-ssh-proxy.1.en
+
+rpmfile for downloading kernel oob
+https://github.com/srossross/rpmfile
+
+The kernel’s command-line parameters — The Linux Kernel documentation
+https://www.kernel.org/doc/html/v6.19/admin-guide/kernel-parameters.html
+
+virtio-fs / virtiofsd · GitLab
+https://gitlab.com/virtio-fs/virtiofsd
+
+virtiofs - shared file system for virtual machines / Standalone usage
+https://virtio-fs.gitlab.io/howto-qemu.html
+
+virtiofs: virtio-fs host<->guest shared file system — The Linux Kernel documentation
+https://www.kernel.org/doc/html/v6.19/filesystems/virtiofs.html
+
+VM Interface
+https://systemd.io/VM_INTERFACE/
