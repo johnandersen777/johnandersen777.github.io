@@ -9,9 +9,27 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2026-05-01T04:47:50Z</updated>
+  <updated>2026-05-01T04:53:13Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
+  <entry>
+    <title>Sandbox</title>
+    <author>
+      <name>Public Domain</name>
+      <uri>https://johnandersen777.github.io/</uri>
+    </author>
+    <id>https://johnandersen777.github.io/sandbox/</id>
+    <updated>2026-04-30T21:50:00Z</updated>
+    <published>2026-04-30T21:50:00Z</published>
+    <content type="html"><![CDATA[<ul>
+<li>
+<p>want to use vhost ssh unix socket forwarding to expose creds via wid rproxy to guess as unix perm file</p>
+</li>
+<li>
+<p>could maybe just tun MITM all trafic and replace certs in guest</p>
+</li>
+</ul>]]></content>
+  </entry>
   <entry>
     <title>The New Covenant</title>
     <author>
