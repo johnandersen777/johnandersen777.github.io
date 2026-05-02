@@ -67,7 +67,25 @@ subtitle = "Sandbox for CI/CD and AI"
  
   - checks ssh keys valid using backlinks to keys
  
-  - ensures caddy reverse proxies to unix socket
+  - ensures caddy reverse proxies to unix socket (maybe future support for round robin if multiple active connections)
+
+- User goes to atprp.chadig.com
+
+  - adds service name and ssh keys for backend(s)
+ 
+  - PoC round 1 use https://pdsls.dev to create records
+
+    - https://pdsls.dev/at://did:plc:5svqtrhheairglgiiyvutzik/sh.tangled.publicKey/3mgwzjaw6vu22
+   
+    - https://constellation.microcosm.blue/xrpc/blue.microcosm.links.getBacklinks?subject=at%3A%2F%2Fdid%3Aplc%3Aa4pqq234yw7fqbddawjo7y35%2Fapp.bsky.feed.post%2F3m237ilwc372e&source=app.bsky.feed.like%3Asubject.uri&limit=16
+
+- on system we want to reverse proxy to
+
+  - uv run or curl to bash for install
+
+    - install systemd unit files to restart ssh proxy to local port on restart
+   
+      - https://github.com/johnandersen777/dotfiles/blob/8726281467c5ababe53fc1e2d869a8e897c89cf8/forge-install.sh#L59-L74
 
 ---
 
