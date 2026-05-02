@@ -30,6 +30,26 @@ subtitle = "Sandbox for CI/CD and AI"
   - "free" decentralized pool
 
   - attested & reproducable builds tracks
+ 
+---
+
+- https://openid.net/specs/openid-federation-1_0.html
+
+- atrprp.chadig.com
+
+  - service.handle.com.atrprp.chadig.com
+ 
+- sh.tagled.publicKey
+
+- emit firehose event if we need a reconnect (example: scalling to more nodes)
+
+- ssh -R or -L (which one is it again?)
+
+- if web of trust via vouches says you're good then enable for user
+
+- https://github.com/publicdomainrelay/sshai/blob/b309c3d64498985b132f61543dde1929cbcdb687/src/sshd/agi_sshd.go#L81
+
+  - ssh reverse proxy
 
 ---
 
