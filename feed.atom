@@ -9,7 +9,7 @@
   </author>
   <icon>https://johnandersen777.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://johnandersen777.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2026-05-02T22:11:43Z</updated>
+  <updated>2026-05-02T22:21:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://johnandersen777.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://johnandersen777.github.io/" hreflang="en-us"/>
   <entry>
@@ -93,6 +93,37 @@
 <p><a href="https://github.com/publicdomainrelay/sshai/blob/b309c3d64498985b132f61543dde1929cbcdb687/src/sshd/agi_sshd.go#L81">https://github.com/publicdomainrelay/sshai/blob/b309c3d64498985b132f61543dde1929cbcdb687/src/sshd/agi_sshd.go#L81</a></p>
 <ul>
 <li>ssh reverse proxy</li>
+</ul>
+</li>
+<li>
+<p>could support only certain software via attestations or workload id and trust rings</p>
+</li>
+<li>
+<p>User adds record for service</p>
+<ul>
+<li>
+<p>User (or service via workload id) adds ssh key</p>
+</li>
+<li>
+<p>backlinks ssh keys to service</p>
+</li>
+</ul>
+</li>
+<li>
+<p>proxy gets request over ssh</p>
+<ul>
+<li>
+<p>splits service.handle.com</p>
+</li>
+<li>
+<p>resolves service records</p>
+</li>
+<li>
+<p>checks ssh keys valid using backlinks to keys</p>
+</li>
+<li>
+<p>ensures caddy reverse proxies to unix socket</p>
+</li>
 </ul>
 </li>
 </ul>
