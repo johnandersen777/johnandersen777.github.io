@@ -51,6 +51,24 @@ subtitle = "Sandbox for CI/CD and AI"
 
   - ssh reverse proxy
 
+- could support only certain software via attestations or workload id and trust rings
+
+- User adds record for service
+
+  - User (or service via workload id) adds ssh key
+
+  - backlinks ssh keys to service
+ 
+- proxy gets request over ssh
+
+  - splits service.handle.com
+ 
+  - resolves service records
+ 
+  - checks ssh keys valid using backlinks to keys
+ 
+  - ensures caddy reverse proxies to unix socket
+
 ---
 
 > https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h
