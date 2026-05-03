@@ -40,6 +40,10 @@ subtitle = "Sandbox for CI/CD and AI"
   - short term experiment with oidc workload identity tokens
  
   - Could use -L (removed from agi.sock but could add back) to workload identity reverse proxy. Since the workload id oauth token is replaced by the atp reocrd pki with public key links, also this ensures that only the single open connection has access, token can't be stolen, since connection has to be live and only via ssh -L.
+ 
+  - Minimally, provide example OIDC server that can issue tokens locally on connect up client and offer an endpoint at .well-known/openid-configureation (potentially need proxy config with multiple -R)
+ 
+    - This would enable a client-server to easily issue workload ID Tokens for other things on it so it doesn't need secrets provisioned (or they unlock via secondary mechs like openbao)
 
 - atrprp.chadig.com
 
