@@ -82,10 +82,12 @@ subtitle = "Sandbox for CI/CD and AI"
 - on system we want to reverse proxy to
 
   - uv run or curl to bash for install
+ 
+  - `UserKnownHostsFile` download public key over HTTPS 
 
-    - install systemd unit files to restart ssh proxy to local port on restart
+  - install systemd unit files to restart ssh proxy to local port on restart
    
-      - https://github.com/johnandersen777/dotfiles/blob/8726281467c5ababe53fc1e2d869a8e897c89cf8/forge-install.sh#L59-L74
+    - https://github.com/johnandersen777/dotfiles/blob/8726281467c5ababe53fc1e2d869a8e897c89cf8/forge-install.sh#L59-L74
 
 ---
 
