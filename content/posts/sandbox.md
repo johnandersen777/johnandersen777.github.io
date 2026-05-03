@@ -35,6 +35,12 @@ subtitle = "Sandbox for CI/CD and AI"
 
 - https://openid.net/specs/openid-federation-1_0.html
 
+  - ^ long term
+ 
+  - short term experiment with oidc workload identity tokens
+ 
+  - Could use -L (removed from agi.sock but could add back) to workload identity reverse proxy. Since the workload id oauth token is replaced by the atp reocrd pki with public key links, also this ensures that only the single open connection has access, token can't be stolen, since connection has to be live and only via ssh -L.
+
 - atrprp.chadig.com
 
   - service.handle.com.atrprp.chadig.com
