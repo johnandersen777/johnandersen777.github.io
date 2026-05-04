@@ -101,6 +101,12 @@ subtitle = "Sandbox for CI/CD and AI"
 
 ---
 
+- manifests to re-deploy elsewhere for failover
+
+- secret(less) stuff
+
+---
+
 > https://bsky.app/profile/filippo.abyssdomain.expert/post/3mkldvg6iec2h
 >
 > Alright, wishlist for a GitHub replacement.
