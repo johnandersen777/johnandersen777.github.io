@@ -17,46 +17,151 @@ Main documentation: https://www.qemu.org/docs/master/system/
 #!/usr/bin/env bash
 set -xeuo pipefail
 
+TEMPDIR="$(mktemp -d)"
+trap "rm -rf ${TEMPDIR}" EXIT
+
+# ── 1. Build chroot (unchanged) ────────────────────────────────────────────
 if [[ ! -d my-chroot ]]; then
-  mkdir -p temp_oci_layout
-  mkdir -p my-chroot
+  mkdir -p temp_oci_layout my-chroot
   skopeo copy --format oci docker://registry.fedoraproject.org/fedora:latest dir:./temp_oci_layout/
-  find ./temp_oci_layout/ -type f -exec tar -xzkf '{}' -C ./my-chroot \;
+  cat temp_oci_layout/manifest.json | jq -r '.layers[].digest' | sed -e 's/sha256://' \
+    | xargs -I '{}' -- sudo tar -xzkf 'temp_oci_layout/{}' -C ./my-chroot
+
+  sudo systemd-nspawn -D ./my-chroot dnf -y install \
+    systemd kernel-core cloud-init \
+    dracut dracut-live dracut-network \
+    btrfs-progs util-linux rsyslog \
+    openssh-server vim tmux
 fi
 
-if [[ ! -f initrd.img ]]; then
-  sudo dracut --force-drivers "virtiofs fuse overlay" -m "virtiofs" --force initrd.img
-  sudo chown ${USER}:${USER} ./initrd.img
+# ── 2. Journald config (unchanged) ────────────────────────────────────────
+sudo mkdir -p my-chroot/etc/systemd/journald.conf.d
+sudo tee my-chroot/etc/systemd/journald.conf.d/serial.conf <<'EOF'
+[Journal]
+ForwardToConsole=yes
+MaxLevelConsole=debug
+EOF
+
+# ── 3. Build initrd with dmsquash-live ────────────────────────────────────
+if [[ ! -f my-chroot/boot/initrd.img ]]; then
+  # Write a dracut.conf that includes the live modules
+  sudo tee my-chroot/etc/dracut.conf.d/live.conf <<'EOF'
+add_dracutmodules+=" dmsquash-live "
+filesystems+=" squashfs overlay ext4 "
+compress="zstd"
+hostonly="no"
+EOF
+
+  KVER=$(ls my-chroot/lib/modules/ | tail -1)
+  sudo systemd-nspawn -D ./my-chroot \
+    dracut --force /boot/initrd.img "$KVER"
+
+  sudo chown "${USER}:${USER}" my-chroot/boot/initrd.img
 fi
 
+# ── 4. Build squashfs image ───────────────────────────────────────────────
+# dracut dmsquash-live looks for /LiveOS/squashfs.img on the root= device.
+# We'll put it in a staging dir that virtiofsd will serve.
+if [[ ! -f liveos/LiveOS/squashfs.img ]]; then
+  mkdir -p liveos/LiveOS
+  # Exclude the virtual fs mount points and the squashfs dir itself
+  sudo mksquashfs my-chroot liveos/LiveOS/squashfs.img \
+    -comp zstd \
+    -e my-chroot/proc \
+    -e my-chroot/sys \
+    -e my-chroot/dev \
+    -e my-chroot/run \
+    -noappend
+fi
+
+# Build squashfs into a disk image that QEMU can present as a block device
+if [[ ! -f liveos.img ]]; then
+  mkdir -p liveos-staging/LiveOS
+
+  sudo mksquashfs my-chroot liveos-staging/LiveOS/squashfs.img \
+    -comp zstd \
+    -e my-chroot/proc \
+    -e my-chroot/sys \
+    -e my-chroot/dev \
+    -e my-chroot/run \
+    -noappend
+
+  # Size the image to fit + some headroom
+  SQSIZE=$(du -sb liveos-staging/LiveOS/squashfs.img | cut -f1)
+  # Add 15% headroom for ext4 metadata and journal
+  IMGSIZE=$(( SQSIZE * 115 / 100 ))
+  # Round up to nearest MB
+  IMGSIZE=$(( (IMGSIZE + 1048575) / 1048576 * 1048576 ))
+  truncate -s "$IMGSIZE" liveos.img
+
+  # Format as ext4 and copy in the LiveOS layout
+  mkfs.ext4 -L LIVEOS liveos.img
+  mkdir -p /tmp/liveos-mnt
+  sudo mount -o loop liveos.img /tmp/liveos-mnt
+  sudo mkdir -p /tmp/liveos-mnt/LiveOS
+  sudo cp liveos-staging/LiveOS/squashfs.img /tmp/liveos-mnt/LiveOS/squashfs.img
+  sudo umount /tmp/liveos-mnt
+fi
+
+# ── 5. virtiofsd serving the LiveOS directory ─────────────────────────────
 VIRTIOFS_SOCKET="/tmp/vfs-$(uuidgen).sock"
-
 /usr/libexec/virtiofsd \
   --socket-path="$VIRTIOFS_SOCKET" \
-  --shared-dir="${PWD}/my-chroot" \
+  --shared-dir="${PWD}/liveos" \
   --cache always \
   --readonly \
   --sandbox none &
 VFS_PID=$!
-
 trap 'kill $VFS_PID; rm -f "$VIRTIOFS_SOCKET"' EXIT
 
+# ── 6. cloud-init (unchanged) ─────────────────────────────────────────────
+cat <<EOF > user-data
+#cloud-config
+users:
+  - name: agent
+    sudo: ["ALL=(ALL) NOPASSWD:ALL"]
+chpasswd:
+  expire: False
+  users:
+  - name: agent
+    password: agent
+    type: text
+EOF
+cat <<EOF > meta-data
+instance-id: someid/somehostname
+EOF
+touch vendor-data
+
+python -um http.server --directory . 0 2>&1 > "${TEMPDIR}/listening.txt" &
+CLOUD_INIT_HTTPD_PID=$!
+trap 'kill $CLOUD_INIT_HTTPD_PID' EXIT
+until grep http "${TEMPDIR}/listening.txt"; do sleep 0.1; done
+PORT=$(cat "${TEMPDIR}/listening.txt" | awk '{print $6}')
+
+# ── 7. Boot ───────────────────────────────────────────────────────────────
+KVER=$(ls my-chroot/lib/modules/ | tail -1)
+KERNEL=$(find my-chroot/usr/lib/modules -name vmlinuz)
+
+
 qemu-system-x86_64 \
+  -net nic \
+  -net user \
+  -smbios type=1,serial=ds="nocloud;s=http://10.0.2.2:${PORT}/" \
   -no-reboot \
   -enable-kvm \
   -cpu host \
   -smp cpus=2 \
   -m 4G \
   -nographic \
-  -initrd "${PWD}/initrd.img" \
-  -kernel "/boot/vmlinuz-$(uname -r)" \
-  -object memory-backend-file,id=mem,size=4G,mem-path=/dev/shm,share=on \
-  -numa node,memdev=mem \
-  -chardev socket,id=char0,path="$VIRTIOFS_SOCKET" \
-  -device vhost-user-fs-pci,queue-size=1024,chardev=char0,tag=myfs \
-  -append "console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/lib/systemd/systemd"
-  # -append "console=ttyS0 rd.driver.pre=virtiofs,fuse,overlay rootfstype=virtiofs root=myfs ro rd.debug log_buf_len=1M init=/usr/bin/bash"
-  #  -append "SYSTEMD_SULOGIN_FORCE=1 console=ttyS0 rd.driver.pre=virtiofs rootfstype=virtiofs root=myfs ro init=\"/sbin/sulogin --force\" rd.shell rd.debug log_buf_len=1M"
+  -initrd "${PWD}/my-chroot/boot/initrd.img" \
+  -kernel "${PWD}/${KERNEL}" \
+  -drive file=liveos.img,format=raw,if=virtio,readonly=on \
+  -append "console=ttyS0 \
+    root=live:LABEL=LIVEOS \
+    rd.live.image \
+    rd.overlayfs=1 \
+    rd.live.overlay.overlayfs=1 \
+    init=/usr/lib/systemd/systemd"
 
 ```
 
