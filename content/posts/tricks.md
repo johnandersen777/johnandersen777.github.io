@@ -74,6 +74,12 @@ $ for file in $(git ls-files | grep -E '.*\.cpp|.*\.h|.*\.ino'); do tmux split-w
 
 [![asciicast](https://asciinema.org/a/441107.svg)](https://asciinema.org/a/441107)
 
+## `git` list comits not pushed
+
+```bash
+git log --oneline --date=short --pretty=format:"%h  %ad  %s" --date=relative @{u}..HEAD
+```
+
 ## Close all but the active tmux pane
 
 ```console
